@@ -1,0 +1,1180 @@
+{
+    "banner": {
+        "subTitle": {
+            "en": "KARMA GROUP",
+            "de": "KARMA GRUPPE",
+            "fr": "GROUPE KARMA",
+            "id": "KELOMPOK KARMA"
+        },
+        "title": {
+            "en": "Partnerships",
+            "de": "Partnerschaften",
+            "fr": "Partenariats",
+            "id": "Kemitraan"
+        },
+        "image": "assets/images/reciprocal-partnerships/Partnership_Banner.jpg"
+    },
+
+    "reciprocal": {
+
+        "title": {
+            "en": "Reciprocal Partnerships",
+            "de": "Gegenseitige Partnerschaften",
+            "fr": "Partenariats réciproques",
+            "id": "Kemitraan Timbal Balik"
+        },
+        "para1": {
+            "en": "Our ever-growing portfolio of partnered social clubs enables our members to remain connected to likeminded souls, wherever they roam.",
+            "de": "Unser ständig wachsendes Portfolio an Partner-Social-Clubs ermöglicht es unseren Mitgliedern, mit Gleichgesinnten in Verbindung zu bleiben, wo immer sie sich bewegen.",
+            "fr": "Notre portefeuille toujours croissant de clubs sociaux partenaires permet à nos membres de rester en contact avec des âmes partageant les mêmes idées, où qu’ils se promènent.",
+            "id": "Portofolio klub sosial mitra kami yang terus berkembang memungkinkan anggota kami untuk tetap terhubung dengan jiwa yang berpikiran sama, di mana pun mereka berkeliaran."
+        },
+        "para2": {
+            "en": "So forget beige yachts and predictable soirees, we deal in adrenaline-fueled nights, whispered secrets, and havens so exclusive they don’t appear on maps.",
+            "de": "Vergessen Sie also beige Yachten und vorhersehbare Soireen, wir haben es mit adrenalingeladenen Nächten, geflüsterten Geheimnissen und Oasen zu tun, die so exklusiv sind, dass sie nicht auf Karten erscheinen.",
+            "fr": "Alors oubliez les yachts beiges et les soirées prévisibles, nous avons affaire à des nuits pleines d’adrénaline, des secrets chuchotés et des havres si exclusifs qu’ils n’apparaissent pas sur les cartes.",
+            "id": "Jadi lupakan kapal pesiar krem dan pesta yang dapat diprediksi, kami berurusan dengan malam yang memacu adrenalin, rahasia berbisik, dan surga yang sangat eksklusif sehingga tidak muncul di peta."
+        },
+        "para3": {
+            "en": "Reach out to learn more about our reciprocal arrangements.",
+            "de": "Wenden Sie sich an uns, um mehr über unsere gegenseitigen Vereinbarungen zu erfahren.",
+            "fr": "Contactez-nous pour en savoir plus sur nos ententes de réciprocité.",
+            "id": "Hubungi kami untuk mempelajari lebih lanjut tentang pengaturan timbal balik kami."
+        },
+        "countries": {
+            "UK": {
+                "en": "UK",
+                "de": "UK",
+                "fr": "UK",
+                "id": "UK"
+            },
+            "Europe": {
+                "en": "Europe",
+                "de": "Europa",
+                "fr": "Europe",
+                "id": "Eropa"
+            },
+            "Australasia": {
+                "en": "Australasia",
+                "de": "Australasien",
+                "fr": "Australasie",
+                "id": "Australasia"
+            },
+            "Middle East": {
+                "en": "Middle East",
+                "de": "Naher Osten",
+                "fr": "Moyen-Orient",
+                "id": "Timur Tengah"
+            },
+            "North America": {
+                "en": "North America",
+                "de": "Nordamerika",
+                "fr": "Amérique du Nord",
+                "id": "Amerika Utara"
+            },
+            "India": {
+                "en": "India",
+                "de": "Indien",
+                "fr": "Inde",
+                "id": "India"
+            }
+        },
+        "slides": {
+            "UK": [
+                {
+                    "title": {
+                        "en": "HOME HOUSE COLLECTION",
+                        "de": "HOME HOUSE KOLLEKTION",
+                        "fr": "COLLECTION MAISON MAISON",
+                        "id": "KOLEKSI RUMAH"
+                    },
+                    "description": {
+                        "en": "Home House Collection is made up of two thriving members' clubs, Home House and Home Grown. Both private members’ clubs are tucked away behind plush Georgian townhouses only 5 minutes apart.",
+                        "de": "Home House Collection besteht aus zwei florierenden Mitgliederclubs, Home House und Home Grown. Die Clubs beider privater Mitglieder liegen versteckt hinter vornehmen georgianischen Stadthäusern, die nur 5 Minuten voneinander entfernt sind.",
+                        "fr": "Home House Collection est composée de deux clubs de membres florissants, Home House et Home Grown. Les deux clubs privés sont nichés derrière de somptueuses maisons de ville géorgiennes à seulement 5 minutes l’une de l’autre.",
+                        "id": "Home House Collection terdiri dari dua klub anggota yang berkembang pesat, Home House dan Home Grown. Kedua klub anggota pribadi tersembunyi di balik townhouse Georgia yang mewah hanya berjarak 5 menit."
+                    },
+                    "destination": {
+                        "en": "LONDON",
+                        "de": "LONDON",
+                        "fr": "LONDRES",
+                        "id": "LONDON"
+                    },
+                    "logo": "assets/images/reciprocal-partnerships/reciprocal-partnership/uk/hhc/hhc_logo.png",
+                    "images": [
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/uk/hhc/hhc_1.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/uk/hhc/hhc_2.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/uk/hhc/hhc_3.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/uk/hhc/hhc_4.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/uk/hhc/hhc_5.jpg"
+                    ]
+                },
+                {
+                    "title": {
+                        "en": "THE SQUARE CLUB",
+                        "de": "DER SQUARE CLUB",
+                        "fr": "LE CLUB CARRÉ",
+                        "id": "KLUB PERSEGI"
+                    },
+                    "description": {
+                        "en": "Founded in 1990, The Square is Bristols Private Members Club for the creative industries. Members of The Square are part of a unique community of like-minded creative professionals. The Square provides an arena of original thought and discussion, and members enjoy a range of personal and professional benefits.",
+                        "de": "The Square wurde 1990 gegründet und ist Bristols Private Members Club für die Kreativwirtschaft. Die Mitglieder von The Square sind Teil einer einzigartigen Gemeinschaft gleichgesinnter Kreativprofis. Der Platz bietet eine Arena für originelle Gedanken und Diskussionen, und die Mitglieder genießen eine Reihe von persönlichen und beruflichen Vorteilen.",
+                        "fr": "Fondé en 1990, The Square est le Bristol Private Members Club pour les industries créatives. Les membres de The Square font partie d’une communauté unique de professionnels de la création partageant les mêmes idées. Le Square offre un lieu de réflexion et de discussion originales, et les membres bénéficient d’une gamme d’avantages personnels et professionnels.",
+                        "id": "Didirikan pada tahun 1990, The Square adalah Bristols Private Members Club untuk industri kreatif. Anggota The Square adalah bagian dari komunitas unik profesional kreatif yang berpikiran sama. Alun-alun menyediakan arena pemikiran dan diskusi orisinal, dan anggota menikmati berbagai manfaat pribadi dan profesional."
+                    },
+                    "destination": {
+                        "en": "BRISTOL, UK",
+                        "de": "BRISTOL, Vereinigtes Königreich",
+                        "fr": "BRISTOL, ROYAUME-UNI",
+                        "id": "BRISTOL, Inggris"
+                    },
+                    "logo": "assets/images/reciprocal-partnerships/reciprocal-partnership/uk/square/square_logo.png",
+                    "images": [
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/uk/square/square_1.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/uk/square/square_2.jpg"
+                    ]
+                }
+            ],
+            "Europe": [
+                {
+                    "title": {
+                        "en": "THE GLADSTONE",
+                        "de": "DER GLADSTONE",
+                        "fr": "LE GLADSTONE",
+                        "id": "BATU GLAD"
+                    },
+                    "description": {
+                        "en": "The Gladstone is a private wellness members club located in Lisbon, Portugal. With a mission to cultivate a community for the wellness driven, and multi-use spaces with everything from health cafe to gym floor and even a coworking space, they are a lifestyle and not just a gym.",
+                        "de": "The Gladstone ist ein privater Wellness-Club mit Sitz in Lissabon, Portugal. Mit der Mission, eine Community für Wellness-Getriebene zu kultivieren, und Mehrzweckräumen mit allem, vom Gesundheitscafé über den Fitnessraum bis hin zu einem Coworking-Space, sind sie ein Lebensstil und nicht nur ein Fitnessstudio.",
+                        "fr": "Le Gladstone est un club privé de bien-être situé à Lisbonne, au Portugal. Avec pour mission de cultiver une communauté axée sur le bien-être et des espaces polyvalents avec tout, du café de santé à la salle de sport et même un espace de coworking, ils sont un style de vie et pas seulement une salle de sport.",
+                        "id": "Gladstone adalah klub anggota kesehatan pribadi yang berlokasi di Lisbon, Portugal. Dengan misi untuk menumbuhkan komunitas untuk ruang yang didorong oleh kesehatan, dan multi-guna dengan segala hal mulai dari kafe kesehatan hingga lantai gym dan bahkan ruang kerja bersama, mereka adalah gaya hidup dan bukan hanya gym."
+                    },
+                    "destination": {
+                        "en": "LISBON, PORTUGAL",
+                        "de": "LISSABON, PORTUGAL",
+                        "fr": "LISBONNE, PORTUGAL",
+                        "id": "LISBON, PORTUGAL"
+                    },
+                    "logo": "assets/images/reciprocal-partnerships/reciprocal-partnership/europe/gladstone/gladstone_logo.png",
+                    "images": [
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/europe/gladstone/gladstone_1.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/europe/gladstone/gladstone_2.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/europe/gladstone/gladstone_3.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/europe/gladstone/gladstone_4.jpg"
+                    ]
+                },
+                {
+                    "title": {
+                        "en": "A'DAM & Co",
+                        "de": "A'DAM & Co",
+                        "fr": "A'DAM & Co",
+                        "id": "A'DAM & Co"
+                    },
+                    "description": {
+                        "en": "A’DAM&Co. is a community for like-minded people in the creative industries, located on the 18th floor of A’DAM Toren, Amsterdam. The club aspires to facilitate new connections, & stimulate co-creation in an inspiring & enjoyable environment.",
+                        "de": "A'DAM&Co. ist eine Community für Gleichgesinnte aus der Kreativwirtschaft, die sich im 18. Stock des A'DAM Toren in Amsterdam befindet. Der Club strebt danach, neue Verbindungen zu erleichtern und die Mitgestaltung in einer inspirierenden und angenehmen Umgebung zu fördern.",
+                        "fr": "A’DAM&Co. est une communauté de personnes partageant les mêmes idées dans les industries créatives, située au 18e étage d’A’DAM Toren, à Amsterdam. Le club aspire à faciliter de nouvelles connexions et à stimuler la co-création dans un environnement inspirant et agréable.",
+                        "id": "A'DAM & Co. adalah komunitas untuk orang-orang yang berpikiran sama di industri kreatif, yang terletak di lantai 18 A'DAM Toren, Amsterdam. Klub bercita-cita untuk memfasilitasi koneksi baru, dan merangsang kreasi bersama dalam lingkungan yang menginspirasi dan menyenangkan."
+                    },
+                    "destination": {
+                        "en": "Amsterdam",
+                        "de": "Amsterdam",
+                        "fr": "Amsterdam",
+                        "id": "Amsterdam"
+                    },
+                    "logo": "assets/images/reciprocal-partnerships/reciprocal-partnership/europe/adam/adam_logo.png",
+                    "images": [
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/europe/adam/adam_1.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/europe/adam/adam_2.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/europe/adam/adam_3.jpg"
+                    ]
+                },
+                {
+                    "title": {
+                        "en": "Mountain Club",
+                        "de": "Mountain Club",
+                        "fr": "Club de montagne",
+                        "id": "Klub Gunung"
+                    },
+                    "description": {
+                        "en": "Mountain Club is Queenstown's global members club. We deliver world class hospitality through the curated delivery of exclusive corporate events & luxury experiences. Mountain Club has created a community over multiple venues where businesses grow and people thrive.",
+                        "de": "Der Mountain Club ist der globale Mitgliederclub von Queenstown. Wir bieten erstklassige Gastfreundschaft durch die kuratierte Durchführung exklusiver Firmenveranstaltungen und Luxuserlebnisse. Der Mountain Club hat eine Community über mehrere Veranstaltungsorte hinweg geschaffen, in der Unternehmen wachsen und Menschen gedeihen.",
+                        "fr": "Le Mountain Club est le club mondial des membres de Queenstown. Nous offrons une hospitalité de classe mondiale grâce à la livraison d’événements d’entreprise exclusifs et d’expériences de luxe. Mountain Club a créé une communauté sur plusieurs sites où les entreprises se développent et les gens prospèrent.",
+                        "id": "Mountain Club adalah klub anggota global Queenstown. Kami memberikan keramahan kelas dunia melalui pengiriman acara korporat eksklusif & pengalaman mewah. Mountain Club telah menciptakan komunitas di berbagai tempat di mana bisnis tumbuh dan orang-orang berkembang."
+                    },
+                    "destination": {
+                        "en": "Queenstown, New Zealand",
+                        "de": "Queenstown, Neuseeland",
+                        "fr": "Queenstown, Nouvelle-Zélande",
+                        "id": "Queenstown, Selandia Baru"
+                    },
+                    "logo": "assets/images/reciprocal-partnerships/reciprocal-partnership/europe/mountain_club/mountain_logo.png",
+                    "images": [
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/europe/mountain_club/mountain_1.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/europe/mountain_club/mountain_2.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/europe/mountain_club/mountain_3.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/europe/mountain_club/mountain_4.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/europe/mountain_club/mountain_5.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/europe/mountain_club/mountain_6.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/europe/mountain_club/mountain_7.jpg"
+                    ]
+                },
+                {
+                    "title": {
+                        "en": "No.18",
+                        "de": "Nr.18",
+                        "fr": "N°18",
+                        "id": "No.18"
+                    },
+                    "description": {
+                        "en": "No18 has a singular vision: to create the kind of workplace we'd always dreamed of for ourselves. A workplace where business, atmosphere, and wellbeing unite in one unique and aspirational environment. Where our members can not only be productive but also inspired, enriched, and restored. A workplace, in short, that offers much more than just a place to work.",
+                        "de": "No18 hat eine einzigartige Vision: die Art von Arbeitsplatz zu schaffen, von der wir immer geträumt haben. Ein Arbeitsplatz, an dem Geschäft, Atmosphäre und Wohlbefinden in einer einzigartigen und anspruchsvollen Umgebung vereint sind. Wo unsere Mitglieder nicht nur produktiv sein, sondern auch inspiriert, bereichert und wiederhergestellt werden können. Kurz gesagt, ein Arbeitsplatz, der viel mehr bietet als nur einen Ort zum Arbeiten.",
+                        "fr": "No18 a une vision singulière : créer le type de lieu de travail dont nous avons toujours rêvé pour nous-mêmes. Un lieu de travail où l’entreprise, l’atmosphère et le bien-être s’unissent dans un environnement unique et ambitieux. Où nos membres peuvent non seulement être productifs, mais aussi inspirés, enrichis et restaurés. Un lieu de travail, en bref, qui offre bien plus qu’un simple lieu de travail.",
+                        "id": "No18 memiliki visi tunggal: untuk menciptakan jenis tempat kerja yang selalu kita impikan untuk diri kita sendiri. Tempat kerja di mana bisnis, suasana, dan kesejahteraan bersatu dalam satu lingkungan yang unik dan aspirasional. Dimana anggota kita tidak hanya bisa produktif tetapi juga terinspirasi, diperkaya, dan dipulihkan. Singkatnya, tempat kerja yang menawarkan lebih dari sekadar tempat untuk bekerja."
+                    },
+                    "destination": {
+                        "en": "Stockholm",
+                        "de": "Stockholm",
+                        "fr": "Stockholm",
+                        "id": "Stockholm"
+                    },
+                    "logo": "assets/images/reciprocal-partnerships/reciprocal-partnership/europe/no18/18_logo.png",
+                    "images": [
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/europe/no18/18_1.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/europe/no18/18_2.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/europe/no18/18_3.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/europe/no18/18_4.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/europe/no18/18_5.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/europe/no18/18_6.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/europe/no18/18_7.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/europe/no18/18_8.jpg"
+                    ]
+                }
+            ],
+            "Australasia": [
+                {
+                    "title": {
+                        "en": "VAULT HOUSE GROUP",
+                        "de": "VAULT HOUSE GRUPPE",
+                        "fr": "GROUPE DE LA MAISON DE L’ABRI",
+                        "id": "GRUP RUMAH VAULT"
+                    },
+                    "description": {
+                        "en": "Vault House Group are renowned for putting contemporary twists on historic venues, and Sydneysiders might be familiar with Berrima Vault House, VHG’s private members’ club in the heart of the Southern Highlands. In 2023, they welcomed their new Sydney CBD outpost, Clarence Vault Rooms.",
+                        "de": "Die Vault House Group ist dafür bekannt, historischen Veranstaltungsorten zeitgenössische Akzente zu verleihen, und die Einwohner von Sydney kennen vielleicht das Berrima Vault House, den privaten Mitgliederclub von VHG im Herzen der Southern Highlands. Im Jahr 2023 begrüßten sie ihren neuen Außenposten im zentralen Geschäftsviertel von Sydney, Clarence Vault Rooms.",
+                        "fr": "Le groupe Vault House est réputé pour apporter une touche contemporaine aux lieux historiques, et les Sydneysiders connaissent peut-être Berrima Vault House, le club privé de VHG au cœur des Southern Highlands. En 2023, ils ont accueilli leur nouvel avant-poste du CBD de Sydney, Clarence Vault Rooms.",
+                        "id": "Vault House Group terkenal karena menempatkan sentuhan kontemporer pada tempat-tempat bersejarah, dan penduduk Sydney mungkin akrab dengan Berrima Vault House, klub anggota pribadi VHG di jantung Southern Highlands. Pada tahun 2023, mereka menyambut pos terdepan Sydney CBD baru mereka, Clarence Vault Rooms."
+                    },
+                    "destination": {
+                        "en": "SYDNEY",
+                        "de": "SYDNEY",
+                        "fr": "SYDNEY",
+                        "id": "SYDNEY"
+                    },
+                    "logo": "assets/images/reciprocal-partnerships/reciprocal-partnership/australasia/vhg/vhg_logo.png",
+                    "images": [
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/australasia/vhg/vault_1.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/australasia/vhg/vault_2.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/australasia/vhg/vault_3.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/australasia/vhg/vault_4.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/australasia/vhg/vault_5.jpg"
+                    ]
+                },
+                {
+                    "title": {
+                        "en": "1880",
+                        "de": "1880",
+                        "fr": "1880",
+                        "id": "1880"
+                    },
+                    "description": {
+                        "en": "1880 exists to inspire conversations that change the world. Designed as a space housing both social and work environments, 1880 brings together creators and explorers in Singapore - a cosmopolitan city with a global role - to meet and relax in good company and exceptional comfort, and offers unique events that spark connections and stimulate the intellect and senses.",
+                        "de": "1880 existiert, um Gespräche zu inspirieren, die die Welt verändern. 1880 ist ein Raum, der sowohl soziale als auch berufliche Umgebungen beherbergt, und bringt Schöpfer und Entdecker in Singapur - einer kosmopolitischen Stadt mit globaler Bedeutung - zusammen, um sich in guter Gesellschaft und mit außergewöhnlichem Komfort zu treffen und zu entspannen, und bietet einzigartige Veranstaltungen, die Verbindungen knüpfen und den Intellekt und die Sinne anregen.",
+                        "fr": "1880 existe pour inspirer des conversations qui changent le monde. Conçu comme un espace abritant à la fois des environnements sociaux et de travail, 1880 rassemble des créateurs et des explorateurs à Singapour - une ville cosmopolite au rôle mondial - pour se rencontrer et se détendre en bonne compagnie et dans un confort exceptionnel, et propose des événements uniques qui suscitent des liens et stimulent l’intellect et les sens.",
+                        "id": "1880 ada untuk menginspirasi percakapan yang mengubah dunia. Dirancang sebagai ruang yang menampung lingkungan sosial dan kerja, 1880 menyatukan para kreator dan penjelajah di Singapura - kota kosmopolitan dengan peran global - untuk bertemu dan bersantai dalam perusahaan yang baik dan kenyamanan yang luar biasa, dan menawarkan acara unik yang memicu koneksi dan merangsang kecerdasan dan indera."
+                    },
+                    "destination": {
+                        "en": "SINGAPORE",
+                        "de": "SINGAPUR",
+                        "fr": "SINGAPOUR",
+                        "id": "SINGAPURA"
+                    },
+                    "logo": "assets/images/reciprocal-partnerships/reciprocal-partnership/australasia/1880/1880_logo.png",
+                    "images": [
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/australasia/1880/1880_1.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/australasia/1880/1880_2.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/australasia/1880/1880_3.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/australasia/1880/1880_4.jpg"
+                    ]
+                },
+                {
+                    "title": {
+                        "en": "THE GROUND",
+                        "de": "DEM BODEN",
+                        "fr": "LE SOL",
+                        "id": "TANAH"
+                    },
+                    "description": {
+                        "en": "The Ground is Bali's newest sports and social club, combining stylish padel and pickleball courts, a rooftop bar and courtside social area. Whether you're staying in Bali long-term or just travelling through, come and find a like-minded community, on or off the court.",
+                        "de": "The Ground ist Balis neuester Sport- und Gesellschaftsclub, der stilvolle Padel- und Pickleballplätze, eine Bar auf dem Dach und einen Gemeinschaftsbereich am Spielfeldrand kombiniert. Egal, ob Sie langfristig auf Bali bleiben oder nur auf der Durchreise sind, kommen Sie und finden Sie eine gleichgesinnte Gemeinschaft, auf oder neben dem Platz.",
+                        "fr": "The Ground est le plus récent club sportif et social de Bali, combinant des terrains de padel et de pickleball élégants, un bar sur le toit et un espace social au bord du terrain. Que vous restiez à Bali à long terme ou que vous y voyagiez, venez trouver une communauté partageant les mêmes idées, sur ou en dehors du terrain.",
+                        "id": "The Ground adalah klub olahraga dan sosial terbaru di Bali, menggabungkan lapangan padel dan pickleball yang bergaya, bar atap dan area sosial di pinggir lapangan. Apakah Anda tinggal di Bali jangka panjang atau hanya bepergian, datang dan temukan komunitas yang berpikiran sama, di dalam atau di luar lapangan."
+                    },
+                    "destination": {
+                        "en": "BALI",
+                        "de": "BALI",
+                        "fr": "BALI",
+                        "id": "BALI"
+                    },
+                    "logo": "assets/images/reciprocal-partnerships/reciprocal-partnership/australasia/ground/ground_logo.png",
+                    "images": [
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/australasia/ground/ground_1.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/australasia/ground/ground_2.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/australasia/ground/ground_3.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/australasia/ground/ground_4.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/australasia/ground/ground_5.jpg"
+                    ]
+                },
+                {
+                    "title": {
+                        "en": "CUB Club",
+                        "de": "CUB Club",
+                        "fr": "CUB Club",
+                        "id": "CUB Club"
+                    },
+                    "description": {
+                        "en": "The Club of United Business (CUB) has redefined business networking in Australia, empowering diverse leaders to form meaningful, lasting connections.",
+                        "de": "Der Club of United Business (CUB) hat das Business-Networking in Australien neu definiert und befähigt verschiedene Führungskräfte, sinnvolle, dauerhafte Verbindungen aufzubauen.",
+                        "fr": "Le Club of United Business (CUB) a redéfini le réseautage d’affaires en Australie, en permettant à divers leaders de nouer des liens significatifs et durables.",
+                        "id": "Club of United Business (CUB) telah mendefinisikan ulang jaringan bisnis di Australia, memberdayakan beragam pemimpin untuk membentuk hubungan yang bermakna dan langgeng."
+                    },
+                    "destination": {
+                        "en": "Sydney, Melbourne, Brisbane",
+                        "de": "Sydney, Melbourne, Brisbane",
+                        "fr": "Sydney, Melbourne, Brisbane",
+                        "id": "Sydney, Melbourne, Brisbane"
+                    },
+                    "logo": "assets/images/reciprocal-partnerships/reciprocal-partnership/australasia/cub/cub_logo.png",
+                    "images": [
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/australasia/cub/cub_1.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/australasia/cub/cub_2.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/australasia/cub/cub_3.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/australasia/cub/cub_4.jpg"
+                    ]
+                }
+            ],
+            "Middle East": [
+                {
+                    "title": {
+                        "en": "NASAB",
+                        "de": "NASAB",
+                        "fr": "NASAB",
+                        "id": "NASAB"
+                    },
+                    "description": {
+                        "en": "Nasab is a private workspace and social club, offering luxury work, wellness and social spaces designed to feed the spirit of creativity. They are a true home for entrepreneurs, weaving leisure and entertainment seamlessly into daily working life.",
+                        "de": "Nasab ist ein privater Arbeitsbereich und Social Club, der luxuriöse Arbeits-, Wellness- und Sozialräume bietet, die den Geist der Kreativität fördern. Sie sind ein wahres Zuhause für Unternehmer und verweben Freizeit und Unterhaltung nahtlos mit dem täglichen Arbeitsleben.",
+                        "fr": "Nasab est un espace de travail privé et un club social, offrant des espaces de travail de luxe, de bien-être et sociaux conçus pour nourrir l’esprit de créativité. Ils sont un véritable foyer pour les entrepreneurs, intégrant parfaitement les loisirs et le divertissement dans la vie professionnelle quotidienne.",
+                        "id": "Nasab adalah ruang kerja pribadi dan klub sosial, menawarkan pekerjaan mewah, kesehatan, dan ruang sosial yang dirancang untuk memberi makan semangat kreativitas. Mereka adalah rumah sejati bagi pengusaha, menjalin rekreasi dan hiburan dengan mulus ke dalam kehidupan kerja sehari-hari."
+                    },
+                    "destination": {
+                        "en": "DUBAI",
+                        "de": "DUBAI",
+                        "fr": "DUBAI",
+                        "id": "DUBAI"
+                    },
+                    "logo": "assets/images/reciprocal-partnerships/reciprocal-partnership/middle_east/nasab/nasab_logo.png",
+                    "images": [
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/middle_east/nasab/nasab_1.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/middle_east/nasab/nasab_2.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/middle_east/nasab/nasab_3.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/middle_east/nasab/nasab_4.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/middle_east/nasab/nasab_5.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/middle_east/nasab/nasab_6.jpg"
+                    ]
+                },
+                {
+                    "title": {
+                        "en": "Sanad",
+                        "de": "Sanad",
+                        "fr": "Sanad",
+                        "id": "Sanad"
+                    },
+                    "description": {
+                        "en": "SANAD (the Arabic word for “support”) is a high-end private members club, providing the local community with a unique experience of tailored services and quality products, while conveying the generous hospitality and welcoming atmosphere of the Arab culture.",
+                        "de": "SANAD (das arabische Wort für 'Unterstützung') ist ein High-End-Club für private Mitglieder, der der lokalen Gemeinschaft ein einzigartiges Erlebnis von maßgeschneiderten Dienstleistungen und Qualitätsprodukten bietet und gleichzeitig die großzügige Gastfreundschaft und einladende Atmosphäre der arabischen Kultur vermittelt.",
+                        "fr": "SANAD (le mot arabe pour « soutien ») est un club privé haut de gamme, offrant à la communauté locale une expérience unique de services sur mesure et de produits de qualité, tout en transmettant l’hospitalité généreuse et l’atmosphère accueillante de la culture arabe.",
+                        "id": "SANAD (kata Arab untuk 'dukungan') adalah klub anggota pribadi kelas atas, memberikan pengalaman unik kepada komunitas lokal dari layanan yang disesuaikan dan produk berkualitas, sambil menyampaikan keramahan yang murah hati dan suasana ramah budaya Arab."
+                    },
+                    "destination": {
+                        "en": "Doha",
+                        "de": "Doha",
+                        "fr": "Doha",
+                        "id": "Doha"
+                    },
+                    "logo": "assets/images/reciprocal-partnerships/reciprocal-partnership/middle_east/sanad/sanad_logo.png",
+                    "images": [
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/middle_east/sanad/sanad_1.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/middle_east/sanad/sanad_2.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/middle_east/sanad/sanad_3.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/middle_east/sanad/sanad_4.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/middle_east/sanad/sanad_5.jpg"
+                    ]
+                }
+            ],
+            "North America": [
+                {
+                    "title": {
+                        "en": "YAYEM",
+                        "de": "YAYEM",
+                        "fr": "YAYEM",
+                        "id": "YAYEM"
+                    },
+                    "description": {
+                        "en": "Yayem is an exclusive travel app and curated community for sophisticated global citizens (who f*cking hate the term global citizens). Their ethos is simple: the most fulfilling life is unbound by one office, one city, one country, and through intimate locals guides, global trips and digital member forums, they connect an international network of the globally mobile and the ever-curious, whilst also keeping home bases at Y Country House (Portugal) and Y Casita (Mexico City).",
+                        "de": "Yayem ist eine exklusive Reise-App und kuratierte Community für anspruchsvolle Weltbürger (die den Begriff Weltbürger verdammt noch mal hassen). Ihr Ethos ist einfach: Das erfüllendste Leben ist nicht an ein Büro, eine Stadt, ein Land gebunden, und durch vertraute lokale Reiseführer, globale Reisen und digitale Mitgliederforen verbinden sie ein internationales Netzwerk von global Mobilen und Neugierigen, während sie auch ihre Heimatbasen im Y Country House (Portugal) und Y Casita (Mexiko-Stadt) haben.",
+                        "fr": "Yayem est une application de voyage exclusive et une communauté organisée pour les citoyens du monde sophistiqués (qui détestent le terme citoyens du monde). Leur philosophie est simple : la vie la plus épanouissante n’est pas liée à un bureau, une ville, un pays, et grâce à des guides locaux intimes, des voyages dans le monde entier et des forums numériques pour les membres, ils connectent un réseau international de personnes mobiles et toujours curieuses, tout en gardant des bases à Y Country House (Portugal) et Y Casita (Mexico).",
+                        "id": "Yayem adalah aplikasi perjalanan eksklusif dan komunitas yang dikuratori untuk warga global yang canggih (yang membenci istilah warga global). Etos mereka sederhana: kehidupan yang paling memuaskan tidak terikat oleh satu kantor, satu kota, satu negara, dan melalui pemandu lokal yang intim, perjalanan global, dan forum anggota digital, mereka menghubungkan jaringan internasional yang bergerak secara global dan yang selalu penasaran, sambil juga menjaga basis di Y Country House (Portugal) dan Y Casita (Mexico City)."
+                    },
+                    "destination": {
+                        "en": "LISBON & MEXICO CITY",
+                        "de": "LISSABON & MEXIKO-STADT",
+                        "fr": "LISBONNE ET MEXICO",
+                        "id": "LISBON & MEXICO CITY"
+                    },
+                    "logo": "assets/images/reciprocal-partnerships/reciprocal-partnership/north_america/yayem/yayem_logo.png",
+                    "images": [
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/north_america/yayem/yayem_1.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/north_america/yayem/yayem_2.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/north_america/yayem/yayem_3.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/north_america/yayem/yayem_4.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/north_america/yayem/yayem_5.jpg"
+                    ]
+                },
+                {
+                    "title": {
+                        "en": "The Social Club",
+                        "de": "Der Social Club",
+                        "fr": "Le Club Social",
+                        "id": "Klub Sosial"
+                    },
+                    "description": {
+                        "en": "The Social Club is a members' only, boutique clubhouse based in Los Angeles, California. Their space is designed with an old-school aesthetic, but for a new way of thinking and connecting. Join us for coffee and co-working by day and drinks by night.",
+                        "de": "Der Social Club ist ein Boutique-Clubhaus nur für Mitglieder mit Sitz in Los Angeles, Kalifornien. Ihr Raum ist mit einer Ästhetik der alten Schule gestaltet, aber für eine neue Art des Denkens und Verbindens. Kommen Sie tagsüber zu Kaffee und Co-Working und abends zu Getränken.",
+                        "fr": "Le Social Club est un club-house réservé aux membres basé à Los Angeles, en Californie. Leur espace est conçu avec une esthétique à l’ancienne, mais pour une nouvelle façon de penser et de se connecter. Rejoignez-nous pour un café et un co-working le jour et un verre le soir.",
+                        "id": "Social Club adalah clubhouse butik satu-satunya anggota yang berbasis di Los Angeles, California. Ruang mereka dirancang dengan estetika jadul, tetapi untuk cara berpikir dan terhubung yang baru. Bergabunglah dengan kami untuk minum kopi dan co-working di siang hari dan minum di malam hari."
+                    },
+                    "destination": {
+                        "en": "Los Angeles",
+                        "de": "Los Angeles",
+                        "fr": "Los Angeles",
+                        "id": "Los Angeles"
+                    },
+                    "logo": "assets/images/reciprocal-partnerships/reciprocal-partnership/north_america/social_club/social_club_logo.png",
+                    "images": [
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/north_america/social_club/social_club_1.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/north_america/social_club/social_club_2.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/north_america/social_club/social_club_3.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/north_america/social_club/social_club_4.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/north_america/social_club/social_club_5.jpg"
+                    ]
+                }
+            ],
+            "India": [
+                {
+                    "title": {
+                        "en": "MindEscapes",
+                        "de": "MindEscapes",
+                        "fr": "MindEscapes",
+                        "id": "MindEscapes"
+                    },
+                    "description": {
+                        "en": "MindEscapes is an immersive ecosystem that sparks creativity, drives change, accelerates personal growth and builds a unique community of ideators.",
+                        "de": "MindEscapes ist ein immersives Ökosystem, das Kreativität anregt, Veränderungen vorantreibt, das persönliche Wachstum beschleunigt und eine einzigartige Gemeinschaft von Ideengebern aufbaut.",
+                        "fr": "MindEscapes est un écosystème immersif qui stimule la créativité, stimule le changement, accélère la croissance personnelle et construit une communauté unique d’idéateurs.",
+                        "id": "MindEscapes adalah ekosistem imersif yang memicu kreativitas, mendorong perubahan, mempercepat pertumbuhan pribadi, dan membangun komunitas idetor yang unik."
+                    },
+                    "destination": {
+                        "en": "Nilgiris, India",
+                        "de": "Nilgiris, Indien",
+                        "fr": "Nilgiris, Inde",
+                        "id": "Nilgiris, India"
+                    },
+                    "logo": "assets/images/reciprocal-partnerships/reciprocal-partnership/india/mindescapes/mindescape_logo.png",
+                    "images": [
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/mindescapes/mindescape_1.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/mindescapes/mindescape_2.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/mindescapes/mindescape_3.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/mindescapes/mindescape_4.jpg"
+                    ]
+                },
+                {
+                    "title": {
+                        "en": "The Goldfieldd Club Resort",
+                        "de": "Das Goldfieldd Club Resort",
+                        "fr": "Le Goldfieldd Club Resort",
+                        "id": "Resor Klub Goldfieldd"
+                    },
+                    "description": {
+                        "en": "The Royal Goldfieldd Club Resort (RGCR) is a private members club that embodies the celebration of leisure and the pursuit of excellence through sports, hospitality, recreation and community engagement. Designed as a lifestyle facility, our club provides a stimulating atmosphere for members to fulfil their aspirations as they experience rewarding pursuits in the company of family, friends & a globally affiliated network.",
+                        "de": "Das Royal Goldfieldd Club Resort (RGCR) ist ein privater Mitgliederclub, der die Feier der Freizeit und das Streben nach Exzellenz durch Sport, Gastfreundschaft, Erholung und gesellschaftliches Engagement verkörpert. Unser Club ist als Lifestyle-Einrichtung konzipiert und bietet eine anregende Atmosphäre für die Mitglieder, um ihre Wünsche zu erfüllen, während sie lohnende Aktivitäten in Gesellschaft von Familie, Freunden und einem weltweit verbundenen Netzwerk erleben.",
+                        "fr": "Le Royal Goldfieldd Club Resort (RGCR) est un club privé qui incarne la célébration des loisirs et la poursuite de l’excellence par le biais des sports, de l’hospitalité, des loisirs et de l’engagement communautaire. Conçu comme une installation de style de vie, notre club offre une atmosphère stimulante aux membres pour qu’ils puissent réaliser leurs aspirations tout en vivant des activités enrichissantes en compagnie de leur famille, d’amis et d’un réseau affilié à l’échelle mondiale.",
+                        "id": "Royal Goldfieldd Club Resort (RGCR) adalah klub anggota pribadi yang mewujudkan perayaan rekreasi dan mengejar keunggulan melalui olahraga, perhotelan, rekreasi, dan keterlibatan masyarakat. Dirancang sebagai fasilitas gaya hidup, klub kami menyediakan suasana yang merangsang bagi anggota untuk memenuhi aspirasi mereka saat mereka mengalami pengejaran yang bermanfaat bersama keluarga, teman dan jaringan yang berafiliasi secara global."
+                    },
+                    "destination": {
+                        "en": "Maharashtra, India",
+                        "de": "Maharashtra, Indien",
+                        "fr": "Maharashtra, Inde",
+                        "id": "Maharashtra, India"
+                    },
+                    "logo": "assets/images/reciprocal-partnerships/reciprocal-partnership/india/goldfieldd/goldfieldd_logo.png",
+                    "images": [
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/goldfieldd/goldfieldd_1.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/goldfieldd/goldfieldd_2.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/goldfieldd/goldfieldd_3.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/goldfieldd/goldfieldd_4.jpg"
+                    ]
+                },
+                {
+                    "title": {
+                        "en": "Kannur Club",
+                        "de": "Kannur Club",
+                        "fr": "Kannur Club",
+                        "id": "Kannur Club"
+                    },
+                    "description": {
+                        "en": "The Kannur Club is a vibrant socio-cultural hub in North Kerala, where life's most iconic experiences and cultural treasures await! Our premium lifestyle and family recreational club is designed to bring like-minded individuals together, fostering meaningful connections and unforgettable moments. At The Kannur Club, you'll find breathtaking ocean views, a network of achievers and go-getters, and a community of free-spirited individuals who embrace life to the fullest. We believe that the right associations can transform lives, leading to a more promising and fruitful journey.",
+                        "de": "Der Kannur Club ist ein pulsierendes soziokulturelles Zentrum im Norden Keralas, wo die kultigsten Erlebnisse und kulturellen Schätze des Lebens auf Sie warten! Unser Premium-Lifestyle- und Familien-Freizeitclub wurde entwickelt, um Gleichgesinnte zusammenzubringen und bedeutungsvolle Verbindungen und unvergessliche Momente zu fördern. Im The Kannur Club finden Sie einen atemberaubenden Blick auf das Meer, ein Netzwerk von Leistungsträgern und Draufgängern und eine Gemeinschaft von Freigeistern, die das Leben in vollen Zügen genießen. Wir glauben, dass die richtigen Assoziationen Leben verändern und zu einer vielversprechenderen und fruchtbareren Reise führen können.",
+                        "fr": "Le Kannur Club est un centre socio-culturel dynamique dans le nord du Kerala, où les expériences les plus emblématiques de la vie et les trésors culturels vous attendent ! Notre club de loisirs familial et de style de vie haut de gamme est conçu pour rassembler des personnes partageant les mêmes idées, favorisant ainsi des liens significatifs et des moments inoubliables. Au Kannur Club, vous trouverez une vue imprenable sur l’océan, un réseau de personnes performantes et fonceuses, et une communauté d’individus libres d’esprit qui profitent pleinement de la vie. Nous croyons que les bonnes associations peuvent transformer des vies, menant à un voyage plus prometteur et plus fructueux.",
+                        "id": "Kannur Club adalah pusat sosial-budaya yang dinamis di Kerala Utara, di mana pengalaman hidup paling ikonik dan harta budaya menanti! Klub rekreasi gaya hidup dan keluarga premium kami dirancang untuk menyatukan individu yang berpikiran sama, membina hubungan yang bermakna dan momen tak terlupakan. Di The Kannur Club, Anda akan menemukan pemandangan laut yang menakjubkan, jaringan orang berprestasi dan bersemangat, dan komunitas individu berjiwa bebas yang merangkul hidup sepenuhnya. Kami percaya bahwa asosiasi yang tepat dapat mengubah kehidupan, yang mengarah ke perjalanan yang lebih menjanjikan dan bermanfaat."
+                    },
+                    "destination": {
+                        "en": "Kerala, India",
+                        "de": "Kerala, Indien",
+                        "fr": "Kerala, Inde",
+                        "id": "Kerala, India"
+                    },
+                    "logo": "assets/images/reciprocal-partnerships/reciprocal-partnership/india/kannur/kannur_logo.png",
+                    "images": [
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/kannur/kannur_1.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/kannur/kannur_2.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/kannur/kannur_3.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/kannur/kannur_4.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/kannur/kannur_5.jpg"
+                    ]
+                },
+                {
+                    "title": {
+                        "en": "Space Circle Club",
+                        "de": "Space Circle Club",
+                        "fr": "Club du cercle spatial",
+                        "id": "Klub Lingkaran Luar Angkasa"
+                    },
+                    "description": {
+                        "en": "The Space Circle Club has all the modern amenities, establishing it as one of the finest clubs in India. A 4 lane bowling alley, the first air-conditioned indoor cricket arena, a temperature-controlled swimming pool, jacuzzi, steam and sauna bathing facilities are some of the things that make the club unique. The gym is equipped with latest equipment from Life fitness USA, synthetic tennis courts, rock climbing face, discotheque and pro sports shop are few amongst the principal features. The club also boasts state of art conferencing & banqueting facilities. For the foodies there is a large multi cuisine restaurant, a coffee shop and bar.",
+                        "de": "Der Space Circle Club verfügt über alle modernen Annehmlichkeiten und ist damit einer der besten Clubs in Indien. Eine Bowlingbahn mit 4 Bahnen, die erste klimatisierte Indoor-Cricket-Arena, ein klimatisiertes Schwimmbad, ein Whirlpool, Dampf- und Saunaeinrichtungen sind einige der Dinge, die den Club einzigartig machen. Das Fitnessstudio ist mit den neuesten Geräten von Life Fitness USA ausgestattet, synthetische Tennisplätze, eine Kletterwand, eine Diskothek und ein Profisportgeschäft sind nur einige der Hauptmerkmale. Der Club verfügt auch über hochmoderne Konferenz- und Banketteinrichtungen. Für die Feinschmecker gibt es ein großes Multi-Cuisine-Restaurant, ein Café und eine Bar.",
+                        "fr": "Le Space Circle Club dispose de toutes les commodités modernes, ce qui en fait l’un des meilleurs clubs de l’Inde. Un bowling à 4 pistes, la première arène de cricket intérieure climatisée, une piscine à température contrôlée, un jacuzzi, des hammams et un sauna sont quelques-unes des choses qui rendent le club unique. La salle de sport est équipée des derniers équipements de Life fitness USA, des courts de tennis synthétiques, une face d’escalade, une discothèque et un magasin de sport professionnel sont quelques-unes des principales caractéristiques. Le club dispose également d’installations de conférence et de banquet ultramodernes. Pour les gourmets, il y a un grand restaurant multi-cuisine, un café et un bar.",
+                        "id": "Space Circle Club memiliki semua fasilitas modern, menjadikannya sebagai salah satu klub terbaik di India. Arena bowling 4 jalur, arena kriket dalam ruangan ber-AC pertama, kolam renang yang dikontrol suhu, jacuzzi, fasilitas uap, dan pemandian sauna adalah beberapa hal yang membuat klub ini unik. Gym ini dilengkapi dengan peralatan terbaru dari Life fitness USA, lapangan tenis sintetis, panjat tebing, diskotek dan toko olahraga pro adalah beberapa fitur utama. Klub ini juga menawarkan fasilitas konferensi & perjamuan yang canggih. Untuk pecinta kuliner ada restoran multi masakan besar, kedai kopi, dan bar."
+                    },
+                    "destination": {
+                        "en": "Kolkata",
+                        "de": "Kalkutta",
+                        "fr": "Calcutta",
+                        "id": "Kolkata"
+                    },
+                    "logo": "assets/images/reciprocal-partnerships/reciprocal-partnership/india/space_circle/space_circle_logo.png",
+                    "images": [
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/space_circle/space_circle_1.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/space_circle/space_circle_2.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/space_circle/space_circle_3.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/space_circle/space_circle_4.jpg"
+                    ]
+                },
+                {
+                    "title": {
+                        "en": "The Circle Club",
+                        "de": "Der Circle Club",
+                        "fr": "Le Circle Club",
+                        "id": "Klub Lingkaran"
+                    },
+                    "description": {
+                        "en": "The Circle is an ideal get away to spend some quality family time together. Classic games and new generation sports, modern leisure and traditional comfort - The Circle has it all. The club gym “Tarzan & Jane” and the inviting blue swimming pool keeps you fit & fresh, while the restaurant & coffee shop host the perfect ambience to rejuvenate through culinary delights. The Circle is also the only club in Kolkata offering pair of squash courts along with badminton, table tennis, steam & sauna facilities, as well as a floor dedicated to the little ones.",
+                        "de": "The Circle ist ein idealer Rückzugsort, um Zeit mit der Familie zu verbringen. Klassische Spiele und Sportarten der neuen Generation, moderne Freizeit und traditioneller Komfort - The Circle hat alles. Das Club-Gym 'Tarzan & Jane' und das einladende blaue Schwimmbad halten Sie fit und frisch, während das Restaurant und der Coffeeshop das perfekte Ambiente bieten, um sich kulinarisch zu erholen. The Circle ist auch der einzige Club in Kalkutta, der zwei Squashplätze sowie Badminton-, Tischtennis-, Dampf- und Saunaeinrichtungen sowie eine Etage für die Kleinen bietet.",
+                        "fr": "Le Cercle est une escapade idéale pour passer du temps de qualité en famille. Jeux classiques et sports de nouvelle génération, loisirs modernes et confort traditionnel - The Circle a tout pour plaire. La salle de sport du club « Tarzan & Jane » et la piscine bleue accueillante vous gardent en forme et au frais, tandis que le restaurant et le café offrent l’ambiance parfaite pour se ressourcer grâce à des délices culinaires. Le Circle est également le seul club de Kolkata à proposer deux courts de squash ainsi que des installations de badminton, de tennis de table, de hammam et de sauna, ainsi qu’un sol dédié aux plus petits.",
+                        "id": "The Circle adalah tempat liburan yang ideal untuk menghabiskan waktu keluarga yang berkualitas bersama. Permainan klasik dan olahraga generasi baru, rekreasi modern, dan kenyamanan tradisional - The Circle memiliki semuanya. Gym klub 'Tarzan & Jane' dan kolam renang biru yang mengundang membuat Anda tetap bugar dan segar, sementara restoran & kedai kopi memiliki suasana yang sempurna untuk meremajakan diri melalui kuliner yang lezat. The Circle juga merupakan satu-satunya klub di Kolkata yang menawarkan sepasang lapangan squash bersama dengan fasilitas bulu tangkis, tenis meja, uap & sauna, serta lantai yang didedikasikan untuk anak-anak kecil."
+                    },
+                    "destination": {
+                        "en": "Kolkata",
+                        "de": "Kalkutta",
+                        "fr": "Calcutta",
+                        "id": "Kolkata"
+                    },
+                    "logo": "assets/images/reciprocal-partnerships/reciprocal-partnership/india/the_circle/the_circle_logo.png",
+                    "images": [
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/the_circle/the_circle_1.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/the_circle/the_circle_2.jpg"
+                    ]
+                },
+                {
+                    "title": {
+                        "en": "Spring Club",
+                        "de": "Frühlings-Club",
+                        "fr": "Club de printemps",
+                        "id": "Klub Musim Semi"
+                    },
+                    "description": {
+                        "en": "The Spring Club is the destination with the combination of elegance & style. From international sports venues to mini theatre, the club is thoughtfully crafted to offer maximum pleasure to its members. The world class gym “Velocity” is equipped with the most modern machines to keep you healthy & fit. Already a big attraction among the food loving Kolkatans, The Spring Club offers a state of the art multicuisine restaurant, “Zing, ”a tempting coffee shop “Creek” and “High Tide” - a disco frequently featuring performances from the best of the DJs of Kolkata.",
+                        "de": "Der Spring Club ist das Ziel mit der Kombination aus Eleganz und Stil. Von internationalen Sportstätten bis hin zu Mini-Theatern ist der Club sorgfältig gestaltet, um seinen Mitgliedern maximalen Spaß zu bieten. Das Weltklasse-Fitnessstudio 'Velocity' ist mit den modernsten Geräten ausgestattet, um Sie gesund und fit zu halten. Der Spring Club ist bereits eine große Attraktion unter den Feinschmeckern von Kalkutta und bietet ein hochmodernes Multicuisine-Restaurant, 'Zing', einen verlockenden Coffeeshop 'Creek' und 'High Tide' - eine Diskothek, in der häufig die besten DJs von Kalkutta auftreten.",
+                        "fr": "Le Spring Club est la destination avec la combinaison de l’élégance et du style. Des sites sportifs internationaux aux mini-théâtres, le club est soigneusement conçu pour offrir un maximum de plaisir à ses membres. La salle de sport de classe mondiale « Velocity » est équipée des machines les plus modernes pour vous garder en bonne santé et en forme. Déjà une grande attraction parmi les gourmands de Calcutta, The Spring Club propose un restaurant multicuisine ultramoderne, « Zing », un café tentant « Creek » et « High Tide » - une discothèque présentant fréquemment des performances des meilleurs DJ de Kolkata.",
+                        "id": "Spring Club adalah tujuan dengan kombinasi keanggunan & gaya. Dari tempat olahraga internasional hingga teater mini, klub ini dibuat dengan cermat untuk menawarkan kesenangan maksimal kepada anggotanya. Gym kelas dunia 'Velocity' dilengkapi dengan mesin paling modern untuk menjaga Anda tetap sehat dan bugar. Sudah menjadi daya tarik besar di antara orang-orang Kolkatan pecinta makanan, The Spring Club menawarkan restoran multimasakan canggih, 'Zing, 'kedai kopi yang menggoda 'Creek' dan 'High Tide' - disko yang sering menampilkan pertunjukan dari DJ terbaik Kolkata."
+                    },
+                    "destination": {
+                        "en": "Kolkata",
+                        "de": "Kalkutta",
+                        "fr": "Calcutta",
+                        "id": "Kolkata"
+                    },
+                    "logo": "assets/images/reciprocal-partnerships/reciprocal-partnership/india/spring_club/spring_club_logo.png",
+                    "images": [
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/spring_club/spring_club_1.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/spring_club/spring_club_2.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/spring_club/spring_club_3.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/spring_club/spring_club_4.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/spring_club/spring_club_5.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/spring_club/spring_club_6.jpg"
+                    ]
+                },
+                {
+                    "title": {
+                        "en": "The Alleppey United Club",
+                        "de": "Der Alleppey United Club",
+                        "fr": "Le club Alleppey United",
+                        "id": "Klub Alleppey United"
+                    },
+                    "description": {
+                        "en": "Listed amongst the top 10 must-see places by National Geographic, Alleppey makes for an unforgettable setting for this beachside members' club. Relax in the club rooms, play badminton on the bespoke courts or enjoy beachside beverages on the beautiful lawn, nestled between the club building and the Arabian sea.",
+                        "de": "Alleppey gehört zu den Top 10 der Orte, die man gesehen haben muss, und ist eine unvergessliche Kulisse für diesen Club für Mitglieder am Strand. Entspannen Sie sich in den Clubräumen, spielen Sie Badminton auf den maßgeschneiderten Plätzen oder genießen Sie Strandgetränke auf dem schönen Rasen, der zwischen dem Clubgebäude und dem Arabischen Meer liegt.",
+                        "fr": "Classé parmi les 10 meilleurs endroits incontournables par National Geographic, Alleppey constitue un cadre inoubliable pour ce club de membres en bord de mer. Détendez-vous dans les salles du club, jouez au badminton sur les courts sur mesure ou dégustez des boissons au bord de la plage sur la magnifique pelouse, nichée entre le bâtiment du club et la mer d’Arabie.",
+                        "id": "Terdaftar di antara 10 tempat yang wajib dikunjungi oleh National Geographic, Alleppey membuat suasana yang tak terlupakan bagi klub anggota tepi pantai ini. Bersantai di ruang klub, bermain bulu tangkis di lapangan yang dipesan lebih dahulu atau nikmati minuman tepi pantai di halaman rumput yang indah, terletak di antara gedung klub dan laut Arab."
+                    },
+                    "destination": {
+                        "en": "Kerala",
+                        "de": "Kerala",
+                        "fr": "Kerala",
+                        "id": "Kerala"
+                    },
+                    "logo": "assets/images/reciprocal-partnerships/reciprocal-partnership/india/alleppey/alleppey_logo.png",
+                    "images": [
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/alleppey/alleppey_1.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/alleppey/alleppey_2.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/alleppey/alleppey_3.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/alleppey/alleppey_4.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/alleppey/alleppey_5.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/alleppey/alleppey_6.jpg"
+                    ]
+                },
+                {
+                    "title": {
+                        "en": "Club Transcend",
+                        "de": "Club Transzendieren",
+                        "fr": "Club Transcend",
+                        "id": "Klub Transenda"
+                    },
+                    "description": {
+                        "en": "Club Transcend offers members a taste of luxury during leisurely hours. Experience the grandeur and class of a private club that offers exclusive amenities and take a break from the banalities of life.",
+                        "de": "Club Transcend bietet seinen Mitgliedern einen Hauch von Luxus während entspannter Stunden. Erleben Sie die Pracht und Klasse eines privaten Clubs, der exklusive Annehmlichkeiten bietet, und nehmen Sie sich eine Auszeit von den Banalitäten des Lebens.",
+                        "fr": "Le Club Transcend offre à ses membres un avant-goût du luxe pendant les heures de détente. Découvrez la grandeur et la classe d’un club privé qui offre des équipements exclusifs et faites une pause dans les banalités de la vie.",
+                        "id": "Club Transcend menawarkan kepada anggota rasa kemewahan selama jam-jam santai. Rasakan kemegahan dan kelas klub pribadi yang menawarkan fasilitas eksklusif dan beristirahatlah dari kebiasaan hidup."
+                    },
+                    "destination": {
+                        "en": "Assam",
+                        "de": "Assam",
+                        "fr": "Assam",
+                        "id": "Assam"
+                    },
+                    "logo": "assets/images/reciprocal-partnerships/reciprocal-partnership/india/transcend/transcend_logo.png",
+                    "images": [
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/transcend/transcend_1.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/transcend/transcend_2.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/transcend/transcend_3.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/transcend/transcend_4.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/transcend/transcend_5.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/transcend/transcend_6.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/transcend/transcend_7.jpg"
+                    ]
+                },
+                {
+                    "title": {
+                        "en": "Suncity Club & Resort",
+                        "de": "Suncity Club & Resort",
+                        "fr": "Suncity Club & Resort",
+                        "id": "Klub & Resor Suncity"
+                    },
+                    "description": {
+                        "en": "Suncity Club & Resort is pioneered with the distinctive all-inclusive concept, giving members access to a seemingly endless list of facilities. From guest accommodation to hair salon, movie theatre to pool and beyond, Suncity makes every individual’s experience relaxing, enthralling and memorable.",
+                        "de": "Suncity Club & Resort ist Vorreiter mit dem unverwechselbaren All-Inclusive-Konzept, das den Mitgliedern Zugang zu einer scheinbar endlosen Liste von Einrichtungen bietet. Von der Gästeunterkunft bis zum Friseursalon, vom Kino bis zum Pool und darüber hinaus macht Suncity das Erlebnis jedes Einzelnen entspannend, spannend und unvergesslich.",
+                        "fr": "Suncity Club & Resort a été le pionnier avec le concept distinctif tout compris, donnant aux membres l’accès à une liste apparemment infinie d’installations. De l’hébergement des clients au salon de coiffure, en passant par le cinéma, la piscine et bien plus encore, Suncity rend l’expérience de chaque individu relaxante, passionnante et mémorable.",
+                        "id": "Suncity Club & Resort dipelopori dengan konsep all-inclusive yang khas, memberi anggota akses ke daftar fasilitas yang tampaknya tak ada habisnya. Dari akomodasi tamu hingga salon rambut, bioskop hingga kolam renang dan seterusnya, Suncity membuat pengalaman setiap individu menjadi santai, memikat, dan berkesan."
+                    },
+                    "destination": {
+                        "en": "Gujarat",
+                        "de": "Gujarat",
+                        "fr": "Gujarat",
+                        "id": "Gujarat"
+                    },
+                    "logo": "assets/images/reciprocal-partnerships/reciprocal-partnership/india/suncity/spring_club_logo.png",
+                    "images": [
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/suncity/suncity_1.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/suncity/suncity_2.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/suncity/suncity_3.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/suncity/suncity_4.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/suncity/suncity_5.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/suncity/suncity_6.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/suncity/suncity_7.jpg"
+                    ]
+                },
+                {
+                    "title": {
+                        "en": "Winner Club Guruvayur",
+                        "de": "Sieger Club Guruvayur",
+                        "fr": "Vainqueur Club Guruvayur",
+                        "id": "Pemenang Klub Guruvayur"
+                    },
+                    "description": {
+                        "en": "Winner Club is a private social club formed by a group of like-minded people, who wished to provide a first class family club. Established in 1997, the club runs its activities with a 'no profit, no loss' motto, and maintains a warm and welcoming environment, inviting members from all walks of life to join.",
+                        "de": "Der Winner Club ist ein privater Social Club, der von einer Gruppe Gleichgesinnter gegründet wurde, die einen erstklassigen Familienclub bieten wollten. Der 1997 gegründete Club führt seine Aktivitäten unter dem Motto 'Kein Gewinn, kein Verlust' durch und pflegt eine warme und einladende Umgebung, in der Mitglieder aus allen Gesellschaftsschichten zum Beitritt eingeladen werden.",
+                        "fr": "Winner Club est un club social privé formé par un groupe de personnes partageant les mêmes idées, qui souhaitaient fournir un club familial de première classe. Fondé en 1997, le club mène ses activités selon la devise « ni profit, ni perte » et maintient un environnement chaleureux et accueillant, invitant des membres de tous les horizons à s’y joindre.",
+                        "id": "Winner Club adalah klub sosial pribadi yang dibentuk oleh sekelompok orang yang berpikiran sama, yang ingin menyediakan klub keluarga kelas satu. Didirikan pada tahun 1997, klub menjalankan kegiatannya dengan moto 'tidak ada keuntungan, tidak ada kerugian', dan mempertahankan lingkungan yang hangat dan ramah, mengundang anggota dari semua lapisan masyarakat untuk bergabung."
+                    },
+                    "destination": {
+                        "en": "Kerala",
+                        "de": "Kerala",
+                        "fr": "Kerala",
+                        "id": "Kerala"
+                    },
+                    "logo": "assets/images/reciprocal-partnerships/reciprocal-partnership/india/winner/winner_logo.png",
+                    "images": [
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/winner/winner_1.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/winner/winner_2.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/winner/winner_3.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/winner/winner_4.jpg"
+                    ]
+                },
+                {
+                    "title": {
+                        "en": "All Starr Club",
+                        "de": "Alle Starr Club",
+                        "fr": "Tous les Starr Club",
+                        "id": "Klub Semua Starr"
+                    },
+                    "description": {
+                        "en": "All Starr Club is an oasis in the heart of the historic culture of Jaipur, and is well-known as the best lifestyle club in Jagatpura. Here, luxurious hospitality complements Jaipur's legendary passion for cultural art, creating a unique living experience. Located in the heart of Jaipur, All Starr Club Lifestyle Club invites you to enjoy lavish living at its finest.",
+                        "de": "Der All Starr Club ist eine Oase im Herzen der historischen Kultur von Jaipur und gilt als der beste Lifestyle-Club in Jagatpura. Hier ergänzt luxuriöse Gastfreundschaft Jaipurs legendäre Leidenschaft für kulturelle Kunst und schafft ein einzigartiges Wohnerlebnis. Der All Starr Club Lifestyle Club befindet sich im Herzen von Jaipur und lädt Sie ein, ein verschwenderisches Leben vom Feinsten zu genießen.",
+                        "fr": "All Starr Club est une oasis au cœur de la culture historique de Jaipur, et est bien connu comme le meilleur club de style de vie de Jagatpura. Ici, l’hospitalité luxueuse complète la passion légendaire de Jaipur pour l’art culturel, créant une expérience de vie unique. Situé au cœur de Jaipur, l’All Starr Club Lifestyle Club vous invite à profiter d’une vie somptueuse à son meilleur.",
+                        "id": "All Starr Club adalah oasis di jantung budaya bersejarah Jaipur, dan terkenal sebagai klub gaya hidup terbaik di Jagatpura. Di sini, keramahan mewah melengkapi hasrat legendaris Jaipur untuk seni budaya, menciptakan pengalaman hidup yang unik. Terletak di jantung kota Jaipur, All Starr Club Lifestyle Club mengundang Anda untuk menikmati kehidupan mewah yang terbaik."
+                    },
+                    "destination": {
+                        "en": "Jaipur",
+                        "de": "Jaipur",
+                        "fr": "Jaipur",
+                        "id": "Jaipur"
+                    },
+                    "logo": "assets/images/reciprocal-partnerships/reciprocal-partnership/india/allstar/allstar_logo.png",
+                    "images": [
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/allstar/allstar_1.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/allstar/allstar_2.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/allstar/allstar_3.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/allstar/allstar_4.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/allstar/allstar_5.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/allstar/allstar_6.jpg"
+                    ]
+                },
+                {
+                    "title": {
+                        "en": "Halcyon Times Club",
+                        "de": "Halcyon Times Club",
+                        "fr": "Halcyon Times Club",
+                        "id": "Klub Halcyon Times"
+                    },
+                    "description": {
+                        "en": "Halcyon Times Club, established in 1993, stands as a premier family, sports, recreation and social club in Kakinada. As a hub of South India, Kakinada holds strategic importance and Halcyon Times offers a place for all to gather.",
+                        "de": "Der Halcyon Times Club wurde 1993 gegründet und ist ein führender Familien-, Sport-, Freizeit- und Gesellschaftsclub in Kakinada. Als Drehscheibe Südindiens ist Kakinada von strategischer Bedeutung und Halcyon Times bietet einen Ort, an dem sich alle treffen können.",
+                        "fr": "Le Halcyon Times Club, créé en 1993, est un club familial, sportif, récréatif et social de premier plan à Kakinada. En tant que plaque tournante de l’Inde du Sud, Kakinada revêt une importance stratégique et Halcyon Times offre un lieu de rassemblement pour tous.",
+                        "id": "Halcyon Times Club, didirikan pada tahun 1993, berdiri sebagai klub keluarga, olahraga, rekreasi, dan sosial utama di Kakinada. Sebagai pusat India Selatan, Kakinada memiliki kepentingan strategis dan Halcyon Times menawarkan tempat bagi semua orang untuk berkumpul."
+                    },
+                    "destination": {
+                        "en": "Kakinada, India",
+                        "de": "Kakinada, Indien",
+                        "fr": "Kakinada, Inde",
+                        "id": "Kakinada, India"
+                    },
+                    "logo": "assets/images/reciprocal-partnerships/reciprocal-partnership/india/halcyon/halcyontimes_logo.png",
+                    "images": [
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/halcyon/halcyontimes_1.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/halcyon/halcyontimes_2.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/halcyon/halcyontimes_3.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/halcyon/halcyontimes_4.jpg"
+                    ]
+                },
+                {
+                    "title": {
+                        "en": "Area 37 Club",
+                        "de": "Bereich 37 Club",
+                        "fr": "Club de la zone 37",
+                        "id": "Klub Area 37"
+                    },
+                    "description": {
+                        "en": "Area 37 is a lifestyle club offering complete serenity for those who are looking to broaden their recreational possibilities.",
+                        "de": "Area 37 ist ein Lifestyle-Club, der absolute Gelassenheit für diejenigen bietet, die ihre Freizeitmöglichkeiten erweitern möchten.",
+                        "fr": "Area 37 est un club de style de vie offrant une sérénité totale pour ceux qui cherchent à élargir leurs possibilités de loisirs.",
+                        "id": "Area 37 adalah klub gaya hidup yang menawarkan ketenangan lengkap bagi mereka yang ingin memperluas kemungkinan rekreasi mereka."
+                    },
+                    "destination": {
+                        "en": "Pune",
+                        "de": "Pune",
+                        "fr": "Pune",
+                        "id": "Pune"
+                    },
+                    "logo": "assets/images/reciprocal-partnerships/reciprocal-partnership/india/area37/area37_logo.png",
+                    "images": [
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/area37/area37_1.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/area37/area37_2.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/area37/area37_3.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/area37/area37_4.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/area37/area37_5.jpg"
+                    ]
+                },
+                {
+                    "title": {
+                        "en": "Citi Club",
+                        "de": "Citi Club",
+                        "fr": "Citi Club",
+                        "id": "Citi Club"
+                    },
+                    "description": {
+                        "en": "Citi Club, established in 1992, offers premium accommodation for travelers in Kanpur. Conveniently located near the City Centre, Citi Club is an ideal venue for events, corporate functions, and weddings, with six multi-purpose halls accommodating up to 1,000 guests. The famous ISKCON Temple is also just a 27-minute drive from Citi Club, making it a great stop off on any cultural or social trip",
+                        "de": "Citi Club wurde 1992 gegründet und bietet erstklassige Unterkünfte für Reisende in Kanpur. Günstig in der Nähe des Stadtzentrums gelegen, ist der Citi Club mit sechs Mehrzwecksälen für bis zu 1.000 Gäste ein idealer Ort für Veranstaltungen, Firmenveranstaltungen und Hochzeiten. Der berühmte ISKCON-Tempel ist ebenfalls nur eine 27-minütige Fahrt vom Citi Club entfernt und somit ein großartiger Zwischenstopp auf jeder kulturellen oder gesellschaftlichen Reise",
+                        "fr": "Citi Club, créé en 1992, propose un hébergement haut de gamme aux voyageurs à Kanpur. Idéalement situé à proximité du centre-ville, le Citi Club est un lieu idéal pour les événements, les fonctions d’entreprise et les mariages, avec six salles polyvalentes pouvant accueillir jusqu’à 1 000 invités. Le célèbre temple ISKCON se trouve également à seulement 27 minutes de route du Citi Club, ce qui en fait une étape idéale lors de tout voyage culturel ou social",
+                        "id": "Citi Club, didirikan pada tahun 1992, menawarkan akomodasi premium bagi wisatawan di Kanpur. Berlokasi strategis di dekat Pusat Kota, Citi Club adalah tempat yang ideal untuk acara, acara perusahaan, dan pernikahan, dengan enam aula serbaguna yang menampung hingga 1.000 tamu. Kuil ISKCON yang terkenal juga hanya berjarak 27 menit berkendara dari Citi Club, menjadikannya perhentian yang bagus untuk perjalanan budaya atau sosial apa pun"
+                    },
+                    "destination": {
+                        "en": "Kanpur",
+                        "de": "Kanpur",
+                        "fr": "Kanpur",
+                        "id": "Kanpur"
+                    },
+                    "logo": "assets/images/reciprocal-partnerships/reciprocal-partnership/india/citi_club/citi_logo.png",
+                    "images": [
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/citi_club/citi_01.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/citi_club/citi_02.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/citi_club/citi_03.jpg"
+                    ]
+                },
+                {
+                    "title": {
+                        "en": "World Wide Villa Club",
+                        "de": "World Wide Villa Club",
+                        "fr": "World Wide Villa Club",
+                        "id": "Klub Villa Seluruh Dunia"
+                    },
+                    "description": {
+                        "en": "Spread across two clubhouses, World Wide Villa Club is the perfect weekend getaway, offering a respite from the stresses of urban life.",
+                        "de": "Der World Wide Villa Club erstreckt sich über zwei Clubhäuser und ist der perfekte Wochenendausflug und bietet eine Pause vom Stress des städtischen Lebens.",
+                        "fr": "Réparti sur deux clubhouses, le World Wide Villa Club est l’escapade de week-end idéale, offrant un répit du stress de la vie urbaine.",
+                        "id": "Tersebar di dua clubhouse, World Wide Villa Club adalah liburan akhir pekan yang sempurna, menawarkan jeda dari stres kehidupan perkotaan."
+                    },
+                    "destination": {
+                        "en": "Gujarat",
+                        "de": "Gujarat",
+                        "fr": "Gujarat",
+                        "id": "Gujarat"
+                    },
+                    "logo": "assets/images/reciprocal-partnerships/reciprocal-partnership/india/wwvc/wwvc_logo.png",
+                    "images": [
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/wwvc/wwvc_1.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/wwvc/wwvc_2.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/wwvc/wwvc_3.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/wwvc/wwvc_4.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/wwvc/wwvc_5.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/wwvc/wwvc_6.jpg"
+                    ]
+                },
+                {
+                    "title": {
+                        "en": "Calicut Cosmopolitan Club",
+                        "de": "Der Kosmopolitische Club von Calicut",
+                        "fr": "Calicut Cosmopolitan Club",
+                        "id": "Klub Kosmopolitan Calicut"
+                    },
+                    "description": {
+                        "en": "Designed as a space for fostering social interaction, Cosmopolitan Club is located on the iconic Calicut Beach Road, in the heart of Calicut, where Vasco da Gama first landed during his quest for the renowned Malabar spices. The area is celebrated for its lush green countryside, serene beaches, historic landmarks distinctive culture and welcoming atmosphere, making it a cherished destination for visitors from around the world.",
+                        "de": "Der Cosmopolitan Club wurde als Raum zur Förderung sozialer Interaktion konzipiert und befindet sich an der berühmten Calicut Beach Road im Herzen von Calicut, wo Vasco da Gama auf seiner Suche nach den berühmten Malabar-Gewürzen zum ersten Mal landete. Die Gegend ist berühmt für ihre üppig grüne Landschaft, ruhige Strände, historische Sehenswürdigkeiten, unverwechselbare Kultur und einladende Atmosphäre, was sie zu einem geschätzten Reiseziel für Besucher aus der ganzen Welt macht.",
+                        "fr": "Conçu comme un espace favorisant l’interaction sociale, le Cosmopolitan Club est situé sur l’emblématique Calicut Beach Road, au cœur de Calicut, où Vasco da Gama a atterri pour la première fois lors de sa quête des célèbres épices de Malabar. La région est célèbre pour sa campagne verdoyante, ses plages sereines, ses monuments historiques, sa culture distinctive et son atmosphère accueillante, ce qui en fait une destination prisée des visiteurs du monde entier.",
+                        "id": "Dirancang sebagai ruang untuk mendorong interaksi sosial, Cosmopolitan Club terletak di Calicut Beach Road yang ikonik, di jantung kota Calicut, tempat Vasco da Gama pertama kali mendarat selama pencariannya untuk rempah-rempah Malabar yang terkenal. Daerah ini terkenal karena pedesaannya yang hijau subur, pantai yang tenang, landmark bersejarah, budaya yang khas, dan suasana yang ramah, menjadikannya tujuan yang dihargai bagi pengunjung dari seluruh dunia."
+                    },
+                    "destination": {
+                        "en": "Kerala, India",
+                        "de": "Kerala, Indien",
+                        "fr": "Kerala, Inde",
+                        "id": "Kerala, India"
+                    },
+                    "logo": "assets/images/reciprocal-partnerships/reciprocal-partnership/india/cosmopolitan/cosmopolitan_logo.png",
+                    "images": [
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/cosmopolitan/cosmopolitan_1.jpg",
+                        "assets/images/reciprocal-partnerships/reciprocal-partnership/india/cosmopolitan/cosmopolitan_2.jpg"
+                    ]
+                }
+            ]
+        }
+    },
+    "alliance": {
+        "title": {
+            "en": "Karma Alliance Network",
+            "de": "Karma-Allianz-Netzwerk",
+            "fr": "Réseau Karma Alliance",
+            "id": "Jaringan Aliansi Karma"
+        },
+        "description": {
+            "en": "The Karma Alliance Network comprises companies with whom we have established reciprocal agreements. These agreements allow us to sprinkle some Karma magic in regions where our Group inventory may be limited, expanding the destinations accessible to our valued Members and Owners in over 230 affiliate properties.",
+            "de": "Das Karma Alliance Network besteht aus Unternehmen, mit denen wir gegenseitige Vereinbarungen getroffen haben. Diese Vereinbarungen ermöglichen es uns, etwas Karma-Magie in Regionen zu streuen, in denen unser Gruppenbestand begrenzt sein könnte, und die für unsere geschätzten Mitglieder und Eigentümer zugänglichen Reiseziele in über 230 verbundenen Häusern zu erweitern.",
+            "fr": "Le réseau Karma Alliance est composé d’entreprises avec lesquelles nous avons établi des ententes de réciprocité. Ces ententes nous permettent de saupoudrer un peu de magie Karma dans des régions où notre inventaire de groupe peut être limité, en élargissant les destinations accessibles à nos précieux membres et propriétaires dans plus de 230 propriétés affiliées.",
+            "id": "Jaringan Aliansi Karma terdiri dari perusahaan yang telah membuat perjanjian timbal balik dengan kami. Perjanjian ini memungkinkan kami untuk menaburkan keajaiban Karma di wilayah di mana inventaris Grup kami mungkin terbatas, memperluas tujuan yang dapat diakses oleh Anggota dan Pemilik kami yang berharga di lebih dari 230 properti afiliasi."
+        },
+        "network": [
+            {
+                "name": {
+                    "en": "Australia",
+                    "de": "Australien",
+                    "fr": "Australie",
+                    "id": "Australia"
+                },
+                "url": "https://karmaclub.karmagroup.com/member/search-book/affiliate/karma-alliance/?country=Australia&_gl=1*cqpart*_gcl_au*MTQzNzg3NzQzOC4xNzM0OTIxODIy*_ga*MTMyMjM5MzQ1Ny4xNzM0OTIxODI0*_ga_YG4YCPR7LG*MTczNDkyMTgyMy4xLjEuMTczNDkyNDMyNS4zOC4wLjA.&_ga=2.81800981.2002166528.1734921824-1322393457.1734921824",
+                "image": "assets/images/reciprocal-partnerships/alliance-network/Australia.jpg"
+            },
+            {
+                "name": {
+                    "en": "Austria",
+                    "de": "Österreich",
+                    "fr": "Autriche",
+                    "id": "Austria"
+                },
+                "url": "https://karmaclub.karmagroup.com/member/search-book/affiliate/karma-alliance/?country=Austria&_gl=1*b3m7ci*_gcl_au*MTQzNzg3NzQzOC4xNzM0OTIxODIy*_ga*MTMyMjM5MzQ1Ny4xNzM0OTIxODI0*_ga_YG4YCPR7LG*MTczNDkyMTgyMy4xLjEuMTczNDkyNDk4MC42MC4wLjA.&_ga=2.40199073.2002166528.1734921824-1322393457.1734921824",
+                "image": "assets/images/reciprocal-partnerships/alliance-network/Austria.jpg"
+            },
+            {
+                "name": {
+                    "en": "Canada",
+                    "de": "Kanada",
+                    "fr": "Canada",
+                    "id": "Kanada"
+                },
+                "url": "https://karmaclub.karmagroup.com/member/search-book/affiliate/karma-alliance/?country=Canada&_gl=1*qt2a71*_gcl_au*MTQzNzg3NzQzOC4xNzM0OTIxODIy*_ga*MTMyMjM5MzQ1Ny4xNzM0OTIxODI0*_ga_YG4YCPR7LG*MTczNDkyMTgyMy4xLjEuMTczNDkyNTA4Ni42MC4wLjA.&_ga=2.40199073.2002166528.1734921824-1322393457.1734921824",
+                "image": "assets/images/reciprocal-partnerships/alliance-network/Canada.jpg"
+            },
+            {
+                "name": {
+                    "en": "Caribbean",
+                    "de": "Karibik",
+                    "fr": "Caraïbes",
+                    "id": "Karibia"
+                },
+                "url": "https://karmaclub.karmagroup.com/member/search-book/affiliate/karma-alliance/?country=Caribbean&_gl=1*qt2a71*_gcl_au*MTQzNzg3NzQzOC4xNzM0OTIxODIy*_ga*MTMyMjM5MzQ1Ny4xNzM0OTIxODI0*_ga_YG4YCPR7LG*MTczNDkyMTgyMy4xLjEuMTczNDkyNTA4Ni42MC4wLjA.&_ga=2.40199073.2002166528.1734921824-1322393457.1734921824",
+                "image": "assets/images/reciprocal-partnerships/alliance-network/Caribbean.jpg"
+            },
+            {
+                "name": {
+                    "en": "Central America",
+                    "de": "Mittelamerika",
+                    "fr": "Amérique centrale",
+                    "id": "Amerika Tengah"
+                },
+                "url": "https://karmaclub.karmagroup.com/member/search-book/affiliate/karma-alliance/?country=Central%20America&_gl=1*qt2a71*_gcl_au*MTQzNzg3NzQzOC4xNzM0OTIxODIy*_ga*MTMyMjM5MzQ1Ny4xNzM0OTIxODI0*_ga_YG4YCPR7LG*MTczNDkyMTgyMy4xLjEuMTczNDkyNTA4Ni42MC4wLjA.&_ga=2.40199073.2002166528.1734921824-1322393457.1734921824",
+                "image": "assets/images/reciprocal-partnerships/alliance-network/Central America.jpg"
+            },
+            {
+                "name": {
+                    "en": "England",
+                    "de": "England",
+                    "fr": "Angleterre",
+                    "id": "Inggris"
+                },
+                "url": "https://karmaclub.karmagroup.com/member/search-book/affiliate/karma-alliance/?country=England&_gl=1*opcpe*_gcl_au*MTQzNzg3NzQzOC4xNzM0OTIxODIy*_ga*MTMyMjM5MzQ1Ny4xNzM0OTIxODI0*_ga_YG4YCPR7LG*MTczNDkyMTgyMy4xLjEuMTczNDkyNTA4Ni42MC4wLjA.&_ga=2.72321808.2002166528.1734921824-1322393457.1734921824",
+                "image": "assets/images/reciprocal-partnerships/alliance-network/England.jpg"
+            },
+            {
+                "name": {
+                    "en": "France",
+                    "de": "Frankreich",
+                    "fr": "France",
+                    "id": "Prancis"
+                },
+                "url": "https://karmaclub.karmagroup.com/member/search-book/affiliate/karma-alliance/?country=France&_gl=1*opcpe*_gcl_au*MTQzNzg3NzQzOC4xNzM0OTIxODIy*_ga*MTMyMjM5MzQ1Ny4xNzM0OTIxODI0*_ga_YG4YCPR7LG*MTczNDkyMTgyMy4xLjEuMTczNDkyNTA4Ni42MC4wLjA.&_ga=2.72321808.2002166528.1734921824-1322393457.1734921824",
+                "image": "assets/images/reciprocal-partnerships/alliance-network/France.jpg"
+            },
+            {
+                "name": {
+                    "en": "Greece",
+                    "de": "Griechenland",
+                    "fr": "Grèce",
+                    "id": "Yunani"
+                },
+                "url": "https://karmaclub.karmagroup.com/member/search-book/affiliate/karma-alliance/?country=Greece&_gl=1*1y06k88*_gcl_au*MTQzNzg3NzQzOC4xNzM0OTIxODIy*_ga*MTMyMjM5MzQ1Ny4xNzM0OTIxODI0*_ga_YG4YCPR7LG*MTczNDkyMTgyMy4xLjEuMTczNDkyOTUzMi42MC4wLjA.&_ga=2.37160995.2002166528.1734921824-1322393457.1734921824",
+                "image": "assets/images/reciprocal-partnerships/alliance-network/Greece.jpg"
+            },
+            {
+                "name": {
+                    "en": "Ireland",
+                    "de": "Irland",
+                    "fr": "Irlande",
+                    "id": "Irlandia"
+                },
+                "url": "https://karmaclub.karmagroup.com/member/search-book/affiliate/karma-alliance/?country=Ireland&_gl=1*1y06k88*_gcl_au*MTQzNzg3NzQzOC4xNzM0OTIxODIy*_ga*MTMyMjM5MzQ1Ny4xNzM0OTIxODI0*_ga_YG4YCPR7LG*MTczNDkyMTgyMy4xLjEuMTczNDkyOTUzMi42MC4wLjA.&_ga=2.37160995.2002166528.1734921824-1322393457.1734921824",
+                "image": "assets/images/reciprocal-partnerships/alliance-network/Ireland.jpg"
+            },
+            {
+                "name": {
+                    "en": "Malaysia",
+                    "de": "Malaysien",
+                    "fr": "Malaisie",
+                    "id": "Malaysia"
+                },
+                "url": "https://karmaclub.karmagroup.com/member/search-book/affiliate/karma-alliance/?country=Malaysia&_gl=1*1y06k88*_gcl_au*MTQzNzg3NzQzOC4xNzM0OTIxODIy*_ga*MTMyMjM5MzQ1Ny4xNzM0OTIxODI0*_ga_YG4YCPR7LG*MTczNDkyMTgyMy4xLjEuMTczNDkyOTUzMi42MC4wLjA.&_ga=2.37160995.2002166528.1734921824-1322393457.1734921824",
+                "image": "assets/images/reciprocal-partnerships/alliance-network/Malaysia.jpg"
+            },
+            {
+                "name": {
+                    "en": "Mexico",
+                    "de": "Mexiko",
+                    "fr": "Mexique",
+                    "id": "Meksiko"
+                },
+                "url": "https://karmaclub.karmagroup.com/member/search-book/affiliate/karma-alliance/?country=Mexico&_gl=1*1y06k88*_gcl_au*MTQzNzg3NzQzOC4xNzM0OTIxODIy*_ga*MTMyMjM5MzQ1Ny4xNzM0OTIxODI0*_ga_YG4YCPR7LG*MTczNDkyMTgyMy4xLjEuMTczNDkyOTUzMi42MC4wLjA.&_ga=2.37160995.2002166528.1734921824-1322393457.1734921824",
+                "image": "assets/images/reciprocal-partnerships/alliance-network/Mexico.jpg"
+            },
+            {
+                "name": {
+                    "en": "New Zealand",
+                    "de": "Neuseeland",
+                    "fr": "Nouvelle-Zélande",
+                    "id": "Selandia Baru"
+                },
+                "url": "https://karmaclub.karmagroup.com/member/search-book/affiliate/karma-alliance/?country=New%20Zealand&_gl=1*1y06k88*_gcl_au*MTQzNzg3NzQzOC4xNzM0OTIxODIy*_ga*MTMyMjM5MzQ1Ny4xNzM0OTIxODI0*_ga_YG4YCPR7LG*MTczNDkyMTgyMy4xLjEuMTczNDkyOTUzMi42MC4wLjA.&_ga=2.37160995.2002166528.1734921824-1322393457.1734921824",
+                "image": "assets/images/reciprocal-partnerships/alliance-network/New Zealand.jpg"
+            },
+            {
+                "name": {
+                    "en": "Philippines",
+                    "de": "Philippinen",
+                    "fr": "Philippines",
+                    "id": "Filipina"
+                },
+                "url": "https://karmaclub.karmagroup.com/member/search-book/affiliate/karma-alliance/?country=Philippines&_gl=1*ibp4zx*_gcl_au*MTQzNzg3NzQzOC4xNzM0OTIxODIy*_ga*MTMyMjM5MzQ1Ny4xNzM0OTIxODI0*_ga_YG4YCPR7LG*MTczNDkyMTgyMy4xLjEuMTczNDkyOTUzMi42MC4wLjA.&_ga=2.81142164.2002166528.1734921824-1322393457.1734921824",
+                "image": "assets/images/reciprocal-partnerships/alliance-network/Philippines.jpg"
+            },
+            {
+                "name": {
+                    "en": "Portugal",
+                    "de": "Portugal",
+                    "fr": "Portugal",
+                    "id": "Portugal"
+                },
+                "url": "https://karmaclub.karmagroup.com/member/search-book/affiliate/karma-alliance/?country=Portugal&_gl=1*ibp4zx*_gcl_au*MTQzNzg3NzQzOC4xNzM0OTIxODIy*_ga*MTMyMjM5MzQ1Ny4xNzM0OTIxODI0*_ga_YG4YCPR7LG*MTczNDkyMTgyMy4xLjEuMTczNDkyOTUzMi42MC4wLjA.&_ga=2.81142164.2002166528.1734921824-1322393457.1734921824",
+                "image": "assets/images/reciprocal-partnerships/alliance-network/Portugal.jpg"
+            },
+            {
+                "name": {
+                    "en": "Scotland",
+                    "de": "Schottland",
+                    "fr": "Écosse",
+                    "id": "Skotlandia"
+                },
+                "url": "https://karmaclub.karmagroup.com/member/search-book/affiliate/karma-alliance/?country=Scotland&_gl=1*ibp4zx*_gcl_au*MTQzNzg3NzQzOC4xNzM0OTIxODIy*_ga*MTMyMjM5MzQ1Ny4xNzM0OTIxODI0*_ga_YG4YCPR7LG*MTczNDkyMTgyMy4xLjEuMTczNDkyOTUzMi42MC4wLjA.&_ga=2.81142164.2002166528.1734921824-1322393457.1734921824",
+                "image": "assets/images/reciprocal-partnerships/alliance-network/Scotland.jpg"
+            },
+            {
+                "name": {
+                    "en": "South Africa",
+                    "de": "Südafrika",
+                    "fr": "Afrique du Sud",
+                    "id": "Afrika Selatan"
+                },
+                "url": "https://karmaclub.karmagroup.com/member/search-book/affiliate/karma-alliance/?country=South%20Africa&_gl=1*ibp4zx*_gcl_au*MTQzNzg3NzQzOC4xNzM0OTIxODIy*_ga*MTMyMjM5MzQ1Ny4xNzM0OTIxODI0*_ga_YG4YCPR7LG*MTczNDkyMTgyMy4xLjEuMTczNDkyOTUzMi42MC4wLjA.&_ga=2.81142164.2002166528.1734921824-1322393457.1734921824",
+                "image": "assets/images/reciprocal-partnerships/alliance-network/South Africa.jpg"
+            },
+            {
+                "name": {
+                    "en": "Spain",
+                    "de": "Spanien",
+                    "fr": "Espagne",
+                    "id": "Spanyol"
+                },
+                "url": "https://karmaclub.karmagroup.com/member/search-book/affiliate/karma-alliance/?country=Spain&_gl=1*ibp4zx*_gcl_au*MTQzNzg3NzQzOC4xNzM0OTIxODIy*_ga*MTMyMjM5MzQ1Ny4xNzM0OTIxODI0*_ga_YG4YCPR7LG*MTczNDkyMTgyMy4xLjEuMTczNDkyOTUzMi42MC4wLjA.&_ga=2.81142164.2002166528.1734921824-1322393457.1734921824",
+                "image": "assets/images/reciprocal-partnerships/alliance-network/Spain.jpg"
+            },
+            {
+                "name": {
+                    "en": "Thailand",
+                    "de": "Thailand",
+                    "fr": "Thaïlande",
+                    "id": "Thailand"
+                },
+                "url": "https://karmaclub.karmagroup.com/member/search-book/affiliate/karma-alliance/?country=Thailand&_gl=1*ibp4zx*_gcl_au*MTQzNzg3NzQzOC4xNzM0OTIxODIy*_ga*MTMyMjM5MzQ1Ny4xNzM0OTIxODI0*_ga_YG4YCPR7LG*MTczNDkyMTgyMy4xLjEuMTczNDkyOTUzMi42MC4wLjA.&_ga=2.81142164.2002166528.1734921824-1322393457.1734921824",
+                "image": "assets/images/reciprocal-partnerships/alliance-network/Thailand.jpg"
+            },
+            {
+                "name": {
+                    "en": "Turkey",
+                    "de": "Turkei",
+                    "fr": "Turquie",
+                    "id": "Turki"
+                },
+                "url": "https://karmaclub.karmagroup.com/member/search-book/affiliate/karma-alliance/?country=Turkey&_gl=1*95035u*_gcl_au*MTQzNzg3NzQzOC4xNzM0OTIxODIy*_ga*MTMyMjM5MzQ1Ny4xNzM0OTIxODI0*_ga_YG4YCPR7LG*MTczNDkyMTgyMy4xLjEuMTczNDkyOTUzMi42MC4wLjA.&_ga=2.238848771.2002166528.1734921824-1322393457.1734921824",
+                "image": "assets/images/reciprocal-partnerships/alliance-network/Turkey.jpg"
+            },
+            {
+                "name": {
+                    "en": "United States of America",
+                    "de": "Vereinigte Staaten von Amerika",
+                    "fr": "États-Unis d’Amérique",
+                    "id": "Amerika Serikat"
+                },
+                "url": "https://karmaclub.karmagroup.com/member/search-book/affiliate/karma-alliance/?country=United%20States%20of%20America&_gl=1*95035u*_gcl_au*MTQzNzg3NzQzOC4xNzM0OTIxODIy*_ga*MTMyMjM5MzQ1Ny4xNzM0OTIxODI0*_ga_YG4YCPR7LG*MTczNDkyMTgyMy4xLjEuMTczNDkyOTUzMi42MC4wLjA.&_ga=2.238848771.2002166528.1734921824-1322393457.1734921824",
+                "image": "assets/images/reciprocal-partnerships/alliance-network/USA.jpg"
+            },
+            {
+                "name": {
+                    "en": "Wales",
+                    "de": "Wales",
+                    "fr": "Pays de Galles",
+                    "id": "Wales"
+                },
+                "url": "https://karmaclub.karmagroup.com/member/search-book/affiliate/karma-alliance/?country=Wales&_gl=1*95035u*_gcl_au*MTQzNzg3NzQzOC4xNzM0OTIxODIy*_ga*MTMyMjM5MzQ1Ny4xNzM0OTIxODI0*_ga_YG4YCPR7LG*MTczNDkyMTgyMy4xLjEuMTczNDkyOTUzMi42MC4wLjA.&_ga=2.238848771.2002166528.1734921824-1322393457.1734921824",
+                "image": "assets/images/reciprocal-partnerships/alliance-network/Wales.jpg"
+            }
+        ]
+    },
+
+    "strategic": {
+        "title": {
+            "en": "Strategic Partnerships",
+            "de": "Strategische Partnerschaften",
+            "fr": "Partenariats stratégiques",
+            "id": "Kemitraan Strategis"
+        },
+        "description": {
+            "en": "These dynamic business collaborations provide complementary services or products to our Karma Group portfolio. Through these Strategic Partnerships, we hope to enrich our offerings and extend the array of benefits accessible to our esteemed Karma Group Members.",
+            "de": "Diese dynamischen Geschäftskooperationen bieten ergänzende Dienstleistungen oder Produkte zu unserem Portfolio der Karma Group. Durch diese strategischen Partnerschaften hoffen wir, unser Angebot zu bereichern und die Palette der Vorteile zu erweitern, die unseren geschätzten Mitgliedern der Karma Group zugänglich sind.",
+            "fr": "Ces collaborations commerciales dynamiques fournissent des services ou des produits complémentaires à notre portefeuille de Karma Group. Grâce à ces partenariats stratégiques, nous espérons enrichir nos offres et étendre la gamme d’avantages accessibles à nos estimés membres du groupe Karma.",
+            "id": "Kolaborasi bisnis yang dinamis ini memberikan layanan atau produk yang saling melengkapi portofolio Karma Group kami. Melalui Kemitraan Strategis ini, kami berharap dapat memperkaya penawaran kami dan memperluas serangkaian manfaat yang dapat diakses oleh Anggota Karma Group kami yang terhormat."
+        },
+        "logos": [
+            "assets/images/reciprocal-partnerships/strategic-partnerships/RCI.svg",
+            "assets/images/reciprocal-partnerships/strategic-partnerships/C.F.S..svg",
+            "assets/images/reciprocal-partnerships/strategic-partnerships/twoforone_REWARDS.svg",
+            "assets/images/reciprocal-partnerships/strategic-partnerships/7ACROSS.svg",
+            "assets/images/reciprocal-partnerships/strategic-partnerships/THE_REGISTRY_COLLECTION.svg",
+            "assets/images/reciprocal-partnerships/strategic-partnerships/maui.svg"
+        ]
+    }
+
+}

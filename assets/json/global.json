@@ -1,0 +1,154 @@
+{
+  "menus": {
+    "Home":{
+      "en": "Home",
+      "de": "Heim",
+      "fr": "Domicile",
+      "id": "Rumah"
+    },
+    "Destinations":{
+      "en": "Destinations",
+      "de": "Flugziele",
+      "fr": "Destinations",
+      "id": "Tujuan"
+    },
+    "Accolades":{
+      "en": "Accolades",
+      "de": "Auszeichnungen",
+      "fr": "Distinctions",
+      "id": "Penghargaan"
+    },
+    "Karma Club":{
+      "en": "Karma Club",
+      "de": "Karma Club",
+      "fr": "Karma Club",
+      "id": "Klub Karma"
+    },
+    "Philanthropy":{
+      "en": "Philanthropy",
+      "de": "Menschenliebe",
+      "fr": "Philanthropie",
+      "id": "Filantropi"
+    },
+    "Partnerships":{
+      "en": "Partnerships",
+      "de": "Partnerschaften",
+      "fr": "Partenariats",
+      "id": "Kemitraan"
+    },
+    "Community":{
+      "en": "Community",
+      "de": "Gemeinschaft",
+      "fr": "Communauté",
+      "id": "Masyarakat"
+    },
+    "Timeline":{
+      "en": "Karma Timeline",
+      "de": "Karma-Zeitleiste",
+      "fr": "Chronologie du karma",
+      "id": "Garis Waktu Karma"
+    },
+    "FAQs":{
+      "en": "FAQs",
+      "de": "FAQs",
+      "fr": "FAQs",
+      "id": "FAQs"
+    },
+    "Qualification":{
+      "en": "Qualification",
+      "de": "Qualifikation",
+      "fr": "Qualification",
+      "id": "Kualifikasi"
+    },
+    "Points Table":{
+      "en": "Points Table",
+      "de": "Punktetabelle",
+      "fr": "Tableau des points",
+      "id": "Tabel Poin"
+    },
+    "Good Karma":{
+      "en": "Good Karma",
+      "de": "Gutes Karma",
+      "fr": "Bon karma",
+      "id": "Karma yang baik"
+    },
+    "Language":{
+      "en": "Language",
+      "de": "Sprache",
+      "fr": "Langue",
+      "id": "Bahasa"
+    }
+  },
+
+  "labels": {
+    "all": {
+      "en": "All",
+      "de": "Alle",
+      "fr": "Tout",
+      "id": "Semua"
+    },
+    "view_all": {
+      "en": "View All",
+      "de": "Alle anzeigen",
+      "fr": "Voir tout",
+      "id": "Lihat Semua"
+    },
+    "view_less": {
+      "en": "View Less",
+      "de": "Weniger anzeigen",
+      "fr": "Voir moins",
+      "id": "Lihat Lebih Sedikit"
+    }
+  },
+  "errors": {
+    "Content not available": {
+      "en": "Content not available...",
+      "de": "Inhalt nicht verfügbar...",
+      "fr": "Contenu non disponible...",
+      "id": "Konten tidak tersedia..."
+    },
+    "No Images available": {
+      "en": "No Images available...",
+      "de": "Keine Bilder verfügbar...",
+      "fr": "Aucune image disponible...",
+      "id": "Tidak ada gambar tersedia..."
+    },
+    "Failed to load PDF": {
+      "en": "Failed to load PDF:",
+      "de": "PDF konnte nicht geladen werden:",
+      "fr": "Échec du chargement du PDF :",
+      "id": "Gagal memuat PDF:"
+    },
+    "No Countries found": {
+      "en": "No Countries found...",
+      "de": "Keine Länder gefunden...",
+      "fr": "Aucun pays trouvé...",
+      "id": "Tidak ada negara ditemukan..."
+    },
+    "No Place found": {
+      "en": "No Place found...",
+      "de": "Kein Ort gefunden...",
+      "fr": "Aucun lieu trouvé...",
+      "id": "Tidak ada tempat ditemukan..."
+    },
+    "No Properties found": {
+      "en": "No Properties found...",
+      "de": "Keine Eigenschaften gefunden...",
+      "fr": "Aucune propriété trouvée...",
+      "id": "Tidak ada properti ditemukan..."
+    },
+    "Error fetching data": {
+      "en": "Error fetching data...",
+      "de": "Fehler beim Abrufen der Daten...",
+      "fr": "Erreur lors de la récupération des données...",
+      "id": "Kesalahan mengambil data..."
+    },
+    "No events available": {
+      "en": "No events available....",
+      "de": "Keine Veranstaltungen verfügbar....",
+      "fr": "Aucun événement disponible....",
+      "id": "Tidak ada acara tersedia...."
+    }
+  }
+
+}

@@ -1,0 +1,1467 @@
+{
+    "title": {
+        "en": "Karma Group Properties",
+        "de": "Karma Group Immobilien",
+        "fr": "Propriétés du groupe Karma",
+        "id": "Properti Grup Karma"
+    },
+    "tabs": [
+        {
+            "en": "Karma Club",
+            "de": "Karma Club",
+            "fr": "Karma Club",
+            "id": "Karma Club"
+        },
+        {
+            "en": "Karma Club Elite",
+            "de": "Karma Club Elite",
+            "fr": "Karma Club Elite",
+            "id": "Karma Club Elite"
+        },
+        {
+            "en": "Karma Residences",
+            "de": "Karma Residences",
+            "fr": "Résidences Karma",
+            "id": "Karma Residences"
+        }
+    ],
+    "type": {
+        "Emerald": {
+            "en": "Emerald",
+            "de": "Emerald",
+            "fr": "Emerald",
+            "id": "Emerald"
+        },
+        "Titanium": {
+            "en": "Titanium",
+            "de": "Titanium",
+            "fr": "Titanium",
+            "id": "Titanium"
+        },
+        "Platinum": {
+            "en": "Platinum",
+            "de": "Platinum",
+            "fr": "Platinum",
+            "id": "Platinum"
+        },
+        "Silver": {
+            "en": "Silver",
+            "de": "Silver",
+            "fr": "Silver",
+            "id": "Silver"
+        }
+    },
+    "weekly": {
+            "en": "Weekly",
+            "de": "Wöchentlich",
+            "fr": "Hebdomadaire",
+            "id": "Mingguan"
+        },
+    "daily":{
+        "en": "Daily",
+        "de": "Täglich",
+        "fr": "Quotidien",
+        "id": "Harian"
+        },
+    "Red":{
+        "en": "Red",
+        "de": "Rot",
+        "fr": "Rouge",
+        "id": "Merah"
+    },
+    "White":{
+    "en": "White",
+    "de": "Weiß",
+    "fr": "Blanc",
+    "id": "Putih"
+    },
+    "Blue":{
+    "en": "Blue",
+    "de": "Blau",
+    "fr": "Bleu",
+    "id": "Biru"
+    },
+    "Reservation Programs": {
+            "en": "Reservation Programs",
+            "de": "Reservierungsprogramme",
+            "fr": "Programmes de réservation",
+            "id": "Program Reservasi"
+        },
+    "Multi Unit": {
+        "en": "Multi Unit",
+        "de": "Mehrfacheinheit",
+        "fr": "Multi-unité",
+        "id": "Unit Multi"
+    },
+    "club": {
+        "properties": {
+            "Emerald": [
+                {
+                    "en": "KRR @ Karma Kandara",
+                    "de": "KRR @ Karma Kandara",
+                    "fr": "KRR @ Karma Kandara",
+                    "id": "KRR @ Karma Kandara"
+                },
+                {
+                    "en": "KRR @ Karma Bavaria",
+                    "de": "KRR @ Karma Bavaria",
+                    "fr": "KRR @ Karma Bavaria",
+                    "id": "KRR @ Karma Bavaria"
+                },
+                {
+                    "en": "KRR @ Karma Royal Haathi Mahal",
+                    "de": "KRR @ Karma Royal Haathi Mahal",
+                    "fr": "KRR @ Karma Royal Haathi Mahal",
+                    "id": "KRR @ Karma Royal Haathi Mahal"
+                },
+                {
+                    "en": "KRR @ Karma Borgo di Colleoli",
+                    "de": "KRR @ Karma Borgo di Colleoli",
+                    "fr": "KRR @ Karma Borgo di Colleoli",
+                    "id": "KRR @ Karma Borgo di Colleoli"
+                },
+                {
+                    "en": "Karma Chateau de Samary",
+                    "de": "Karma Chateau de Samary",
+                    "fr": "Karma Chateau de Samary",
+                    "id": "Karma Chateau de Samary"
+                },
+                {
+                    "en": "Karma Fushi",
+                    "de": "Karma Fushi",
+                    "fr": "Karma Fushi",
+                    "id": "Karma Fushi"
+                },
+                {
+                    "en": "Karma St. Martin’s",
+                    "de": "Karma St. Martin’s",
+                    "fr": "Karma St. Martin’s",
+                    "id": "Karma St. Martin’s"
+                }
+            ],
+            "Titanium": [
+                {
+                    "en": "Karma Bayon",
+                    "de": "Karma Bayon",
+                    "fr": "Karma Bayon",
+                    "id": "Karma Bayon"
+                },
+                {
+                    "en": "Imperial Apartments",
+                    "de": "Imperial Apartments",
+                    "fr": "Imperial Apartments",
+                    "id": "Imperial Apartments"
+                },
+                {
+                    "en": "Karma Salford Hall",
+                    "de": "Karma Salford Hall",
+                    "fr": "Karma Salford Hall",
+                    "id": "Karma Salford Hall"
+                },
+                {
+                    "en": "Karma Seven Lakes",
+                    "de": "Karma Seven Lakes",
+                    "fr": "Karma Seven Lakes",
+                    "id": "Karma Seven Lakes"
+                },
+                {
+                    "en": "Karma Lake of Menteith",
+                    "de": "Karma Lake of Menteith",
+                    "fr": "Karma Lake of Menteith",
+                    "id": "Karma Lake of Menteith"
+                },
+                {
+                    "en": "Karma Karnak (Suites)",
+                    "de": "Karma Karnak (Suites)",
+                    "fr": "Karma Karnak (Suites)",
+                    "id": "Karma Karnak (Suites)"
+                },
+                {
+                    "en": "Karma La Herriza",
+                    "de": "Karma La Herriza",
+                    "fr": "Karma La Herriza",
+                    "id": "Karma La Herriza"
+                },
+                {
+                    "en": "Karma Minoan",
+                    "de": "Karma Minoan",
+                    "fr": "Karma Minoan",
+                    "id": "Karma Minoan"
+                }
+
+            ],
+            "Platinum": [
+                {
+                    "en": "Karma Haveli",
+                    "de": "Karma Haveli",
+                    "fr": "Karma Haveli",
+                    "id": "Karma Haveli"
+                },
+                {
+                    "en": "Karma Chakra",
+                    "de": "Karma Chakra",
+                    "fr": "Karma Chakra",
+                    "id": "Karma Chakra"
+                },
+                {
+                    "en": "Karma Royal Palms",
+                    "de": "Karma Royal Palms",
+                    "fr": "Karma Royal Palms",
+                    "id": "Karma Royal Palms"
+                },
+                {
+                    "en": "Karma Royal MonteRio",
+                    "de": "Karma Royal MonteRio",
+                    "fr": "Karma Royal MonteRio",
+                    "id": "Karma Royal MonteRio"
+                },
+                {
+                    "en": "Karma Royal Jimbaran",
+                    "de": "Karma Royal Jimbaran",
+                    "fr": "Karma Royal Jimbaran",
+                    "id": "Karma Royal Jimbaran"
+                },
+                {
+                    "en": "Karma Sitabani",
+                    "de": "Karma Sitabani",
+                    "fr": "Karma Sitabani",
+                    "id": "Karma Sitabani"
+                },
+                {
+                    "en": "Karma Song Hoai",
+                    "de": "Karma Song Hoai",
+                    "fr": "Karma Song Hoai",
+                    "id": "Karma Song Hoai"
+                },
+                {
+                    "en": "Karma Martam Retreat",
+                    "de": "Karma Martam Retreat",
+                    "fr": "Karma Martam Retreat",
+                    "id": "Karma Martam Retreat"
+                },
+                {
+                    "en": "Karma Munnar",
+                    "de": "Karma Munnar",
+                    "fr": "Karma Munnar",
+                    "id": "Karma Munnar"
+                },
+                {
+                    "en": "Karma Karnak (Standard Cabins)",
+                    "de": "Karma Karnak (Standard Cabins)",
+                    "fr": "Karma Karnak (Standard Cabins)",
+                    "id": "Karma Karnak (Standard Cabins)"
+                },
+                {
+                    "en": "Karma Utopia",
+                    "de": "Karma Utopia",
+                    "fr": "Karma Utopia",
+                    "id": "Karma Utopia"
+                },
+                {
+                    "en": "Karma Lakewood",
+                    "de": "Karma Lakewood",
+                    "fr": "Karma Lakewood",
+                    "id": "Karma Lakewood"
+                },
+                {
+                    "en": "Karma Tashi",
+                    "de": "Karma Tashi",
+                    "fr": "Karma Tashi",
+                    "id": "Karma Tashi"
+                }
+            ],
+            "Silver": [
+                {
+                    "en": "Karma Royal Candidasa",
+                    "de": "Karma Royal Candidasa",
+                    "fr": "Karma Royal Candidasa",
+                    "id": "Karma Royal Candidasa"
+                },
+                {
+                    "en": "Karma Royal Sanur",
+                    "de": "Karma Royal Sanur",
+                    "fr": "Karma Royal Sanur",
+                    "id": "Karma Royal Sanur"
+                },
+                {
+                    "en": "Karma Royal Boat Lagoon",
+                    "de": "Karma Royal Boat Lagoon",
+                    "fr": "Karma Royal Boat Lagoon",
+                    "id": "Karma Royal Boat Lagoon"
+                },
+                {
+                    "en": "Karma Sunshine Village",
+                    "de": "Karma Sunshine Village",
+                    "fr": "Karma Sunshine Village",
+                    "id": "Karma Sunshine Village"
+                },
+                {
+                    "en": "Karma Golden Camp",
+                    "de": "Karma Golden Camp",
+                    "fr": "Karma Golden Camp",
+                    "id": "Karma Golden Camp"
+                },
+                {
+                    "en": "Karma Panalee",
+                    "de": "Karma Panalee",
+                    "fr": "Karma Panalee",
+                    "id": "Karma Panalee"
+                },
+                {
+                    "en": "Affiliates",
+                    "de": "Affiliates",
+                    "fr": "Affiliates",
+                    "id": "Affiliates"
+                }
+            ]
+
+        },
+        "labels": [
+            {
+                "en": "Two Bedroom Combination (8 x person)",
+                "de": "Zwei Schlafzimmer Kombination (8 x person)",
+                "fr": "Combinaison de deux chambres (8 x person)",
+                "id": "Kombinasi Dua Kamar Tidur (8 x person)"
+            },
+            {
+                "en": "Two Bedroom (6 x person)",
+                "de": "Zwei Schlafzimmer (6 x person)",
+                "fr": "Deux chambres (6 x person)",
+                "id": "Dua Kamar Tidur (6 x person)"
+            },
+            {
+                "en": "One Bedroom (4 x person)",
+                "de": "Ein Schlafzimmer (4 x person)",
+                "fr": "Une chambre (4 x person)",
+                "id": "Satu Kamar Tidur (4 x person)"
+            },
+            {
+                "en": "Studio (2 x person)",
+                "de": "Studio (2 x person)",
+                "fr": "Studio (2 x person)",
+                "id": "Studio (2 x person)"
+            }
+        ],
+        "points": {
+            "Emerald": {
+                "weekly": [
+                    [],
+                    ["315", "290", "268"],
+                    ["263", "242", "224"],
+                    ["210", "193", "179"]
+                ],
+                "daily": [
+                    [],
+                    ["63", "58", "54"],
+                    ["53", "48", "44"],
+                    ["43", "38", "35"]
+                ]
+            },
+            "Titanium": {
+                "weekly": [
+                    [],
+                    ["223", "207", "190"],
+                    ["185", "171", "158"],
+                    ["147", "136", "125"]
+                ],
+                "daily": [
+                    [],
+                    ["44", "41", "38"],
+                    ["36", "34", "31"],
+                    ["29", "26", "25"]
+                ]
+            },
+            "Platinum": {
+                "weekly": [
+                    ["231", "212", "193"],
+                    ["198", "182", "165"],
+                    ["165", "151", "138"],
+                    ["132", "121", "110"]
+                ],
+                "daily": [
+                    ["45", "41", "38"],
+                    ["39", "36", "33"],
+                    ["33", "30", "28"],
+                    ["26", "24", "21"]
+                ]
+            },
+            "Silver": {
+                "weekly": [
+                    [],
+                    ["180", "165", "150"],
+                    ["150", "138", "125"],
+                    ["120", "110", "100"]
+                ],
+                "daily": [
+                    [],
+                    ["28", "26", "24"],
+                    ["24", "22", "20"],
+                    ["19", "17", "16"]
+                ]
+            }
+        },
+        "reservation": [
+            {
+                "en": "Early Bird - 50% discount on bookings confirmed a minimum of 12 months prior to check in.",
+                "de": "Frühbucher - 50% Rabatt auf Buchungen, die mindestens 12 Monate vor dem Check-in bestätigt werden.",
+                "fr": "Early Bird - 50% de réduction sur les réservations confirmées au moins 12 mois avant l'enregistrement.",
+                "id": "Early Bird - Diskon 50% untuk pemesanan yang dikonfirmasi minimal 12 bulan sebelum check-in."
+            },
+            {
+                "en": "Late Breaks - 50% discount on bookings confirmed less than 45 days prior to check in.",
+                "de": "Last-Minute-Angebote - 50% Rabatt auf Buchungen, die weniger als 45 Tage vor dem Check-in bestätigt werden.",
+                "fr": "Late Breaks - 50% de réduction sur les réservations confirmées moins de 45 jours avant l'enregistrement.",
+                "id": "Late Breaks - Diskon 50% untuk pemesanan yang dikonfirmasi kurang dari 45 hari sebelum check-in."
+            },
+            {
+                "en": "Short Breaks - 4 nights @ 60% of the normal weekly rate.",
+                "de": "Kurzurlaube - 4 Nächte zu 60% des normalen Wochenpreises.",
+                "fr": "Courts séjours - 4 nuits à 60% du tarif hebdomadaire normal.",
+                "id": "Short Breaks - 4 malam @ 60% dari tarif mingguan normal."
+            },
+            {
+                "en": "These programs do not apply to Karma Fushi, Karma Karnak, Peak Periods, Imperial or Fractional inventory.",
+                "de": "Diese Programme gelten nicht für Karma Fushi, Karma Karnak, Spitzenzeiten, Imperial oder Fractional Inventory.",
+                "fr": "Ces programmes ne s'appliquent pas à Karma Fushi, Karma Karnak, les périodes de pointe, Imperial ou les inventaires fractionnés.",
+                "id": "Program ini tidak berlaku untuk Karma Fushi, Karma Karnak, Periode Puncak, Imperial atau inventaris Fraksional."
+            }
+        ]
+
+    },
+    "elite": {
+        "properties": {
+            "default": [
+                {
+                    "en": "KRR @ Karma Kandara",
+                    "de": "KRR @ Karma Kandara",
+                    "fr": "KRR @ Karma Kandara",
+                    "id": "KRR @ Karma Kandara"
+                },
+                {
+                    "en": "KRR @ Karma Bavaria",
+                    "de": "KRR @ Karma Bavaria",
+                    "fr": "KRR @ Karma Bavaria",
+                    "id": "KRR @ Karma Bavaria"
+                },
+                {
+                    "en": "KRR @ Karma Royal Haathi Mahal",
+                    "de": "KRR @ Karma Royal Haathi Mahal",
+                    "fr": "KRR @ Karma Royal Haathi Mahal",
+                    "id": "KRR @ Karma Royal Haathi Mahal"
+                },
+                {
+                    "en": "KRR @ Karma Borgo di Colleoli",
+                    "de": "KRR @ Karma Borgo di Colleoli",
+                    "fr": "KRR @ Karma Borgo di Colleoli",
+                    "id": "KRR @ Karma Borgo di Colleoli"
+                },
+                {
+                    "en": "Karma Borgo di Colleoli (Suites)",
+                    "de": "Karma Borgo di Colleoli (Suites)",
+                    "fr": "Karma Borgo di Colleoli (Suites)",
+                    "id": "Karma Borgo di Colleoli (Suites)"
+                },
+                {
+                    "en": "Karma Minoan",
+                    "de": "Karma Minoan",
+                    "fr": "Karma Minoan",
+                    "id": "Karma Minoan"
+                },
+                {
+                    "en": "Karma Fushi",
+                    "de": "Karma Fushi",
+                    "fr": "Karma Fushi",
+                    "id": "Karma Fushi"
+                },
+                {
+                    "en": "Karma St. Martin’s",
+                    "de": "Karma St. Martin’s",
+                    "fr": "Karma St. Martin’s",
+                    "id": "Karma St. Martin’s"
+                },
+                {
+                    "en": "Karma Bavaria",
+                    "de": "Karma Bavaria",
+                    "fr": "Karma Bavaria",
+                    "id": "Karma Bavaria"
+                },
+                {
+                    "en": "Karma Bayon",
+                    "de": "Karma Bayon",
+                    "fr": "Karma Bayon",
+                    "id": "Karma Bayon"
+                },
+                {
+                    "en": "Karma Borgo di Colleoli (Apartments)",
+                    "de": "Karma Borgo di Colleoli (Apartments)",
+                    "fr": "Karma Borgo di Colleoli (Apartments)",
+                    "id": "Karma Borgo di Colleoli (Apartments)"
+                },
+                {
+                    "en": "Imperial Apartments",
+                    "de": "Imperial Apartments",
+                    "fr": "Imperial Apartments",
+                    "id": "Imperial Apartments"
+                },
+                {
+                    "en": "Karma Salford Hall",
+                    "de": "Karma Salford Hall",
+                    "fr": "Karma Salford Hall",
+                    "id": "Karma Salford Hall"
+                },
+                {
+                    "en": "Karma Seven Lakes",
+                    "de": "Karma Seven Lakes",
+                    "fr": "Karma Seven Lakes",
+                    "id": "Karma Seven Lakes"
+                },
+                {
+                    "en": "Karma La Herriza",
+                    "de": "Karma La Herriza",
+                    "fr": "Karma La Herriza",
+                    "id": "Karma La Herriza"
+                },
+                {
+                    "en": "Karma Lake of Menteith",
+                    "de": "Karma Lake of Menteith",
+                    "fr": "Karma Lake of Menteith",
+                    "id": "Karma Lake of Menteith"
+                },
+                {
+                    "en": "Karma Karnak",
+                    "de": "Karma Karnak",
+                    "fr": "Karma Karnak",
+                    "id": "Karma Karnak"
+                },
+                {
+                    "en": "Karma Chateau de Samary",
+                    "de": "Karma Chateau de Samary",
+                    "fr": "Karma Chateau de Samary",
+                    "id": "Karma Chateau de Samary"
+                },
+                {
+                    "en": "Karma Haveli",
+                    "de": "Karma Haveli",
+                    "fr": "Karma Haveli",
+                    "id": "Karma Haveli"
+                },
+                {
+                    "en": "Karma Chakra",
+                    "de": "Karma Chakra",
+                    "fr": "Karma Chakra",
+                    "id": "Karma Chakra"
+                },
+                {
+                    "en": "Karma Royal Boat Lagoon",
+                    "de": "Karma Royal Boat Lagoon",
+                    "fr": "Karma Royal Boat Lagoon",
+                    "id": "Karma Royal Boat Lagoon"
+                },
+                {
+                    "en": "Karma Royal Palms",
+                    "de": "Karma Royal Palms",
+                    "fr": "Karma Royal Palms",
+                    "id": "Karma Royal Palms"
+                },
+                {
+                    "en": "Karma Royal MonteRio",
+                    "de": "Karma Royal MonteRio",
+                    "fr": "Karma Royal MonteRio",
+                    "id": "Karma Royal MonteRio"
+                },
+                {
+                    "en": "Karma Royal Haathi Mahal",
+                    "de": "Karma Royal Haathi Mahal",
+                    "fr": "Karma Royal Haathi Mahal",
+                    "id": "Karma Royal Haathi Mahal"
+                },
+                {
+                    "en": "Karma Royal Jimbaran",
+                    "de": "Karma Royal Jimbaran",
+                    "fr": "Karma Royal Jimbaran",
+                    "id": "Karma Royal Jimbaran"
+                },
+                {
+                    "en": "Karma Sitabani",
+                    "de": "Karma Sitabani",
+                    "fr": "Karma Sitabani",
+                    "id": "Karma Sitabani"
+                },
+                {
+                    "en": "Karma Song Hoai",
+                    "de": "Karma Song Hoai",
+                    "fr": "Karma Song Hoai",
+                    "id": "Karma Song Hoai"
+                },
+                {
+                    "en": "Karma Martam Retreat",
+                    "de": "Karma Martam Retreat",
+                    "fr": "Karma Martam Retreat",
+                    "id": "Karma Martam Retreat"
+                },
+                {
+                    "en": "Karma Munnar",
+                    "de": "Karma Munnar",
+                    "fr": "Karma Munnar",
+                    "id": "Karma Munnar"
+                },
+                {
+                    "en": "Karma Utopia",
+                    "de": "Karma Utopia",
+                    "fr": "Karma Utopia",
+                    "id": "Karma Utopia"
+                },
+                {
+                    "en": "Karma Lakewood",
+                    "de": "Karma Lakewood",
+                    "fr": "Karma Lakewood",
+                    "id": "Karma Lakewood"
+                },
+                {
+                    "en": "Karma Royal Candidasa",
+                    "de": "Karma Royal Candidasa",
+                    "fr": "Karma Royal Candidasa",
+                    "id": "Karma Royal Candidasa"
+                },
+                {
+                    "en": "Karma Royal Sanur",
+                    "de": "Karma Royal Sanur",
+                    "fr": "Karma Royal Sanur",
+                    "id": "Karma Royal Sanur"
+                },
+                {
+                    "en": "Karma Sunshine Village",
+                    "de": "Karma Sunshine Village",
+                    "fr": "Karma Sunshine Village",
+                    "id": "Karma Sunshine Village"
+                },
+                {
+                    "en": "Karma Concierge Affiliates",
+                    "de": "Karma Concierge Affiliates",
+                    "fr": "Karma Concierge Affiliates",
+                    "id": "Karma Concierge Affiliates"
+                },
+                {
+                    "en": "Karma Golden Camp",
+                    "de": "Karma Golden Camp",
+                    "fr": "Karma Golden Camp",
+                    "id": "Karma Golden Camp"
+                },
+                {
+                    "en": "Karma Panalee",
+                    "de": "Karma Panalee",
+                    "fr": "Karma Panalee",
+                    "id": "Karma Panalee"
+                }
+            ]
+        },
+        "labels": [
+            {
+                "en": "Three Bedroom (8 x person) OR Two Bedroom Combination (8 x person)",
+                "de": "Drei Schlafzimmer (8 x person) ODER Zwei Schlafzimmer Kombination (8 x person)",
+                "fr": "Trois chambres (8 x person) OU Combinaison de deux chambres (8 x person)",
+                "id": "Tiga Kamar Tidur (8 x person) ATAU Kombinasi Dua Kamar Tidur (8 x person)"
+            },
+            {
+                "en": "Two Bedroom (6 x person)",
+                "de": "Zwei Schlafzimmer (6 x person)",
+                "fr": "Deux chambres (6 x person)",
+                "id": "Dua Kamar Tidur (6 x person)"
+            },
+            {
+                "en": "One Bedroom (4 x person)",
+                "de": "Ein Schlafzimmer (4 x person)",
+                "fr": "Une chambre (4 x person)",
+                "id": "Satu Kamar Tidur (4 x person)"
+            },
+            {
+                "en": "Studio (2 x person)",
+                "de": "Studio (2 x person)",
+                "fr": "Studio (2 x person)",
+                "id": "Studio (2 x person)"
+            }
+        ],
+        "points": {
+           "default": {
+                "weekly": [
+                    [
+                        "231",
+                        "212",
+                        "193"
+                    ],
+                    [
+                        "198",
+                        "182",
+                        "165"
+                    ],
+                    [
+                        "165",
+                        "151",
+                        "138"
+                    ],
+                    [
+                        "132",
+                        "121",
+                        "110"
+                    ]
+                ],
+                "daily": [
+                    [
+                        "231",
+                        "212",
+                        "193"
+                    ],
+                    [
+                        "198",
+                        "182",
+                        "165"
+                    ],
+                    [
+                        "165",
+                        "151",
+                        "138"
+                    ],
+                    [
+                        "132",
+                        "121",
+                        "110"
+                    ]
+                ]
+            }
+},
+        "multiunit": [
+            [
+                {
+                    "en": "1 x Two Bedroom (6 x person) plus 1 x Studio (2 x person)",
+                    "de": "1 x Zwei Schlafzimmer (6 x person) plus 1 x Studio (2 x person)",
+                    "fr": "1 x Deux chambres (6 x person) plus 1 x Studio (2 x person)",
+                    "id": "1 x Dua Kamar Tidur (6 x person) plus 1 x Studio (2 x person)"
+                },
+                {
+                    "en": "OR 2 x One Bedroom (4 x person)",
+                    "de": "ODER 2 x Ein Schlafzimmer (4 x person)",
+                    "fr": "OU 2 x Une chambre (4 x person)",
+                    "id": "ATAU 2 x Satu Kamar Tidur (4 x person)"
+                },
+                {
+                    "en": "OR 1 x One Bedroom (4 x person) plus 2 x Studios (2 x person)",
+                    "de": "ODER 1 x Ein Schlafzimmer (4 x person) plus 2 x Studios (2 x person)",
+                    "fr": "OU 1 x Une chambre (4 x person) plus 2 x Studios (2 x person)",
+                    "id": "ATAU 1 x Satu Kamar Tidur (4 x person) plus 2 x Studio (2 x person)"
+                },
+                {
+                    "en": "OR 4 x Studios (2 x person)",
+                    "de": "ODER 4 x Studios (2 x person)",
+                    "fr": "OU 4 x Studios (2 x person)",
+                    "id": "ATAU 4 x Studio (2 x person)"
+                }
+            ],
+            [
+                {
+                    "en": "1 x Two Bedroom (6 x person) plus 1 x Studios (2 x person)",
+                    "de": "1 x Zwei Schlafzimmer (6 x person) plus 1 x Studios (2 x person)",
+                    "fr": "1 x Deux chambres (6 x person) plus 1 x Studios (2 x person)",
+                    "id": "1 x Dua Kamar Tidur (6 x person) plus 1 x Studio (2 x person)"
+                },
+                {
+                    "en": "OR 1 x One Bedroom (4 x person) plus 1 x Studios (2 x person)",
+                    "de": "ODER 1 x Ein Schlafzimmer (4 x person) plus 1 x Studios (2 x person)",
+                    "fr": "OU 1 x Une chambre (4 x person) plus 1 x Studios (2 x person)",
+                    "id": "ATAU 1 x Satu Kamar Tidur (4 x person) plus 1 x Studio (2 x person)"
+                },
+                {
+                    "en": "OR 3 x Studios (2 x person)",
+                    "de": "ODER 3 x Studios (2 x person)",
+                    "fr": "OU 3 x Studios (2 x person)",
+                    "id": "ATAU 3 x Studio (2 x person)"
+                }
+            ],
+            [
+                {
+                    "en": "1 x One Bedroom (1 x person)",
+                    "de": "1 x Ein Schlafzimmer (1 x person)",
+                    "fr": "1 x Une chambre (1 x person)",
+                    "id": "1 x Satu Kamar Tidur (1 x person)"
+                },
+                {
+                    "en": "OR 2 x Studios (2 x person)",
+                    "de": "ODER 2 x Studios (2 x person)",
+                    "fr": "OU 2 x Studios (2 x person)",
+                    "id": "ATAU 2 x Studio (2 x person)"
+                }
+            ],
+            [
+                {
+                    "en": "1 x Studios (2 x person)",
+                    "de": "1 x Studios (2 x person)",
+                    "fr": "1 x Studios (2 x person)",
+                    "id": "1 x Studio (2 x person)"
+                }
+            ]
+        ],
+        "reservation": [
+            {
+                "en": "Early Bird - 50% discount on bookings confirmed a minimum of 12 months prior to check in.",
+                "de": "Frühbucher - 50% Rabatt auf Buchungen, die mindestens 12 Monate vor dem Check-in bestätigt werden.",
+                "fr": "Early Bird - 50% de réduction sur les réservations confirmées au moins 12 mois avant l'enregistrement.",
+                "id": "Early Bird - Diskon 50% untuk pemesanan yang dikonfirmasi minimal 12 bulan sebelum check-in."
+            },
+            {
+                "en": "Late Breaks - 50% discount on bookings confirmed less than 45 days prior to check in.",
+                "de": "Last-Minute-Angebote - 50% Rabatt auf Buchungen, die weniger als 45 Tage vor dem Check-in bestätigt werden.",
+                "fr": "Late Breaks - 50% de réduction sur les réservations confirmées moins de 45 jours avant l'enregistrement.",
+                "id": "Late Breaks - Diskon 50% untuk pemesanan yang dikonfirmasi kurang dari 45 hari sebelum check-in."
+            },
+            {
+                "en": "Short Breaks - 4 nights @ 60% of the normal weekly rate.",
+                "de": "Kurzurlaube - 4 Nächte zu 60% des normalen Wochenpreises.",
+                "fr": "Courts séjours - 4 nuits à 60% du tarif hebdomadaire normal.",
+                "id": "Short Breaks - 4 malam @ 60% dari tarif mingguan normal."
+            },
+            {
+                "en": "Multi Unit - only valid against reservations confirmed in the same property for the same dates.",
+                "de": "Mehrfacheinheit - nur gültig für Reservierungen, die im selben Objekt für dieselben Daten bestätigt wurden.",
+                "fr": "Multi-unité - valable uniquement pour les réservations confirmées dans la même propriété pour les mêmes dates.",
+                "id": "Unit Multi - hanya berlaku untuk reservasi yang dikonfirmasi di properti yang sama untuk tanggal yang sama."
+            },
+            {
+                "en": "These programs do not apply to Karma Fushi, Karma Karnak, Peak Periods, Imperial or Fractional inventory.",
+                "de": "Diese Programme gelten nicht für Karma Fushi, Karma Karnak, Spitzenzeiten, Imperial oder Fractional Inventory.",
+                "fr": "Ces programmes ne s'appliquent pas à Karma Fushi, Karma Karnak, les périodes de pointe, Imperial ou les inventaires fractionnés.",
+                "id": "Program ini tidak berlaku untuk Karma Fushi, Karma Karnak, Periode Puncak, Imperial atau inventaris Fraksional."
+            }
+        ]
+    },
+    "royal": {
+        "properties": {
+            "Emerald": [
+                {
+                    "en": "KRR @ Karma Kandara",
+                    "de": "KRR @ Karma Kandara",
+                    "fr": "KRR @ Karma Kandara",
+                    "id": "KRR @ Karma Kandara"
+                },
+                {
+                    "en": "KRR @ Karma Bavaria",
+                    "de": "KRR @ Karma Bavaria",
+                    "fr": "KRR @ Karma Bavaria",
+                    "id": "KRR @ Karma Bavaria"
+                },
+                {
+                    "en": "KRR @ Karma Royal Haathi Mahal",
+                    "de": "KRR @ Karma Royal Haathi Mahal",
+                    "fr": "KRR @ Karma Royal Haathi Mahal",
+                    "id": "KRR @ Karma Royal Haathi Mahal"
+                },
+                {
+                    "en": "KRR @ Karma Borgo di Colleoli",
+                    "de": "KRR @ Karma Borgo di Colleoli",
+                    "fr": "KRR @ Karma Borgo di Colleoli",
+                    "id": "KRR @ Karma Borgo di Colleoli"
+                },
+                {
+                    "en": "Karma Borgo di Colleoli (Suites)",
+                    "de": "Karma Borgo di Colleoli (Suites)",
+                    "fr": "Karma Borgo di Colleoli (Suites)",
+                    "id": "Karma Borgo di Colleoli (Suites)"
+                },
+                {
+                    "en": "Karma Minoan",
+                    "de": "Karma Minoan",
+                    "fr": "Karma Minoan",
+                    "id": "Karma Minoan"
+                },
+                {
+                    "en": "Karma Fushi",
+                    "de": "Karma Fushi",
+                    "fr": "Karma Fushi",
+                    "id": "Karma Fushi"
+                }
+            ],
+            "Titanium": [
+                {
+                    "en": "Karma St. Martin’s",
+                    "de": "Karma St. Martin’s",
+                    "fr": "Karma St. Martin’s",
+                    "id": "Karma St. Martin’s"
+                },
+                {
+                    "en": "Karma Bavaria",
+                    "de": "Karma Bavaria",
+                    "fr": "Karma Bavaria",
+                    "id": "Karma Bavaria"
+                },
+                {
+                    "en": "Karma Bayon",
+                    "de": "Karma Bayon",
+                    "fr": "Karma Bayon",
+                    "id": "Karma Bayon"
+                },
+                {
+                    "en": "Karma Borgo di Colleoli (Apartments)",
+                    "de": "Karma Borgo di Colleoli (Apartments)",
+                    "fr": "Karma Borgo di Colleoli (Apartments)",
+                    "id": "Karma Borgo di Colleoli (Apartments)"
+                },
+                {
+                    "en": "Imperial Apartments",
+                    "de": "Imperial Apartments",
+                    "fr": "Imperial Apartments",
+                    "id": "Imperial Apartments"
+                },
+                {
+                    "en": "Karma Salford Hall",
+                    "de": "Karma Salford Hall",
+                    "fr": "Karma Salford Hall",
+                    "id": "Karma Salford Hall"
+                },
+                {
+                    "en": "Karma Seven Lakes",
+                    "de": "Karma Seven Lakes",
+                    "fr": "Karma Seven Lakes",
+                    "id": "Karma Seven Lakes"
+                },
+                {
+                    "en": "Karma La Herriza",
+                    "de": "Karma La Herriza",
+                    "fr": "Karma La Herriza",
+                    "id": "Karma La Herriza"
+                },
+                {
+                    "en": "Karma Lake of Menteith",
+                    "de": "Karma Lake of Menteith",
+                    "fr": "Karma Lake of Menteith",
+                    "id": "Karma Lake of Menteith"
+                },
+                {
+                    "en": "Karma Karnak (Suites)",
+                    "de": "Karma Karnak (Suites)",
+                    "fr": "Karma Karnak (Suites)",
+                    "id": "Karma Karnak (Suites)"
+                },
+                {
+                    "en": "Karma Chateau de Samary",
+                    "de": "Karma Chateau de Samary",
+                    "fr": "Karma Chateau de Samary",
+                    "id": "Karma Chateau de Samary"
+                }
+            ],
+            "Platinum": [
+                {
+                    "en": "Karma Haveli",
+                    "de": "Karma Haveli",
+                    "fr": "Karma Haveli",
+                    "id": "Karma Haveli"
+                },
+                {
+                    "en": "Karma Chakra",
+                    "de": "Karma Chakra",
+                    "fr": "Karma Chakra",
+                    "id": "Karma Chakra"
+                },
+                {
+                    "en": "Karma Royal Boat Lagoon",
+                    "de": "Karma Royal Boat Lagoon",
+                    "fr": "Karma Royal Boat Lagoon",
+                    "id": "Karma Royal Boat Lagoon"
+                },
+                {
+                    "en": "Karma Royal Palms",
+                    "de": "Karma Royal Palms",
+                    "fr": "Karma Royal Palms",
+                    "id": "Karma Royal Palms"
+                },
+                {
+                    "en": "Karma Royal MonteRio",
+                    "de": "Karma Royal MonteRio",
+                    "fr": "Karma Royal MonteRio",
+                    "id": "Karma Royal MonteRio"
+                },
+                {
+                    "en": "Karma Royal Haathi Mahal",
+                    "de": "Karma Royal Haathi Mahal",
+                    "fr": "Karma Royal Haathi Mahal",
+                    "id": "Karma Royal Haathi Mahal"
+                },
+                {
+                    "en": "Karma Royal Jimbaran",
+                    "de": "Karma Royal Jimbaran",
+                    "fr": "Karma Royal Jimbaran",
+                    "id": "Karma Royal Jimbaran"
+                },
+                {
+                    "en": "Karma Sitabani",
+                    "de": "Karma Sitabani",
+                    "fr": "Karma Sitabani",
+                    "id": "Karma Sitabani"
+                },
+                {
+                    "en": "Karma Song Hoai",
+                    "de": "Karma Song Hoai",
+                    "fr": "Karma Song Hoai",
+                    "id": "Karma Song Hoai"
+                },
+                {
+                    "en": "Karma Martam Retreat",
+                    "de": "Karma Martam Retreat",
+                    "fr": "Karma Martam Retreat",
+                    "id": "Karma Martam Retreat"
+                },
+                {
+                    "en": "Karma Munnar",
+                    "de": "Karma Munnar",
+                    "fr": "Karma Munnar",
+                    "id": "Karma Munnar"
+                },
+                {
+                    "en": "Karma Karnak (Standard Cabins)",
+                    "de": "Karma Karnak (Standard Cabins)",
+                    "fr": "Karma Karnak (Standard Cabins)",
+                    "id": "Karma Karnak (Standard Cabins)"
+                },
+                {
+                    "en": "Karma Utopia",
+                    "de": "Karma Utopia",
+                    "fr": "Karma Utopia",
+                    "id": "Karma Utopia"
+                },
+                {
+                    "en": "Karma Lakewood",
+                    "de": "Karma Lakewood",
+                    "fr": "Karma Lakewood",
+                    "id": "Karma Lakewood"
+                }
+            ],
+            "Silver": [
+                {
+                    "en": "Karma Royal Candidasa",
+                    "de": "Karma Royal Candidasa",
+                    "fr": "Karma Royal Candidasa",
+                    "id": "Karma Royal Candidasa"
+                },
+                {
+                    "en": "Karma Royal Sanur",
+                    "de": "Karma Royal Sanur",
+                    "fr": "Karma Royal Sanur",
+                    "id": "Karma Royal Sanur"
+                },
+                {
+                    "en": "Karma Sunshine Village",
+                    "de": "Karma Sunshine Village",
+                    "fr": "Karma Sunshine Village",
+                    "id": "Karma Sunshine Village"
+                },
+                {
+                    "en": "Karma Concierge Affiliates",
+                    "de": "Karma Concierge Affiliates",
+                    "fr": "Karma Concierge Affiliates",
+                    "id": "Karma Concierge Affiliates"
+                },
+                {
+                    "en": "Karma Golden Camp",
+                    "de": "Karma Golden Camp",
+                    "fr": "Karma Golden Camp",
+                    "id": "Karma Golden Camp"
+                },
+                {
+                    "en": "Karma Panalee",
+                    "de": "Karma Panalee",
+                    "fr": "Karma Panalee",
+                    "id": "Karma Panalee"
+                }
+            ]
+        },
+        "labels": [
+            {
+                "en": "Four Bedroom (10 x person)",
+                "de": "Vier Schlafzimmer (10 x person)",
+                "fr": "Quatre chambres (10 x person)",
+                "id": "Empat Kamar Tidur (10 x person)"
+            },
+            {
+                "en": "Three Bedroom (8 x person)",
+                "de": "Drei Schlafzimmer (8 x person)",
+                "fr": "Trois chambres (8 x person)",
+                "id": "Tiga Kamar Tidur (8 x person)"
+            },
+            {
+                "en": "Two Bedroom (6 x person)",
+                "de": "Zwei Schlafzimmer (6 x person)",
+                "fr": "Deux chambres (6 x person)",
+                "id": "Dua Kamar Tidur (6 x person)"
+            },
+            {
+                "en": "One Bedroom (4 x person)",
+                "de": "Ein Schlafzimmer (4 x person)",
+                "fr": "Une chambre (4 x person)",
+                "id": "Satu Kamar Tidur (4 x person)"
+            },
+            {
+                "en": "Studio (2 x person)",
+                "de": "Studio (2 x person)",
+                "fr": "Studio (2 x person)",
+                "id": "Studio (2 x person)"
+            }
+        ],
+        "points": {
+            "Emerald":{
+                "weekly": [
+                    [
+                        "423",
+                        "388",
+                        "359"
+                    ],
+                    [
+                        "369",
+                        "339",
+                        "314"
+                    ],
+                    [
+                        "315",
+                        "290",
+                        "268"
+                    ],
+                    [
+                        "263",
+                        "242",
+                        "224"
+                    ],
+                    [
+                        "210",
+                        "193",
+                        "179"
+                    ]
+                ],
+                "daily": [
+                    [
+                        "83",
+                        "75",
+                        "70"
+                    ],
+                    [
+                        "73",
+                        "66",
+                        "61"
+                    ],
+                    [
+                        "63",
+                        "58",
+                        "54"
+                    ],
+                    [
+                        "53",
+                        "48",
+                        "44"
+                    ],
+                    [
+                        "43",
+                        "38",
+                        "35"
+                    ]
+                ]
+            },
+            "Titanium":{
+                "weekly": [
+                    [
+                        "299",
+                        "277",
+                        "256"
+                    ],
+                    [
+                        "261",
+                        "242",
+                        "223"
+                    ],
+                    [
+                        "223",
+                        "207",
+                        "190"
+                    ],
+                    [
+                        "185",
+                        "171",
+                        "158"
+                    ],
+                    [
+                        "147",
+                        "136",
+                        "125"
+                    ]
+                ],
+                "daily": [
+                    [
+                        "58",
+                        "55",
+                        "50"
+                    ],
+                    [
+                        "51",
+                        "48",
+                        "44"
+                    ],
+                    [
+                        "44",
+                        "41",
+                        "38"
+                    ],
+                    [
+                        "36",
+                        "34",
+                        "31"
+                    ],
+                    [
+                        "29",
+                        "26",
+                        "25"
+                    ]
+                ]
+            },
+            "Platinum":{
+                "weekly": [
+                    [
+                        "264",
+                        "242",
+                        "221"
+                    ],
+                    [
+                        "231",
+                        "212",
+                        "193"
+                    ],
+                    [
+                        "198",
+                        "182",
+                        "165"
+                    ],
+                    [
+                        "165",
+                        "151",
+                        "138"
+                    ],
+                    [
+                        "132",
+                        "121",
+                        "110"
+                    ]
+                ],
+                "daily": [
+                    [
+                        "51",
+                        "47",
+                        "44"
+                    ],
+                    [
+                        "45",
+                        "41",
+                        "38"
+                    ],
+                    [
+                        "39",
+                        "36",
+                        "33"
+                    ],
+                    [
+                        "33",
+                        "30",
+                        "28"
+                    ],
+                    [
+                        "26",
+                        "24",
+                        "21"
+                    ]
+                ]
+            },
+            "Silver":{
+                "weekly": [
+                    [
+                        "240",
+                        "221",
+                        "200"
+                    ],
+                    [
+                        "210",
+                        "193",
+                        "175"
+                    ],
+                    [
+                        "180",
+                        "165",
+                        "150"
+                    ],
+                    [
+                        "150",
+                        "138",
+                        "125"
+                    ],
+                    [
+                        "120",
+                        "110",
+                        "100"
+                    ]
+                ],
+                "daily": [
+                    [
+                        "38",
+                        "34",
+                        "32"
+                    ],
+                    [
+                        "33",
+                        "30",
+                        "28"
+                    ],
+                    [
+                        "28",
+                        "36",
+                        "24"
+                    ],
+                    [
+                        "24",
+                        "22",
+                        "20"
+                    ],
+                    [
+                        "19",
+                        "17",
+                        "16"
+                    ]
+                ]
+            }
+            },
+        "multiunit": [
+            [
+                {
+                    "en": "1 x Two Bedroom (6 x person) plus 1 x One Bedroom (4 x person)",
+                    "de": "1 x Zwei Schlafzimmer (6 x person) plus 1 x Ein Schlafzimmer (4 x person)",
+                    "fr": "1 x Deux chambres (6 x person) plus 1 x Une chambre (4 x person)",
+                    "id": "1 x Dua Kamar Tidur (6 x person) plus 1 x Satu Kamar Tidur (4 x person)"
+                },
+                {
+                    "en": "OR 1 x Two Bedroom (6 x person) plus 2 x Studios (2 x person)",
+                    "de": "ODER 1 x Zwei Schlafzimmer (6 x person) plus 2 x Studios (2 x person)",
+                    "fr": "OU 1 x Deux chambres (6 x person) plus 2 x Studios (2 x person)",
+                    "id": "ATAU 1 x Dua Kamar Tidur (6 x person) plus 2 x Studio (2 x person)"
+                },
+                {
+                    "en": "OR 2 x One Bedroom (4 x person) plus 1 x Studios (2 x person)",
+                    "de": "ODER 2 x Ein Schlafzimmer (4 x person) plus 1 x Studios (2 x person)",
+                    "fr": "OU 2 x Une chambre (4 x person) plus 1 x Studios (2 x person)",
+                    "id": "ATAU 2 x Satu Kamar Tidur (4 x person) plus 1 x Studio (2 x person)"
+                },
+                {
+                    "en": "OR 1 x One Bedroom (4 x person) plus 3 x Studios (2 x person)",
+                    "de": "ODER 1 x Ein Schlafzimmer (4 x person) plus 3 x Studios (2 x person)",
+                    "fr": "OU 1 x Une chambre (4 x person) plus 3 x Studios (2 x person)",
+                    "id": "ATAU 1 x Satu Kamar Tidur (4 x person) plus 3 x Studio (2 x person)"
+                },
+                {
+                    "en": "OR 5 x Studios (2 x person)",
+                    "de": "ODER 5 x Studios (2 x person)",
+                    "fr": "OU 5 x Studios (2 x person)",
+                    "id": "ATAU 5 x Studio (2 x person)"
+                }
+            ],
+            [
+                {
+                    "en": "1 x Two Bedroom (6 x person) plus 1 x Studios (2 x person)",
+                    "de": "1 x Zwei Schlafzimmer (6 x person) plus 1 x Studios (2 x person)",
+                    "fr": "1 x Deux chambres (6 x person) plus 1 x Studios (2 x person)",
+                    "id": "1 x Dua Kamar Tidur (6 x person) plus 1 x Studio (2 x person)"
+                },
+                {
+                    "en": "OR 2 x One Bedroom (4 x person)",
+                    "de": "ODER 2 x Ein Schlafzimmer (4 x person)",
+                    "fr": "OU 2 x Une chambre (4 x person)",
+                    "id": "ATAU 2 x Satu Kamar Tidur (4 x person)"
+                },
+                {
+                    "en": "OR 1 x One Bedroom (4 x person) plus 2 x Studios (2 x person)",
+                    "de": "ODER 1 x Ein Schlafzimmer (4 x person) plus 2 x Studios (2 x person)",
+                    "fr": "OU 1 x Une chambre (4 x person) plus 2 x Studios (2 x person)",
+                    "id": "ATAU 1 x Satu Kamar Tidur (4 x person) plus 2 x Studio (2 x person)"
+                },
+                {
+                    "en": "OR 4 x Studios (2 x person)",
+                    "de": "ODER 4 x Studios (2 x person)",
+                    "fr": "OU 4 x Studios (2 x person)",
+                    "id": "ATAU 4 x Studio (2 x person)"
+                }
+            ],
+            [
+                {
+                    "en": "1 x Two Bedroom (6 x person)",
+                    "de": "1 x Zwei Schlafzimmer (6 x person)",
+                    "fr": "1 x Deux chambres (6 x person)",
+                    "id": "1 x Dua Kamar Tidur (6 x person)"
+                },
+                {
+                    "en": "OR 1 x One Bedroom (4 x person) plus 1 x Studios (2 x person)",
+                    "de": "ODER 1 x Ein Schlafzimmer (4 x person) plus 1 x Studios (2 x person)",
+                    "fr": "OU 1 x Une chambre (4 x person) plus 1 x Studios (2 x person)",
+                    "id": "ATAU 1 x Satu Kamar Tidur (4 x person) plus 1 x Studio (2 x person)"
+                },
+                {
+                    "en": "OR 3 x Studios (2 x person)",
+                    "de": "ODER 3 x Studios (2 x person)",
+                    "fr": "OU 3 x Studios (2 x person)",
+                    "id": "ATAU 3 x Studio (2 x person)"
+                }
+            ],
+            [
+                {
+                    "en": "1 x One Bedroom (4 x person)",
+                    "de": "1 x Ein Schlafzimmer (4 x person)",
+                    "fr": "1 x Une chambre (4 x person)",
+                    "id": "1 x Satu Kamar Tidur (4 x person)"
+                },
+                {
+                    "en": "OR 2 x Studios (2 x person)",
+                    "de": "ODER 2 x Studios (2 x person)",
+                    "fr": "OU 2 x Studios (2 x person)",
+                    "id": "ATAU 2 x Studio (2 x person)"
+                }
+            ],
+            [
+                {
+                    "en": "1 x Studios (2 x person)",
+                    "de": "1 x Studios (2 x person)",
+                    "fr": "1 x Studios (2 x person)",
+                    "id": "1 x Studio (2 x person)"
+                }
+            ]
+        ],
+        "reservation": [
+            {
+                "en": "Early Bird - 50% discount on bookings confirmed a minimum of 12 months prior to check in.",
+                "de": "Frühbucher - 50% Rabatt auf Buchungen, die mindestens 12 Monate vor dem Check-in bestätigt werden.",
+                "fr": "Early Bird - 50% de réduction sur les réservations confirmées au moins 12 mois avant l'enregistrement.",
+                "id": "Early Bird - Diskon 50% untuk pemesanan yang dikonfirmasi minimal 12 bulan sebelum check-in."
+            },
+            {
+                "en": "Late Breaks - 50% discount on bookings confirmed less than 45 days prior to check in.",
+                "de": "Last-Minute-Angebote - 50% Rabatt auf Buchungen, die weniger als 45 Tage vor dem Check-in bestätigt werden.",
+                "fr": "Late Breaks - 50% de réduction sur les réservations confirmées moins de 45 jours avant l'enregistrement.",
+                "id": "Late Breaks - Diskon 50% untuk pemesanan yang dikonfirmasi kurang dari 45 hari sebelum check-in."
+            },
+            {
+                "en": "Short Breaks - 4 nights @ 60% of the normal weekly rate.",
+                "de": "Kurzurlaube - 4 Nächte zu 60% des normalen Wochenpreises.",
+                "fr": "Courts séjours - 4 nuits à 60% du tarif hebdomadaire normal.",
+                "id": "Short Breaks - 4 malam @ 60% dari tarif mingguan normal."
+            },
+            {
+                "en": "Multi Unit - only valid against reservations confirmed in the same property for the same dates.",
+                "de": "Mehrfacheinheit - nur gültig für Reservierungen, die im selben Objekt für dieselben Daten bestätigt wurden.",
+                "fr": "Multi-unité - valable uniquement pour les réservations confirmées dans la même propriété pour les mêmes dates.",
+                "id": "Unit Multi - hanya berlaku untuk reservasi yang dikonfirmasi di properti yang sama untuk tanggal yang sama."
+            },
+            {
+                "en": "These programs do not apply to Karma Fushi, Karma Karnak, Peak Periods, Imperial or Fractional inventory.",
+                "de": "Diese Programme gelten nicht für Karma Fushi, Karma Karnak, Spitzenzeiten, Imperial oder Fractional Inventory.",
+                "fr": "Ces programmes ne s'appliquent pas à Karma Fushi, Karma Karnak, les périodes de pointe, Imperial ou les inventaires fractionnés.",
+                "id": "Program ini tidak berlaku untuk Karma Fushi, Karma Karnak, Periode Puncak, Imperial atau inventaris Fraksional."
+            }
+        ]
+    }
+}

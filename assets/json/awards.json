@@ -1,0 +1,2264 @@
+{
+    "banner": {
+        "subTitle": {
+            "en": "HONOURS",
+            "de": "EHREN",
+            "fr": "HONNEURS",
+            "id": "KEHORMATAN"
+        },
+        "title": {
+            "en": "Awards and Accolades",
+            "de": "Preise und Auszeichnungen",
+            "fr": "Prix et distinctions",
+            "id": "Penghargaan dan Penghargaan"
+        },
+        "image": "assets/images/awards/Banner_Image.png"
+    },
+    "awardExperiences": {
+        "title": {
+            "en": "Crafting Award-Winning Experiences",
+            "de": "Preisgekrönte Erlebnisse schaffen",
+            "fr": "Créer des expériences primées",
+            "id": "Membuat Pengalaman Pemenang Penghargaan"
+        },
+        "description": {
+            "en": "Karma Group is honoured to have earned some of the travel industry’s most prestigious awards. These accolades are more than just trophies; they serve as an ongoing reminder to develop and refine our resorts, to cater to our members and stay true to the Karma ethos of crafting unique experiences in the most beautiful destinations of the world.",
+            "de": "Karma fühlt sich geehrt, einige der renommiertesten Auszeichnungen der Reisebranche erhalten zu haben. Diese Auszeichnungen sind mehr als nur Trophäen; Sie dienen als ständige Erinnerung daran, unsere Resorts zu entwickeln und zu verfeinern, auf unsere Mitglieder einzugehen und dem Karma-Ethos treu zu bleiben, einzigartige Erlebnisse an den schönsten Reisezielen der Welt zu schaffen.",
+            "fr": "Karma est honoré d’avoir remporté certains des prix les plus prestigieux de l’industrie du voyage. Ces distinctions sont plus que de simples trophées ; ils nous servent de rappel permanent pour développer et affiner nos centres de villégiature, pour répondre aux besoins de nos membres et rester fidèles à la philosophie de Karma de créer des expériences uniques dans les plus belles destinations du monde.",
+            "id": "Karma merasa terhormat telah mendapatkan beberapa penghargaan paling bergengsi di industri perjalanan. Penghargaan ini lebih dari sekadar piala; mereka berfungsi sebagai pengingat berkelanjutan untuk mengembangkan dan menyempurnakan resor kami, untuk melayani anggota kami dan tetap setia pada etos Karma untuk menciptakan pengalaman unik di destinasi terindah di dunia."
+        },
+        "subTitle": {
+            "en": "Awards",
+            "de": "Auszeichnungen",
+            "fr": "Prix",
+            "id": "Penghargaan"
+        },
+        "all": {
+            "en": "All",
+            "de": "Alle",
+            "fr": "Tout",
+            "id": "Semua"
+        },
+        "awards": {
+            "2025": {
+                "tripImage": "assets/images/awards/2025/Tripadvisor2025.png",
+                "awardsList": [
+                    {
+                        "title": {
+                            "en": "Platinum Winner The International Architecture & Design Awards",
+                            "de": "Platin-Gewinner der International Architecture & Design Awards",
+                            "fr": "Lauréat Platine des International Architecture & Design Awards",
+                            "id": "Pemenang Platinum Penghargaan Arsitektur & Desain Internasional"
+                        },
+                        "tag": {
+                            "en": "2025 Karma Kandara Phase VI",
+                            "de": "Karma Kandara Fase VI 2025",
+                            "fr": "Karma Kandara Phase VI 2025",
+                            "id": "Karma Kandara Fase VI 2025"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2025/Platinum_Winner.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Diners’ Choice 2025 OpenTable",
+                            "de": "Diners' Choice 2025 OpenTable",
+                            "fr": "Choix des convives 2025 OpenTable",
+                            "id": "Pilihan Pengunjung 2025 OpenTable"
+                        },
+                        "tag": {
+                            "en": "Karma Lake of Menteith",
+                            "de": "Karma Lake of Menteith",
+                            "fr": "Lac Karma de Menteith",
+                            "id": "Danau Karma Menteith"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2025/Diners_Choice.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Country Bar of the Year Awards 2025",
+                            "de": "Auszeichnungen für die Country-Bar des Jahres 2025",
+                            "fr": "Prix du bar country de l'année 2025",
+                            "id": "Penghargaan Bar Pedesaan Tahun Ini 2025"
+                        },
+                        "tag": {
+                            "en": "Karma Lake of Menteith",
+                            "de": "Karma Lake of Menteith",
+                            "fr": "Lac Karma de Menteith",
+                            "id": "Danau Karma Menteith"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2025/Country_Bar.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Honorable Mention at the LIV Hospitality Design Awards",
+                            "de": "Lobende Erwähnung bei den LIV Hospitality Design Awards",
+                            "fr": "Mention honorable aux LIV Hospitality Design Awards",
+                            "id": "Penghargaan Honorable Mention di LIV Hospitality Design Awards"
+                        },
+                        "tag": {
+                            "en": "Karma Kandara Phase VI",
+                            "de": "Karma Kandara Phase VI",
+                            "fr": "Karma Kandara Phase VI",
+                            "id": "Karma Kandara Fase VI"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2025/Honorable_Mention.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Best Newcomer GNEX Vacation Industry Awards",
+                            "de": "Bester Newcomer GNEX Vacation Industry Awards",
+                            "fr": "Meilleur nouveau venu aux GNEX Vacation Industry Awards",
+                            "id": "Penghargaan Industri Liburan GNEX Pendatang Baru Terbaik"
+                        },
+                        "tag": {
+                            "en": "Charlotte Spence",
+                            "de": "Charlotte Spence",
+                            "fr": "Charlotte Spence",
+                            "id": "Charlotte Spence"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2025/Best_Newcomer.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Best Sales Professional GNEX Vacation Industry Awards",
+                            "de": "Bester Verkaufsprofi GNEX Vacation Industry Awards",
+                            "fr": "Meilleur professionnel de la vente GNEX Vacation Industry Awards",
+                            "id": "Profesional Penjualan Terbaik Penghargaan Industri Liburan GNEX"
+                        },
+                        "tag": {
+                            "en": "Suraj Naik",
+                            "de": "Suraj Naik",
+                            "fr": "Suraj Naik",
+                            "id": "Suraj Naik"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2025/Best_Sales.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Best Luxury Hotel Restaurant 2025 – Warwickshire Restaurant and Bar Awards 2025",
+                            "de": "Bestes Luxushotelrestaurant 2025 – Warwickshire Restaurant and Bar Awards 2025",
+                            "fr": "Meilleur restaurant d'hôtel de luxe 2025 – Warwickshire Restaurant and Bar Awards 2025",
+                            "id": "Restoran Hotel Mewah Terbaik 2025 – Penghargaan Restoran dan Bar Warwickshire 2025"
+                        },
+                        "tag": {
+                            "en": "Karma Salford Hall",
+                            "de": "Karma Salford Halle",
+                            "fr": "Salle Karma Salford",
+                            "id": "Balai Karma Salford"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2025/Best_Luxury.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Breakfast Award 2025-2026 - VisitEngland",
+                            "de": "Frühstückspreis 2025–2026 – VisitEngland",
+                            "fr": "Prix du petit-déjeuner 2025-2026 - VisitEngland",
+                            "id": "Penghargaan Sarapan 2025-2026 - VisitEngland"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin’s",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2025/Breakfast_Award.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Taste Gold Accolade 2025-2026 - VisitEngland",
+                            "de": "Taste Gold-Auszeichnung 2025–2026 – VisitEngland",
+                            "fr": "Prix Taste Gold 2025-2026 - VisitEngland",
+                            "id": "Penghargaan Taste Gold 2025-2026 - VisitEngland"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2025/Taste_Gold.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Four Star Hotel 2025-2026- VisitEngland",
+                            "de": "Vier-Sterne-Hotel 2025-2026 – VisitEngland",
+                            "fr": "Hôtel quatre étoiles 2025-2026 - VisitEngland",
+                            "id": "Hotel Bintang Empat 2025-2026 - VisitEngland"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2025/Four_Star.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Silver Award 2025-2026 VisitEngland",
+                            "de": "Silberpreis 2025–2026 VisitEngland",
+                            "fr": "Médaille d'argent 2025-2026 VisitEngland",
+                            "id": "Penghargaan Perak 2025-2026 VisitEngland"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2025/Silver_Award.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Traveller Review Awards 2025 Winner - Booking.com",
+                            "de": "Gewinner der Traveller Review Awards 2025 – Booking.com",
+                            "fr": "Lauréat des Traveller Review Awards 2025 - Booking.com",
+                            "id": "Pemenang Traveller Review Awards 2025 - Booking.com"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2025/Traveller_Review.png"
+                    },
+                    {
+                        "title": {
+                            "en": "AA 2 Rosette Award for Culinary Excellence 2025 - AA Hospitality Awards",
+                            "de": "AA 2 Rosette Award für kulinarische Exzellenz 2025 – AA Hospitality Awards",
+                            "fr": "Prix AA 2 Rosettes pour l'excellence culinaire 2025 - AA Hospitality Awards",
+                            "id": "Penghargaan Rosette AA 2 untuk Keunggulan Kuliner 2025 - Penghargaan Perhotelan AA"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2025/AA_Rosetto.png"
+                    },
+                    {
+                        "title": {
+                            "en": "AA 4 Black Star Hotel 2025 - AA Hospitality Awards",
+                            "de": "AA 4 Black Star Hotel 2025 – AA Hospitality Awards",
+                            "fr": "Hôtel AA 4 étoiles noires 2025 - AA Hospitality Awards",
+                            "id": "AA 4 Black Star Hotel 2025 - Penghargaan Perhotelan AA"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2025/AA_Black.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Haute Grandeur Awards Rai Artawan, Best Resort manager",
+                            "de": "Haute Grandeur Awards Rai Artawan, Bester Resort-Manager",
+                            "fr": "Haute Grandeur Awards Rai Artawan, Meilleur Resort Manager",
+                            "id": "Penghargaan Haute Grandeur Rai Artawan, Manajer Resor Terbaik"
+                        },
+                        "tag": {
+                            "en": "Karma Kandara",
+                            "de": "Karma Kandara",
+                            "fr": "Karma Kandara",
+                            "id": "Karma Kandara"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2025/Haute_Grandeur.png"
+                    }
+                ],
+                "tripAdvisorList": [
+                    "KARMA LAKE OF MENTEITH",
+                    "KARMA ST. MARTIN’S",
+                    "KARMA SALFORD HALL",
+                    "KARMA BAVARIA",
+                    "KARMA MINOAN",
+                    "KARMA BORGO DI COLLEOLI",
+                    "KARMA SONG HOAI",
+                    "KARMA BAYON",
+                    "KARMA ROYAL BOAT LAGOON",
+                    "KARMA MUNNAR",
+                    "KARMA SEVEN LAKES",
+                    "KARMA GOLDEN CAMP",
+                    "KARMA ROYAL HAATHI MAHAL",
+                    "KARMA ROYAL PALMS",
+                    "KARMA ROYAL MONTERIO",
+                    "KARMA MARTAM",
+                    "KARMA HAVELI",
+                    "KARMA CHAKRA",
+                    "KARMA SITABANI"
+                ]
+            },
+            "2024": {
+                "tripImage": "",
+                "awardsList": [
+                    {
+                        "title": {
+                            "en": "Historic Hotel of The Year 2024 Travel & Hospitality Awards",
+                            "de": "Historisches Hotel des Jahres 2024 Travel & Hospitality Awards",
+                            "fr": "Prix de l’hôtel historique de l’année 2024 Travel & Hospitality Awards",
+                            "id": "Penghargaan Hotel Bersejarah Tahun Ini 2024 Perjalanan & Perhotelan"
+                        },
+                        "tag": {
+                            "en": "Karma Salford Hall",
+                            "de": "Karma Salford Halle",
+                            "fr": "Salle Karma Salford",
+                            "id": "Balai Karma Salford"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2024/Historic_Hotel_Travel_&_Hospitality_Awards.png"
+                    },
+                    {
+                        "title": {
+                            "en": "LiveHelpNow Challenge Winner for Feb 2024",
+                            "de": "Gewinner der LiveHelpNow Challenge im Februar 2024",
+                            "fr": "Gagnant du défi LiveHelpNow pour février 2024",
+                            "id": "Pemenang Tantangan LiveHelpNow untuk Februari 2024"
+                        },
+                        "tag": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2024/LiveHelpNow_Feb_24.png"
+                    },
+                    {
+                        "title": {
+                            "en": "LiveHelpNow Challenge Winner for Apr 2024",
+                            "de": "Gewinner der LiveHelpNow Challenge für April 2024",
+                            "fr": "Gagnant du défi LiveHelpNow pour avril 2024",
+                            "id": "Pemenang Tantangan LiveHelpNow untuk April 2024"
+                        },
+                        "tag": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2024/LiveHelpNow_Apr_24.png"
+                    },
+                    {
+                        "title": {
+                            "en": "LiveHelpNow Challenge Winner for May 2024",
+                            "de": "Gewinner der LiveHelpNow Challenge im Mai 2024",
+                            "fr": "Gagnant du défi LiveHelpNow de mai 2024",
+                            "id": "Pemenang Tantangan LiveHelpNow untuk Mei 2024"
+                        },
+                        "tag": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2024/LiveHelpNow_May_24.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Customer Service Excellence Award Winner Luxury Hotel & Restaurant of the Year 2024",
+                            "de": "Gewinner des Customer Service Excellence Award Luxushotel & Restaurant des Jahres 2024",
+                            "fr": "Lauréat du prix d’excellence du service à la clientèle : Hôtel et restaurant de luxe de l’année 2024",
+                            "id": "Pemenang Customer Service Excellence Award Luxury Hotel & Restaurant of the Year 2024"
+                        },
+                        "tag": {
+                            "en": "Karma Salford Hall",
+                            "de": "Karma Salford Halle",
+                            "fr": "Salle Karma Salford",
+                            "id": "Balai Karma Salford"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2024/Customer_Service_Excellence_Luxury_Hotel_&_Restaurant.png"
+                    },
+                    {
+                        "title": {
+                            "en": "The Scottish Restaurant Awards 2024 Winner",
+                            "de": "Gewinner der Scottish Restaurant Awards 2024",
+                            "fr": "Lauréat des Scottish Restaurant Awards 2024",
+                            "id": "Pemenang Penghargaan Restoran Skotlandia 2024"
+                        },
+                        "tag": {
+                            "en": "Karma Lake of Menteith Restaurant",
+                            "de": "Karma Lake of Menteith Restaurant",
+                            "fr": "Karma Lake of Menteith Restaurant",
+                            "id": "Restoran Karma Lake of Menteith"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2024/The_Scottish_Restaurant_Awards.png"
+                    },
+                    {
+                        "title": {
+                            "en": "2024 Winner Luxury Coastal Resort of the Year South West England Prestige Awards",
+                            "de": "Gewinner 2024 Luxury Coastal Resort of the Year South West England Prestige Awards",
+                            "fr": "Lauréat 2024 : Resort balnéaire de luxe de l’année : South West England Prestige Awards",
+                            "id": "Pemenang 2024 Luxury Coastal Resort of the Year South West England Prestige Awards"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin's"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2024/Luxury_Coastal_Resort_England_Prestige.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Tripadvisor Travellers’ Choice Awards Winner 2024",
+                            "de": "Gewinner der Tripadvisor Travellers' Choice Awards 2024",
+                            "fr": "Lauréat des Tripadvisor Travellers' Choice Awards 2024",
+                            "id": "Pemenang Tripadvisor Travellers' Choice Awards 2024"
+                        },
+                        "tag": {
+                            "en": "Karma Bavaria",
+                            "de": "Karma Bawria",
+                            "fr": "Karma Bawria",
+                            "id": "Karma Bawria"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2024/Tripadvisor_Travellers_Bavaria.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Tripadvisor Travellers’ Choice Awards Winner 2024",
+                            "de": "Gewinner der Tripadvisor Travellers' Choice Awards 2024",
+                            "fr": "Lauréat des Tripadvisor Travellers' Choice Awards 2024",
+                            "id": "Pemenang Tripadvisor Travellers' Choice Awards 2024"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2024/Tripadvisor_Travellers_St_Martin's.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Tripadvisor Travellers’ Choice Awards Winner 2024",
+                            "de": "Gewinner der Tripadvisor Travellers' Choice Awards 2024",
+                            "fr": "Lauréat des Tripadvisor Travellers' Choice Awards 2024",
+                            "id": "Pemenang Tripadvisor Travellers' Choice Awards 2024"
+                        },
+                        "tag": {
+                            "en": "Karma Lake of Menteith",
+                            "de": "Karma-See von Menteith",
+                            "fr": "Lac Karma de Menteith",
+                            "id": "Danau Karma Menteith"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2024/Tripadvisor_Travellers_Lake_of_Menteith.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Tripadvisor Travellers’ Choice Awards Winner 2024",
+                            "de": "Gewinner der Tripadvisor Travellers' Choice Awards 2024",
+                            "fr": "Lauréat des Tripadvisor Travellers' Choice Awards 2024",
+                            "id": "Pemenang Tripadvisor Travellers' Choice Awards 2024"
+                        },
+                        "tag": {
+                            "en": "Karma Salford Hall",
+                            "de": "Karma Salford Halle",
+                            "fr": "Salle Karma Salford",
+                            "id": "Balai Karma Salford"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2024/Tripadvisor_Travellers_Salford_Hall.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Exquisite’s Best Restaurants and Bars 2024",
+                            "de": "Die besten Restaurants und Bars von Exquisite 2024",
+                            "fr": "Les meilleurs restaurants et bars d’Exquisite 2024",
+                            "id": "Restoran dan Bar Terbaik Exquisite 2024"
+                        },
+                        "tag": {
+                            "en": "di Mare Restaurant at Karma Kandara",
+                            "de": "di Mare Restaurant im Karma Kandara",
+                            "fr": "Restaurant di Mare à Karma Kandara",
+                            "id": "di Mare Restaurant at Karma Kandara"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2024/Exquisite’s_Best_Restaurants_and_Bars.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Kayak travel Awards Winner 2024",
+                            "de": "Gewinner der Kayak Travel Awards 2024",
+                            "fr": "Lauréat des Kayak Travel Awards 2024",
+                            "id": "Pemenang Penghargaan Perjalanan Kayak 2024"
+                        },
+                        "tag": {
+                            "en": "Karma Salford Hall",
+                            "de": "Karma Salford Halle",
+                            "fr": "Salle Karma Salford",
+                            "id": "Balai Karma Salford"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2024/Kayak_travel_Awards_Winner.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Sea View Hotel of The Year 2024 Travel & Hospitality Awards",
+                            "de": "Sea View Hotel des Jahres 2024 Travel & Hospitality Awards",
+                            "fr": "Sea View Hotel of The Year 2024 Travel & Hospitality Awards",
+                            "id": "Penghargaan Perjalanan & Perhotelan Hotel Pemandangan Laut Tahun 2024"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martins Hotel",
+                            "de": "Karma St. Martins Hotel",
+                            "fr": "Hôtel Karma St. Martins",
+                            "id": "Karma St. Martins Hotel"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2024/Sea_View_Hotel_Travel_&_Hospitality_Awards.png"
+                    },
+                    {
+                        "title": {
+                            "en": "2024 Winner Restaurant Best Gourmet Cuisine in Asia Haute Grandeur Global Awards",
+                            "de": "Gewinner Restaurant Best Gourmet Cuisine in Asia 2024 Haute Grandeur Global Awards",
+                            "fr": "2024 Winner Restaurant Best Gourmet Cuisine in Asia Haute Grandeur Global Awards",
+                            "id": "Pemenang 2024 Restoran Masakan Gourmet Terbaik di Asia Haute Grandeur Global Awards"
+                        },
+                        "tag": {
+                            "en": "Karma Kandara",
+                            "de": "Karma Kandara",
+                            "fr": "Karma Kandara",
+                            "id": "Karma Kandara"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2024/Restaurant_Best_Gourmet_Cuisine_in_Asia_Haute_Grandeur_Global_Awards.png"
+                    },
+                    {
+                        "title": {
+                            "en": "2024 Winner Restaurant Best Head Chef in Asia – Joseph Antonishek Haute Grandeur Global Awards",
+                            "de": "Gewinner 2024 Restaurant Bester Chefkoch in Asien – Joseph Antonishek Haute Grandeur Global Awards",
+                            "fr": "Gagnant 2024 : Meilleur chef cuisinier en Asie – Joseph Antonishek Haute Grandeur Global Awards",
+                            "id": "Pemenang 2024 Restoran Kepala Koki Terbaik di Asia – Joseph Antonishek Haute Grandeur Global Awards"
+                        },
+                        "tag": {
+                            "en": "Karma Kandara",
+                            "de": "Karma Kandara",
+                            "fr": "Karma Kandara",
+                            "id": "Karma Kandara"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2024/Restaurant_Best_Head_Chef_in_AsiaJoseph_Antonishek_Haute_Grandeur_Global_Awards.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Cornwall Awards Living 2024",
+                            "de": "Cornwall Awards Wohnen 2024",
+                            "fr": "Prix Cornwall Living 2024",
+                            "id": "Penghargaan Cornwall Hidup 2024"
+                        },
+                        "tag": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2024/Cornwall_Awards_Living_2024.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Winner Hotel Restaurant of the Year 2024 The Food Awards Scotland",
+                            "de": "Gewinner Hotel Restaurant des Jahres 2024 The Food Awards Schottland",
+                            "fr": "Gagnant du restaurant d’hôtel de l’année 2024 The Food Awards Scotland",
+                            "id": "Pemenang Hotel Restoran Terbaik Tahun 2024 The Food Awards Skotlandia"
+                        },
+                        "tag": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2024/Hotel_Restaurant_The_Food_Awards_Scotland.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Travel + Leisure World’s Best Awards 2024",
+                            "de": "Reisen + Freizeit World's Best Awards 2024",
+                            "fr": "Travel + Leisure World’s Best Awards 2024",
+                            "id": "Penghargaan Terbaik Dunia Travel + Leisure 2024"
+                        },
+                        "tag": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2024/TravelLeisure_World’s_Best_Awards.png"
+                    }
+                ],
+                "tripAdvisorList": [
+                    "KARMA BAVARIA",
+                    "KARMA ST. MARTIN’S",
+                    "KARMA LAKE OF MENTEITH",
+                    "KARMA SALFORD HALL"
+                ]
+            },
+            "2023": {
+                "tripImage": "",
+                "awardsList": [
+                    {
+                        "title": {
+                            "en": "LiveHelpNow Challenge Winner for 2023",
+                            "de": "Gewinner der LiveHelpNow Challenge für 2023",
+                            "fr": "Gagnant du défi LiveHelpNow 2023",
+                            "id": "Pemenang Tantangan LiveHelpNow untuk 2023"
+                        },
+                        "tag": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2023/LiveHelpNow.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Luxury Coastal Resort of the Year South West England Prestige Awards",
+                            "de": "Luxus-Küstenresort des Jahres Südwestengland Prestige Awards",
+                            "fr": "Resort balnéaire de luxe de l’année South West England Prestige Awards",
+                            "id": "Penghargaan Prestise Resor Pesisir Mewah Terbaik Inggris Barat Daya"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2023/Luxury_Coastal_Resort_South_West_England_Prestige.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Silver - Cornwall Tourism Awards 2023/2024",
+                            "de": "Silber - Cornwall Tourism Awards 2023/2024",
+                            "fr": "Argent - Prix du tourisme de Cornouailles 2023/2024",
+                            "id": "Perak - Penghargaan Pariwisata Cornwall 2023/2024"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2023/SilverCornwall_Tourism_Awards_20232024.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Bronze - Cornwall Tourism Awards 2023/2024",
+                            "de": "Bronze - Cornwall Tourism Awards 2023/2024",
+                            "fr": "Bronze - Prix du tourisme de Cornouailles 2023/2024",
+                            "id": "Perunggu - Penghargaan Pariwisata Cornwall 2023/2024"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2023/BronzeCornwall_Tourism.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Best Outstanding Wedding Venue Exquisite Awards",
+                            "de": "Beste herausragende Hochzeitslocation Exquisite Awards",
+                            "fr": "Prix exquis du meilleur lieu de mariage exceptionnel",
+                            "id": "Tempat Pernikahan Luar Biasa Terbaik Penghargaan Indah"
+                        },
+                        "tag": {
+                            "en": "Karma Kandara",
+                            "de": "Karma Kandara",
+                            "fr": "Karma Kandara",
+                            "id": "Karma Kandara"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2023/Outstanding_Wedding_Venue_Exquisite.png"
+                    },
+                    {
+                        "title": {
+                            "en": "LiveHelpNow Challenge Winner for Oct 2023",
+                            "de": "Gewinner der LiveHelpNow Challenge für Oktober 2023",
+                            "fr": "Gagnant du défi LiveHelpNow pour octobre 2023",
+                            "id": "Pemenang Tantangan LiveHelpNow untuk Oktober 2023"
+                        },
+                        "tag": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2023/LiveHelpNow_Oct_23.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Country Bar of The Year Hotels of The Year Scotland",
+                            "de": "Country Bar des Jahres Hotels des Jahres Schottland",
+                            "fr": "Country Bar de l’année Hôtels de l’année Écosse",
+                            "id": "Country Bar of The Year Hotel of The Year Skotlandia"
+                        },
+                        "tag": {
+                            "en": "Karma Lake of Menteith",
+                            "de": "Karma-See von Menteith",
+                            "fr": "Lac Karma de Menteith",
+                            "id": "Danau Karma Menteith"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2023/Country_Bar_Hotels_cotland.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Gary Goldie Memorial Quaich For Chef Food Inspiration Scotland",
+                            "de": "Gary Goldie Memorial Quaich für Chefkoch Food Inspiration Schottland",
+                            "fr": "Gary Goldie Memorial Quaich pour l’inspiration culinaire du chef Écosse",
+                            "id": "Gary Goldie Memorial Quaich Untuk Koki Inspirasi Makanan Skotlandia"
+                        },
+                        "tag": {
+                            "en": "Chef Joe Peden",
+                            "de": "Chefkoch Joe Peden",
+                            "fr": "Chef Joe Peden",
+                            "id": "Koki Joe Peden"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2023/Gary_Goldie_Memorial_Quaich_For_Chef_Food_Inspiration_Scotland.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Rising Star Manager Of The Year Hotels of The Year Scotland",
+                            "de": "Rising Star Manager des Jahres Hotels des Jahres Schottland",
+                            "fr": "Rising Star Manager de l’année Hôtels de l’année Écosse",
+                            "id": "Manajer Bintang Baru Tahun Ini Hotel Tahun Ini Skotlandia"
+                        },
+                        "tag": {
+                            "en": "Joshua Ford",
+                            "de": "Joshua Ford",
+                            "fr": "Joshua Ford",
+                            "id": "Joshua Ford"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2023/Rising_Star_Manager_Of_The_Year_Scotland.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Winner - World Luxury Spa Awards 2023",
+                            "de": "Gewinner - World Luxury Spa Awards 2023",
+                            "fr": "Lauréat - World Luxury Spa Awards 2023",
+                            "id": "Pemenang - World Luxury Spa Awards 2023"
+                        },
+                        "tag": {
+                            "en": "Karma Kandara",
+                            "de": "Karma Kandara",
+                            "fr": "Karma Kandara",
+                            "id": "Karma Kandara"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2023/WinnerWorld_Luxury_Spa_Award_2023.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Regional Winner The Food Awards England 2023",
+                            "de": "Regionaler Gewinner der Food Awards England 2023",
+                            "fr": "Lauréat régional : The Food Awards England 2023",
+                            "id": "Pemenang Regional The Food Awards England 2023"
+                        },
+                        "tag": {
+                            "en": "Karma Salford Hall",
+                            "de": "Karma Salford Halle",
+                            "fr": "Salle Karma Salford",
+                            "id": "Balai Karma Salford"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2023/Hotel_Restraunt_of_the_Year_Winner_The_Food_Awards_England_2023.png"
+                    },
+                    {
+                        "title": {
+                            "en": "LiveHelpNow Challenge Winner for Sep 2023",
+                            "de": "Gewinner der LiveHelpNow Challenge für September 2023",
+                            "fr": "Gagnant du défi LiveHelpNow pour septembre 2023",
+                            "id": "Pemenang Tantangan LiveHelpNow untuk Sep 2023"
+                        },
+                        "tag": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2023/LiveHelpNow_Sept_23.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Four Star Hotel VisitEngland",
+                            "de": "Vier-Sterne-Hotel VisitEngland",
+                            "fr": "Hôtel quatre étoiles VisitEngland",
+                            "id": "Kunjungan Hotel Bintang Empat Inggris"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2023/Four_Star_Hotel_VisitEngland.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Walkers Welcome 2023 – 2024 VisitEngland",
+                            "de": "Walkers Welcome 2023 – 2024 VisitEngland",
+                            "fr": "Bienvenue aux randonneurs 2023 – 2024 VisitEngland",
+                            "id": "Walkers Welcome 2023 – 2024 VisitEngland"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2023/Walkers Welcome 2023 – 2024 VisitEngland.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Silver Award 2023 – 2024 VisitEngland",
+                            "de": "Silber Auszeichnung 2023 – 2024 VisitEngland",
+                            "fr": "Médaille d’argent 2023 – 2024 VisitEngland",
+                            "id": "Penghargaan Perak 2023 – 2024 VisitEngland"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2023/Silver_Award_2023_–_2024_VisitEngland.png"
+                    },
+                    {
+                        "title": {
+                            "en": "AA 2 Rosette Award for Culinary Excellence - AA Hospitality Awards",
+                            "de": "AA 2 Rosette Award für kulinarische Exzellenz - AA Hospitality Awards",
+                            "fr": "Prix de l’excellence culinaire AA 2 Rosette - AA Hospitality Awards",
+                            "id": "Penghargaan Rosette AA 2 untuk Keunggulan Kuliner - AA Hospitality Awards"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2023/AA_2_Rosette_Award_for_Culinary_ExcellenceAA_Hospitality_Awards.png"
+                    },
+                    {
+                        "title": {
+                            "en": "2023 Winner Restaurant Haute Grandeur Global Awards",
+                            "de": "Gewinner Restaurant Haute Grandeur Global Awards 2023",
+                            "fr": "2023 Winner Restaurant Haute Grandeur Global Awards",
+                            "id": "Pemenang 2023 Restoran Haute Grandeur Global Awards"
+                        },
+                        "tag": {
+                            "en": "di Mare Restaurant",
+                            "de": "di Mare Restaurant",
+                            "fr": "Restaurant di Mare",
+                            "id": "di Mare Restaurant"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2023/Di_Mare_RestrauntRestaurant_Haute_Grandeur.png"
+                    },
+                    {
+                        "title": {
+                            "en": "2023 Summer Star Winner Hotels of The Year Scotland",
+                            "de": "2023 Summer Star Gewinner Hotels des Jahres Schottland",
+                            "fr": "Lauréat de l’étoile d’été 2023 Hôtels de l’année Écosse",
+                            "id": "Pemenang Bintang Musim Panas 2023 Hotel Terbaik Skotlandia"
+                        },
+                        "tag": {
+                            "en": "Karma Lake of Menteith",
+                            "de": "Karma See von Menteith",
+                            "fr": "Lac Karma de Menteith",
+                            "id": "Danau Karma Menteith"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2023/Summer_Star_Hotels_Scotland.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Nominated 2023 – 2024 National Hotels of The Year Scotland",
+                            "de": "Nominiert 2023 – 2024 National Hotels of the Year Schottland",
+                            "fr": "Nominé 2023 – 2024 Hôtels nationaux de l’année Écosse",
+                            "id": "Nominasi 2023 – 2024 National Hotels of The Year Skotlandia"
+                        },
+                        "tag": {
+                            "en": "Karma Lake of Menteith",
+                            "de": "Karma See von Menteith",
+                            "fr": "Lac Karma de Menteith",
+                            "id": "Danau Karma Menteith"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2023/Nominated_National_Hotels_Scotland.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Winner Hotel Restaurant of the Year The Food Awards Scotland",
+                            "de": "Gewinner Hotelrestaurant des Jahres The Food Awards Schottland",
+                            "fr": "Gagnant : Restaurant d’hôtel de l’année : The Food Awards Scotland",
+                            "id": "Pemenang Hotel Restoran Terbaik Tahun Ini The Food Awards Skotlandia"
+                        },
+                        "tag": {
+                            "en": "Karma Lake of Menteith",
+                            "de": "Karma See von Menteith",
+                            "fr": "Lac Karma de Menteith",
+                            "id": "Danau Karma Menteith"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2023/Regional_Winner_The_Food_Awards_England.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Best Boutique Villa Global Haute Grandeur Global Awards",
+                            "de": "Beste Boutique-Villa weltweit Hohe Pracht Globale Auszeichnungen",
+                            "fr": "Best Boutique Villa Global Haute Grandeur Global Awards",
+                            "id": "Penghargaan Global Global High Grandeur Vila Butik Terbaik"
+                        },
+                        "tag": {
+                            "en": "Karma Kandara",
+                            "de": "Karma Kandara",
+                            "fr": "Karma Kandara",
+                            "id": "Karma Kandara"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2023/Best_Boutique_Villa_Restaurant_Haute_Grandeur.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Certificate of Excellence 2023 Restaurant Guru",
+                            "de": "Zertifikat für Exzellenz 2023 Restaurant Guru",
+                            "fr": "Certificat d’Excellence 2023 Restaurant Guru",
+                            "id": "Certificate of Excellence 2023 Restaurant Guru"
+                        },
+                        "tag": {
+                            "en": "Amphora Restaurant at",
+                            "de": "Amphora Restaurant im",
+                            "fr": "Restaurant Amphora à",
+                            "id": "Restoran Amphora di"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2023/Certificate_of_Excellence_Restaurant_Guru.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Certificate of Excellence 2023 Restaurant Guru",
+                            "de": "Zertifikat für Exzellenz 2023 Restaurant Guru",
+                            "fr": "Certificat d’Excellence 2023 Restaurant Guru",
+                            "id": "Sertifikat Keunggulan 2023 Guru Restoran"
+                        },
+                        "tag": {
+                            "en": "di Mare Restaurant at",
+                            "de": "di Mare Restaurant im",
+                            "fr": "restaurant di Mare à",
+                            "id": "di Mare Restaurant di"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2023/Excellence_Certificate.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Diners’ Choice 2023 OpenTable",
+                            "de": "Diners' Choice 2023 OpenTable",
+                            "fr": "Diners' Choice 2023 OpenTable",
+                            "id": "Meja Terbuka Pilihan Pengunjung 2023"
+                        },
+                        "tag": {
+                            "en": "Karma Lake of Menteith",
+                            "de": "Karma-See von Menteith",
+                            "fr": "Lac Karma de Menteith",
+                            "id": "Danau Karma Menteith"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2023/Diners’_Choice_2023_OpenTable.png"
+                    },
+                    {
+                        "title": {
+                            "en": "A Top 10 Best Pub & Bar in Ammoudara",
+                            "de": "Top 10 der besten Pubs und Bars in Ammoudara",
+                            "fr": "Un des 10 meilleurs pubs et bars d’Ammoudara",
+                            "id": "10 Pub & Bar Terbaik di Ammoudara"
+                        },
+                        "tag": {
+                            "en": "Amphora Restaurant at",
+                            "de": "Amphora Restaurant im",
+                            "fr": "Restaurant Amphora à",
+                            "id": "Restoran Amphora di"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2023/10_Best_Pub_&_Bar_Ammoudara.png"
+                    },
+                    {
+                        "title": {
+                            "en": "A Top 10 Best Seafood Restaurant in Ammoudara",
+                            "de": "Top 10 der besten Fischrestaurants in Ammoudara",
+                            "fr": "L’un des 10 meilleurs restaurants de fruits de mer d’Ammoudara",
+                            "id": "10 Restoran Makanan Laut Terbaik di Ammoudara"
+                        },
+                        "tag": {
+                            "en": "Amphora Restaurant at",
+                            "de": "Amphora Restaurant im",
+                            "fr": "Restaurant Amphora à",
+                            "id": "Restoran Amphora di"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2023/10_Best_Seafood_Restaurant_Ammoudara.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Best Luxury Hotel Restaurant Worcestershire AI Global Media Ltd",
+                            "de": "Bestes Luxushotel Restaurant Worcestershire AI Global Media Ltd",
+                            "fr": "Meilleur restaurant d’hôtel de luxe Worcestershire AI Global Media Ltd",
+                            "id": "Restoran Hotel Mewah Terbaik Worcestershire AI Global Media Ltd"
+                        },
+                        "tag": {
+                            "en": "Karma Salford Hall",
+                            "de": "Karma Salford Halle",
+                            "fr": "Salle Karma Salford",
+                            "id": "Balai Karma Salford"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2023/Best_Luxury_Hotel_Restaurant_Worcestershire_AI.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Certified Hotel Haute Grandeur Global Awards",
+                            "de": "Zertifizierte Hotel Haute Grandeur Global Auszeichnungen",
+                            "fr": "Certified Hotel Haute Grandeur Global Awards",
+                            "id": "Penghargaan Global Hotel Haute Grandeur Bersertifikat"
+                        },
+                        "tag": {
+                            "en": "Karma Kandara",
+                            "de": "Karma Kandara",
+                            "fr": "Karma Kandara",
+                            "id": "Karma Kandara"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2023/Certified_Hotel_Haute_Grandeur.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Families Welcome 2023 – 2024 VisitEngland",
+                            "de": "Familien Willkommen 2023 – 2024 VisitEngland",
+                            "fr": "Familles bienvenues 2023 – 2024 VisitEngland",
+                            "id": "Keluarga Selamat Datang 2023 – 2024 VisitEngland"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2023/Families_Welcome.png"
+                    },
+                    {
+                        "title": {
+                            "en": "AA 4 Black Star Hotel 2023 AA Hospitality Awards",
+                            "de": "AA 4 Black Star Hotel 2023 AA Hospitality Auszeichnungen",
+                            "fr": "AA 4 Black Star Hotel 2023 AA Hospitality Awards",
+                            "id": "AA 4 Black Star Hotel 2023 AA Hospitality Awards"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2023/AA_4_Black_Star_Hotel_2023_AA_Hospitality_Awards.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Sluurpy 2023 Sir Cloudesley Shovell Restaurant",
+                            "de": "Sluurpy 2023 Sir Cloudesley Shovell Restaurant",
+                            "fr": "Sluurpy 2023 Sir Cloudesley Shovell Restaurant",
+                            "id": "Restoran Sluurpy 2023 Sir Cloudesley Shovell"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin's"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2023/Sluurpy_2023_Sir_Cloudesley_Shovell_Restaurant.png"
+                    },
+                    {
+                        "title": {
+                            "en": "2023 winner Restaurant Haute Grandeur Global Awards",
+                            "de": "Gewinner der Restaurant Haute Grandeur Global Awards 2023",
+                            "fr": "2023 winner Restaurant Haute Grandeur Global Awards",
+                            "id": "Pemenang 2023 Penghargaan Global Restoran Haute Grandeur"
+                        },
+                        "tag": {
+                            "en": "di Mare Restaurant",
+                            "de": "di Mare Restaurant",
+                            "fr": "di Mare Restaurant",
+                            "id": "di Mare Restaurant"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2023/Best_Boutique_Villa_Restaurant_Haute_Grandeur.png"
+                    }
+                ],
+                "tripAdvisorList": []
+            },
+            "2022":{
+                "tripImage": "",
+                "awardsList":  [
+                    {
+                        "title": {
+                            "en": "Certificate of Excellence 2022 Restaurant Guru",
+                            "de": "Zertifikat für Exzellenz 2022 Restaurant Guru",
+                            "fr": "Certificat d’Excellence 2022 Restaurant Guru",
+                            "id": "Sertifikat Keunggulan 2022 Guru Restoran"
+                        },
+                        "tag": {
+                            "en": "Tempest Restaurant at",
+                            "de": "Tempest Restaurant im",
+                            "fr": "Restaurant Tempest à",
+                            "id": "Restoran Tempest di"
+                        },
+                        "name": {
+                            "en": "Karma Salford Hall",
+                            "de": "Karma Salford Halle",
+                            "fr": "Salle Karma Salford",
+                            "id": "Balai Karma Salford"
+                        },
+                        "image": "assets/images/awards/2022/Excellence_Certificate.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Appearing In The 46th Edition The Good Hotel Guide",
+                            "de": "Erschienen in der 46. Ausgabe des The Good Hotel Guide",
+                            "fr": "Apparaître dans la 46e édition du Guide The Good Hotel",
+                            "id": "Muncul di Edisi ke-46 Panduan Hotel yang Baik"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2022/Appearing_In_The_46th_Edition_The_Good_Hotel_Guide.png"
+                    },
+                    {
+                        "title": {
+                            "en": "AA 4 Black Star Hotel 2022 AA Hospitality Awards",
+                            "de": "AA 4 Black Star Hotel 2022 AA Hospitality Auszeichnungen",
+                            "fr": "AA 4 Black Star Hotel 2022 AA Hospitality Awards",
+                            "id": "AA 4 Black Star Hotel 2022 AA Hospitality Awards"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2022/AA_4_Black_Star_Hotel_2022_AA_Hospitality_Awards.png"
+                    },
+                    {
+                        "title": {
+                            "en": "AA 2 Rosette Award for Culinary Excellence - AA Hospitality Awards",
+                            "de": "AA 2 Rosette Award for Culinary Excellence - AA Hospitality Awards",
+                            "fr": "AA 2 Rosette Award for Culinary Excellence - AA Hospitality Awards",
+                            "id": "AA 2 Rosette Award for Culinary Excellence - AA Hospitality Awards"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2022/AA_4_Black_Star_Hotel_2022_AA_Hospitality_Awards.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Certificate of Excellence 2022 Restaurant Guru",
+                            "de": "Zertifikat für Exzellenz 2022 Restaurant Guru",
+                            "fr": "Certificat d’Excellence 2022 Restaurant Guru",
+                            "id": "Sertifikat Keunggulan 2022 Guru Restoran"
+                        },
+                        "tag": {
+                            "en": "Karma Beach Bali",
+                            "de": "Bali Resort & Spa",
+                            "fr": "Bali Resort & Spa",
+                            "id": "Karma Beach Bali"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2022/Certificate_of_Excellence_2022_Restaurant_Guru.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Best Boutique Villa on a Global level Haute Grandeur Global Awards",
+                            "de": "Beste Boutique-Villa auf globaler Ebene Haute Grandeur Global Awards",
+                            "fr": "Meilleure villa de charme au niveau mondial Haute Grandeur Global Awards",
+                            "id": "Vila Butik Terbaik di Tingkat Global Haute Grandeur Global Awards"
+                        },
+                        "tag": {
+                            "en": "Karma Kandara",
+                            "de": "Karma Kandara",
+                            "fr": "Karma Kandara",
+                            "id": "Karma Kandara"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2022/Best_Boutique_Villa_on_a_Global_level_Haute_Grandeur_Global_Awards.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Best Luxury Boutique Resort Haute Grandeur Global Awards",
+                            "de": "Best Luxury Boutique Resort Haute Grandeur Global Awards",
+                            "fr": "Best Luxury Boutique Resort Haute Grandeur Global Awards",
+                            "id": "Resor Butik Mewah Terbaik Penghargaan Global Haute Grandeur"
+                        },
+                        "tag": {
+                            "en": "Karma Kandara",
+                            "de": "Karma Kandara",
+                            "fr": "Karma Kandara",
+                            "id": "Karma Kandara"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2022/Best_Luxury_Boutique_Resort_Haute_Grandeur_Global_Awards.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Best Beach Villa in Asia Haute Grandeur Global Awards",
+                            "de": "Beste Strandvilla in Asien Haute Grandeur Global Auszeichnungen",
+                            "fr": "Meilleure villa de plage en Asie Haute Grandeur Global Awards",
+                            "id": "Vila Pantai Terbaik di Asia Haute Grandeur Global Awards"
+                        },
+                        "tag": {
+                            "en": "Karma Kandara",
+                            "de": "Karma Kandara",
+                            "fr": "Karma Kandara",
+                            "id": "Karma Kandara"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2022/Best_Beach_Villa_in_Asia_Haute_Grandeur_Global_Awards.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Best Hotel View in Indonesia Haute Grandeur Global Awards",
+                            "de": "Beste Hotelaussicht in Indonesien Haute Grandeur Global Awards",
+                            "fr": "Meilleure vue d’hôtel en Indonésie Haute Grandeur Global Awards",
+                            "id": "Pemandangan Hotel Terbaik di Indonesia Haute Grandeur Global Awards"
+                        },
+                        "tag": {
+                            "en": "Karma Kandara",
+                            "de": "Karma Kandara",
+                            "fr": "Karma Kandara",
+                            "id": "Karma Kandara"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2022/Best_Hotel_View_in_Indonesia_Haute_Grandeur_Global_Awards.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Best of The Best 2022 Traveller’s Choice Tripadvisor",
+                            "de": "Das Beste der Besten 2022 Traveller's Choice Tripadvisor",
+                            "fr": "Best of The Best 2022 Traveller’s Choice Tripadvisor",
+                            "id": "Terbaik dari Pilihan Wisatawan Terbaik 2022 Tripadvisor"
+                        },
+                        "tag": {
+                            "en": "Karma Salford Hall",
+                            "de": "Karma Salford Halle",
+                            "fr": "Salle Karma Salford",
+                            "id": "Balai Karma Salford"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2022/Best_of_The_Best_2022_Traveller’s_Choice_Tripadvisor.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Midlands Winner of Hotel Restaurant The Food Awards England",
+                            "de": "Gewinner der Midlands Hotel Restaurant The Food Awards England",
+                            "fr": "Lauréat dans les Midlands de l’Hotel Restaurant The Food Awards England",
+                            "id": "Pemenang Midlands Hotel Restaurant The Food Awards England"
+                        },
+                        "tag": {
+                            "en": "Karma Salford Hall",
+                            "de": "Karma Salford Halle",
+                            "fr": "Salle Karma Salford",
+                            "id": "Balai Karma Salford"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2022/Midlands_Hotel_Restaurant_The_Food_Awards_England.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Best Place to Work Perspective Magazine Awards",
+                            "de": "Auszeichnungen des Best Place to Work Perspective Magazine",
+                            "fr": "Prix du magazine Perspective du meilleur lieu de travail",
+                            "id": "Penghargaan Majalah Perspektif Tempat Kerja Terbaik"
+                        },
+                        "tag": {
+                            "en": "Karma Kandara",
+                            "de": "Karma Kandara",
+                            "fr": "Karma Kandara",
+                            "id": "Karma Kandara"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2022/Best_Place_to_Work_Perspective_Magazine_Awards.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Best Team Perspective Magazine Awards",
+                            "de": "Auszeichnungen für das beste Team Perspective Magazine",
+                            "fr": "Prix de la meilleure équipe du magazine Perspective",
+                            "id": "Penghargaan Majalah Perspektif Tim Terbaik"
+                        },
+                        "tag": {
+                            "en": "Karma Odyssey",
+                            "de": "Karma Odyssee",
+                            "fr": "L’Odyssée du Karma",
+                            "id": "Pengembaraan Karma"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2022/Best_Team_Perspective_Magazine_Awards.png"
+                    }
+                ],
+                "tripAdvisorList": []
+            },
+            "2021": {
+                "tripImage": "",
+                "awardsList": [
+                    {
+                        "title": {
+                            "en": "LiveHelpNow Challenge Winner for 2021",
+                            "de": "Gewinner der LiveHelpNow Challenge für 2021",
+                            "fr": "Gagnant du défi LiveHelpNow 2021",
+                            "id": "Pemenang Tantangan LiveHelpNow untuk 2021"
+                        },
+                        "tag": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2021/LiveHelpNow_21.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Certificate of Excellence Restaurant Guru",
+                            "de": "Zertifikat für Exzellenz Restaurant Guru",
+                            "fr": "Certificat d’Excellence Restaurant Guru",
+                            "id": "Sertifikat Keunggulan Guru Restoran"
+                        },
+                        "tag": {
+                            "en": "Sir Cloudesley Shovell Restaurant",
+                            "de": "Sir Cloudesley Shovell Restaurant",
+                            "fr": "Sir Cloudesley Shovell Restaurant",
+                            "id": "Restoran Sir Cloudesley Shovell"
+                        },
+                        "name": {
+                            "en": "Isles of Scilly, UK",
+                            "de": "Isles of Scilly, UK",
+                            "fr": "Isles of Scilly, UK",
+                            "id": "Isles of Scilly, UK"
+                        },
+                        "image": "assets/images/awards/2021/Certificate_of_Excellence_Restaurant_Guru.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Entrepreneur of The Year Perspective Magazine Awards",
+                            "de": "Auszeichnungen für Unternehmer des Jahres im Perspective Magazine",
+                            "fr": "Prix de l’Entrepreneur de l’année du magazine Perspective",
+                            "id": "Penghargaan Majalah Perspektif Pengusaha Tahun Ini"
+                        },
+                        "tag": {
+                            "en": "John Spence",
+                            "de": "John Spence",
+                            "fr": "John Spence",
+                            "id": "John Spence"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2021/Entrepreneur_of_The_Year_Perspective_Magazine_Awards.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Best Interior Design Perspective Magazine Awards",
+                            "de": "Auszeichnungen für die beste Innenarchitektur des Perspective Magazine",
+                            "fr": "Prix du meilleur magazine Perspective en design d’intérieur",
+                            "id": "Penghargaan Majalah Perspektif Desain Interior Terbaik"
+                        },
+                        "tag": {
+                            "en": "Karma Kandara",
+                            "de": "Karma Kandara",
+                            "fr": "Karma Kandara",
+                            "id": "Karma Kandara"
+                        },
+                        "name": {
+                            "en": "Bali",
+                            "de": "Bali",
+                            "fr": "Bali",
+                            "id": "Bali"
+                        },
+                        "image": "assets/images/awards/2021/Best_Interior_Design_Perspective_Magazine_Awards.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Travelers Choice Best of the Best Tripadvisor",
+                            "de": "Travelers Choice Das Beste vom Besten Tripadvisor",
+                            "fr": "Travelers Choice Le meilleur des meilleurs Tripadvisor",
+                            "id": "Pilihan Wisatawan Terbaik dari Tripadvisor Terbaik"
+                        },
+                        "tag": {
+                            "en": "Karma Exotica",
+                            "de": "Karma Exotica",
+                            "fr": "Karma Exotica",
+                            "id": "Karma Eksotika"
+                        },
+                        "name": {
+                            "en": "Dharamshala, India",
+                            "de": "Dharamshala, India",
+                            "fr": "Dharamshala, India",
+                            "id": "Dharamshala, India"
+                        },
+                        "image": "assets/images/awards/2021/Travelers_Choice_Best_of_the_Best_Tripadvisor.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Best International and Lifestyle Brand – Singapore",
+                            "de": "Beste internationale und Lifestyle-Marke – Singapur",
+                            "fr": "Meilleure marque internationale et lifestyle – Singapour",
+                            "id": "Merek Internasional dan Gaya Hidup Terbaik – Singapura"
+                        },
+                        "tag": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2021/Best_International_and_Lifestyle_Brand_–_Singapore.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Rosette Award for Culinary Excellence  - AA Hospitality Awards",
+                            "de": "Rosette Award für kulinarische Exzellenz - AA Hospitality Awards",
+                            "fr": "Prix Rosette pour l’excellence culinaire - AA Hospitality Awards",
+                            "id": "Penghargaan Rosette untuk Keunggulan Kuliner - AA Hospitality Awards"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Isles of Scilly, UK",
+                            "de": "Isles of Scilly, UK",
+                            "fr": "Isles of Scilly, UK",
+                            "id": "Isles of Scilly, UK"
+                        },
+                        "image": "assets/images/awards/2021/Rosette_Award_for_Culinary_Excellence_AA_Hospitality_Awards.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Top Hotels Schliersee 2021 Travelmyth",
+                            "de": "Top Hotels Schliersee 2021 Travelmyth",
+                            "fr": "Les meilleurs hôtels Schliersee 2021 Travelmyth",
+                            "id": "Hotel Terpopuler Schliersee 2021 Travelmyth"
+                        },
+                        "tag": {
+                            "en": "Karma Bavaria",
+                            "de": "Karma Bawria",
+                            "fr": "Karma Bawria",
+                            "id": "Karma Bawria"
+                        },
+                        "name": {
+                            "en": "Schliersee, Germany",
+                            "de": "Schliersee, Germany",
+                            "fr": "Schliersee, Germany",
+                            "id": "Schliersee, Germany"
+                        },
+                        "image": "assets/images/awards/2021/Top_Hotels_Schliersee_2021_Travelmyth.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Top 10 Luxushotels Miesbach 2021 Travelmyth",
+                            "de": "Top 10 Luxushotels Miesbach 2021 Travelmyth",
+                            "fr": "Top 10 Luxushotels Miesbach 2021 Travelmyth",
+                            "id": "10 Hotel Mewah Terbaik Miesbach 2021 Travelmyth"
+                        },
+                        "tag": {
+                            "en": "Karma Bavaria",
+                            "de": "Karma Bawria",
+                            "fr": "Karma Bawria",
+                            "id": "Karma Bawria"
+                        },
+                        "name": {
+                            "en": "Schliersee, Germany",
+                            "de": "Schliersee, Germany",
+                            "fr": "Schliersee, Germany",
+                            "id": "Schliersee, Germany"
+                        },
+                        "image": "assets/images/awards/2021/Luxushotels_Miesbach_Travelmyth.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Top 10 Luxushotels Miesbach 2021 Travelmyth",
+                            "de": "Top 10 Luxushotels Miesbach 2021 Travelmyth",
+                            "fr": "Top 10 Luxushotels Miesbach 2021 Travelmyth",
+                            "id": "10 Hotel Mewah Terbaik Miesbach 2021 Travelmyth"
+                        },
+                        "tag": {
+                            "en": "Karma Bavaria",
+                            "de": "Karma Bawria",
+                            "fr": "Karma Bawria",
+                            "id": "Karma Bawria"
+                        },
+                        "name": {
+                            "en": "Schliersee, Germany",
+                            "de": "Schliersee, Germany",
+                            "fr": "Schliersee, Germany",
+                            "id": "Schliersee, Germany"
+                        },
+                        "image": "assets/images/awards/2021/10_Hotels_Fur_Flitterwochen_Miesbach_Travelmyth.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Top 10 Hotels Mit Wellness Miesbach 2021 - Travelmyth",
+                            "de": "Top 10 Hotels Mit Wellness Miesbach 2021 - Travelmyth",
+                            "fr": "Top 10 des hôtels avec bien-être à Miesbach 2021 - Travelmyth",
+                            "id": "10 Hotel Terbaik dengan Kesehatan di Miesbach 2021 - Travelmyth"
+                        },
+                        "tag": {
+                            "en": "Karma Bavaria",
+                            "de": "Karma Bawria",
+                            "fr": "Karma Bawria",
+                            "id": "Karma Bawria"
+                        },
+                        "name": {
+                            "en": "Schliersee, Germany",
+                            "de": "Schliersee, Germany",
+                            "fr": "Schliersee, Germany",
+                            "id": "Schliersee, Germany"
+                        },
+                        "image": "assets/images/awards/2021/Hotels_Mit_Wellness_MiesbachTravelmyth.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Top 10 Für Familien Bayern 2021 Travelmyth",
+                            "de": "Top 10 Für Familien Bayern 2021 Travelmyth",
+                            "fr": "Top 10 pour les familles Bavière 2021 Travelmyth",
+                            "id": "10 Teratas untuk Keluarga Bavaria 2021 Travelmyth"
+                        },
+                        "tag": {
+                            "en": "Karma Bavaria",
+                            "de": "Karma Bawria",
+                            "fr": "Karma Bawria",
+                            "id": "Karma Bawria"
+                        },
+                        "name": {
+                            "en": "Schliersee, Germany",
+                            "de": "Schliersee, Germany",
+                            "fr": "Schliersee, Germany",
+                            "id": "Schliersee, Germany"
+                        },
+                        "image": "assets/images/awards/2021/10_Fur_Familien_Bayern_Travelmyth.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Unter Den Top 10% Der Hundefreundlichsten Hotels Weltweit",
+                            "de": "Unter Den Top 10% Der Hundefreundlichsten Hotels Weltweit",
+                            "fr": "Classé dans le top 10 % des hôtels les plus accueillants pour les chiens au monde",
+                            "id": "Peringkat 10% teratas hotel paling ramah anjing di dunia"
+                        },
+                        "tag": {
+                            "en": "Karma Bavaria",
+                            "de": "Karma Bawria",
+                            "fr": "Karma Bawria",
+                            "id": "Karma Bawria"
+                        },
+                        "name": {
+                            "en": "Schliersee, Germany",
+                            "de": "Schliersee, Germany",
+                            "fr": "Schliersee, Germany",
+                            "id": "Schliersee, Germany"
+                        },
+                        "image": "assets/images/awards/2021/Unter_Den_Top_10%_Der_Hundefreundlichsten_Hotels_Weltweit.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Featured Hochzeithotels Travelmyth",
+                            "de": "Featured Hochzeithotels Travelmyth",
+                            "fr": "En vedette Hochzeithotels Travelmyth",
+                            "id": "Hochzeithotels Travelmyth Unggulan"
+                        },
+                        "tag": {
+                            "en": "Karma Bavaria",
+                            "de": "Karma Bawria",
+                            "fr": "Karma Bawria",
+                            "id": "Karma Bawria"
+                        },
+                        "name": {
+                            "en": "Schliersee, Germany",
+                            "de": "Schliersee, Germany",
+                            "fr": "Schliersee, Germany",
+                            "id": "Schliersee, Germany"
+                        },
+                        "image": "assets/images/awards/2021/Featured_Hochzeithotels_Travelmyth.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Featured In Der Kategorie Pool Travelmyth",
+                            "de": "Featured In Der Kategorie Pool Travelmyth",
+                            "fr": "En vedette dans la catégorie Piscine Travelmyth",
+                            "id": "Ditampilkan dalam kategori Pool Travelmyth"
+                        },
+                        "tag": {
+                            "en": "Karma Bavaria",
+                            "de": "Karma Bawria",
+                            "fr": "Karma Bawria",
+                            "id": "Karma Bawria"
+                        },
+                        "name": {
+                            "en": "Schliersee, Germany",
+                            "de": "Schliersee, Germany",
+                            "fr": "Schliersee, Germany",
+                            "id": "Schliersee, Germany"
+                        },
+                        "image": "assets/images/awards/2021/Featured_In_Der_Kategorie_Pool_Travelmyth.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Featured Hotel Mit Parkplatz Travelmyth",
+                            "de": "Featured Hotel Mit Parkplatz Travelmyth",
+                            "fr": "Hôtels avec parking à Travelmyth",
+                            "id": "Hotel Travelmyth Unggulan dengan Parkir"
+                        },
+                        "tag": {
+                            "en": "Karma Bavaria",
+                            "de": "Karma Bawria",
+                            "fr": "Karma Bawria",
+                            "id": "Karma Bawria"
+                        },
+                        "name": {
+                            "en": "Schliersee, Germany",
+                            "de": "Schliersee, Germany",
+                            "fr": "Schliersee, Germany",
+                            "id": "Schliersee, Germany"
+                        },
+                        "image": "assets/images/awards/2021/Featured_Hotel_Mit_Parkplatz_Travelmyth.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Featured In Der Kategorie Zugänglichkeit Travelmyth",
+                            "de": "Featured In Der Kategorie Zugänglichkeit Travelmyth",
+                            "fr": "En vedette dans la catégorie Accessibilité Travelmyth",
+                            "id": "Ditampilkan dalam kategori Aksesibilitas Travelmyth"
+                        },
+                        "tag": {
+                            "en": "Karma Bavaria",
+                            "de": "Karma Bawria",
+                            "fr": "Karma Bawria",
+                            "id": "Karma Bawria"
+                        },
+                        "name": {
+                            "en": "Schliersee, Germany",
+                            "de": "Schliersee, Germany",
+                            "fr": "Schliersee, Germany",
+                            "id": "Schliersee, Germany"
+                        },
+                        "image": "assets/images/awards/2021/Featured_In_Der_Kategorie_Zuganglichkeit_Travelmyth.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Top 50 Hotel Mit Fitnessstudio Oberbayern Travelmyth",
+                            "de": "Top 50 Hotel Mit Fitnessstudio Oberbayern Travelmyth",
+                            "fr": "Top 50 des hôtels avec centre de remise en forme en Haute-Bavière Travelmyth",
+                            "id": "50 Hotel Terbaik dengan Pusat Kebugaran di Upper Bavaria Travelmyth"
+                        },
+                        "tag": {
+                            "en": "Karma Bavaria",
+                            "de": "Karma Bawria",
+                            "fr": "Karma Bawria",
+                            "id": "Karma Bawria"
+                        },
+                        "name": {
+                            "en": "Schliersee, Germany",
+                            "de": "Schliersee, Germany",
+                            "fr": "Schliersee, Germany",
+                            "id": "Schliersee, Germany"
+                        },
+                        "image": "assets/images/awards/2021/50_Hotel_Mit_Fitnessstudio_Oberbayern_Travelmyth.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Top 30 Yoga-Hotels in Bayern 2021 Travelmyth",
+                            "de": "Die 30 besten Yoga-Hotels in Bayern 2021 Travelmyth",
+                            "fr": "Top 30 des hôtels de yoga à Bayern 2021 Travelmyth",
+                            "id": "30 Hotel Yoga Terbaik di Bayern 2021 Travelmyth"
+                        },
+                        "tag": {
+                            "en": "Karma Bavaria",
+                            "de": "Karma Bawria",
+                            "fr": "Karma Bawria",
+                            "id": "Karma Bawria"
+                        },
+                        "name": {
+                            "en": "Schliersee, Germany",
+                            "de": "Schliersee, Germany",
+                            "fr": "Schliersee, Germany",
+                            "id": "Schliersee, Germany"
+                        },
+                        "image": "assets/images/awards/2021/30_YogaHotels_in_Bayern_Travelmyth.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Featured 4-Sterne-Hotel Schliersee Travelmyth",
+                            "de": "Empfehlung: 4-Sterne-Hotel Schliersee Reisemythos",
+                            "fr": "En vedette 4-Sterne-Hotel Schliersee Travelmyth",
+                            "id": "Unggulan 4-Sterne-Hotel Schliersee Travelmyth"
+                        },
+                        "tag": {
+                            "en": "Karma Bavaria",
+                            "de": "Karma Bawria",
+                            "fr": "Karma Bawria",
+                            "id": "Karma Bawria"
+                        },
+                        "name": {
+                            "en": "Schliersee, Germany",
+                            "de": "Schliersee, Germany",
+                            "fr": "Schliersee, Germany",
+                            "id": "Schliersee, Germany"
+                        },
+                        "image": "assets/images/awards/2021/Featured_4SterneHotel_Schliersee_Travelmyth.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Featured Schliersee Hotel Mit Hundespielwiese Travelmyth",
+                            "de": "Featured Schliersee Hotel Mit Hundespielwiese Travelmyth",
+                            "fr": "En vedette Schliersee Hotel avec aire de jeux pour chiens Travelmyth",
+                            "id": "Hotel Unggulan Schliersee dengan Taman Bermain Anjing Travelmyth"
+                        },
+                        "tag": {
+                            "en": "Karma Bavaria",
+                            "de": "Karma Bawria",
+                            "fr": "Karma Bawria",
+                            "id": "Karma Bawria"
+                        },
+                        "name": {
+                            "en": "Schliersee, Germany",
+                            "de": "Schliersee, Germany",
+                            "fr": "Schliersee, Germany",
+                            "id": "Schliersee, Germany"
+                        },
+                        "image": "assets/images/awards/2021/Featured_Schliersee_Hotel_Mit_Hundespielwiese_Travelmyth.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Top 50 Hotels Mit Innenpool in Oberbayern 2021 Travelmyth",
+                            "de": "Top 50 Hotels Mit Innenpool in Oberbayern 2021 Travelmyth",
+                            "fr": "Top 50 des hôtels avec piscine intérieure en Haute-Bavière 2021 Travelmyth",
+                            "id": "50 Hotel Terbaik dengan Kolam Renang Dalam Ruangan di Bavaria Atas 2021 Travelmyth"
+                        },
+                        "tag": {
+                            "en": "Karma Bavaria",
+                            "de": "Karma Bawria",
+                            "fr": "Karma Bawria",
+                            "id": "Karma Bawria"
+                        },
+                        "name": {
+                            "en": "Schliersee, Germany",
+                            "de": "Schliersee, Germany",
+                            "fr": "Schliersee, Germany",
+                            "id": "Schliersee, Germany"
+                        },
+                        "image": "assets/images/awards/2021/50_Hotels_Mit_Innenpool_in_Oberbayern_Travelmyth.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Top Hotels Mit Beheiztem Pool in Oberbayern 2021 Travelmyth",
+                            "de": "Top Hotels Mit Beheiztem Pool in Oberbayern 2021 Travelmyth",
+                            "fr": "Meilleur hébergement avec piscine chauffée en Haute-Bavière 2021 Travelmyth",
+                            "id": "Akomodasi Terbaik dengan Kolam Renang Berpemanas di Bavaria Atas 2021 Travelmyth"
+                        },
+                        "tag": {
+                            "en": "Karma Bavaria",
+                            "de": "Karma Bawria",
+                            "fr": "Karma Bawria",
+                            "id": "Karma Bawria"
+                        },
+                        "name": {
+                            "en": "Schliersee, Germany",
+                            "de": "Schliersee, Germany",
+                            "fr": "Schliersee, Germany",
+                            "id": "Schliersee, Germany"
+                        },
+                        "image": "assets/images/awards/2021/Top_Hotels_Mit_Beheiztem_Pool_in_Oberbayern_2021_Travelmyth.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Featured Tennishotel Travelmyth",
+                            "de": "Empfohlenes Tennishotel Travelmyth",
+                            "fr": "En vedette Tennishotel Travelmyth",
+                            "id": "Tennishotel Terpilih Travelmyth"
+                        },
+                        "tag": {
+                            "en": "Karma Bavaria",
+                            "de": "Karma Bawria",
+                            "fr": "Karma Bawria",
+                            "id": "Karma Bawria"
+                        },
+                        "name": {
+                            "en": "Schliersee, Germany",
+                            "de": "Schliersee, Germany",
+                            "fr": "Schliersee, Germany",
+                            "id": "Schliersee, Germany"
+                        },
+                        "image": "assets/images/awards/2021/Featured_Tennishotel_Travelmyth.png"
+                    }
+                ],
+                "tripAdvisorList": []
+            }
+        }
+    }
+
+}

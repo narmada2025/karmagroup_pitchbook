@@ -1,0 +1,301 @@
+{
+
+    "banner": {
+        "subTitle": {
+            "en": "SPONSORSHIPS",
+            "de": "PATENSTELLEN",
+            "fr": "COMMANDITES",
+            "id": "SPONSOR"
+        },
+        "title": {
+            "en": "Our Partnerships",
+            "de": "Unsere Partnerschaften",
+            "fr": "Nos partenariats",
+            "id": "Kemitraan Kami"
+        },
+        "image": "assets/images/partnerships/Our Partnerships_Banner.jpg"
+    },
+    "partnership": {
+        "title": {
+            "en": "Partnerships",
+            "de": "Partnerschaften",
+            "fr": "Partenariats",
+            "id": "Kemitraan"
+        },
+        "description": {
+            "en": "An active lifestyle is one of the cornerstones of Karma’s philosophy. That’s why we sponsor and support many of the world’s top sporting initiatives and identities, including England Rugby, Western Australia’s own Western Force Super Rugby team, the Perth Glory and the UK’s Rosslyn Park National School 7s Rugby.",
+            "de": "Ein aktiver Lebensstil ist einer der Eckpfeiler der Philosophie von Karma. Aus diesem Grund sponsern und unterstützen wir viele der weltweit besten Sportinitiativen und -identitäten, darunter England Rugby, das westaustralische Western Force Super Rugby-Team, die Perth Glory und die Rosslyn Park National School 7s Rugby in Großbritannien.",
+            "fr": "Un mode de vie actif est l’une des pierres angulaires de la philosophie de Karma. C’est pourquoi nous sponsorisons et soutenons de nombreuses initiatives et identités sportives parmi les plus importantes au monde, notamment England Rugby, l’équipe Western Force Super Rugby d’Australie-Occidentale, le Perth Glory et le Rosslyn Park National School 7s Rugby au Royaume-Uni.",
+            "id": "Gaya hidup aktif adalah salah satu landasan filosofi Karma. Itulah sebabnya kami mensponsori dan mendukung banyak inisiatif dan identitas olahraga top dunia, termasuk England Rugby, tim Western Force Super Rugby Australia Barat sendiri, Perth Glory, dan Rosslyn Park National School 7s Rugby di Inggris."
+        },
+        "carousel": [
+            {
+                "image": "assets/images/partnerships/logos/perth_wildcats.png",
+                "slides": [
+                    {
+                        "title": {
+                            "en": "The Bali Children Project",
+                            "de": "Das Bali Children Project",
+                            "fr": "Le projet pour les enfants de Bali",
+                            "id": "Proyek Anak Bali"
+                        },
+                        "description": {
+                            "en": "Karma is a majority sponsor of this wonderful organisation, which strives to give hope, dignity and purpose to disadvantaged children in Bali.",
+                            "de": "Karma ist Mehrheitssponsor dieser wunderbaren Organisation, die sich dafür einsetzt, benachteiligten Kindern auf Bali Hoffnung, Würde und Sinn zu geben.",
+                            "fr": "Karma est un sponsor majoritaire de cette merveilleuse organisation, qui s’efforce de donner de l’espoir, de la dignité et un but aux enfants défavorisés de Bali.",
+                            "id": "Karma adalah sponsor mayoritas organisasi yang luar biasa ini, yang berusaha untuk memberikan harapan, martabat, dan tujuan kepada anak-anak yang kurang beruntung di Bali."
+                        },
+                        "image": "assets/images/partnerships/Western Force Rugby.png"
+                    }
+                ]
+            },
+            {
+                "image": "assets/images/partnerships/logos/jenson.png",
+                "slides": [
+                    {
+                        "title": {
+                            "en": "The Bali Project",
+                            "de": "Das Bali-Projekt",
+                            "fr": "Le Projet de Bali",
+                            "id": "Proyek Bali"
+                        },
+                        "description": {
+                            "en": "Karma is a majority sponsor of this wonderful organisation, which strives to give hope, dignity and purpose to disadvantaged children in Bali.",
+                            "de": "Karma ist Mehrheitssponsor dieser wunderbaren Organisation, die sich dafür einsetzt, benachteiligten Kindern auf Bali Hoffnung, Würde und Sinn zu geben.",
+                            "fr": "Karma est un sponsor majoritaire de cette merveilleuse organisation, qui s’efforce de donner de l’espoir, de la dignité et un but aux enfants défavorisés de Bali.",
+                            "id": "Karma adalah sponsor mayoritas organisasi yang luar biasa ini, yang berusaha untuk memberikan harapan, martabat, dan tujuan kepada anak-anak yang kurang beruntung di Bali."
+                        },
+                        "image": "assets/images/partnerships/Western Force Rugby.png"
+                    }
+                ]
+            },
+            {
+                "image": "assets/images/partnerships/logos/karma_resorts_rotnest.png",
+                "slides": [
+                    {
+                        "title": {
+                            "en": "The Bali Children Project",
+                            "de": "Das Bali Children Project",
+                            "fr": "Le projet pour les enfants de Bali",
+                            "id": "Proyek Anak Bali"
+                        },
+                        "description": {
+                            "en": "Karma is a majority sponsor of this wonderful organisation, which strives to give hope, dignity and purpose to disadvantaged children in Bali.",
+                            "de": "Karma ist Mehrheitssponsor dieser wunderbaren Organisation, die sich dafür einsetzt, benachteiligten Kindern auf Bali Hoffnung, Würde und Sinn zu geben.",
+                            "fr": "Karma est un sponsor majoritaire de cette merveilleuse organisation, qui s’efforce de donner de l’espoir, de la dignité et un but aux enfants défavorisés de Bali.",
+                            "id": "Karma adalah sponsor mayoritas organisasi yang luar biasa ini, yang berusaha untuk memberikan harapan, martabat, dan tujuan kepada anak-anak yang kurang beruntung di Bali."
+                        },
+                        "image": "assets/images/partnerships/Western Force Rugby.png"
+                    }
+                ]
+            },
+            {
+                "image": "assets/images/partnerships/logos/western-force.png",
+                "slides": [
+                    {
+                        "title": {
+                            "en": "The Bali Children Project",
+                            "de": "Das Bali Children Project",
+                            "fr": "Le projet pour les enfants de Bali",
+                            "id": "Proyek Anak Bali"
+                        },
+                        "description": {
+                            "en": "Karma is a majority sponsor of this wonderful organisation, which strives to give hope, dignity and purpose to disadvantaged children in Bali.",
+                            "de": "Karma ist Mehrheitssponsor dieser wunderbaren Organisation, die sich dafür einsetzt, benachteiligten Kindern auf Bali Hoffnung, Würde und Sinn zu geben.",
+                            "fr": "Karma est un sponsor majoritaire de cette merveilleuse organisation, qui s’efforce de donner de l’espoir, de la dignité et un but aux enfants défavorisés de Bali.",
+                            "id": "Karma adalah sponsor mayoritas organisasi yang luar biasa ini, yang berusaha untuk memberikan harapan, martabat, dan tujuan kepada anak-anak yang kurang beruntung di Bali."
+                        },
+                        "image": "assets/images/partnerships/Western Force Rugby.png"
+                    }
+                ]
+            },
+            {
+                "image": "assets/images/partnerships/logos/england_rugby.png",
+                "slides": [
+                    {
+                        "title": {
+                            "en": "The Bali Children Project",
+                            "de": "Das Bali Children Project",
+                            "fr": "Le projet pour les enfants de Bali",
+                            "id": "Proyek Anak Bali"
+                        },
+                        "description": {
+                            "en": "Karma is a majority sponsor of this wonderful organisation, which strives to give hope, dignity and purpose to disadvantaged children in Bali.",
+                            "de": "Karma ist Mehrheitssponsor dieser wunderbaren Organisation, die sich dafür einsetzt, benachteiligten Kindern auf Bali Hoffnung, Würde und Sinn zu geben.",
+                            "fr": "Karma est un sponsor majoritaire de cette merveilleuse organisation, qui s’efforce de donner de l’espoir, de la dignité et un but aux enfants défavorisés de Bali.",
+                            "id": "Karma adalah sponsor mayoritas organisasi yang luar biasa ini, yang berusaha untuk memberikan harapan, martabat, dan tujuan kepada anak-anak yang kurang beruntung di Bali."
+                        },
+                        "image": "assets/images/partnerships/Western Force Rugby.png"
+                    }
+                ]
+            },
+            {
+                "image": "assets/images/partnerships/logos/perth_glory.png",
+                "slides": [
+                    {
+                        "title": {
+                            "en": "The Bali Children Project",
+                            "de": "Das Bali Children Project",
+                            "fr": "Le projet pour les enfants de Bali",
+                            "id": "Proyek Anak Bali"
+                        },
+                        "description": {
+                            "en": "Karma is a majority sponsor of this wonderful organisation, which strives to give hope, dignity and purpose to disadvantaged children in Bali.",
+                            "de": "Karma ist Mehrheitssponsor dieser wunderbaren Organisation, die sich dafür einsetzt, benachteiligten Kindern auf Bali Hoffnung, Würde und Sinn zu geben.",
+                            "fr": "Karma est un sponsor majoritaire de cette merveilleuse organisation, qui s’efforce de donner de l’espoir, de la dignité et un but aux enfants défavorisés de Bali.",
+                            "id": "Karma adalah sponsor mayoritas organisasi yang luar biasa ini, yang berusaha untuk memberikan harapan, martabat, dan tujuan kepada anak-anak yang kurang beruntung di Bali."
+                        },
+                        "image": "assets/images/partnerships/Western Force Rugby.png"
+                    }
+                ]
+            },
+            {
+                "image": "assets/images/partnerships/logos/rosslyn_park_hsbc.png",
+                "slides": [
+                    {
+                        "title": {
+                            "en": "The Bali Children Project",
+                            "de": "Das Bali Children Project",
+                            "fr": "Le projet pour les enfants de Bali",
+                            "id": "Proyek Anak Bali"
+                        },
+                        "description": {
+                            "en": "Karma is a majority sponsor of this wonderful organisation, which strives to give hope, dignity and purpose to disadvantaged children in Bali.",
+                            "de": "Karma ist Mehrheitssponsor dieser wunderbaren Organisation, die sich dafür einsetzt, benachteiligten Kindern auf Bali Hoffnung, Würde und Sinn zu geben.",
+                            "fr": "Karma est un sponsor majoritaire de cette merveilleuse organisation, qui s’efforce de donner de l’espoir, de la dignité et un but aux enfants défavorisés de Bali.",
+                            "id": "Karma adalah sponsor mayoritas organisasi yang luar biasa ini, yang berusaha untuk memberikan harapan, martabat, dan tujuan kepada anak-anak yang kurang beruntung di Bali."
+                        },
+                        "image": "assets/images/partnerships/Western Force Rugby.png"
+                    }
+                ]
+            }
+        ]
+    },
+
+    "guest": {
+            "title": {
+                "en": "Celebrity Guests at Karma",
+                "de": "Prominente Gäste im Karma",
+                "fr": "Invités célèbres chez Karma",
+                "id": "Tamu Selebriti di Karma"
+            },
+            "description": {
+                "en": "Our guest book includes famous names from the world of film, music, sports and even the occassional royal. We like to think that they too are spreading the Karma gospel along with our official ambassadors who are encouraging more converts to the cause.",
+                "de": "In unserem Gästebuch finden Sie berühmte Namen aus der Welt des Films, der Musik, des Sports und sogar gelegentlich der königlichen Mannschaft. Wir glauben gerne, dass auch sie das Karma-Evangelium verbreiten, zusammen mit unseren offiziellen Botschaftern, die mehr Konvertiten für die Sache ermutigen.",
+                "fr": "Notre livre d’or comprend des noms célèbres du monde du cinéma, de la musique, du sport et même de la famille royale occasionnelle. Nous aimons à penser qu’eux aussi répandent l’évangile du Karma avec nos ambassadeurs officiels qui encouragent davantage de convertis à la cause.",
+                "id": "Buku tamu kami mencakup nama-nama terkenal dari dunia film, musik, olahraga, dan bahkan bangsawan sesekali. Kami suka berpikir bahwa mereka juga menyebarkan Injil Karma bersama dengan duta resmi kami yang mendorong lebih banyak orang yang bertobat untuk tujuan ini."
+            },
+        "location": [
+            {
+                "name": "Global",
+                "celebrities": [
+                    "assets/images/partnerships/celebrities/Aaron Edwards.jpg",
+                    "assets/images/partnerships/celebrities/Alan Wetton.jpg",
+                    "assets/images/partnerships/celebrities/Andrew Andika.jpg",
+                    "assets/images/partnerships/celebrities/Angela Tsun.jpg",
+                    "assets/images/partnerships/celebrities/Anggun C Sasmi.jpg",
+                    "assets/images/partnerships/celebrities/Anna Heinrich.jpg",
+                    "assets/images/partnerships/celebrities/Ariel Tatum.jpg",
+                    "assets/images/partnerships/celebrities/Ashanty.jpg",
+                    "assets/images/partnerships/celebrities/Boy George.jpg",
+                    "assets/images/partnerships/celebrities/Briana Evigan.jpg",
+                    "assets/images/partnerships/celebrities/Brooke  Hogan.jpg",
+                    "assets/images/partnerships/celebrities/Brooke Hogan.jpg",
+                    "assets/images/partnerships/celebrities/Bunga Zainal.jpg",
+                    "assets/images/partnerships/celebrities/Carl Cox _ Eric Powell.jpg",
+                    "assets/images/partnerships/celebrities/Carl Cox.jpg",
+                    "assets/images/partnerships/celebrities/Charlie Mulchrone.jpg",
+                    "assets/images/partnerships/celebrities/Chris Robshaw & Camilla Kerslake.jpg",
+                    "assets/images/partnerships/celebrities/Adam Ashley Cooper.jpg",
+                    "assets/images/partnerships/celebrities/Conrad Smith.jpg",
+                    "assets/images/partnerships/celebrities/Crystal Hefner.jpg",
+                    "assets/images/partnerships/celebrities/Dame Judy Dench.jpg",
+                    "assets/images/partnerships/celebrities/Damian Martin.jpg",
+                    "assets/images/partnerships/celebrities/Dane Haylett-Petty.jpg",
+                    "assets/images/partnerships/celebrities/Darren Gough.jpg",
+                    "assets/images/partnerships/celebrities/David Croft.jpg",
+                    "assets/images/partnerships/celebrities/Djenar Maesayu.jpg",
+                    "assets/images/partnerships/celebrities/Drew Mitchell.jpg",
+                    "assets/images/partnerships/celebrities/Duncan James.jpg",
+                    "assets/images/partnerships/celebrities/Emma Rose.jpg",
+                    "assets/images/partnerships/celebrities/Aisha McKinnon & Travis Lunardi.jpg",
+                    "assets/images/partnerships/celebrities/Eric Kuuper.jpg",
+                    "assets/images/partnerships/celebrities/Eric Powell.jpg",
+                    "assets/images/partnerships/celebrities/Farah Quinn.jpg",
+                    "assets/images/partnerships/celebrities/Alice Norin.jpg",
+                    "assets/images/partnerships/celebrities/Fatboy Slim.jpg",
+                    "assets/images/partnerships/celebrities/Gemma Atkinson.jpg",
+                    "assets/images/partnerships/celebrities/Gisella Anastasia.jpg",
+                    "assets/images/partnerships/celebrities/James O Connor.jpg",
+                    "assets/images/partnerships/celebrities/Jared Hargreaves.jpg",
+                    "assets/images/partnerships/celebrities/Jeon Hye Bin.jpg",
+                    "assets/images/partnerships/celebrities/Jeremy Piven.jpg",
+                    "assets/images/partnerships/celebrities/Jessica Iskandar.jpg",
+                    "assets/images/partnerships/celebrities/John Spence with Jonathan Davies.jpg",
+                    "assets/images/partnerships/celebrities/John Kirwan.jpg",
+                    "assets/images/partnerships/celebrities/Jonathan Frizzy.jpg",
+                    "assets/images/partnerships/celebrities/Jonathan Frizzy  .jpg",
+                    "assets/images/partnerships/celebrities/Jorge Lorenzo.jpg",
+                    "assets/images/partnerships/celebrities/Katherine Ellis.jpg",
+                    "assets/images/partnerships/celebrities/Keith Richards.jpg",
+                    "assets/images/partnerships/celebrities/Kevin Rudd.jpg",
+                    "assets/images/partnerships/celebrities/Koby Stevens.jpg",
+                    "assets/images/partnerships/celebrities/Kurtley Beale.jpg",
+                    "assets/images/partnerships/celebrities/Laura Dundovic.jpg",
+                    "assets/images/partnerships/celebrities/Marcella Zalianti.jpg",
+                    "assets/images/partnerships/celebrities/Maria Rahajeng.jpg",
+                    "assets/images/partnerships/celebrities/Marissa Nasution.jpg",
+                    "assets/images/partnerships/celebrities/Mark Gasnier.jpg",
+                    "assets/images/partnerships/celebrities/Marsha Aruan.jpg",
+                    "assets/images/partnerships/celebrities/Marshanda.jpg",
+                    "assets/images/partnerships/celebrities/Mathew Tait.jpg",
+                    "assets/images/partnerships/celebrities/Matt Cockbain.jpg",
+                    "assets/images/partnerships/celebrities/Matt Giteau.jpg",
+                    "assets/images/partnerships/celebrities/Miss Universe 2013.jpg",
+                    "assets/images/partnerships/celebrities/Miss Universe 2014.jpg",
+                    "assets/images/partnerships/celebrities/Miss Universe WA 2011 - Renae Ayris.jpg",
+                    "assets/images/partnerships/celebrities/Miss Universe WA 2012 - Scherri Biggs.jpg",
+                    "assets/images/partnerships/celebrities/Miss Universe WA Finalists 2011.jpg",
+                    "assets/images/partnerships/celebrities/Natalie Imbruglia.jpg",
+                    "assets/images/partnerships/celebrities/Nathan Sharpe.jpg",
+                    "assets/images/partnerships/celebrities/Nick Kennedy & Toby Flood.jpg",
+                    "assets/images/partnerships/celebrities/Nick Kennedy.jpg",
+                    "assets/images/partnerships/celebrities/Nick Kennedy 2.jpg",
+                    "assets/images/partnerships/celebrities/Nico Rosberg.jpg",
+                    "assets/images/partnerships/celebrities/NZ Musicians with Mark Thomson.jpg",
+                    "assets/images/partnerships/celebrities/Olivia_Jensen.jpg",
+                    "assets/images/partnerships/celebrities/Paddy Ryan.jpg",
+                    "assets/images/partnerships/celebrities/Patrick Dillit.jpg",
+                    "assets/images/partnerships/celebrities/Phil Greening.jpg",
+                    "assets/images/partnerships/celebrities/POL ESPAGARO.jpg",
+                    "assets/images/partnerships/celebrities/Prilly Latuconsina.jpg",
+                    "assets/images/partnerships/celebrities/King Charles III.jpg",
+                    "assets/images/partnerships/celebrities/Richie McCaw.jpg",
+                    "assets/images/partnerships/celebrities/Saia Faingaa.jpg",
+                    "assets/images/partnerships/celebrities/Saskia Vester.jpg",
+                    "assets/images/partnerships/celebrities/Scott Cummings.jpg",
+                    "assets/images/partnerships/celebrities/Scott Staniforth.jpg",
+                    "assets/images/partnerships/celebrities/Simon Amor.jpg",
+                    "assets/images/partnerships/celebrities/Simon Shaw.jpg",
+                    "assets/images/partnerships/celebrities/six60 Band.jpg",
+                    "assets/images/partnerships/celebrities/Snezana Markoski.jpg",
+                    "assets/images/partnerships/celebrities/Sonny Bill Williams.jpg",
+                    "assets/images/partnerships/celebrities/Sophie Monk.jpg",
+                    "assets/images/partnerships/celebrities/Tana Umaga.jpg",
+                    "assets/images/partnerships/celebrities/Tara Palmer Tomkinson.jpg",
+                    "assets/images/partnerships/celebrities/Tim Robards.jpg",
+                    "assets/images/partnerships/celebrities/TITI DJ.jpg",
+                    "assets/images/partnerships/celebrities/Toby Flood.jpg",
+                    "assets/images/partnerships/celebrities/Tom Palmer.jpg",
+                    "assets/images/partnerships/celebrities/Tyson Pedro.jpg",
+                    "assets/images/partnerships/celebrities/Wallabies.jpg",
+                    "assets/images/partnerships/celebrities/Wulan Guritno.jpg",
+                    "assets/images/partnerships/celebrities/Yacouba Camara.jpg",
+                    "assets/images/partnerships/celebrities/Zara Philips & Mike Tindall.jpg",
+                    "assets/images/partnerships/celebrities/Zara Phillips.jpg"
+                ]
+            }
+        ]
+        }
+
+}

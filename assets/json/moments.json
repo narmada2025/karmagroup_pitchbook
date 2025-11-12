@@ -1,0 +1,204 @@
+{
+    "videos": [
+        {
+            "title": {
+                "en": "3 Karma Resorts in a year, Germany, Phuket, and Bali _ Jooi Vasa",
+                "de": "3 Karma Resorts in einem Jahr, Deutschland, Phuket und Bali _ Jooi Vasa",
+                "fr": "3 Karma Resorts en un an, Allemagne, Phuket et Bali _ Jooi Vasa",
+                "id": "3 Resor Karma dalam setahun, Jerman, Phuket, dan Bali _ Jooi Vasa"
+            },
+            "cover": "assets/images/good-karma/moments/thumbnails/Mrs Jooi Vasa & Husband.jpg",
+            "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/moments%2FJooiVasa.mp4?alt=media&token=5352b6fa-4b4b-41ab-a9b4-6f756069fe34"
+        },
+        {
+            "title": {
+                "en": "10 years of membership, Karma Royal Haathi Mahal still wins our heart _ Jitendra Ahuja",
+                "de": "10 Jahre Mitgliedschaft, Karma Royal Haathi Mahal erobert immer noch unser Herz _ Jitendra Ahuja",
+                "fr": "10 ans d’adhésion, Karma Royal Haathi Mahal gagne toujours notre cœur _ Jitendra Ahuja",
+                "id": "10 tahun keanggotaan, Karma Royal Haathi Mahal masih memenangkan hati kita _ Jitendra Ahuja"
+            },
+            "cover": "assets/images/good-karma/moments/thumbnails/Mr Jitendra & Mrs Neena.jpg",
+            "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/moments%2FJitendraAhuja.mp4?alt=media&token=dd7125b1-d34d-4fc4-a6e8-71dcfad05bfa"
+        },
+        {
+            "title": {
+                "en": "Being members of Karma Group, from points system to fractional membership _ Surinder Ghir",
+                "de": "Mitglied der Karma Group sein, vom Punktesystem bis zur fraktionierten Mitgliedschaft _ Surinder Ghir",
+                "fr": "Être membre du Groupe Karma, du système de points à l’appartenance fractionnée _ Surinder Ghir",
+                "id": "Menjadi anggota Grup Karma, dari sistem poin hingga keanggotaan fraksional _ Surinder Ghir"
+            },
+            "cover": "assets/images/good-karma/moments/thumbnails/Mr Jit & Mrs Surinder.jpg",
+            "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/moments%2FSurinderGhir.mp4?alt=media&token=9ef94fd5-bb7a-4d57-95e8-bbd7ec67e0cd"
+        },
+        {
+            "title": {
+                "en": "Five years of membership, we are confident about Karma Group _ Mihir Shah",
+                "de": "Nach fünf Jahren Mitgliedschaft sind wir zuversichtlich, was die Karma Group angeht _ Mihir Shah",
+                "fr": "Après cinq ans d’adhésion, nous sommes confiants dans Karma Group _ Mihir Shah",
+                "id": "Lima tahun keanggotaan, kami yakin dengan Karma Group _ Mihir Shah"
+            },
+            "cover": "assets/images/good-karma/moments/thumbnails/Mr Mihir shah & family.jpg",
+            "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/moments%2FMihirShah.mp4?alt=media&token=7946601b-1ec9-4ddf-9428-28fa0975fa87"
+        },
+        {
+            "title": {
+                "en": "Great service from Odyssey & Karma Group, since 2008 _ Percy Kotkis",
+                "de": "Toller Service von Odyssey & Karma Group, seit 2008 _ Percy Kotkis",
+                "fr": "Excellent service de la part d’Odyssey & Karma Group, depuis 2008 _ Percy Kotkis",
+                "id": "Layanan hebat dari Odyssey & Karma Group, sejak 2008 _ Percy Kotkis"
+            },
+            "cover": "assets/images/good-karma/moments/thumbnails/Mr_n_Mrs_Percy_Kotkis.jpg",
+            "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/moments%2FPercyKotkis.mp4?alt=media&token=8fc664f6-6e7f-4ae1-be46-bfc42645090b"
+        },
+        {
+            "title": {
+                "en": "Investing in Karma Group is the right decision _ Ravi Chatuverdi",
+                "de": "Die Investition in die Karma Group ist die richtige Entscheidung _ Ravi Chatuverdi",
+                "fr": "Investir dans Karma Group est la bonne décision _ Ravi Chatuverdi",
+                "id": "Berinvestasi di Karma Group adalah keputusan yang tepat _ Ravi Chatuverdi"
+            },
+            "cover": "assets/images/good-karma/moments/thumbnails/Mr Ravi & Mrs Ritu.jpg",
+            "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/moments%2FRaviChatuverdi.mp4?alt=media&token=de0ee7be-4212-4f1e-96e2-ca87067f1658"
+        },
+        {
+            "title": {
+                "en": "Joined Karma Group 14 years ago in Goa, India _ Peter Hawkins",
+                "de": "Kam vor 14 Jahren zur Karma Group in Goa, Indien _ Peter Hawkins",
+                "fr": "A rejoint Karma Group il y a 14 ans à Goa, Inde _ Peter Hawkins",
+                "id": "Bergabung dengan Karma Group 14 tahun yang lalu di Goa, India _ Peter Hawkins"
+            },
+            "cover": "assets/images/good-karma/moments/thumbnails/Mre Peter & Mrs Jennifer.jpg",
+            "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/moments%2FPeterHawkins.mp4?alt=media&token=248beb6a-4c52-4c8b-8835-70e6e0d06cfa"
+        },
+        {
+            "title": {
+                "en": "Karma Group gives us more than Customer Relation, it s a family _ Pravinkumar Master",
+                "de": "Die Karma Group gibt uns mehr als nur Kundenbeziehung, sie ist eine Familie _ Pravinkumar Master",
+                "fr": "Karma Group nous offre plus que la relation client, c’est une famille _ Pravinkumar Master",
+                "id": "Karma Group memberi kami lebih dari sekadar Customer Relation, ini adalah keluarga _ Pravinkumar Master"
+            },
+            "cover": "assets/images/good-karma/moments/thumbnails/Mr Pravinkumar & Mrs Minal.jpg",
+            "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/moments%2FPravinkumarMaster.mp4?alt=media&token=ba7ae356-4f65-4323-b4b0-1a5fd9c42803"
+        },
+        {
+            "title": {
+                "en": "Karma Group made it affordable for us to experience many things _ Peter Whareaitu",
+                "de": "Die Karma Group hat es für uns erschwinglich gemacht, viele Dinge zu erleben _ Peter Whareaitu",
+                "fr": "Karma Group a fait en sorte qu’il soit abordable pour nous de vivre beaucoup de choses _ Peter Whareaitu",
+                "id": "Karma Group membuatnya terjangkau bagi kami untuk mengalami banyak hal _ Peter Whareaitu"
+            },
+            "cover": "assets/images/good-karma/moments/thumbnails/Mrs Helen & Mr Peter.jpg",
+            "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/moments%2FPeter%20Whareaitu.mp4?alt=media&token=e2aee598-fc01-472c-a2a8-0f42d4a37ca5"
+        },
+        {
+            "title": {
+                "en": "Karma Group makes you go out and about to places around the world _ Lynette & Ramon Fitzsammons",
+                "de": "Die Karma Group lässt Sie an Orte auf der ganzen Welt reisen _ Lynette & Ramon Fitzsammons",
+                "fr": "Karma Group vous fait voyager dans le monde entier _ Lynette & Ramon Fitzsammons",
+                "id": "Karma Group membuat Anda pergi keluar dan pergi ke tempat-tempat di seluruh dunia _ Lynette & Ramon Fitzsammons"
+            },
+            "cover": "assets/images/good-karma/moments/thumbnails/Mrs Lynette & Mr Ramon.jpg",
+            "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/moments%2FLynette%26RamonFitzsammons.mp4?alt=media&token=bb332af9-6376-44d4-ae21-3881fc210bea"
+        },
+        {
+            "title": {
+                "en": "Karma Group Member since 1994 _ Bhanu Ravinder",
+                "de": "Mitglied der Karma Group seit 1994 _ Bhanu Ravinder",
+                "fr": "Membre du groupe Karma depuis 1994 _ Bhanu Ravinder",
+                "id": "Anggota Grup Karma sejak 1994 _ Bhanu Ravinder"
+            },
+            "cover": "assets/images/good-karma/moments/thumbnails/Mrs &Mr Bhanu Ravinder.jpg",
+            "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/moments%2FBhanuRavinder.mp4?alt=media&token=2ea9b869-b087-46e1-a45d-a0951fa46bb5"
+        },
+        {
+            "title": {
+                "en": "Karma Group, recommended for their standards of service, quality & rooms _ Ritesh Jaggan",
+                "de": "Karma Group, empfohlen für ihren Service, ihre Qualität und ihre Zimmer _ Ritesh Jaggan",
+                "fr": "Karma Group, recommandé pour leurs normes de service, de qualité et de chambres _ Ritesh Jaggan",
+                "id": "Karma Group, direkomendasikan untuk standar layanan, kualitas & kamar mereka _ Ritesh Jaggan"
+            },
+            "cover": "assets/images/good-karma/moments/thumbnails/Mr Ritesh Jaggan & Family.jpg",
+            "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/moments%2FRiteshJaggan.mp4?alt=media&token=0edf8d43-2a6d-4ead-a7b4-73f249b99dac"
+        },
+        {
+            "title": {
+                "en": "Long term value we get through Karma Group Membership _ John & Maureen Flynn",
+                "de": "Langfristiger Wert, den wir durch die Mitgliedschaft in der Karma Group erhalten _ John & Maureen Flynn",
+                "fr": "Valeur à long terme que nous obtenons grâce à l’adhésion au groupe Karma _ John & Maureen Flynn",
+                "id": "Nilai jangka panjang yang kita dapatkan melalui Keanggotaan Grup Karma _ John & Maureen Flynn"
+            },
+            "cover": "assets/images/good-karma/moments/thumbnails/Mr John & Mrs Maureen.jpg",
+            "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/moments%2FJohn%26MaureenFlynn.mp4?alt=media&token=c207d527-3a0b-41b4-8cab-44f6dd0e18d9"
+        },
+        {
+            "title": {
+                "en": "Never witnessed something as grand as Karma Group resorts _ Mohit & Agustin",
+                "de": "Ich habe noch nie etwas so Großartiges wie die Resorts der Karma Group erlebt _ Mohit & Agustin",
+                "fr": "Je n’ai jamais vu quelque chose d’aussi grandiose que les centres de villégiature du groupe Karma _ Mohit & Agustin",
+                "id": "Tidak pernah menyaksikan sesuatu yang megah seperti resor Karma Group _ Mohit & Agustin"
+            },
+            "cover": "assets/images/good-karma/moments/thumbnails/Mr Mohit & Ms Agustin.jpg",
+            "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/moments%2FMohitAgustin.mp4?alt=media&token=6ef5b013-40fa-421d-a2d4-c37015ef3bb2"
+        },
+        {
+            "title": {
+                "en": "Our family has grown along with Karma Group _ Bharat Lineswala",
+                "de": "Unsere Familie ist mit der Karma Group gewachsen _ Bharat Lineswala",
+                "fr": "Notre famille s’est agrandie en même temps que Karma Group _ Bharat Lineswala",
+                "id": "Keluarga kami telah tumbuh bersama dengan Karma Group _ Bharat Lineswala"
+            },
+            "cover": "assets/images/good-karma/moments/thumbnails/Mrs & Mr Bharat.jpg",
+            "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/moments%2FBharatLineswala.mp4?alt=media&token=e7103ed4-7b53-4e97-b0a8-44913b4ea9aa"
+        },
+        {
+            "title": {
+                "en": "Upgrading our Karma Group Membership into Karma Residences in Goa, India _ Sneha D souza",
+                "de": "Upgrade unserer Karma Group-Mitgliedschaft in Karma Residences in Goa, Indien _ Sneha D souza",
+                "fr": "Mise à niveau de notre adhésion au groupe Karma en Karma Residences à Goa, Inde _ Sneha D souza",
+                "id": "Meningkatkan Keanggotaan Grup Karma kami menjadi Karma Residences di Goa, India _ Sneha D souza"
+            },
+            "cover": "assets/images/good-karma/moments/thumbnails/Mrs Shena D_souza & Mr Christoper.jpg",
+            "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/moments%2FSnehaDsouza.mp4?alt=media&token=96665e86-f3e8-4c56-b622-fac32762da56"
+        },
+        {
+            "title": {
+                "en": "Visited so many places since I first joined Karma Group in 2012 _ Satish Kumar",
+                "de": "Ich habe so viele Orte besucht, seit ich 2012 zum ersten Mal zur Karma Group gekommen bin _ Satish Kumar",
+                "fr": "J’ai visité tellement d’endroits depuis que j’ai rejoint Karma Group en 2012 _ Satish Kumar",
+                "id": "Mengunjungi begitu banyak tempat sejak saya pertama kali bergabung dengan Karma Group pada tahun 2012 _ Satish Kumar"
+            },
+            "cover": "assets/images/good-karma/moments/thumbnails/Mr Satish Kumar & Vandana.jpg",
+            "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/moments%2FSatishKumar.mp4?alt=media&token=e387fc28-cd9d-42cd-9562-1d06df96b2ad"
+        },
+        {
+            "title": {
+                "en": "We got our money s worth from our Karma Group Membership _ Derek Potts",
+                "de": "Wir kamen auf unsere Kosten durch unsere Mitgliedschaft in der Karma Group _ Derek Potts",
+                "fr": "Nous en avons eu pour notre argent grâce à notre adhésion au groupe Karma _ Derek Potts",
+                "id": "Kami mendapatkan uang kami dari Keanggotaan Grup Karma kami _ Derek Potts"
+            },
+            "cover": "assets/images/good-karma/moments/thumbnails/Mr Derek & Mrs Terilynn.jpg",
+            "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/moments%2FDerekPotts.mp4?alt=media&token=8508ea94-ce1d-4790-bb83-9c6e439e2096"
+        },
+        {
+            "title": {
+                "en": "We have been with Karma Group for over 25 years _ Edgardo Couto",
+                "de": "Wir sind seit über 25 Jahren bei der Karma Group _ Edgardo Couto",
+                "fr": "Nous sommes avec Karma Group depuis plus de 25 ans _ Edgardo Couto",
+                "id": "Kami telah bersama Karma Group selama lebih dari 25 tahun _ Edgardo Couto"
+            },
+            "cover": "assets/images/good-karma/moments/thumbnails/Mr_n_Mrs_Edgardo.jpg",
+            "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/moments%2FEdgardoCouto.mp4?alt=media&token=80a1280a-a50b-43c5-8703-35fa1a2b2090"
+        },
+        {
+            "title": {
+                "en": "With Karma Group, the world becomes an oyster for us _ Nazima Kismani",
+                "de": "Mit der Karma Group wird uns die Welt zu einer Auster _ Nazima Kismani",
+                "fr": "Avec Karma Group, le monde devient une huître pour nous _ Nazima Kismani",
+                "id": "Dengan Karma Group, dunia menjadi tiram bagi kita _ Nazima Kismani"
+            },
+            "cover": "assets/images/good-karma/moments/thumbnails/Mrs Nazima Kismani & Son.jpg",
+            "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/moments%2FNazimaKismani.mp4?alt=media&token=0708a588-f363-4821-90cc-7af079dea5ca"
+        }
+    ]
+}

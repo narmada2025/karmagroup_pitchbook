@@ -1,0 +1,100 @@
+{
+    "banner": {
+        "image": "assets/images/karma-club/Fractional Ownership.jpg",
+        "subTitle": {
+            "en": "KARMA GROUP",
+            "de": "KARMA GRUPPE",
+            "fr": "GROUPE KARMA",
+            "id": "KELOMPOK KARMA"
+        },
+        "title": {
+            "en": "Fractional Ownership",
+            "de": "Bruchteilseigentum",
+            "fr": "Propriété fractionnée",
+            "id": "Kepemilikan Fraksional"
+        },
+        "title2": {
+            "en": "Own A Share In A Beautiful Luxury Residence At One Of Our Remarkable Resorts Across The Globe.",
+            "de": "Besitzen Sie einen Anteil an einer wunderschönen Luxusresidenz in einem unserer bemerkenswerten Resorts auf der ganzen Welt.",
+            "fr": "Possédez une part dans une belle résidence de luxe dans l’un de nos remarquables complexes à travers le monde.",
+            "id": "Miliki Bagian Dalam Hunian Mewah Yang Indah Di Salah Satu Resor Kami Yang Luar Biasa Di Seluruh Dunia."
+        },
+        "para1": {
+            "en": "Karma Group is more than a leading luxury travel and leisure brand providing lifestyle experiences in the best destinations across the globe. We also provide discerning customers with opportunities to grow and diversify their global holiday portfolio through a range of attractive fractional ownership models. As a fractional owner with Karma Group, you get much more than an investment in future holidays though.",
+            "de": "Die Karma Group ist mehr als eine führende Luxusreise- und Freizeitmarke, die Lifestyle-Erlebnisse an den besten Reisezielen auf der ganzen Welt bietet. Darüber hinaus bieten wir anspruchsvollen Kunden die Möglichkeit, ihr globales Urlaubsportfolio durch eine Reihe attraktiver Teileigentumsmodelle zu erweitern und zu diversifizieren. Als Bruchteilseigentümer der Karma Group erhalten Sie jedoch viel mehr als nur eine Investition in zukünftige Urlaube.",
+            "fr": "Karma Group est plus qu’une marque de voyage et de loisirs de luxe de premier plan, offrant des expériences de style de vie dans les meilleures destinations du monde. Nous offrons également aux clients exigeants la possibilité de développer et de diversifier leur portefeuille de vacances mondial grâce à une gamme de modèles de propriété fractionnée attrayants. En tant que propriétaire fractionné avec Karma Group, vous obtenez bien plus qu’un investissement dans de futures vacances.",
+            "id": "Karma Group lebih dari sekadar merek perjalanan dan rekreasi mewah terkemuka yang menyediakan pengalaman gaya hidup di destinasi terbaik di seluruh dunia. Kami juga memberikan kesempatan kepada pelanggan yang cerdas untuk menumbuhkan dan mendiversifikasi portofolio liburan global mereka melalui berbagai model kepemilikan fraksional yang menarik. Sebagai pemilik fraksional dengan Karma Group, Anda mendapatkan lebih dari sekadar investasi dalam liburan di masa depan."
+        },
+        "para2": {
+            "en": "You become part of a privileged global community living the Karma lifestyle - one that’s built around unforgettable destination experiences across Karma’s growing network of properties and exclusive access to invitation-only events - from wine pairing dinners to elite sports tournaments to curated luxury experiences in jetset locations.",
+            "de": "Du wirst Teil einer privilegierten globalen Community, die den Karma-Lifestyle lebt - einen, der auf unvergesslichen Erlebnissen in Karmas wachsendem Netzwerk von Unterkünften und exklusivem Zugang zu Veranstaltungen nur für geladene Gäste basiert - von Weinbegrüßungs-Dinners über Elite-Sportturniere bis hin zu kuratierten Luxuserlebnissen an Jetset-Standorten.",
+            "fr": "Vous faites partie d’une communauté mondiale privilégiée qui vit le style de vie Karma - un style de vie qui s’articule autour d’expériences de destination inoubliables à travers le réseau croissant de propriétés de Karma et d’un accès exclusif à des événements sur invitation uniquement - des dîners d’accords mets et vins aux tournois sportifs d’élite en passant par des expériences de luxe organisées dans des lieux de jet-set.",
+            "id": "Anda menjadi bagian dari komunitas global istimewa yang menjalani gaya hidup Karma - yang dibangun di sekitar pengalaman tujuan yang tak terlupakan di seluruh jaringan properti Karma yang berkembang dan akses eksklusif ke acara khusus undangan - mulai dari makan malam pasangan anggur hingga turnamen olahraga elit hingga pengalaman mewah yang dikuratori di lokasi jetset."
+        },
+        "para3": {
+            "en": "This is a unique purchase that provides an elevated lifestyle for the duration of your ownership and then a share in the net revenue when your unit is sold - a journey into a whole new world of experiences…",
+            "de": "Dies ist ein einzigartiger Kauf, der einen gehobenen Lebensstil für die Dauer Ihres Besitzes und dann eine Beteiligung am Nettoumsatz bietet, wenn Ihre Einheit verkauft wird - eine Reise in eine ganz neue Welt der Erlebnisse...",
+            "fr": "Il s’agit d’un achat unique qui offre un style de vie élevé pendant toute la durée de votre propriété, puis une part des revenus nets lorsque votre unité est vendue - un voyage dans un tout nouveau monde d’expériences...",
+            "id": "Ini adalah pembelian unik yang memberikan gaya hidup yang lebih tinggi selama kepemilikan Anda dan kemudian bagian dalam pendapatan bersih ketika unit Anda dijual - perjalanan ke dunia pengalaman yang sama sekali baru..."
+        }
+
+    },
+    "FRACTIONAL BROCHURE": {
+        "en": "FRACTIONAL BROCHURE",
+        "de": "FRAKTIONIERTE BROSCHÜRE",
+        "fr": "BROCHURE FRACTIONNÉE",
+        "id": "BROSUR FRAKSIONAL"
+    },
+    "brochure": [
+        {
+            "title": {
+                "en": "KG Global",
+                "de": "KG Global",
+                "fr": "KG Global",
+                "id": "KG Global"
+            },
+            "url": "assets/doc/fractional-ownership/KG Global Fractional Digital 240620.pdf",
+            "image": "assets/images/karma-club/Global.jpg"
+        },
+        {
+            "title": {
+                "en": "Karma Kandara",
+                "de": "Karma Kandara",
+                "fr": "Karma Kandara",
+                "id": "Karma Kandara"
+            },
+            "url": "assets/doc/fractional-ownership/Karma Kandara Fractional Digital 250904.pdf",
+            "image": "assets/images/karma-club/Kandara_Fractional.jpg"
+        },
+        {
+            "title": {
+                "en": "Karma Bavaria",
+                "de": "Karma Bavaria",
+                "fr": "Karma Bavaria",
+                "id": "Karma Bavaria"
+            },
+            "url": "assets/doc/fractional-ownership/Karma Bavaria Fractional Digital 240728.pdf",
+            "image": "assets/images/karma-club/Bavaria_Fractional.jpg"
+        },
+        {
+            "title": {
+                "en": "Karma Borgo di Colleoli",
+                "de": "Karma Borgo di Colleoli",
+                "fr": "Karma Borgo di Colleoli",
+                "id": "Karma Borgo di Colleoli"
+            },
+            "url": "assets/doc/fractional-ownership/Karma Borgo di Colleoli Fractional_Brochure Digital 250904.pdf",
+            "image": "assets/images/karma-club/Borgo_Fractional.jpg"
+        },
+        {
+            "title": {
+                "en": "Karma \nVaruna",
+                "de": "Karma \nVaruna",
+                "fr": "Karma \nVaruna",
+                "id": "Karma \nVaruna"
+            },
+            "url": "assets/doc/fractional-ownership/Karma Varuna Fractional Digital 240620.pdf",
+            "image": "assets/images/karma-club/Varuna_Fractional.jpg"
+        }
+    ]
+}

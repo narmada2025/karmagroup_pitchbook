@@ -1,0 +1,243 @@
+{
+    "banner": {
+        "subTitle": {
+            "en": "Karma Group",
+            "de": "Karma Gruppe",
+            "fr": "Groupe Karma",
+            "id": "Kelompok Karma"
+        },
+        "title": {
+            "en": "Welcome to Karma",
+            "de": "Willkommen bei Karma",
+            "fr": "Bienvenue chez Karma",
+            "id": "Selamat datang di Karma"
+        },
+        "video": "assets/images/home/Karma_Group_Brand_Video.mp4"
+    },
+    "experience": {
+        "title": {
+            "en": "We Create…  Experiences",
+            "de": "Wir kreieren...  Erlebnisse",
+            "fr": "Nous créons...  Expériences",
+            "id": "Kami menciptakan...  Pengalaman"
+        },
+        "description": {
+            "en": "Karma Group, a global travel and lifestyle brand, creates extraordinary experiences in 41 stunning locations worldwide. From lavish spas to vibrant beach parties, Karma caters to five-star travellers. Dive into hedonistic experiences – swim with dolphins, party at beach clubs, or rejuvenate at award-winning spas. Discover a world of luxury, ski slopes, or underwater adventures with Karma Group.",
+            "de": "Die Karma Group, eine globale Reise- und Lifestyle-Marke, schafft außergewöhnliche Erlebnisse an 41 atemberaubenden Orten weltweit. Von großzügigen Spas bis hin zu lebhaften Strandpartys richtet sich Karma an Fünf-Sterne-Reisende. Tauchen Sie ein in hedonistische Erlebnisse – schwimmen Sie mit Delfinen, feiern Sie in Strandclubs oder erholen Sie sich in preisgekrönten Spas. Entdecken Sie mit der Karma Group eine Welt voller Luxus, Skipisten oder Unterwasserabenteuer.",
+            "fr": "Karma Group, une marque mondiale de voyage et de style de vie, crée des expériences extraordinaires dans 41 endroits époustouflants à travers le monde. Des spas somptueux aux fêtes animées sur la plage, Karma s’adresse aux voyageurs cinq étoiles. Plongez dans des expériences hédonistes : nagez avec les dauphins, faites la fête dans les clubs de plage ou ressourcez-vous dans des spas primés. Découvrez un monde de luxe, de pistes de ski ou d’aventures sous-marines avec Karma Group.",
+            "id": "Karma Group, merek perjalanan dan gaya hidup global, menciptakan pengalaman luar biasa di 41 lokasi menakjubkan di seluruh dunia. Dari spa mewah hingga pesta pantai yang semarak, Karma melayani wisatawan bintang lima. Selami pengalaman hedonistik – berenang bersama lumba-lumba, berpesta di klub pantai, atau meremajakan diri di spa pemenang penghargaan. Temukan dunia kemewahan, lereng ski, atau petualangan bawah laut bersama Karma Group."
+        },
+        "question": {
+            "en": "What will your Karma experience be?",
+            "de": "Wie wird deine Karma-Erfahrung aussehen?",
+            "fr": "Quelle sera votre expérience Karma ?",
+            "id": "Apa pengalaman Karma Anda?"
+        },
+        "Title2": {
+            "en": "Chairman’s Story",
+            "de": "Die Geschichte des Vorsitzenden",
+            "fr": "Histoire du président",
+            "id": "Kisah Ketua"
+        },
+        "subTitle": {
+            "en": "The Journey of a Visionary",
+            "de": "Die Reise eines Visionärs",
+            "fr": "Le parcours d’un Visionnaire",
+            "id": "Perjalanan seorang Visioner"
+        },
+        "para1": {
+            "en": "John Spence, the visionary founder of Karma Group, is a global leader in luxury travel and lifestyle.",
+            "de": "John Spence, der visionäre Gründer der Karma Group, ist ein weltweit führendes Unternehmen im Bereich Luxusreisen und Lifestyle.",
+            "fr": "John Spence, le fondateur visionnaire de Karma Group, est un leader mondial du voyage et du style de vie de luxe.",
+            "id": "John Spence, pendiri visioner Karma Group, adalah pemimpin global dalam perjalanan dan gaya hidup mewah."
+        },
+        "para2": {
+            "en": "He began his journey in 1993 by transforming boutique hotels in the UK. He then expanded to create resorts, residences, and clubs in the most stunning locations around the world.",
+            "de": "Er begann seine Reise 1993 mit der Umgestaltung von Boutique-Hotels in Großbritannien. Dann expandierte er und gründete Resorts, Residenzen und Clubs an den schönsten Orten der Welt.",
+            "fr": "Il a commencé son parcours en 1993 en transformant des hôtels-boutiques au Royaume-Uni. Il s’est ensuite développé pour créer des centres de villégiature, des résidences et des clubs dans les endroits les plus époustouflants du monde.",
+            "id": "Dia memulai perjalanannya pada tahun 1993 dengan mengubah hotel butik di Inggris. Dia kemudian berkembang untuk membuat resor, tempat tinggal, dan klub di lokasi paling menakjubkan di seluruh dunia."
+        },
+        "para3": {
+            "en": "His flexible and personalised vacation ownership model has made Karma Group a unique and successful brand in the hospitality industry.",
+            "de": "Sein flexibles und personalisiertes Ferieneigentumsmodell hat die Karma Group zu einer einzigartigen und erfolgreichen Marke in der Hotellerie gemacht.",
+            "fr": "Son modèle de propriété de vacances flexible et personnalisé a fait de Karma Group une marque unique et prospère dans l’industrie hôtelière.",
+            "id": "Model kepemilikan liburannya yang fleksibel dan dipersonalisasi telah menjadikan Karma Group merek yang unik dan sukses di industri perhotelan."
+        },
+        "john_image": "assets/images/home/John_Spence.png",
+        "logo": "assets/images/home/EY Entrepreneur.png",
+        "quote": {
+            "en": "Karma is about soul. It’s about putting extra before ordinary. And it’s about you.",
+            "de": "Beim Karma geht es um die Seele. Es geht darum, das Extra vor das Gewöhnliche zu stellen. Und es geht um Sie.",
+            "fr": "Le karma est une question d’âme. Il s’agit de faire passer le plus avant l’ordinaire. Et il s’agit de vous.",
+            "id": "Karma adalah tentang jiwa. Ini tentang menempatkan ekstra di atas biasa. Dan ini tentang Anda."
+        }
+    },
+    "philanthropy": {
+        "stat_image": "assets/images/home/stat_bg.jpg",
+        "title": {
+            "en": "Philanthropy",
+            "de": "Menschenliebe",
+            "fr": "Philanthropie",
+            "id": "Filantropi"
+        },
+        "subTitle": {
+            "en": "Sharing with the communities",
+            "de": "Teilen mit den Communitys",
+            "fr": "Partager avec les communautés",
+            "id": "Berbagi dengan komunitas"
+        },
+        "stat": {
+            "stat1": {
+                "number": 10,
+                "suffix": "k+",
+                "title": {
+                    "en": "Children fed",
+                    "de": "Kinder werden gefüttert",
+                    "fr": "Enfants nourris",
+                    "id": "Anak-anak diberi makan"
+                }
+            },
+            "stat2": {
+                "number": 200,
+                "suffix": "+",
+                "title": {
+                    "en": "Organisations Supported",
+                    "de": "Unterstützte Organisationen",
+                    "fr": "Organisations soutenues",
+                    "id": "Organisasi yang Didukung"
+                }
+            },
+            "stat3": {
+                "number": 30,
+                "suffix": "+",
+                "title": {
+                    "en": "Countries Worldwide",
+                    "de": "Länder weltweit",
+                    "fr": "Pays dans le monde",
+                    "id": "Negara di Seluruh Dunia"
+                }
+            }
+        }
+    },
+    "homeAwards": {
+        "title": {
+            "en": "Awards and Accolades",
+            "de": "Preise und Auszeichnungen",
+            "fr": "Prix et distinctions",
+            "id": "Penghargaan dan Penghargaan"
+        },
+        "subTitle": {
+            "en": "Year 2025",
+            "de": "Jahr 2025",
+            "fr": "Année 2025",
+            "id": "Tahun 2025"
+        },
+        "awards": [
+            {
+                "image": "assets/images/home/awards/Platinum_Winner_Awards1.png",
+                "title": {
+                    "en": "Platinum Winner The International Architecture & Design Awards",
+                    "de": "Platin-Gewinner der International Architecture & Design Awards",
+                    "fr": "Lauréat Platine des International Architecture & Design Awards",
+                    "id": "Pemenang Platinum Penghargaan Arsitektur & Desain Internasional"
+                },
+                "tag": {
+                    "en": "2025 Karma Kandara Phase VI",
+                    "de": "Karma Kandara Fase VI 2025",
+                    "fr": "Karma Kandara Phase VI 2025",
+                    "id": "Karma Kandara Fase VI 2025"
+                },
+                "name": {
+                    "en": "Karma Group",
+                    "de": "Karma Gruppe",
+                    "fr": "Groupe Karma",
+                    "id": "Kelompok Karma"
+                }
+            },
+           {
+                "image": "assets/images/home/awards/Country_Bar_Awards2.png",
+               "title": {
+                   "en": "Country Bar of the Year Awards 2025",
+                   "de": "Auszeichnungen für die Country-Bar des Jahres 2025",
+                   "fr": "Prix du bar country de l'année 2025",
+                   "id": "Penghargaan Bar Pedesaan Tahun Ini 2025"
+               },
+               "tag": {
+                   "en": "Karma Lake of Menteith",
+                   "de": "Karma Lake of Menteith",
+                   "fr": "Lac Karma de Menteith",
+                   "id": "Danau Karma Menteith"
+               },
+               "name": {
+                   "en": "Karma Group",
+                   "de": "Karma Gruppe",
+                   "fr": "Groupe Karma",
+                   "id": "Kelompok Karma"
+               }
+           },
+            {
+                "image": "assets/images/home/awards/Best_Luxury_Awards3.png",
+                "title": {
+                    "en": "Best Luxury Hotel Restaurant 2025 – Warwickshire Restaurant and Bar Awards 2025",
+                    "de": "Bestes Luxushotelrestaurant 2025 – Warwickshire Restaurant and Bar Awards 2025",
+                    "fr": "Meilleur restaurant d'hôtel de luxe 2025 – Warwickshire Restaurant and Bar Awards 2025",
+                    "id": "Restoran Hotel Mewah Terbaik 2025 – Penghargaan Restoran dan Bar Warwickshire 2025"
+                },
+                "tag": {
+                    "en": "Karma Salford Hall",
+                    "de": "Karma Salford Hall",
+                    "fr": "Karma Salford Hall",
+                    "id": "Aula Karma Salford"
+                },
+                "name": {
+                    "en": "Karma Group",
+                    "de": "Karma Gruppe",
+                    "fr": "Groupe Karma",
+                    "id": "Kelompok Karma"
+                }
+            }
+        ]
+    },
+    "moments": {
+        "media": {
+            "videoUrl": "assets/images/home/Karma_Group_Brand_Video.mp4",
+            "coverImage": "assets/images/home/karma_moments_bg.jpg"
+        },
+        "subTitle": {
+            "en": "Karma Moments",
+            "de": "Karma-Momente",
+            "fr": "Karma Moments",
+            "id": "Momen Karma"
+        },
+        "title": {
+            "en": "A Resounding Three Cheers for",
+            "de": "Ein dreifaches Hoch auf die",
+            "fr": "Trois acclamations retentissantes pour",
+            "id": "Tiga Sorak-sorai yang Bergema untuk"
+        },
+        "hashtag": {
+            "en": "#KarmaSitabani!Hip-hip-hurrah!",
+            "de": "#KarmaSitabani!Hip-hip-hurrah!",
+            "fr": "#KarmaSitabani!Hip-hip-hurrah!",
+            "id": "#KarmaSitabani!Hip-hip-hurrah!"
+        },
+        "description": {
+            "en": "The smiles and satisfaction on the faces of mr. asad h. chitalwala and family say it all! #karmagroupmembers for the past 7 years this family had a memborable stay at #karmasitabani. they now think of it as their second home. the delectable food, the warm hospitality, the excellent resort - all made their holiday ‘top class’!",
+            "de": "Das Lächeln und die Zufriedenheit auf den Gesichtern von Herrn Asad H. Chitalwala und seiner Familie sagen alles! #karmagroupmembers in den letzten 7 Jahren hatte diese Familie einen unvergesslichen Aufenthalt in #karmasitabani. Sie betrachten es jetzt als ihr zweites Zuhause. Das köstliche Essen, die herzliche Gastfreundschaft, das ausgezeichnete Resort - all das machte ihren Urlaub zur 'Spitzenklasse'!",
+            "fr": "Les sourires et la satisfaction sur les visages de M. Asad H. Chitalwala et de sa famille en dis-le long ! #karmagroupmembers depuis 7 ans, cette famille a passé un séjour mémorable à #karmasitabani. Ils le considèrent maintenant comme leur deuxième maison. La nourriture délicieuse, l’hospitalité chaleureuse, l’excellent complexe - tout cela a rendu leurs vacances « de première classe » !",
+            "id": "Senyum dan kepuasan di wajah tuan asad h. chitalwala dan keluarga mengatakan semuanya! #karmagroupmembers selama 7 tahun terakhir keluarga ini menginap di #karmasitabani. mereka sekarang menganggapnya sebagai rumah kedua mereka. Makanan lezat, keramahan yang hangat, resor yang sangat baik - semuanya membuat liburan mereka menjadi 'kelas atas'!"
+        },
+        "date": {
+            "en": "Aug 15, 2023",
+            "de": "Aug 15, 2023",
+            "fr": "15 août 2023",
+            "id": "Agustus 15, 2023"
+        },
+        "videosTitle": {
+            "en": "Trusted by our Members worldwide",
+            "de": "Vertrauen unserer Mitglieder weltweit",
+            "fr": "Approuvé par nos membres dans le monde entier",
+            "id": "Dipercaya oleh Anggota kami di seluruh dunia"
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "banner": {
+        "title": {
+            "en": "Karma Experiences",
+            "de": "Karma Erfahrungen",
+            "fr": "Expériences de karma",
+            "id": "Pengalaman Karma"
+        },
+        "image": "assets/images/good-karma/Karma Experiences banner.jpg"
+    },
+    "showcase": {
+        "Load More": {
+            "en": "Load More...",
+            "de": "Mehr laden...",
+            "fr": "En savoir plus...",
+            "id": "Muat Lebih Banyak..."
+        },
+        "categories": [
+            {
+                "title": {
+                    "en": "Karma Moments",
+                    "de": "Karma-Momente",
+                    "fr": "Karma Moments",
+                    "id": "Momen Karma"
+                },
+                "image": "assets/images/good-karma/Karma Moments.jpg"
+            },
+            {
+                "title": {
+                    "en": "Chairman Sessions",
+                    "de": "Sitzungen des Vorsitzenden",
+                    "fr": "Président Sessions",
+                    "id": "Ketua Sesi"
+                },
+                "image": "assets/images/good-karma/Chairman Sessions.jpg"
+            },
+            {
+                "title": {
+                    "en": "Experience Karma",
+                    "de": "Karma erleben",
+                    "fr": "Expérience Karma",
+                    "id": "Alami Karma"
+                },
+                "image": "assets/images/good-karma/Experience Karma.jpg"
+            },
+            {
+                "title": {
+                    "en": "Global Resorts",
+                    "de": "Resorts weltweit",
+                    "fr": "Complexes hôteliers mondiaux",
+                    "id": "Resor Global"
+                },
+                "image": "assets/images/good-karma/Global Resorts.jpg"
+            }
+        ]
+    }
+}

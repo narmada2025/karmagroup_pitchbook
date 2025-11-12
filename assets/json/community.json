@@ -1,0 +1,112 @@
+{
+    "banner": {
+        "subTitle": {
+            "en": "COMMUNITY",
+            "de": "GEMEINSCHAFT",
+            "fr": "COMMUNAUTÉ",
+            "id": "MASYARAKAT"
+        },
+        "title": {
+            "en": "We Create…   Community",
+            "de": "Wir kreieren...   Gemeinschaft",
+            "fr": "Nous créons...   Communauté",
+            "id": "Kami menciptakan...   Masyarakat"
+        },
+        "image": "assets/images/community/Community_Banner.jpg"
+    },
+    "events": {
+        "Karma Curated Events": {
+            "en": "Karma Curated Events",
+            "de": "Karma Kuratierte Veranstaltungen",
+            "fr": "Événements organisés par Karma",
+            "id": "Acara yang Dikuratori Karma"
+        },
+        "Filter Location": {
+            "en": "Filter Location",
+            "de": "Standort filtern",
+            "fr": "Emplacement du filtre",
+            "id": "Lokasi Filter"
+        },
+        "Filter Category": {
+            "en": "Filter Category",
+            "de": "Filter-Kategorie",
+            "fr": "Filtrer la catégorie",
+            "id": "Kategori Filter"
+        },
+        "categories" : [
+            {
+                "image": "assets/images/community/curated-events/icons/Filter Category 01.svg",
+                "title": "Karma Fit",
+                "id": 211,
+                "mood": "haappy"
+            },
+            {
+                "image": "assets/images/community/curated-events/icons/Filter Category 02.svg",
+                "title": "Social",
+                "id": 212,
+                "mood": "sad"
+            },
+            {
+                "image": "assets/images/community/curated-events/icons/Filter Category 03.svg",
+                "title": "Food & Wine",
+                "id": 209
+            },
+            {
+                "image": "assets/images/community/curated-events/icons/Filter Category 04.svg",
+                "title": "Adventure",
+                "id": 206
+            },
+            {
+                "image": "assets/images/community/curated-events/icons/Filter Category 05.svg",
+                "title": "Unwind",
+                "id": 213
+            },
+            {
+                "image": "assets/images/community/curated-events/icons/Filter Category 06.svg",
+                "title": "Culture",
+                "id": 207
+            },
+            {
+                "image": "assets/images/community/curated-events/icons/Filter Category 07.svg",
+                "title": "House Of Karma",
+                "id": 210
+            }
+        ],
+        "Upcoming Events": {
+            "en": "Upcoming Events",
+            "de": "Kommende Veranstaltungen",
+            "fr": "Événements à venir",
+            "id": "Acara Mendatang"
+        },
+        "Past Events": {
+            "en": "Past Events",
+            "de": "Vergangene Veranstaltungen",
+            "fr": "Événements passés",
+            "id": "Peristiwa Sebelumnya"
+        },
+        "Event Images": {
+            "en": "Event Images",
+            "de": "Bilder der Veranstaltung",
+            "fr": "Images de l’événement",
+            "id": "Gambar Acara"
+        },
+        "Featured Stories": {
+            "en": "Featured Stories",
+            "de": "Ausgewählte Geschichten",
+            "fr": "Histoires en vedette",
+            "id": "Cerita Unggulan"
+        },
+        "Press Features": {
+            "en": "Press Features",
+            "de": "Presse Features",
+            "fr": "Caractéristiques de la presse",
+            "id": "Fitur Pers"
+        },
+        "FEATURED PRESS": {
+            "en": "FEATURED PRESS",
+            "de": "AUSGEWÄHLTE PRESSE",
+            "fr": "PRESSE EN VEDETTE",
+            "id": "PERS UNGGULAN"
+        }
+    }
+}

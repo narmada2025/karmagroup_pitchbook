@@ -1,0 +1,383 @@
+{
+
+    "banner": {
+        "subTitle": {
+            "en": "KARMA CLUB",
+            "de": "KARMA CLUB",
+            "fr": "KARMA CLUB",
+            "id": "KLUB KARMA"
+        },
+        "title": {
+            "en": "Around the world with Karma Club",
+            "de": "Mit Karma Club um die Welt",
+            "fr": "Autour du monde avec Karma Club",
+            "id": "Keliling dunia dengan Karma Club"
+        },
+        "image": "assets/images/karma-club/Around the world with Karma Club.jpg"
+    },
+    "experiences": {
+        "title": {
+            "en": "Your Gateway To A World Of Bespoke Lifestyle Experiences",
+            "de": "Ihr Tor zu einer Welt voller maßgeschneiderter Lifestyle-Erlebnisse",
+            "fr": "Votre porte d’entrée vers un monde d’expériences de style de vie sur mesure",
+            "id": "Gerbang Anda Ke Dunia Pengalaman Gaya Hidup yang Dipesan Lebih Dahulu"
+        },
+        "description": {
+            "en": "From big discounts at Karma spas & restaurants to weekly giveaways, special member only offers, bespoke itineraries and unique Travel Club programs, Karma Concierge elevates the leisure and travel experience, delivering a truly 360 degree service to our members.",
+            "de": "Von großen Rabatten in Karma Spas und Restaurants bis hin zu wöchentlichen Werbegeschenken, speziellen Angeboten nur für Mitglieder, maßgeschneiderten Reiserouten und einzigartigen Travel Club-Programmen verbessert Karma Concierge das Freizeit- und Reiseerlebnis und bietet seinen Mitgliedern einen echten 360-Grad-Service.",
+            "fr": "Qu’il s’agisse de rabais importants dans les spas et restaurants Karma, de cadeaux hebdomadaires, d’offres spéciales réservées aux membres, d’itinéraires sur mesure et de programmes uniques de club de voyage, Karma Concierge élève l’expérience des loisirs et des voyages, offrant un service véritablement à 360 degrés à nos membres.",
+            "id": "Dari diskon besar di spa & restoran Karma hingga hadiah mingguan, penawaran khusus anggota, rencana perjalanan yang dipesan lebih dahulu, dan program Travel Club yang unik, Karma Concierge meningkatkan pengalaman rekreasi dan perjalanan, memberikan layanan yang benar-benar 360 derajat kepada anggota kami."
+        },
+            "card1": {
+                "title": {
+                    "en": "Members Lounge",
+                    "de": "Mitglieder-Lounge",
+                    "fr": "Salon des membres",
+                    "id": "Lounge Anggota"
+                },
+                "description": {
+                    "en": "Access bookings, updates, and discounts.",
+                    "de": "Greifen Sie auf Buchungen, Aktualisierungen und Rabatte zu.",
+                    "fr": "Accédez aux réservations, aux mises à jour et aux réductions.",
+                    "id": "Akses pemesanan, pembaruan, dan diskon."
+                },
+                "image": "assets/images/karma-club/Members  Lounge.jpg"
+            },
+            "card2": {
+                "title": {
+                    "en": "Affiliate Exchange",
+                    "de": "Affiliate-Börse",
+                    "fr": "Échange d’affiliation",
+                    "id": "Pertukaran Afiliasi"
+                },
+                "description": {
+                    "en": "Explore RCI properties worldwide.",
+                    "de": "Entdecken Sie RCI Hotels weltweit.",
+                    "fr": "Explorez les propriétés RCI dans le monde entier.",
+                    "id": "Jelajahi properti RCI di seluruh dunia."
+                },
+                "image": ""
+            },
+            "card3": {
+                "title": {
+                    "en": "Affiliate Rental",
+                    "de": "Affiliate-Vermietung",
+                    "fr": "Location d’affiliés",
+                    "id": "Sewa Afiliasi"
+                },
+                "description": {
+                    "en": "Book in thousands of properties globally.",
+                    "de": "Buchen Sie in Tausenden von Unterkünften weltweit.",
+                    "fr": "Réservez dans des milliers d’établissements dans le monde entier.",
+                    "id": "Pesan di ribuan properti di seluruh dunia."
+                },
+                "image": ""
+            },
+            "card4": {
+                "title": {
+                    "en": "Affiliate Bonus Weeks",
+                    "de": "Affiliate Bonus Wochen",
+                    "fr": "Semaines de bonus d’affiliation",
+                    "id": "Minggu Bonus Afiliasi"
+                },
+                "description": {
+                    "en": "Browse our worldwide Bonus Week inventory",
+                    "de": "Stöbern Sie in unserem weltweiten Bonuswochen-Inventar",
+                    "fr": "Parcourez notre inventaire mondial de la Semaine des bonus",
+                    "id": "Jelajahi inventaris Minggu Bonus kami di seluruh dunia"
+                },
+                "image": "assets/images/karma-club/Affiliate Bonus Weeks.jpg"
+            },
+            "card5": {
+                "title": {
+                    "en": "Karma Group Resorts",
+                    "de": "Karma Group Resorts",
+                    "fr": "Karma Group Resort",
+                    "id": "Resor Grup Karma"
+                },
+                "description": {
+                    "en": "Explore the Karmaverse",
+                    "de": "Erkunde das Karmaverse",
+                    "fr": "Explorez le Karmaverse",
+                    "id": "Jelajahi Karmaverse"
+                },
+                "image": "assets/images/karma-club/Karma Group  Resorts.jpg"
+            },
+            "card6": {
+                "title": {
+                    "en": "Karma Nomad",
+                    "de": "Karma Nomade",
+                    "fr": "Karma Nomade",
+                    "id": "Pengembara Karma"
+                },
+                "description": {
+                    "en": "Discover motorhome holidays locally.",
+                    "de": "Entdecken Sie den Wohnmobilurlaub vor Ort.",
+                    "fr": "Découvrez les vacances en camping-car localement.",
+                    "id": "Temukan liburan motorhome secara lokal."
+                },
+                "image": "assets/images/karma-club/Karma Nomad.jpg"
+            },
+            "card7": {
+                "title": {
+                    "en": "Flash Sales",
+                    "de": "Flash-Verkäufe",
+                    "fr": "Ventes Flash",
+                    "id": "Penjualan Kilat"
+                },
+                "description": {
+                    "en": "Access to live exclusive Member Offers",
+                    "de": "Zugang zu exklusiven Live-Angeboten für Mitglieder",
+                    "fr": "Accès aux offres exclusives en direct pour les membres",
+                    "id": "Akses ke Penawaran Anggota eksklusif langsung"
+                },
+                "image": "assets/images/karma-club/Flash Sales.jpg"
+            },
+            "card8": {
+                "title": {
+                    "en": "Karma Alliance",
+                    "de": "Karma-Allianz",
+                    "fr": "L’Alliance Karma",
+                    "id": "Aliansi Karma"
+                },
+                "description": {
+                    "en": "Exchange in 100+ affiliated properties.",
+                    "de": "Tauschen Sie in 100+ angeschlossenen Immobilien.",
+                    "fr": "Echange dans 100+ propriétés affiliées.",
+                    "id": "Pertukaran di 100+ properti afiliasi."
+                },
+                "image": "assets/images/karma-club/Karma Alliance.jpg"
+            },
+            "card9": {
+                "title": {
+                    "en": "Hot Deals",
+                    "de": "Sonderangebote",
+                    "fr": "Offres spéciales",
+                    "id": "Penawaran Panas"
+                },
+                "description": {
+                    "en": "Exclusive Member Only Offers",
+                    "de": "Exklusive Angebote nur für Mitglieder",
+                    "fr": "Offres exclusives réservées aux membres",
+                    "id": "Penawaran Eksklusif Khusus Anggota"
+                },
+                "image": "assets/images/karma-club/Hot Deals.jpg"
+            },
+            "card10": {
+                "title": {
+                    "en": "Reciprocal Partners",
+                    "de": "Gegenseitige Partner",
+                    "fr": "Partenaires réciproques",
+                    "id": "Mitra Timbal Balik"
+                },
+                "description": {
+                    "en": "Stay Connected with Like-minded Souls",
+                    "de": "Bleiben Sie mit Gleichgesinnten in Verbindung",
+                    "fr": "Restez en contact avec des âmes partageant les mêmes idées",
+                    "id": "Tetap Terhubung dengan Jiwa yang Berpikiran Sama"
+                },
+                "Explore": {
+                    "en": "Explore",
+                    "de": "Erforschen",
+                    "fr": "Explorer",
+                    "id": "Menjelajahi"
+                },
+                "image": "assets/images/karma-club/Reciprocal Partners.jpg"
+            },
+            "card11": {
+                "title": {
+                    "en": "Non-Affilate Rentals",
+                    "de": "Nicht verbundene Vermietungen",
+                    "fr": "Locations non-affiliées",
+                    "id": "Sewa Non-Affilate"
+                },
+                "description": {
+                    "en": "Real-time inventory of properties from our extensive affiliate network",
+                    "de": "Echtzeit-Inventarisierung von Immobilien aus unserem umfangreichen Affiliate-Netzwerk",
+                    "fr": "Inventaire en temps réel des propriétés de notre vaste réseau d’affiliés",
+                    "id": "Inventaris properti secara real-time dari jaringan afiliasi kami yang luas"
+                },
+                "image": "assets/images/karma-club/Non- Affilate Rentals.jpg"
+            }
+
+    },
+
+    "rewards": {
+        "title": {
+            "en": "Travel & Lifestyle",
+            "de": "Reisen & Lifestyle",
+            "fr": "Voyage et style de vie",
+            "id": "Perjalanan & Gaya Hidup"
+        },
+        "TwoForOne": {
+            "image": "assets/images/karma-club/TwoForOne Rewards.jpg",
+            "title": {
+                "en": "TwoForOne Rewards",
+                "de": "TwoForOne-Belohnungen",
+                "fr": "Récompenses TwoForOne",
+                "id": "Hadiah TwoForOne"
+            },
+            "description": {
+                "en": "Exclusive half-price bookings on cruises, hotels, and holiday packages. Choose from over 2,000 qualifying cruises and enjoy 50% or more off hotel stays and holiday packages worldwide.",
+                "de": "Exklusive Buchungen zum halben Preis für Kreuzfahrten, Hotels und Urlaubspakete. Wählen Sie aus über 2.000 qualifizierenden Kreuzfahrten und erhalten Sie 50 % oder mehr Rabatt auf Hotelaufenthalte und Urlaubspakete weltweit.",
+                "fr": "Réservations exclusives à moitié prix sur les croisières, les hôtels et les forfaits vacances. Choisissez parmi plus de 2 000 croisières éligibles et profitez d’une réduction de 50 % ou plus sur les séjours à l’hôtel et les forfaits vacances dans le monde entier.",
+                "id": "Pemesanan setengah harga eksklusif untuk kapal pesiar, hotel, dan paket liburan. Pilih dari lebih dari 2.000 kapal pesiar yang memenuhi syarat dan nikmati diskon 50% atau lebih untuk menginap di hotel dan paket liburan di seluruh dunia."
+            },
+            "bulletItem1": {
+                "en": "241 Cruise",
+                "de": "241 Kreuzfahrt",
+                "fr": "241 Croisière",
+                "id": "241 Pelayaran"
+            },
+            "bulletItem2": {
+                "en": "241 Hotels",
+                "de": "241 Hotels",
+                "fr": "241 Hôtels",
+                "id": "241 Hotel"
+            },
+            "bulletItem3": {
+                "en": "241 Packages",
+                "de": "241 Packungen",
+                "fr": "241 Forfaits",
+                "id": "241 Paket"
+            }
+        },
+        "Rewards Xtra": {
+            "image": "assets/images/karma-club/Rewards Xtra.jpg",
+            "title": {
+                "en": "Rewards \nXtra",
+                "de": "Belohnungen \nXtra",
+                "fr": "Récompenses \nXtra",
+                "id": "Hadiah \nXtra"
+            },
+            "description": {
+                "en": "Exclusive savings on cruises, hotels, packages, tours, car hire, and activities. No certificate needed. Access thousands of offers at discounted rates, ensuring great value for members.",
+                "de": "Exklusive Einsparungen auf Kreuzfahrten, Hotels, Pakete, Touren, Mietwagen und Aktivitäten. Kein Zertifikat erforderlich. Greifen Sie auf Tausende von Angeboten zu ermäßigten Preisen zu, die den Mitgliedern einen hohen Wert bieten.",
+                "fr": "Des économies exclusives sur les croisières, les hôtels, les forfaits, les visites, la location de voitures et les activités. Aucun certificat n’est nécessaire. Accédez à des milliers d’offres à des tarifs réduits, garantissant ainsi une grande valeur pour les membres.",
+                "id": "Penghematan eksklusif untuk kapal pesiar, hotel, paket, tur, penyewaan mobil, dan aktivitas. Tidak perlu sertifikat. Akses ribuan penawaran dengan harga diskon, memastikan nilai besar bagi anggota."
+            },
+            "bulletItem1": {
+                "en": "HotelsXtra",
+                "de": "HotelsXtra",
+                "fr": "HotelsXtra",
+                "id": "HotelXtra"
+            },
+            "bulletItem2": {
+                "en": "CruisesXtra",
+                "de": "KreuzfahrtenXtra",
+                "fr": "CroisièresXtra",
+                "id": "Kapal PesiarXtra"
+            },
+            "bulletItem3": {
+                "en": "PackagesXtra",
+                "de": "PaketeXtra",
+                "fr": "ForfaitsXtra",
+                "id": "PaketXtra"
+            },
+            "bulletItem4": {
+                "en": "ToursXtra",
+                "de": "ToursXtra",
+                "fr": "ToursXtra",
+                "id": "TursXtra"
+            },
+            "bulletItem5": {
+                "en": "Car HireXtra",
+                "de": "AutovermietungXtra",
+                "fr": "Location de voitureXtra",
+                "id": "Penyewaan MobilXtra"
+            },
+            "bulletItem6": {
+                "en": "ActivitiesXtra",
+                "de": "AktivitätenXtra",
+                "fr": "ActivitésXtra",
+                "id": "KegiatanXtra"
+            }
+        }
+    },
+    "karmaPointsTables": {
+        "background": "assets/images/karma-club/Karma Point Tables.jpg",
+        "title": {
+            "en": "Karma Point Tables",
+            "de": "Karma Punkte-Tabellen",
+            "fr": "Tables de points Karma",
+            "id": "Tabel Titik Karma"
+        },
+        "description": {
+            "en": "When using your Points to book a getaway, each of our renowned properties has tiered status levels with varying Point costs across the Red, White, and Blue seasons. View the different room types and the corresponding Points needed to plan your stay.",
+            "de": "Wenn Sie Ihre Punkte für die Buchung eines Kurzurlaubs verwenden, hat jedes unserer renommierten Hotels abgestufte Statusstufen mit unterschiedlichen Punktekosten in der roten, weißen und blauen Jahreszeit. Sehen Sie sich die verschiedenen Zimmertypen und die entsprechenden Punkte an, die Sie für die Planung Ihres Aufenthalts benötigen.",
+            "fr": "Lorsque vous utilisez vos points pour réserver une escapade, chacun de nos établissements renommés dispose de niveaux de statut échelonnés avec des coûts en points variables au cours des saisons rouge, blanche et bleue. Consultez les différents types de chambres et les points correspondants nécessaires pour planifier votre séjour.",
+            "id": "Saat menggunakan Poin Anda untuk memesan liburan, setiap properti kami yang terkenal memiliki tingkat status berjenjang dengan biaya Poin yang bervariasi di musim Merah, Putih, dan Biru. Lihat berbagai tipe kamar dan Poin terkait yang diperlukan untuk merencanakan masa inap Anda."
+        },
+        "View Now": {
+            "en": "View Now",
+            "de": "Jetzt ansehen",
+            "fr": "Voir maintenant",
+            "id": "Lihat sekarang"
+        },
+
+            "circle1": {
+                    "en": "Karma Club",
+                    "de": "Karma Club",
+                    "fr": "Karma Club",
+                    "id": "Klub Karma"
+            },
+            "circle2": {
+                    "en": "Karma Club Elite",
+                    "de": "Karma Club Elite",
+                    "fr": "Karma Club Élite",
+                    "id": "Elit Klub Karma"
+            },
+            "circle3": {
+                "en": "Karma Royal Residences",
+                    "de": "Karma Royal Residenzen",
+                    "fr": "Karma Royal Residences",
+                    "id": "Karma Royal Residences"
+            }
+
+    },
+    "fractionalOwnership": {
+        "image": "assets/images/karma-club/Fractional Ownership.jpg",
+        "title": {
+            "en": "Fractional Ownership",
+            "de": "Bruchteilseigentum",
+            "fr": "Propriété fractionnée",
+            "id": "Kepemilikan Fraksional"
+        },
+        "description": {
+            "en": "Luxury residences & exclusive lifestyle benefits in the world’s most desirable destinations.",
+            "de": "Luxusresidenzen und exklusive Lifestyle-Vorteile an den begehrtesten Reisezielen der Welt.",
+            "fr": "Des résidences de luxe et des avantages exclusifs dans les destinations les plus recherchées au monde.",
+            "id": "Hunian mewah & manfaat gaya hidup eksklusif di destinasi paling diinginkan di dunia."
+        },
+        "Explore": {
+            "en": "Explore",
+            "de": "Erforschen",
+            "fr": "Explorer",
+            "id": "Menjelajahi"
+        }
+    },
+    "questions": {
+        "Questions": {
+            "en": "Questions?",
+            "de": "Fragen?",
+            "fr": "Questionne?",
+            "id": "Pertanyaan?"
+        },
+        "Look here": {
+            "en": "Look here.",
+            "de": "Schauen Sie hier.",
+            "fr": "Regardez ici.",
+            "id": "Lihat di sini."
+        }
+    },
+    "locations": {
+        "image" : "assets/images/karma-club/service offices.jpg",
+        "title":{
+            "en": "Servicing Office Locations",
+            "de": "Betreuung von Bürostandorten",
+            "fr": "Entretien des bureaux",
+            "id": "Melayani Lokasi Kantor"
+        }
+
+    }
+}

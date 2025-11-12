@@ -1,0 +1,392 @@
+{
+    "title": {
+        "en": "Frequently Asked Questions",
+        "de": "Häufig gestellte Fragen",
+        "fr": "Foire aux questions",
+        "id": "Pertanyaan yang Sering Diajukan"
+    },
+    "category": {
+        "General": {
+            "en": "General",
+            "de": "Allgemein",
+            "fr": "Généralités",
+            "id": "Umum"
+        },
+        "Timeshare": {
+            "en": "Timeshare",
+            "de": "Timesharing",
+            "fr": "Multipropriété",
+            "id": "Timeshare"
+        },
+        "Bookings": {
+            "en": "Bookings",
+            "de": "Buchungen",
+            "fr": "Réservations",
+            "id": "Pemesanan"
+        },
+        "Points": {
+            "en": "Points",
+            "de": "Punkte",
+            "fr": "Aiguillage",
+            "id": "Poin"
+        },
+        "Memberships": {
+            "en": "Memberships",
+            "de": "Mitgliedschaften",
+            "fr": "Adhésions",
+            "id": "Keanggotaan"
+        },
+        "Destinations": {
+            "en": "Destinations",
+            "de": "Flugziele",
+            "fr": "Destinations",
+            "id": "Tujuan"
+        }
+
+    },
+    "faqs": {
+        "General": [
+            {
+                "question": {
+                    "en": "What options do I have when wishing to book a Karma Group Property?",
+                    "de": "Welche Möglichkeiten habe ich, wenn ich eine Unterkunft der Karma Group buchen möchte?",
+                    "fr": "Quelles sont les options qui s’offrent à moi lorsque je souhaite réserver une propriété du groupe Karma ?",
+                    "id": "Pilihan apa yang saya miliki saat ingin memesan Properti Karma Group?"
+                },
+                "answer": {
+                    "en": "<a href=\"https://karmaclub.karmagroup.com/member/search-book/\">Accommodation in Group properties can be confirmed against entitlement exchange, preferred member rates and exclusive member offers.</a>",
+                    "de": "<a href=\"https://karmaclub.karmagroup.com/member/search-book/\">Die Unterbringung in Gruppenunterkünften kann gegen Umtausch von Berechtigungen, bevorzugte Mitgliedertarife und exklusive Mitgliederangebote bestätigt werden.</a>",
+                    "fr": "<a href=\"https://karmaclub.karmagroup.com/member/search-book/\">L’hébergement dans les établissements de groupe peut être confirmé contre l’échange de droits, des tarifs préférentiels pour les membres et des offres exclusives pour les membres.</a>",
+                    "id": "<a href=\"https://karmaclub.karmagroup.com/member/search-book/\">Akomodasi di properti Grup dapat dikonfirmasi dengan pertukaran hak, tarif anggota pilihan, dan penawaran eksklusif anggota.</a>"
+                },
+                "points": []
+            },
+            {
+                "question": {
+                    "en": "How can I check out the current group promotional offers?",
+                    "de": "Wie kann ich mich über die aktuellen Gruppenangebote informieren?",
+                    "fr": "Comment puis-je consulter les offres promotionnelles de groupe en cours ?",
+                    "id": "Bagaimana cara melihat penawaran promosi grup saat ini?"
+                },
+                "answer": {
+                    "en": "Details on all current Exclusive Member Offers can be found under the <a href=\"https://karmaclub.karmagroup.com/member/offers/\">Member Offers</a> section.",
+                    "de": "Details zu allen aktuellen Exclusive Member Angeboten finden Sie unter <a href=\"https://karmaclub.karmagroup.com/member/offers/\">Angebote für Mitglieder</a> section.",
+                    "fr": "Vous trouverez des détails sur toutes les offres exclusives actuelles pour les membres sous la rubrique <a href=\"https://karmaclub.karmagroup.com/member/offers/\">Offres pour les membres</a> section.",
+                    "id": "Detail tentang semua Penawaran Anggota Eksklusif saat ini dapat ditemukan di bawah <a href=\"https://karmaclub.karmagroup.com/member/offers/\">Penawaran Anggota</a> section."
+                },
+                "points": []
+            },
+            {
+                "question": {
+                    "en": "Why are there taxes payable when staying at some properties",
+                    "de": "Warum sind bei einem Aufenthalt in einigen Unterkünften Steuern zu zahlen?",
+                    "fr": "Pourquoi y a-t-il des taxes à payer lors d’un séjour dans certaines propriétés",
+                    "id": "Mengapa ada pajak yang harus dibayar saat menginap di beberapa properti"
+                },
+                "answer": {
+                    "en": "In certain countries there are regional taxes that are applicable to accommodation and these taxes are charged in addition to the room rate. It is important to check the specific tax regulations for the destination you are visiting.",
+                    "de": "In bestimmten Ländern gibt es regionale Steuern, die auf die Beherbergung erhoben werden und die zusätzlich zum Zimmerpreis erhoben werden. Es ist wichtig, die spezifischen Steuervorschriften für das Reiseziel, das Sie besuchen, zu überprüfen.",
+                    "fr": "Dans certains pays, il existe des taxes régionales qui s’appliquent à l’hébergement et ces taxes sont facturées en plus du prix de la chambre. Il est important de vérifier les réglementations fiscales spécifiques à la destination que vous visitez.",
+                    "id": "Di negara-negara tertentu ada pajak regional yang berlaku untuk akomodasi dan pajak ini dibebankan sebagai tambahan dari tarif kamar. Penting untuk memeriksa peraturan pajak khusus untuk tujuan yang Anda kunjungi."
+                },
+                "points": []
+            },
+            {
+                "question": {
+                    "en": "What are Rentals?",
+                    "de": "Was sind Vermietungen?",
+                    "fr": "Qu’est-ce qu’une location ?",
+                    "id": "Apa itu Sewa?"
+                },
+                "answer": {
+                    "en": "<a href=\"https://karmaclub.karmagroup.com/member-link/affiliate-rental/\">Affiliate Rentals</a> offer the opportunity to purchase accommodation in Affiliated Properties at special Preferential Member Rates.",
+                    "de": "<a href=\"https://karmaclub.karmagroup.com/member-link/affiliate-rental/\">Affiliate-Vermietung</a> bieten die Möglichkeit, Unterkünfte in verbundenen Unterkünften zu speziellen Vorzugspreisen für Mitglieder zu erwerben.",
+                    "fr": "<a href=\"https://karmaclub.karmagroup.com/member-link/affiliate-rental/\">Locations affiliées</a> offrir la possibilité d’acheter un logement dans des établissements affiliés à des tarifs préférentiels spéciaux pour les membres.",
+                    "id": "<a href=\"https://karmaclub.karmagroup.com/member-link/affiliate-rental/\">Penyewaan Afiliasi</a> menawarkan kesempatan untuk membeli akomodasi di Properti Afiliasi dengan Tarif Anggota Preferensial khusus."
+                },
+                "points": []
+            },
+            {
+                "question": {
+                    "en": "What are Hot Deals?",
+                    "de": "Was sind Hot Deals?",
+                    "fr": "Que sont les Hot Deals ?",
+                    "id": "Apa itu Penawaran Panas?"
+                },
+                "answer": {
+                    "en": "<a href=\"https://karmaclub.karmagroup.com/member/hot-deals/\">Hot Deals</a> are Exclusive Member Offers available to members in Karma Group properties.",
+                    "de": "<a href=\"https://karmaclub.karmagroup.com/member/hot-deals/\">Sonderangebote</a> sind exklusive Mitgliederangebote, die Mitgliedern in Karma Group-Hotels zur Verfügung stehen.",
+                    "fr": "<a href=\"https://karmaclub.karmagroup.com/member/hot-deals/\">Offres spéciales</a> sont des offres exclusives pour les membres disponibles pour les membres dans les propriétés du groupe Karma.",
+                    "id": "<a href=\"https://karmaclub.karmagroup.com/member/hot-deals/\">Penawaran Panas</a> adalah Penawaran Anggota Eksklusif yang tersedia untuk anggota di properti Karma Group."
+                },
+                "points": []
+            },
+            {
+                "question": {
+                    "en": "What is available through Travel & Lifestyle?",
+                    "de": "Was ist bei Travel & Lifestyle verfügbar?",
+                    "fr": "Qu’est-ce qui est disponible via Travel & Lifestyle ?",
+                    "id": "Apa yang tersedia melalui Travel & Lifestyle?"
+                },
+                "answer": {
+                    "en": "<a href=\"https://karmaclub.karmagroup.com/member/travel-lifestyle/\">241 Rewards Program</a> offers access to:",
+                    "de": "<a href=\"https://karmaclub.karmagroup.com/member/travel-lifestyle/\">241 Rewards-Programm</a> bietet Zugang zu:",
+                    "fr": "<a href=\"https://karmaclub.karmagroup.com/member/travel-lifestyle/\">Programme de récompenses 241</a> Offre l’accès à :",
+                    "id": "<a href=\"https://karmaclub.karmagroup.com/member/travel-lifestyle/\">Program Hadiah 241</a> offers access to:"
+                },
+                "points": [
+                        {
+                            "en": "241 Cruise & 241 Hotel Programs",
+                            "de": "241 Kreuzfahrten & 241 Hotelprogramme",
+                            "fr": "Programmes 241 Croisière & 241 Hôtel",
+                            "id": "241 Cruise & 241 Program Hotel"
+                        },
+                        {
+                            "en": "241 Packages – Fly Cruise & Holiday Packages",
+                            "de": "241 Packages – Fly Cruise & Holiday Packages",
+                            "fr": "241 Packages – Fly Cruise & Holiday Packages",
+                            "id": "241 Paket – Paket Fly Cruise & Liburan"
+                        },
+                        {
+                            "en": "EXTRA Programs – non Affiliate Rentals / Flights / Car Hire / Cruises / Tours & Packages",
+                            "de": "EXTRA-Programme – nicht Affiliate-Vermietungen / Flüge / Mietwagen / Kreuzfahrten / Touren & Pakete",
+                            "fr": "Programmes EXTRA - Locations / Vols / Location de voitures / Croisières / Tours & Packages",
+                            "id": "Program EXTRA – Penyewaan non Afiliasi / Penerbangan / Penyewaan Mobil / Kapal Pesiar / Tur & Paket"
+                        }
+                ]
+            },
+            {
+                "question": {
+                    "en": "Who is RCI and what is the Affiliate Exchange Program?",
+                    "de": "Wer ist RCI und was ist das Affiliate Exchange Programm?",
+                    "fr": "Qui est RCI et qu’est-ce que le programme d’échange d’affiliés ?",
+                    "id": "Siapa RCI dan apa itu Program Pertukaran Afiliasi?"
+                },
+                "answer": {
+                    "en": "RCI is the world’s largest Exchange Company providing our members direct access exchange & rental offers in over 4,200 affiliated properties throughout the world.",
+                    "de": "RCI ist die weltweit größte Wechselstube, die ihren Mitgliedern direkten Zugang, Tausch- und Mietangebote in über 4.200 angeschlossenen Hotels auf der ganzen Welt bietet.",
+                    "fr": "RCI est la plus grande société d’échange au monde, offrant à ses membres un accès direct aux offres d’échange et de location dans plus de 4 200 propriétés affiliées à travers le monde.",
+                    "id": "RCI adalah Perusahaan Pertukaran terbesar di dunia yang menyediakan akses langsung kepada anggota kami pertukaran & penawaran sewa di lebih dari 4.200 properti afiliasi di seluruh dunia."
+                },
+                "points": []
+            }
+        ],
+        "Timeshare": [
+            {
+                "question": {
+                    "en": "What are Bonus Weeks?",
+                    "de": "Was sind Bonuswochen?",
+                    "fr": "Que sont les semaines bonus ?",
+                    "id": "Apa itu Minggu Bonus?"
+                },
+                "answer": {
+                    "en": "During periods where the Group has surplus inventory not being taken up by members using their membership entitlements space is made available as Bonus Weeks.",
+                    "de": "In Zeiten, in denen der Konzern über überschüssige Bestände verfügt, die von den Mitgliedern unter Ausnutzung ihrer Mitgliedsansprüche nicht in Anspruch genommen werden, werden Plätze in Form von Bonuswochen zur Verfügung gestellt.",
+                    "fr": "Pendant les périodes où le groupe a des stocks excédentaires qui ne sont pas occupés par les membres utilisant leurs droits d’adhésion, l’espace est mis à disposition sous forme de semaines bonus.",
+                    "id": "Selama periode di mana Grup memiliki kelebihan inventaris yang tidak diambil oleh anggota yang menggunakan hak keanggotaan mereka, ruang tersedia sebagai Minggu Bonus."
+                },
+                "points": []
+            },
+            {
+                "question": {
+                    "en": "What is Fractional Ownership?",
+                    "de": "Was ist Bruchteilseigentum?",
+                    "fr": "Qu’est-ce que la propriété fractionnée ?",
+                    "id": "Apa itu Kepemilikan Pecahan?"
+                },
+                "answer": {
+                    "en": "Fractional Ownership affords the opportunity for individuals to own a piece of a beautiful luxury residence at one of the Karma Group’s remarkable boutique resorts across the globe. No ongoing financial obligation plus a return on investment upon expiration of their term of ownership. Simply put, all the advantages of ownership, combined with our extensive range of Karma Group membership & leisure related benefits, without any of the attending expenses or hassles.",
+                    "de": "Fractional Ownership bietet Einzelpersonen die Möglichkeit, ein Stück einer wunderschönen Luxusresidenz in einem der bemerkenswerten Boutique-Resorts der Karma Group auf der ganzen Welt zu besitzen. Keine laufenden finanziellen Verpflichtungen plus Kapitalrendite nach Ablauf der Eigentumsdauer. Einfach ausgedrückt, alle Vorteile des Besitzes, kombiniert mit unserem umfangreichen Angebot an Karma Group-Mitgliedschafts- und Freizeitvorteilen, ohne jegliche Kosten oder Ärger.",
+                    "fr": "La propriété fractionnée offre aux particuliers la possibilité de posséder une partie d’une belle résidence de luxe dans l’un des remarquables complexes hôteliers du groupe Karma à travers le monde. Aucune obligation financière continue et un retour sur investissement à l’expiration de leur durée de propriété. En termes simples, tous les avantages de la propriété, combinés à notre vaste gamme d’adhésions au groupe Karma et d’avantages liés aux loisirs, sans aucune des dépenses de participation ou des tracas.",
+                    "id": "Kepemilikan Pecahan memberikan kesempatan bagi individu untuk memiliki sepotong tempat tinggal mewah yang indah di salah satu resor butik Karma Group yang luar biasa di seluruh dunia. Tidak ada kewajiban keuangan yang berkelanjutan ditambah pengembalian investasi setelah berakhirnya masa kepemilikannya. Sederhananya, semua keuntungan kepemilikan, dikombinasikan dengan berbagai keanggotaan Karma Group kami & manfaat terkait rekreasi, tanpa biaya kehadiran atau kerepotan."
+                },
+                "points": []
+            }
+        ],
+        "Bookings": [
+            {
+                "question": {
+                    "en": "Can I access real time bookings?",
+                    "de": "Kann ich auf Echtzeit-Buchungen zugreifen?",
+                    "fr": "Puis-je accéder aux réservations en temps réel ?",
+                    "id": "Bisakah saya mengakses pemesanan real time?"
+                },
+                "answer": {
+                    "en": "There is an extensive range of live online availability real time booking options including:",
+                    "de": "Es gibt eine umfangreiche Auswahl an Echtzeit-Buchungsoptionen für Live-Online-Verfügbarkeiten, darunter:",
+                    "fr": "Il existe une vaste gamme d’options de réservation en temps réel disponibles en ligne, notamment :",
+                    "id": "Ada berbagai macam opsi pemesanan real time ketersediaan online langsung termasuk:"
+                },
+                "points": [
+                    {
+                        "en": "<a href=\"https://karmaclub.karmagroup.com/member/search-book/internal/\">Karma Group Exchange / Member Offers & Preferred Member Rates</a>",
+                        "de": "<a href=\"https://karmaclub.karmagroup.com/member/search-book/internal/\">Karma Group Exchange / Mitgliederangebote & bevorzugte Mitgliederpreise</a>",
+                        "fr": "<a href=\"https://karmaclub.karmagroup.com/member/search-book/internal/\">Karma Group Exchange / Offres pour les membres et tarifs préférentiels pour les membres</a>",
+                        "id": "<a href=\"https://karmaclub.karmagroup.com/member/search-book/internal/\">Karma Group Exchange / Penawaran Anggota & Tarif Anggota Pilihan</a>"
+                    },
+                    {
+                        "en": "<a href=\"https://karmaclub.karmagroup.com/member/hot-deals/\">Karma Group Hot Deals</a>",
+                        "de": "<a href=\"https://karmaclub.karmagroup.com/member/hot-deals/\">Karma Group Hot Deals</a>",
+                        "fr": "<a href=\"https://karmaclub.karmagroup.com/member/hot-deals/\">Offres spéciales du groupe Karma</a>",
+                        "id": "<a href=\"https://karmaclub.karmagroup.com/member/hot-deals/\">Penawaran Panas Grup Karma</a>"
+                    },
+                    {
+                        "en": "<a href=\"https://karmaclub.karmagroup.com/member/search-book/affiliate/exchange/\">Affiliate Exchanges</a>",
+                        "de": "<a href=\"https://karmaclub.karmagroup.com/member/search-book/affiliate/exchange/\">Affiliate-Börsen</a>",
+                        "fr": "<a href=\"https://karmaclub.karmagroup.com/member/search-book/affiliate/exchange/\">Échanges d’affiliation</a>",
+                        "id": "<a href=\"https://karmaclub.karmagroup.com/member/search-book/affiliate/exchange/\">Pertukaran Afiliasi</a>"
+                    },
+                    {
+                        "en": "<a href=\"https://karmaclub.karmagroup.com/member/search-book/affiliate/bonus/\">Affiliate Bonus Stays</a>",
+                        "de": "<a href=\"https://karmaclub.karmagroup.com/member/search-book/affiliate/bonus/\">Affiliate-Bonus bleibt</a>",
+                        "fr": "<a href=\"https://karmaclub.karmagroup.com/member/search-book/affiliate/bonus/\">Séjours bonus d’affiliation</a>",
+                        "id": "<a href=\"https://karmaclub.karmagroup.com/member/search-book/affiliate/bonus/\">Bonus Afiliasi Menginap</a>"
+                    },
+                    {
+                        "en": "<a href=\"https://karmaclub.karmagroup.com/member-link/affiliate-rental/\">Affiliate Rentals</a>",
+                        "de": "<a href=\"https://karmaclub.karmagroup.com/member-link/affiliate-rental/\">Affiliate-Vermietungen</a>",
+                        "fr": "<a href=\"https://karmaclub.karmagroup.com/member-link/affiliate-rental/\">Locations affiliées</a>",
+                        "id": "<a href=\"https://karmaclub.karmagroup.com/member-link/affiliate-rental/\">Penyewaan Afiliasi</a>"
+                    },
+                    {
+                        "en": "<a href=\"https://karmaclub.karmagroup.com/member/travel-lifestyle/\">241 Rewards Program</a>",
+                        "de": "<a href=\"https://karmaclub.karmagroup.com/member/travel-lifestyle/\">241 Belohnungsprogramm</a>",
+                        "fr": "<a href=\"https://karmaclub.karmagroup.com/member/travel-lifestyle/\">Programme de récompenses 241</a>",
+                        "id": "<a href=\"https://karmaclub.karmagroup.com/member/travel-lifestyle/\">Program Hadiah 241</a>"
+                    },
+                    {
+                        "en": "<a href=\"https://karmaclub.karmagroup.com/member/flashsales/\">non Affiliate Concierge</a>",
+                        "de": "<a href=\"https://karmaclub.karmagroup.com/member/flashsales/\">kein Affiliate-Concierge</a>",
+                        "fr": "<a href=\"https://karmaclub.karmagroup.com/member/flashsales/\">Concierge non-affilié</a>",
+                        "id": "<a href=\"https://karmaclub.karmagroup.com/member/flashsales/\">Pramutamu Non-Afiliasi</a>"
+                    }
+                ]
+            },
+            {
+                "question": {
+                    "en": "What happens if I have to cancel a confirmed reservation?",
+                    "de": "Was passiert, wenn ich eine bestätigte Reservierung stornieren muss?",
+                    "fr": "Que se passe-t-il si je dois annuler une réservation confirmée ?",
+                    "id": "Apa yang terjadi jika saya harus membatalkan reservasi yang dikonfirmasi?"
+                },
+                "answer": {
+                    "en": "Subject to your providing a minimum of 30 days notice internal Karma Group reservation can generally be rebooked or cancelled with a full credit of points used / monies paid subject to payment of a cancellation / rebooking fee. Less notice will result in the loss of points / monies and it should be noted that Special Promotional Offers including Hot Deals are generally non-cancellable / non-rebookable. External reservation policies will vary depending on the company through whom the accommodation has been booked.",
+                    "de": "Sofern Sie dies mindestens 30 Tage im Voraus mitteilen, kann eine interne Reservierung der Karma Group in der Regel mit einer vollständigen Gutschrift der verwendeten Punkte / ausgezahlten Gelder umgebucht oder storniert werden, sofern eine Stornierungs- / Umbuchungsgebühr zu entrichten ist. Eine kürzere Vorankündigung führt zum Verlust von Punkten / Geldern und es sollte beachtet werden, dass Sonderangebote, einschließlich Hot Deals, in der Regel nicht stornierbar / nicht umbuchbar sind. Die Richtlinien für externe Reservierungen variieren je nach Unternehmen, über das die Unterkunft gebucht wurde.",
+                    "fr": "Sous réserve d’un préavis d’au moins 30 jours, les réservations internes de Karma Group peuvent généralement être modifiées ou annulées avec un crédit complet de points utilisés / sommes payées, sous réserve du paiement de frais d’annulation / de changement de réservation. Un préavis moins long entraînera la perte de points / d’argent et il convient de noter que les offres promotionnelles spéciales, y compris les offres spéciales, sont généralement non annulables / non réservables. Les politiques de réservation externe varient en fonction de l’entreprise par l’intermédiaire de laquelle l’hébergement a été réservé.",
+                    "id": "Tunduk pada pemberitahuan Anda minimal 30 hari, reservasi internal Karma Group umumnya dapat dipesan ulang atau dibatalkan dengan kredit penuh poin yang digunakan / uang yang dibayarkan dengan tunduk pada pembayaran biaya pembatalan / pemesanan ulang. Pemberitahuan yang lebih sedikit akan mengakibatkan hilangnya poin/uang dan perlu dicatat bahwa Penawaran Promosi Khusus termasuk Penawaran Panas umumnya tidak dapat dibatalkan / tidak dapat dipesan ulang. Kebijakan reservasi eksternal akan bervariasi tergantung pada perusahaan tempat akomodasi dipesan."
+                },
+                "points": []
+            }
+        ],
+        "Points": [
+            {
+                "question": {
+                    "en": "What is the validity of my Membership Entitlement for any given year?",
+                    "de": "Wie lange ist meine Mitgliedschaftsberechtigung für ein bestimmtes Jahr gültig?",
+                    "fr": "Quelle est la validité de mon droit d’adhésion pour une année donnée ?",
+                    "id": "Berapa validitas Hak Keanggotaan saya untuk tahun tertentu?"
+                },
+                "answer": {
+                    "en": "Points are allocated on the 1st January and are available for use against accommodation within a three year period.",
+                    "de": "Die Punkte werden am 1. Januar vergeben und können innerhalb eines Zeitraums von drei Jahren für Unterkünfte verwendet werden.",
+                    "fr": "Les points sont attribués le 1er janvier et peuvent être utilisés contre un hébergement dans un délai de trois ans.",
+                    "id": "Poin dialokasikan pada tanggal 1 Januari dan tersedia untuk digunakan untuk akomodasi dalam periode tiga tahun."
+                },
+                "points": []
+            }
+        ],
+        "Memberships": [
+            {
+                "question": {
+                    "en": "Why do I have to pay an ongoing Management Charge after having paid a Membership Fee?",
+                    "de": "Warum muss ich eine laufende Verwaltungsgebühr zahlen, nachdem ich einen Mitgliedsbeitrag bezahlt habe?",
+                    "fr": "Pourquoi dois-je payer des frais de gestion continus après avoir payé une cotisation ?",
+                    "id": "Mengapa saya harus membayar Biaya Manajemen yang berkelanjutan setelah membayar Biaya Keanggotaan?"
+                },
+                "answer": {
+                    "en": "The fee you paid for your initial Membership purchase was towards the cost of the construction and furnishing of the resort (i.e. capital costs). It is akin to purchasing an apartment or condominium. When you purchase an apartment there are always ongoing property related expenses. These include work that may need to be done on the apartment, communal levies, fees towards common areas, grounds upkeep, building maintenance and onsite facilities (e.g. lifts) along with utility bills. In the same way it would be unreasonable to expect your initial Membership Fee to possibly cover the ongoing property related running costs, utilities and maintenance for the duration of your term of membership.",
+                    "de": "Die Gebühr, die Sie für Ihren ersten Kauf einer Mitgliedschaft gezahlt haben, wurde auf die Kosten für den Bau und die Einrichtung des Resorts (d. h. Kapitalkosten) angerechnet. Es ist vergleichbar mit dem Kauf einer Wohnung oder Eigentumswohnung. Beim Kauf einer Wohnung fallen immer laufende immobilienbezogene Kosten an. Dazu gehören Arbeiten, die möglicherweise an der Wohnung durchgeführt werden müssen, kommunale Abgaben, Gebühren für Gemeinschaftsräume, Instandhaltung des Geländes, Gebäudeinstandhaltung und Einrichtungen vor Ort (z. B. Aufzüge) sowie Stromrechnungen. Ebenso wäre es unangemessen zu erwarten, dass Ihr anfänglicher Mitgliedsbeitrag möglicherweise die laufenden Betriebskosten, Nebenkosten und Wartungskosten für die Dauer Ihrer Mitgliedschaft abdeckt.",
+                    "fr": "Les frais que vous avez payés pour votre achat initial d’adhésion étaient destinés au coût de la construction et de l’ameublement de la station (c’est-à-dire les coûts en capital). C’est comme si vous achetiez un appartement ou un condominium. Lorsque vous achetez un appartement, il y a toujours des dépenses liées à l’immobilier. Il s’agit notamment des travaux qui peuvent être nécessaires sur l’appartement, des taxes communes, des frais pour les parties communes, l’entretien du terrain, l’entretien du bâtiment et les installations sur place (par exemple, les ascenseurs) ainsi que les factures de services publics. De la même manière, il serait déraisonnable de s’attendre à ce que vos frais d’adhésion initiaux couvrent les frais de fonctionnement, les services publics et l’entretien liés à la propriété pendant la durée de votre adhésion.",
+                    "id": "Biaya yang Anda bayarkan untuk pembelian Keanggotaan awal Anda adalah untuk biaya pembangunan dan perabotan resor (yaitu biaya modal). Ini mirip dengan membeli apartemen atau kondominium. Ketika Anda membeli apartemen, selalu ada biaya terkait properti yang sedang berlangsung. Ini termasuk pekerjaan yang mungkin perlu dilakukan di apartemen, retribusi komunal, biaya untuk area umum, pemeliharaan tanah, pemeliharaan bangunan dan fasilitas di tempat (misalnya lift) bersama dengan tagihan utilitas. Dengan cara yang sama, tidak masuk akal untuk mengharapkan Biaya Keanggotaan awal Anda mungkin menutupi biaya operasional, utilitas, dan pemeliharaan terkait properti yang sedang berlangsung selama masa keanggotaan Anda."
+                },
+                "points": []
+            },
+            {
+                "question": {
+                    "en": "Will the Management Charge go up?",
+                    "de": "Wird die Verwaltungsgebühr erhöht?",
+                    "fr": "Les frais de gestion vont-ils augmenter ?",
+                    "id": "Apakah Biaya Manajemen akan naik?"
+                },
+                "answer": {
+                    "en": "It’s an unfortunate fact of life that costs tend to rise year on year rather than fall and taking into consideration the fact that the standard term of membership is 25 years it is only reasonable to expect fees to increase over time.",
+                    "de": "Es ist eine unglückliche Tatsache des Lebens, dass die Kosten von Jahr zu Jahr eher steigen als fallen, und wenn man bedenkt, dass die Standardlaufzeit der Mitgliedschaft 25 Jahre beträgt, ist es nur vernünftig zu erwarten, dass die Gebühren im Laufe der Zeit steigen.",
+                    "fr": "C’est un fait malheureux de la vie que les coûts ont tendance à augmenter d’année en année plutôt que de diminuer et, compte tenu du fait que la durée standard de l’adhésion est de 25 ans, il est raisonnable de s’attendre à ce que les frais augmentent au fil du temps.",
+                    "id": "Ini adalah fakta hidup yang disayangkan bahwa biaya cenderung meningkat dari tahun ke tahun daripada turun dan dengan mempertimbangkan fakta bahwa jangka waktu standar keanggotaan adalah 25 tahun, masuk akal untuk mengharapkan biaya meningkat dari waktu ke waktu."
+                },
+                "points": []
+            }
+        ],
+        "Destinations": [
+            {
+                "question": {
+                    "en": "Where can I check out information on Karma Group properties?",
+                    "de": "Wo kann ich Informationen zu Immobilien der Karma Group abrufen?",
+                    "fr": "Où puis-je trouver des informations sur les propriétés de Karma Group ?",
+                    "id": "Di mana saya dapat melihat informasi tentang properti Karma Group?"
+                },
+                "answer": {
+                    "en": "Profiles on each of our <a href=\"https://karmaclub.karmagroup.com/destinations/\">Group properties</a> are available online for review.",
+                    "de": "Profile zu jedem unserer <a href=\"https://karmaclub.karmagroup.com/destinations/\">Eigenschaften der Gruppe</a> stehen online zur Überprüfung zur Verfügung.",
+                    "fr": "Profils sur chacun de nos <a href=\"https://karmaclub.karmagroup.com/destinations/\">Propriétés du groupe</a> sont disponibles en ligne pour examen.",
+                    "id": "Profil di masing-masing <a href=\"https://karmaclub.karmagroup.com/destinations/\">Properti grup</a> tersedia online untuk ditinjau."
+                },
+                "points": []
+            },
+            {
+                "question": {
+                    "en": "What options do I have available if wishing to check availability in locations where the Karma Group do not currently have any properties?",
+                    "de": "Welche Optionen habe ich, wenn ich die Verfügbarkeit an Orten überprüfen möchte, an denen die Karma Group derzeit keine Immobilien hat?",
+                    "fr": "Quelles sont les options qui s’offrent à moi si je souhaite vérifier la disponibilité dans des endroits où le groupe Karma n’a actuellement aucune propriété ?",
+                    "id": "Opsi apa yang saya miliki jika ingin memeriksa ketersediaan di lokasi di mana Karma Group saat ini tidak memiliki properti apa pun?"
+                },
+                "answer": {
+                    "en": "Karma Group members currently have access to over 4,200 Affiliate properties and thousands of non-Affiliate Hotel Rental properties throughout the world:",
+                    "de": "Die Mitglieder der Karma Group haben derzeit Zugang zu über 4.200 Affiliate-Hotels und Tausenden von Nicht-Affiliate-Hotelvermietungen auf der ganzen Welt:",
+                    "fr": "Les membres du groupe Karma ont actuellement accès à plus de 4 200 propriétés affiliées et à des milliers de propriétés de location d’hôtels non affiliées à travers le monde :",
+                    "id": "Anggota Karma Group saat ini memiliki akses ke lebih dari 4.200 properti Afiliasi dan ribuan properti Penyewaan Hotel non-Afiliasi di seluruh dunia:"
+                },
+                "points": {
+                    "en": [
+                        "<a href=\"https://karmaclub.karmagroup.com/member/search-book/affiliate/exchange/\">Affiliate Exchanges</a>",
+                        "<a href=\"https://karmaclub.karmagroup.com/member/search-book/affiliate/bonus/\">Affiliate Bonus Stays</a>",
+                        "<a href=\"https://karmaclub.karmagroup.com/member-link/affiliate-rental/\">Affiliate Rentals</a>",
+                        "<a href=\"https://karmaclub.karmagroup.com/member/travel-lifestyle/\">241 Rewards Program</a>",
+                        "<a href=\"https://karmaclub.karmagroup.com/member/flashsales/\">non Affiliate Concierge</a>"
+                    ],
+                    "de": [
+                        "<a href=\"https://karmaclub.karmagroup.com/member/search-book/affiliate/exchange/\">Affiliate-Börsen</a>",
+                        "<a href=\"https://karmaclub.karmagroup.com/member/search-book/affiliate/bonus/\">Affiliate-Bonus-Aufenthalte</a>",
+                        "<a href=\"https://karmaclub.karmagroup.com/member-link/affiliate-rental/\">Affiliate-Vermietung</a>",
+                        "<a href=\"https://karmaclub.karmagroup.com/member/travel-lifestyle/\">241 Rewards-Programm</a>",
+                        "<a href=\"https://karmaclub.karmagroup.com/member/flashsales/\">Nicht-Affiliate-Concierge</a>"
+                    ],
+                    "fr": [
+                        "<a href=\"https://karmaclub.karmagroup.com/member/search-book/affiliate/exchange/\">Échanges d’affiliation</a>",
+                        "<a href=\"https://karmaclub.karmagroup.com/member/search-book/affiliate/bonus/\">Séjours bonus d’affiliation</a>",
+                        "<a href=\"https://karmaclub.karmagroup.com/member-link/affiliate-rental/\">Locations affiliées</a>",
+                        "<a href=\"https://karmaclub.karmagroup.com/member/travel-lifestyle/\">Programme de récompenses 241</a>",
+                        "<a href=\"https://karmaclub.karmagroup.com/member/flashsales/\">Concierge non-affilié</a>"
+                    ],
+                    "id": [
+                        "<a href=\"https://karmaclub.karmagroup.com/member/search-book/affiliate/exchange/\">Pertukaran Afiliasi</a>",
+                        "<a href=\"https://karmaclub.karmagroup.com/member/search-book/affiliate/bonus/\">Affiliate Bonus Stays</a>",
+                        "<a href=\"https://karmaclub.karmagroup.com/member-link/affiliate-rental/\">Penyewaan Afiliasi</a>",
+                        "<a href=\"https://karmaclub.karmagroup.com/member/travel-lifestyle/\">Program Hadiah 241</a>",
+                        "<a href=\"https://karmaclub.karmagroup.com/member/flashsales/\">Pramutamu Non-Afiliasi</a>"
+                    ]
+                }
+            }
+        ]
+    }
+}

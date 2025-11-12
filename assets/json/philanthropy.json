@@ -1,0 +1,221 @@
+{
+    "banner": {
+        "subTitle": {
+            "en": "PHILANTHROPY",
+            "de": "MENSCHENLIEBE",
+            "fr": "PHILANTHROPIE",
+            "id": "FILANTROPI"
+        },
+        "title": {
+            "en": "Committed To Help Others",
+            "de": "Engagiert, anderen zu helfen",
+            "fr": "S’engager à aider les autres",
+            "id": "Berkomitmen Untuk Membantu Orang Lain"
+        },
+        "image": "assets/images/philanthropy/Committed To Help Others_Banner.jpg"
+
+    },
+    "quote": {
+        "en": "It's an integral part of our Karma philosophy to respect and actively help the people and places in which we are located",
+        "de": "Es ist ein integraler Bestandteil unserer Karma-Philosophie, die Menschen und Orte, an denen wir uns befinden, zu respektieren und aktiv zu helfen",
+        "fr": "Cela fait partie intégrante de notre philosophie Karma de respecter et d’aider activement les personnes et les lieux dans lesquels nous sommes situés",
+        "id": "Ini adalah bagian integral dari filosofi Karma kami untuk menghormati dan secara aktif membantu orang-orang dan tempat di mana kami berada"
+    },
+    "stats": [
+
+        {
+            "name": {
+                "en": "Global",
+                "de": "Global",
+                "fr": "Global",
+                "id": "Global"
+            },
+            "data": [
+                {
+                    "title": {
+                        "en": "The Bali Children Project",
+                        "de": "Das Bali Children Project",
+                        "fr": "Le projet pour les enfants de Bali",
+                        "id": "Proyek Anak Bali"
+                    },
+                    "subTitle": "",
+                    "image": "assets/images/philanthropy/The Bali Children Project.jpg"
+                },
+                {
+                    "title": {
+                        "en": "10K+",
+                        "de": "10 Tsd+",
+                        "fr": "10K+",
+                        "id": "10 ribu+"
+                    },
+                    "subTitle": {
+                        "en": "Children helped",
+                        "de": "Kinder halfen",
+                        "fr": "Enfants aidés",
+                        "id": "Anak-anak dibantu"
+                    },
+                    "image": "assets/images/philanthropy/10k+ Children helped.jpg"
+                },
+                {
+                    "title": {
+                        "en": "2M+",
+                        "de": "2M+",
+                        "fr": "2M+",
+                        "id": "2 juta+"
+                    },
+                    "subTitle": {
+                        "en": "Donated",
+                        "de": "Gespendet",
+                        "fr": "Donné",
+                        "id": "Disumbangkan"
+                    },
+                    "image": "assets/images/philanthropy/2m+ Donated.jpg"
+                },
+                {
+                    "title": {
+                        "en": "1 Bus Donated",
+                        "de": "1 Bus gespendet",
+                        "fr": "1 bus donné",
+                        "id": "1 Bus Disumbangkan"
+                    },
+                    "subTitle": "",
+                    "image": "assets/images/philanthropy/1 Bus Donated.jpg"
+                },
+                {
+                    "title": {
+                        "en": "Karma Cares",
+                        "de": "Karma kümmert sich",
+                        "fr": "Karma se soucie",
+                        "id": "Karma Peduli"
+                    },
+                    "subTitle": "",
+                    "image": "assets/images/philanthropy/Karma Cares.jpg"
+                },
+                {
+                    "title": {
+                        "en": "200+",
+                        "de": "200+",
+                        "fr": "200+",
+                        "id": "200+"
+                    },
+                    "subTitle": {
+                        "en": "Organisations Supported",
+                        "de": "Unterstützte Organisationen",
+                        "fr": "Organisations soutenues",
+                        "id": "Organisasi yang Didukung"
+                    },
+                    "image": "assets/images/philanthropy/200+ Organisations  Supported.jpg"
+                },
+                {
+                    "title": {
+                        "en": "15+",
+                        "de": "15+",
+                        "fr": "15+",
+                        "id": "15+"
+                    },
+                    "subTitle": {
+                        "en": "Projects Initiated",
+                        "de": "Initiierte Projekte",
+                        "fr": "Projets initiés",
+                        "id": "Proyek yang Diprakarsai"
+                    },
+                    "image": "assets/images/philanthropy/15+ Projects Initiated.jpg"
+                },
+                {
+                    "title": {
+                        "en": "30+",
+                        "de": "30+",
+                        "fr": "30+",
+                        "id": "30+"
+                    },
+                    "subTitle": {
+                        "en": "Countries Worldwide",
+                        "de": "Länder weltweit",
+                        "fr": "Pays dans le monde",
+                        "id": "Negara di Seluruh Dunia"
+                    },
+                    "image": "assets/images/philanthropy/30+ Countries  Worldwide.jpg"
+                },
+                {
+                    "title": {
+                        "en": "The Bali Life Foundation",
+                        "de": "Die Bali Life Stiftung",
+                        "fr": "La Fondation Bali Life",
+                        "id": "Yayasan Bali Life"
+                    },
+                    "subTitle": "",
+                    "image": "assets/images/philanthropy/The_Bali_Life_Foundation.jpg"
+                },
+                {
+                    "title": {
+                        "en": "Oxygen and Rice Drive",
+                        "de": "Sauerstoff- und Reisantrieb",
+                        "fr": "Collecte d’oxygène et de riz",
+                        "id": "Penggerak Oksigen dan Beras"
+                    },
+                    "subTitle": "",
+                    "image": "assets/images/philanthropy/Oxygen and Rice Drive.jpg"
+                },
+                {
+                    "title": {
+                        "en": "R.O.L.E Foundation",
+                        "de": "R.O.L.E. Stiftung",
+                        "fr": "Fondation R.O.L.E",
+                        "id": "Yayasan R.O.L.E"
+                    },
+                    "subTitle": "",
+                    "image": "assets/images/philanthropy/R.O.L.E  Foundation.jpg"
+                },
+                {
+                    "title": {
+                        "en": "24+",
+                        "de": "24+",
+                        "fr": "24+",
+                        "id": "24+"
+                    },
+                    "subTitle": {
+                        "en": "Partnered Events",
+                        "de": "Partner-Veranstaltungen",
+                        "fr": "Événements en partenariat",
+                        "id": "Acara Bermitra"
+                    },
+                    "image": "assets/images/philanthropy/24+ Partnered  Events.jpg"
+                }
+            ]
+        }
+    ],
+
+
+    "carousel": [
+        {
+            "title": {
+                "en": "The Bali Life Foundation",
+                "de": "Die Bali Life Stiftung",
+                "fr": "La Fondation Bali Life",
+                "id": "Yayasan Bali Life"
+            },
+            "description": {
+                "en": "Karma Group is a majority sponsor of this wonderful organisation, which strives to give hope, dignity and purpose to disadvantaged children in Bali. The foundation’s essential projects include a children’s home, a shelter for street children and a women’s centre. It also runs a sustainable farm providing food for its centres, as well as an educational programme that teaches vocational subjects such as computers, hospitality and cookery to vulnerable members of the community.",
+                "de": "Karma Group ist Mehrheitssponsor dieser wunderbaren Organisation, die sich dafür einsetzt, benachteiligten Kindern auf Bali Hoffnung, Würde und Sinn zu geben. Zu den wesentlichen Projekten der Stiftung gehören ein Kinderheim, ein Frauenheim für Straßenkinder und ein Frauenzentrum. Sie betreibt auch einen nachhaltigen Bauernhof, der ihre Zentren mit Lebensmitteln versorgt, sowie ein Bildungsprogramm, in dem gefährdete Mitglieder der Gemeinschaft in beruflichen Fächern wie Computer, Gastgewerbe und Kochen unterrichtet werden.",
+                "fr": "Karma Group est un sponsor majoritaire de cette merveilleuse organisation, qui s’efforce de donner de l’espoir, de la dignité et un but aux enfants défavorisés de Bali. Parmi les projets essentiels de la fondation figurent une maison d’enfants, un centre d’accueil pour les enfants des rues et un centre pour femmes. Elle gère également une ferme durable qui fournit de la nourriture à ses centres, ainsi qu’un programme éducatif qui enseigne des matières professionnelles telles que l’informatique, l’hôtellerie et la cuisine aux membres vulnérables de la communauté.",
+                "id": "Karma Group adalah sponsor mayoritas dari organisasi yang luar biasa ini, yang berusaha untuk memberikan harapan, martabat, dan tujuan kepada anak-anak yang kurang beruntung di Bali. Proyek-proyek penting yayasan termasuk rumah anak-anak, tempat penampungan untuk anak-anak jalanan dan pusat wanita. Perusahaan ini juga menjalankan pertanian berkelanjutan yang menyediakan makanan untuk pusat-pusatnya, serta program pendidikan yang mengajarkan mata pelajaran kejuruan seperti komputer, perhotelan, dan memasak kepada anggota masyarakat yang rentan."
+            },
+            "image": "assets/images/philanthropy/The Bali Life Foundation 01.png"
+        },
+        {
+            "title": {
+                "en": "The Bali Children Project",
+                "de": "Das Bali Children Project",
+                "fr": "Le projet pour les enfants de Bali",
+                "id": "Proyek Anak Bali"
+            },
+            "description": {
+                "en": "Bali Children’s Project is dedicated to education as a means of improving the lives of disadvantaged young people. It was founded on the belief that children, empowered to realize their potential, will enrich their own lives, their villages and, subsequently, contribute to the world.",
+                "de": "Das Bali Children's Project widmet sich der Bildung, um das Leben benachteiligter junger Menschen zu verbessern. Es wurde aus der Überzeugung heraus gegründet, dass Kinder, die befähigt werden, ihr Potenzial zu verwirklichen, ihr eigenes Leben und ihre Dörfer bereichern und in der Folge einen Beitrag zur Welt leisten werden.",
+                "fr": "Le Bali Children’s Project se consacre à l’éducation comme moyen d’améliorer la vie des jeunes défavorisés. Il a été fondé sur la conviction que les enfants, capables de réaliser leur potentiel, enrichiront leur propre vie, leurs villages et, par la suite, contribueront au monde.",
+                "id": "Bali Children's Project didedikasikan untuk pendidikan sebagai sarana untuk meningkatkan kehidupan kaum muda yang kurang beruntung. Itu didirikan atas keyakinan bahwa anak-anak, diberdayakan untuk mewujudkan potensi mereka, akan memperkaya kehidupan mereka sendiri, desa mereka dan, selanjutnya, berkontribusi kepada dunia."
+            },
+            "image": "assets/images/philanthropy/The Bali Children Project.png"
+        }
+    ]
+}

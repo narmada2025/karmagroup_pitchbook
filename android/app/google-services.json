@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844952522382",
+    "project_id": "reflected-disk-450809-k7",
+    "storage_bucket": "reflected-disk-450809-k7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844952522382:android:28b59b5bc3e848c87a43df",
+        "android_client_info": {
+          "package_name": "com.kg.pitchbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844952522382-hku2krq7jjbti8l2hpg6fiaiu24on2tv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiXnsTVbALXlxKm2yWTKnxCAX4jFKBSGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844952522382-hku2krq7jjbti8l2hpg6fiaiu24on2tv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
