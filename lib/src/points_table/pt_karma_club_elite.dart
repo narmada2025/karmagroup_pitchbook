@@ -137,8 +137,8 @@ class _PtKarmaClubEliteState extends State<PtKarmaClubElite> {
                     decoration: BoxDecoration(
                         border: Border.all(color: AppColors.primary),
                         borderRadius: BorderRadius.circular(50)),
-                    child: SvgPicture.network(
-                      "${AppAPI.baseUrlGcp}${'assets/images/community/curated-events/icons/Filter Location.svg'}",
+                    child: SvgPicture.asset(
+                      "assets/icons/community/Filter Location.svg",
                       width: 20,
                       fit: BoxFit.contain,
                       semanticsLabel: 'down Arrow',

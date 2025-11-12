@@ -3823,6 +3823,52 @@
                       "images": [
                         "assets/images/destinations/india/dharmshala/karma_tashi/facilities_restaurant.png"
                       ]
+                    },
+                    {
+                      "category": {
+                        "en": "Recreation Zone",
+                        "de": "Erholungszone",
+                        "fr": "Zone de loisirs",
+                        "id": "Zona Rekreasi"
+                      },
+                      "title": "",
+                      "description": "",
+                      "images": [
+                        "assets/images/destinations/india/dharmshala/karma_tashi/Recreation_1.jpg",
+                        "assets/images/destinations/india/dharmshala/karma_tashi/Recreation_2.jpg",
+                        "assets/images/destinations/india/dharmshala/karma_tashi/Recreation_3.jpg",
+                        "assets/images/destinations/india/dharmshala/karma_tashi/Recreation_4.jpg",
+                        "assets/images/destinations/india/dharmshala/karma_tashi/Recreation_5.jpg"
+                      ]
+                    },
+                    {
+                      "category": {
+                        "en": "Three Monkeys Club",
+                        "de": "Drei-Affen-Club",
+                        "fr": "Le Club des Trois Singes",
+                        "id": "Klub Tiga Monyet"
+                      },
+                      "title": "",
+                      "description": "",
+                      "images": [
+                        "assets/images/destinations/india/dharmshala/karma_tashi/ThreeMonkeysClub.jpg"
+                      ]
+                    },
+                    {
+                      "category": {
+                        "en": "Outdoor Activities",
+                        "de": "Outdoor-Aktivitäten",
+                        "fr": "Activités de plein air",
+                        "id": "Aktivitas Luar Ruangan"
+                      },
+                      "title": "",
+                      "description": "",
+                      "images": [
+                        "assets/images/destinations/india/dharmshala/karma_tashi/outdoor_1.jpg",
+                        "assets/images/destinations/india/dharmshala/karma_tashi/outdoor_2.jpg",
+                        "assets/images/destinations/india/dharmshala/karma_tashi/outdoor_3.jpg",
+                        "assets/images/destinations/india/dharmshala/karma_tashi/outdoor_4.jpg"
+                      ]
                     }
                   ],
                   "Guest Experiences": []

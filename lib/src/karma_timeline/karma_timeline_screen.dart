@@ -1970,7 +1970,7 @@ class _KarmaTimelineScreenState extends State<KarmaTimelineScreen> {
                   ],
                 ),
                 Positioned(
-                  bottom: 80,
+                  bottom: 90,
                   left: 0,
                   right: 0,
                   child: Container(
@@ -1991,7 +1991,7 @@ class _KarmaTimelineScreenState extends State<KarmaTimelineScreen> {
                               duration: const Duration(milliseconds: 500),
                               curve: Curves.ease,
                               child: SvgPicture.asset(
-                                'assets/images/kg-timeline/timeline_thumb.svg',
+                                "assets/images/timeline_thumb.svg",
                                 width: 44,
                                 fit: BoxFit.contain,
                                 semanticsLabel: 'calendar',

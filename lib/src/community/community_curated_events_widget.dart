@@ -38,7 +38,7 @@ class _CommunityCuratedEventsWidgetState
   final int showFirstPastEvents = 6;
 
   final String filterLocation =
-      "assets/images/community/curated-events/icons/Filter Location.svg";
+      "assets/icons/community/Filter Location.svg";
 
   @override
   Widget build(BuildContext context) {
@@ -141,8 +141,8 @@ class _CommunityCuratedEventsWidgetState
                       decoration: BoxDecoration(
                           border: Border.all(color: AppColors.primary),
                           borderRadius: BorderRadius.circular(50)),
-                      child: SvgPicture.network(
-                        '${AppAPI.baseUrlGcp}$filterLocation',
+                      child: SvgPicture.asset(
+                        filterLocation,
                         width: 20,
                         fit: BoxFit.contain,
                         semanticsLabel: 'down Arrow',

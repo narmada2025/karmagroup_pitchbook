@@ -47,30 +47,35 @@ class _KarmaClubFractionalOwnershipScreenState
 
     Size size = MediaQuery.of(context).size;
 
-    void onTapped(String? assetPath, Map<String, dynamic> title) async {
-      if (assetPath == null || assetPath.isEmpty) {
+    void onTapped(String path, Map<String, dynamic> title) async {
+      final nav = Navigator.of(context);
+
+      try {
+        String finalPath;
+
+        if (path.startsWith('http')) {
+          // ✅ It's a GCP URL — use it directly
+          finalPath = path;
+        } else {
+          // ✅ It's a local asset — load from assets
+          finalPath = await loadPdfFromAssets(path);
+        }
+
+        nav.push(
+          MaterialPageRoute(
+            builder: (context) => PdfScreen(
+              pdfPath: finalPath,
+              title: title,
+            ),
+          ),
+        );
+      } catch (e) {
         CustomSnackBar(
-          message: tr(context, 'errors.Content not available', lang),
+          message: '${tr(context, 'Failed to load PDF', lang)}: $e',
           context: context,
         );
-        return;
-      } else {
-        try {
-          String pdfPath = await loadPdfFromAssets(assetPath);
-          Navigator.of(context).push(
-            MaterialPageRoute(
-              builder: (context) => PdfScreen(pdfPath: pdfPath, title: title),
-            ),
-          );
-        } catch (e) {
-          CustomSnackBar(
-            message: '${tr(context, 'Failed to load PDF', lang)}: $e',
-            context: context,
-          );
-        }
       }
     }
-
     return Scaffold(
       backgroundColor: AppColors.black,
       body: _isLoading

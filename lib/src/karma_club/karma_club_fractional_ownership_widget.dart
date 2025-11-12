@@ -17,7 +17,7 @@ class KarmaClubFractionalOwnershipWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     Size size = MediaQuery.of(context).size;
-    print("fractionalownership========${AppAPI.baseUrlGcp}${data['image']}");
+    // print("fractionalownership========${AppAPI.baseUrlGcp}${data['image']}");
     return Container(
       width: size.width,
       padding: const EdgeInsets.all(80),
