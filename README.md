@@ -9,8 +9,9 @@ Karma Group Sales App
 - **Android Studio Version**: 2024.3 Patch 1
 - **Android SDK Version**: 35
 - **Mac**:
-    - Xcode Version: 16.0
+    - Xcode Version: 16.3
     - CocoaPods Version: 1.16.2
+- **Firebase SDK version**: 12.0.0      
 
 For additional information, refer to the [Flutter documentation](https://docs.flutter.dev/get-started/install).
 
@@ -21,7 +22,7 @@ For additional information, refer to the [Flutter documentation](https://docs.fl
 - `assets/json`: all Page data stored in JSON files with translations
 
 - `lib/src`: All the pages code
-- `lib/config/config.dart`: YouTube API key (Not Working Fix it)
+- `lib/config/config.dart`: YouTube API key
 
 ## Running the App
 

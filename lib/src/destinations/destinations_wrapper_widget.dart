@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:pitchbook/components/fade_in_animation.dart';
 import 'package:pitchbook/components/slide_in_animation.dart';
-import 'package:pitchbook/components/web_view_3DVR_screen.dart';
+import 'package:pitchbook/components/webView_3d_vr_screen.dart';
 import 'package:pitchbook/constants/app_data.dart';
 import 'package:pitchbook/constants/custom_snackbar.dart';
 import 'package:pitchbook/constants/custom_text.dart';

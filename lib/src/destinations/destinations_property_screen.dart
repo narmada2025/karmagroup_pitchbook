@@ -10,7 +10,7 @@ import 'package:pitchbook/helpers/helper.dart';
 import 'package:pitchbook/src/app_locatizations.dart';
 import 'package:pitchbook/src/destinations/widgets/feature_item.dart';
 
-import '../../components/web_view_3DVR_screen.dart';
+import '../../components/webView_3d_vr_screen.dart';
 import '../../constants/custom_snackbar.dart';
 
 class DestinationsPropertyScreen extends StatefulWidget {
@@ -104,6 +104,7 @@ class _DestinationsPropertyScreenState
           ),
         );
       } catch (e) {
+        if (!context.mounted) return;
         CustomSnackBar(
           message: '${tr(context, 'Failed to load PDF', lang)}: $e',
           context: context,

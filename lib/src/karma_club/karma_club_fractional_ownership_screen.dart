@@ -50,20 +50,23 @@ class _KarmaClubFractionalOwnershipScreenState
 
     void onTapped(String path, Map<String, dynamic> title) async {
       final nav = Navigator.of(context);
+      final lang = Localizations.localeOf(context).languageCode;
+      final failedMsg = tr(context, 'Failed to load PDF', lang);
 
       try {
         String finalPath;
 
         if (path.startsWith('http')) {
-          // Already a complete GCP URL
           finalPath = path;
         } else if (path.endsWith('.pdf')) {
-          // Append relative path to GCP base URL
           finalPath = '${AppAPI.baseUrlGcp}$path';
         } else {
-          // Fallback: load from local assets
+          // This is the async gap
           finalPath = await loadPdfFromAssets(path);
         }
+
+        // ✅ Guard context after async gap
+        if (!context.mounted) return;
 
         nav.push(
           MaterialPageRoute(
@@ -74,12 +77,14 @@ class _KarmaClubFractionalOwnershipScreenState
           ),
         );
       } catch (e) {
+        if (!context.mounted) return;
         CustomSnackBar(
-          message: '${tr(context, 'Failed to load PDF', Localizations.localeOf(context).languageCode)}: $e',
+          message: '$failedMsg: $e',
           context: context,
         );
       }
     }
+
 
     return Scaffold(
       backgroundColor: AppColors.black,
