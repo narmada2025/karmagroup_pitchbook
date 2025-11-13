@@ -47,6 +47,7 @@ class _KarmaClubFractionalOwnershipScreenState
 
     Size size = MediaQuery.of(context).size;
 
+
     void onTapped(String path, Map<String, dynamic> title) async {
       final nav = Navigator.of(context);
 
@@ -54,10 +55,13 @@ class _KarmaClubFractionalOwnershipScreenState
         String finalPath;
 
         if (path.startsWith('http')) {
-          // ✅ It's a GCP URL — use it directly
+          // Already a complete GCP URL
           finalPath = path;
+        } else if (path.endsWith('.pdf')) {
+          // Append relative path to GCP base URL
+          finalPath = '${AppAPI.baseUrlGcp}$path';
         } else {
-          // ✅ It's a local asset — load from assets
+          // Fallback: load from local assets
           finalPath = await loadPdfFromAssets(path);
         }
 
@@ -71,11 +75,12 @@ class _KarmaClubFractionalOwnershipScreenState
         );
       } catch (e) {
         CustomSnackBar(
-          message: '${tr(context, 'Failed to load PDF', lang)}: $e',
+          message: '${tr(context, 'Failed to load PDF', Localizations.localeOf(context).languageCode)}: $e',
           context: context,
         );
       }
     }
+
     return Scaffold(
       backgroundColor: AppColors.black,
       body: _isLoading

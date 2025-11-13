@@ -26,7 +26,6 @@ class _HomeBannerWidgetState extends State<HomeBannerWidget>
   late VideoPlayerController _controller;
   late AnimationController _contentController;
   late Animation<double> _fadeAnimation;
-  Future<void>? _initializeVideoPlayerFuture;
 
   @override
   void initState() {

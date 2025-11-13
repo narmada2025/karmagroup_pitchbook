@@ -1,5 +1,3 @@
-import 'dart:developer';
-
 import 'package:flutter/material.dart';
 import 'package:pitchbook/components/fade_in_animation.dart';
 import 'package:pitchbook/components/slide_in_animation.dart';

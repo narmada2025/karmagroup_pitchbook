@@ -17,7 +17,7 @@ class KarmaClubBannerWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     Size size = MediaQuery.of(context).size;
-print("====Karmaclub ${data['image']}");
+
     return Container(
       width: size.width,
       height: size.height / 1.5,

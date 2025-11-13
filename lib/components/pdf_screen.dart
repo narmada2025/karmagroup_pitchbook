@@ -32,7 +32,6 @@ class _PdfScreenState extends State<PdfScreen> {
   /// ✅ Check if the pdfPath is a URL or local file
   Future<void> _preparePdf() async {
     final path = widget.pdfPath.trim();
-print("==========$path");
     // ✅ If already a valid local file
     if (File(path).existsSync()) {
       setState(() {

@@ -36,7 +36,6 @@ class _CustomVideoPlayerState extends State<CustomVideoPlayer> {
 
   Future<void> _initializeVideoController(String url) async {
     if (url.startsWith('http')) {
-      print("if=========video ");
       // Fix Firebase Storage incorrect domain if needed
       if (url.contains(".firebasestorage.app")) {
         final decodedPath = Uri.decodeFull(Uri.parse(url).pathSegments.last);
@@ -53,7 +52,6 @@ class _CustomVideoPlayerState extends State<CustomVideoPlayer> {
           });
         });
     } else {
-      print("else=========video");
       _controller = VideoPlayerController.asset(url)
         ..initialize().then((_) {
           setState(() {

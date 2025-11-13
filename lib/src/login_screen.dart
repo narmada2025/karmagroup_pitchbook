@@ -28,6 +28,7 @@ class _LoginScreenState extends State<LoginScreen> {
   Future<void> _checkLoginStatus() async {
     bool isLoggedIn = await checkLoginStatus();
     if (isLoggedIn) {
+      if (!mounted) return;
       Navigator.pushReplacement(
         context,
         MaterialPageRoute(builder: (context) => const AppWrapper()),
@@ -54,7 +55,7 @@ class _LoginScreenState extends State<LoginScreen> {
 
               SharedPreferences prefs = await SharedPreferences.getInstance();
               await prefs.setBool('isLoggedIn', true);
-
+              if (!mounted) return;
               Navigator.pushReplacement(
                 context,
                 MaterialPageRoute(builder: (context) => const AppWrapper()),
@@ -69,7 +70,6 @@ class _LoginScreenState extends State<LoginScreen> {
   @override
   Widget build(BuildContext context) {
     const logo = "assets/images/logo.svg";
-    print("======LOGIN=====");
 
     return Scaffold(
       backgroundColor: AppColors.black,

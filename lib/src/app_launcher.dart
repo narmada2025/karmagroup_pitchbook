@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:pitchbook/helpers/helper.dart';
 import 'package:pitchbook/src/app_wrapper.dart';
-import 'package:pitchbook/src/login_screen.dart';
 
 class AppLauncher extends StatefulWidget {
   const AppLauncher({super.key});

@@ -163,12 +163,9 @@ class _VideoItemWidgetState extends State<VideoItemWidget> {
   // }
 
   Future<Duration> _getVideoLength(String videoUrl) async {
-    log("getVideoLength======= ");
     if (_videoDurations.containsKey(videoUrl)) {
-      log("---if videos ${videoUrl}");
       return _videoDurations[videoUrl]!;
     } else {
-      log("videoUrl======$videoUrl");
       // If URL has .firebasestorage.app, fetch the proper download URL from Firebase
       if (videoUrl.contains(".firebasestorage.app")) {
         try {

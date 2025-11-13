@@ -12,10 +12,10 @@ class EventCardWidget extends StatelessWidget {
   final double width;
   final double height;
   final double radius;
-  final String isSold;
+  final String? isSold;
   final String location;
   final VoidCallback onTap;
-  final String isLastSpot;
+  final String? isLastSpot;
 
   const EventCardWidget({
     super.key,
