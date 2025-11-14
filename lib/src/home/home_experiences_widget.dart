@@ -65,7 +65,7 @@ class HomeExperiencesWidget extends StatelessWidget {
                     Expanded(
                       flex: 4,
                       child: Padding(
-                        padding: const EdgeInsets.only(bottom: 200),
+                        padding: const EdgeInsets.only(bottom: 200,right: 160),
                         child: Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
@@ -77,10 +77,10 @@ class HomeExperiencesWidget extends StatelessWidget {
                                 textStyle:
                                     const TextStyle(color: AppColors.primary),
                                 type: 'h2',
-                                isSerif: true,
+                                isSerif: true
                               ),
                             ),
-                            const SizedBox(height: 30),
+                            const SizedBox(height: 40),
                             SlideInAnimation(
                               direction: SlideDirection.left,
                               child: CustomText(
@@ -90,31 +90,31 @@ class HomeExperiencesWidget extends StatelessWidget {
                                     fontWeight: FontWeight.bold),
                               ),
                             ),
-                            const SizedBox(height: 15),
+                            const SizedBox(height: 20),
                             SlideInAnimation(
                               direction: SlideDirection.left,
                               child: CustomText(
                                 label: data['para1'][lang],
                                 textStyle:
-                                    const TextStyle(color: AppColors.white),
+                                    const TextStyle(color: AppColors.white)
                               ),
                             ),
-                            const SizedBox(height: 15),
+                            const SizedBox(height: 20),
                             SlideInAnimation(
                               direction: SlideDirection.left,
                               child: CustomText(
                                 label: data['para2'][lang],
                                 textStyle:
-                                    const TextStyle(color: AppColors.white),
+                                    const TextStyle(color: AppColors.white)
                               ),
                             ),
-                            const SizedBox(height: 15),
+                            const SizedBox(height: 20),
                             SlideInAnimation(
                               direction: SlideDirection.left,
                               child: CustomText(
                                 label: data['para3'][lang],
                                 textStyle:
-                                    const TextStyle(color: AppColors.white),
+                                    const TextStyle(color: AppColors.white)
                               ),
                             ),
                           ],
@@ -122,16 +122,16 @@ class HomeExperiencesWidget extends StatelessWidget {
                       ),
                     ),
                     Expanded(
-                      flex: 6,
+                      flex: 4,
                       child: Stack(
                         children: [
                           SlideInAnimation(
-                            visibilityThreshold: 0.2,
+                            visibilityThreshold: 0.1,
                             direction: SlideDirection.bottom,
                             child: Image.network('${AppAPI.baseUrlGcp}${data['john_image']}'),
                           ),
                           Positioned(
-                            top: 80,
+                            top:90,
                             right: 10,
                             child: FadeInAnimation(
                               delay: const Duration(milliseconds: 300),
@@ -139,7 +139,7 @@ class HomeExperiencesWidget extends StatelessWidget {
                               child: Column(
                                 children: [
                                   Container(
-                                      padding: const EdgeInsets.all(10),
+                                      padding: const EdgeInsets.all(5),
                                       decoration: BoxDecoration(
                                         color: AppColors.white
                                             .withValues(alpha: 0.05),
@@ -169,7 +169,7 @@ class HomeExperiencesWidget extends StatelessWidget {
                   ],
                 ),
                 Positioned(
-                  bottom: 100,
+                  bottom: 120,
                   left: 0,
                   right: 0,
                   child: FadeInAnimation(
@@ -196,16 +196,19 @@ class HomeExperiencesWidget extends StatelessWidget {
                                   const CircularProgressIndicator(),
                             ),
                           ),
-                          Container(
-                            width: 600,
-                            padding: const EdgeInsets.symmetric(vertical: 20),
-                            child: CustomText(
-                              type: 'h4',
-                              label: data['quote'][lang],
-                              textStyle:
-                                  const TextStyle(color: AppColors.white),
-                              isSerif: true,
-                              textAlign: TextAlign.center,
+                          Padding(
+                            padding: const EdgeInsets.only(left: 15.0,right: 15.0),
+                            child: Container(
+                              width: 600,
+                              padding: const EdgeInsets.symmetric(vertical: 20),
+                              child: CustomText(
+                                type: 'h4',
+                                label: data['quote'][lang],
+                                textStyle:
+                                    const TextStyle(color: AppColors.white),
+                                isSerif: true,
+                                textAlign: TextAlign.center,
+                              ),
                             ),
                           ),
                           Container(

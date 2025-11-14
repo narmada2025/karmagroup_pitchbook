@@ -1,7 +1,6 @@
 import 'dart:developer';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/flutter_svg.dart';
 import 'package:pitchbook/components/fade_in_animation.dart';
 import 'package:pitchbook/components/single_video_widget.dart';
 import 'package:pitchbook/components/slide_in_animation.dart';
@@ -150,37 +149,39 @@ class _HomeMomentsWidgetState extends State<HomeMomentsWidget> {
                                       const TextStyle(color: AppColors.white),
                                 ),
                               ),
-                              const SizedBox(height: 20),
-                              SlideInAnimation(
-                                direction: SlideDirection.right,
-                                delay: const Duration(milliseconds: 400),
-                                distance: 0.2,
-                                visibilityThreshold: 1,
-                                child: SizedBox(
-                                  width: 200,
-                                  child: Row(
-                                    children: [
-                                      SvgPicture.asset(
-                                        AppIcons.calendarIcon,
-                                        width: 30,
-                                        fit: BoxFit.contain,
-                                        semanticsLabel: 'calendar',
-                                        placeholderBuilder: (context) =>
-                                            const CircularProgressIndicator(),
-                                      ),
-                                      const SizedBox(width: 16),
-                                      CustomText(
-                                        label: widget.data['date'][widget.lang],
-                                        textStyle: const TextStyle(
-                                            color: AppColors.secondary),
-                                      ),
-                                    ],
-                                  ),
-                                ),
-                              ),
+                              // const SizedBox(height: 20),
+                              // SlideInAnimation(
+                              //   direction: SlideDirection.right,
+                              //   delay: const Duration(milliseconds: 400),
+                              //   distance: 0.2,
+                              //   visibilityThreshold: 1,
+                              //   child: SizedBox(
+                              //     width: 200,
+                              //     child: Row(
+                              //       children: [
+                              //         SvgPicture.asset(
+                              //           AppIcons.calendarIcon,
+                              //           width: 30,
+                              //           fit: BoxFit.contain,
+                              //           semanticsLabel: 'calendar',
+                              //           placeholderBuilder: (context) =>
+                              //               const CircularProgressIndicator(),
+                              //         ),
+                              //         const SizedBox(width: 16),
+                              //         CustomText(
+                              //           label: widget.data['date'][widget.lang],
+                              //           textStyle: const TextStyle(
+                              //               color: AppColors.secondary),
+                              //         ),
+                              //       ],
+                              //     ),
+                              //   ),
+                              // ),
                             ],
                           ),
                         ),
+
+                        //Play Video
                         Flexible(
                           flex: 3,
                           child: FadeInAnimation(

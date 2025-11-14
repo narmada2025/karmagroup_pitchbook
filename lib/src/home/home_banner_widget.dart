@@ -121,7 +121,7 @@ class _HomeBannerWidgetState extends State<HomeBannerWidget>
                 : Container(),
           ),
           GestureDetector(
-            onTap: _handleTap,
+            // onTap: _handleTap,
             child: Center(
               child: AspectRatio(
                 aspectRatio: 16 / 9,

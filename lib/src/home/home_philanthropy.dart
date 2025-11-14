@@ -40,7 +40,7 @@ class HomePhilanthropyWidget extends StatelessWidget {
             const SizedBox(height: 25),
             CustomText(
               label: data["subTitle"][lang],
-              type: 'h6',
+              type: 'h7',
               textStyle: const TextStyle(
                   color: AppColors.white, fontWeight: FontWeight.w500),
               textAlign: TextAlign.center,

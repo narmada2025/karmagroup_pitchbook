@@ -39,7 +39,7 @@ class HomeAwardsWidget extends StatelessWidget {
               label: data['subTitle'][lang],
               type: 'h6',
               textStyle: const TextStyle(
-                  color: AppColors.secondary, fontWeight: FontWeight.w500),
+                  color: AppColors.secondary, fontWeight: FontWeight.w400),
               textAlign: TextAlign.center,
               isUppercase: true,
             ),

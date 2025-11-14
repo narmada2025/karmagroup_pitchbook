@@ -40,7 +40,7 @@ class _VideoPlayerWidgetState extends State<VideoPlayerWidget> {
   }
 
   void _initializeVideoController(String url) {
-    _controller = VideoPlayerController.asset(url)
+    _controller = VideoPlayerController.networkUrl(Uri.parse('${AppAPI.baseUrlGcp}$url'))
       ..initialize().then((_) {
         setState(() {
           _isPlaying = true;

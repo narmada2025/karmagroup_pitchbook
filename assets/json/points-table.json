@@ -707,24 +707,24 @@
                 ],
                 "daily": [
                     [
-                        "231",
-                        "212",
-                        "193"
+                        "45",
+                        "41",
+                        "38"
                     ],
                     [
-                        "198",
-                        "182",
-                        "165"
+                        "39",
+                        "36",
+                        "33"
                     ],
                     [
-                        "165",
-                        "151",
-                        "138"
+                        "33",
+                        "30",
+                        "28"
                     ],
                     [
-                        "132",
-                        "121",
-                        "110"
+                        "26",
+                        "24",
+                        "21"
                     ]
                 ]
             }
@@ -758,10 +758,10 @@
             ],
             [
                 {
-                    "en": "1 x Two Bedroom (6 x person) plus 1 x Studios (2 x person)",
-                    "de": "1 x Zwei Schlafzimmer (6 x person) plus 1 x Studios (2 x person)",
-                    "fr": "1 x Deux chambres (6 x person) plus 1 x Studios (2 x person)",
-                    "id": "1 x Dua Kamar Tidur (6 x person) plus 1 x Studio (2 x person)"
+                    "en": "1 x Two Bedroom (6 x person)",
+                    "de": "1 x Zwei Schlafzimmer (6 x person)",
+                    "fr": "1 x Deux chambres (6 x person)",
+                    "id": "1 x Dua Kamar Tidur (6 x person)"
                 },
                 {
                     "en": "OR 1 x One Bedroom (4 x person) plus 1 x Studios (2 x person)",
@@ -778,10 +778,10 @@
             ],
             [
                 {
-                    "en": "1 x One Bedroom (1 x person)",
-                    "de": "1 x Ein Schlafzimmer (1 x person)",
-                    "fr": "1 x Une chambre (1 x person)",
-                    "id": "1 x Satu Kamar Tidur (1 x person)"
+                    "en": "1 x One Bedroom (4 x person)",
+                    "de": "1 x Ein Schlafzimmer (4 x person)",
+                    "fr": "1 x Une chambre (4 x person)",
+                    "id": "1 x Satu Kamar Tidur (4 x person)"
                 },
                 {
                     "en": "OR 2 x Studios (2 x person)",
@@ -1313,7 +1313,7 @@
                     ],
                     [
                         "28",
-                        "36",
+                        "26",
                         "24"
                     ],
                     [
