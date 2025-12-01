@@ -1,5 +1,6 @@
 import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:pitchbook/constants/app_data.dart';
 import 'package:pitchbook/constants/loading_component.dart';
 import 'package:video_player/video_player.dart';
@@ -18,6 +19,7 @@ class _CustomVideoPlayerState extends State<CustomVideoPlayer> {
   bool _isMuted = false;
   bool _isPlaying = true;
   bool _isControllerInitialized = false;
+  bool isFullScreen = false;
 
   @override
   void initState() {
@@ -78,109 +80,176 @@ class _CustomVideoPlayerState extends State<CustomVideoPlayer> {
     super.dispose();
   }
 
+  void toggleFullScreen() async{
+    setState(() {
+      isFullScreen = !isFullScreen;
+    });
+
+    if (isFullScreen) {
+      // ENTER FULLSCREEN WITHOUT NAVIGATION
+      SystemChrome.setEnabledSystemUIMode(SystemUiMode.immersiveSticky);
+
+      await SystemChrome.setPreferredOrientations([
+        DeviceOrientation.landscapeLeft,
+        DeviceOrientation.landscapeRight,
+      ]);
+
+      setState(() {
+        isFullScreen = true;
+      });
+    } else {
+      print("=====isFullScreen else");
+      SystemChrome.setEnabledSystemUIMode(SystemUiMode.edgeToEdge);
+      SystemChrome.setPreferredOrientations([
+        DeviceOrientation.portraitUp,
+      ]);
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
-    return Center(
-      child:
-      // _controller.value.isInitialized
-      _isControllerInitialized
+    return isFullScreen
+        ? Scaffold(
+      backgroundColor: Colors.black,
+      body: Center(
+        child: Stack(
+          children: [
+            Center(
+              child: AspectRatio(
+                aspectRatio: _controller.value.aspectRatio,
+                child: VideoPlayer(_controller),
+              ),
+            ),
+
+            // FULLSCREEN BOTTOM CONTROLS
+            Positioned(
+              bottom: 10,
+              left: 2,
+              right: 2,
+              child: _buildControls(),
+            ),
+          ],
+        ),
+      ),
+    )
+        : Center(
+      child: _isControllerInitialized
           ? Stack(
-              children: [
-                AspectRatio(
-                  aspectRatio: _controller.value.aspectRatio,
-                  child: VideoPlayer(_controller),
-                ),
-                Positioned(
-                  bottom: 0,
-                  left: 0,
-                  right: 0,
-                  child: Container(
-                    padding: const EdgeInsets.symmetric(horizontal: 20),
-                    height: 40,
-                    decoration: const BoxDecoration(
-                      color: Color.fromARGB(200, 0, 0, 0),
-                      borderRadius: BorderRadius.only(
-                        bottomLeft: Radius.circular(10),
-                        bottomRight: Radius.circular(10),
-                      ),
-                    ),
-                    child: Row(
-                      children: [
-                        ValueListenableBuilder(
-                          valueListenable: _controller,
-                          builder: (context, VideoPlayerValue value, child) {
-                            final hours = value.position.inHours
-                                .toString()
-                                .padLeft(2, '0');
-                            final minutes = (value.position.inMinutes % 60)
-                                .toString()
-                                .padLeft(2, '0');
-                            final seconds = value.position.inSeconds
-                                .remainder(60)
-                                .toString()
-                                .padLeft(2, '0');
-                            return Text(
-                              '$hours:$minutes:$seconds',
-                              style: const TextStyle(color: Colors.white),
-                            );
-                          },
-                        ),
-                        IconButton(
-                          icon: Icon(
-                            _isPlaying ? Icons.pause : Icons.play_arrow,
-                            color: Colors.white,
-                          ),
-                          onPressed: () {
-                            setState(() {
-                              if (_controller.value.isPlaying) {
-                                _controller.pause();
-                              } else {
-                                _controller.play();
-                              }
-                            });
-                          },
-                        ),
-                        Expanded(
-                          child: Center(
-                            child: Transform.translate(
-                              offset: const Offset(0, -10),
-                              child: VideoProgressIndicator(
-                                _controller,
-                                padding: const EdgeInsets.only(top: 20),
-                                allowScrubbing: true,
-                                colors: const VideoProgressColors(
-                                  playedColor: AppColors.primary,
-                                  bufferedColor: AppColors.light,
-                                  backgroundColor:
-                                      Color.fromARGB(255, 255, 255, 255),
-                                ),
-                              ),
-                            ),
-                          ),
-                        ),
-                        IconButton(
-                          icon: Icon(
-                            _isMuted ? Icons.volume_off : Icons.volume_up,
-                            color: Colors.white,
-                          ),
-                          onPressed: () {
-                            setState(() {
-                              _isMuted = !_isMuted;
-                              _controller.setVolume(_isMuted ? 0 : 1);
-                            });
-                          },
-                        ),
-                        Text(
-                          '${_controller.value.duration.inHours.toString().padLeft(2, '0')}:${(_controller.value.duration.inMinutes % 60).toString().padLeft(2, '0')}:${_controller.value.duration.inSeconds.remainder(60).toString().padLeft(2, '0')}',
-                          style: const TextStyle(color: Colors.white),
-                        ),
-                      ],
-                    ),
-                  ),
-                ),
-              ],
-            )
+        children: [
+          AspectRatio(
+            aspectRatio: _controller.value.aspectRatio,
+            child: VideoPlayer(_controller),
+          ),
+
+         //All Video Controls
+          Positioned(
+            bottom: 0,
+            left: 0,
+            right: 0,
+            child: _buildControls(),
+          ),
+        ],
+      )
           : const LoadingComponent(),
     );
+
   }
+
+  Widget _buildControls() {
+    return Container(
+      padding: const EdgeInsets.symmetric(horizontal: 20),
+      height: 40,
+      decoration: const BoxDecoration(
+        color: Color.fromARGB(200, 0, 0, 0),
+        borderRadius: BorderRadius.only(
+          bottomLeft: Radius.circular(10),
+          bottomRight: Radius.circular(10),
+        ),
+      ),
+      child: Row(
+        children: [
+          ValueListenableBuilder(
+            valueListenable: _controller,
+            builder: (context, VideoPlayerValue value, child) {
+              final hours = value.position.inHours.toString().padLeft(2, '0');
+              final minutes = (value.position.inMinutes % 60)
+                  .toString()
+                  .padLeft(2, '0');
+              final seconds =
+              value.position.inSeconds.remainder(60).toString().padLeft(2, '0');
+
+              return Text(
+                '$hours:$minutes:$seconds',
+                style: const TextStyle(color: Colors.white),
+              );
+            },
+          ),
+
+          IconButton(
+            icon: Icon(
+              _isPlaying ? Icons.pause : Icons.play_arrow,
+              color: Colors.white,
+            ),
+            onPressed: () {
+              setState(() {
+                if (_controller.value.isPlaying) {
+                  _controller.pause();
+                } else {
+                  _controller.play();
+                }
+              });
+            },
+          ),
+
+          Expanded(
+            child: Center(
+              child: Transform.translate(
+                offset: const Offset(0, -10),
+                child: VideoProgressIndicator(
+                  _controller,
+                  padding: const EdgeInsets.only(top: 20),
+                  allowScrubbing: true,
+                  colors: const VideoProgressColors(
+                    playedColor: AppColors.primary,
+                    bufferedColor: AppColors.light,
+                    backgroundColor: Colors.white,
+                  ),
+                ),
+              ),
+            ),
+          ),
+
+          IconButton(
+            icon: Icon(
+              _isMuted ? Icons.volume_off : Icons.volume_up,
+              color: Colors.white,
+            ),
+            onPressed: () {
+              setState(() {
+                _isMuted = !_isMuted;
+                _controller.setVolume(_isMuted ? 0 : 1);
+              });
+            },
+          ),
+
+          Text(
+            '${_controller.value.duration.inHours.toString().padLeft(2, '0')}:${(_controller.value.duration.inMinutes % 60).toString().padLeft(2, '0')}:${_controller.value.duration.inSeconds.remainder(60).toString().padLeft(2, '0')}',
+            style: const TextStyle(color: Colors.white),
+          ),
+
+          IconButton(
+            icon: Icon(
+              isFullScreen ? Icons.fullscreen_exit : Icons.fullscreen,
+              color: Colors.white,
+              size: 30,
+            ),
+            onPressed: toggleFullScreen,
+          ),
+        ],
+      ),
+    );
+  }
+
 }
+
+

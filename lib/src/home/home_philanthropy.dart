@@ -25,7 +25,7 @@ class HomePhilanthropyWidget extends StatelessWidget {
       decoration: BoxDecoration(
         image: DecorationImage(
           image: NetworkImage('${AppAPI.baseUrlGcp}${data["stat_image"]}'),
-          fit: BoxFit.cover,
+          fit: BoxFit.contain,
         ),
       ),
       child: FadeInAnimation(
@@ -37,15 +37,15 @@ class HomePhilanthropyWidget extends StatelessWidget {
               textStyle: const TextStyle(color: AppColors.white),
               isSerif: true,
             ),
-            const SizedBox(height: 25),
+             SizedBox(height: size.height * 0.021),
             CustomText(
               label: data["subTitle"][lang],
-              type: 'h7',
+              type: 'md',
               textStyle: const TextStyle(
                   color: AppColors.white, fontWeight: FontWeight.w500),
               textAlign: TextAlign.center,
             ),
-            const SizedBox(height: 40),
+            SizedBox(height: size.height * 0.05),
             IntrinsicHeight(
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.center,
@@ -63,7 +63,7 @@ class HomePhilanthropyWidget extends StatelessWidget {
                         label: data["stat"]["stat1"]["title"][lang],
                         step: 1,
                         numberStyle: TextStyle(
-                          fontSize: TextSize.h1,
+                          fontSize: TextSize.xsm,
                           color: AppColors.white,
                           fontFamily: 'Playfair',
                         ),
@@ -74,11 +74,14 @@ class HomePhilanthropyWidget extends StatelessWidget {
                       ),
                     ),
                   ),
-                  const VerticalDivider(
-                    width: 100,
-                    thickness: 1,
-                    indent: 10,
-                    color: AppColors.white,
+                  const Padding(
+                    padding: EdgeInsets.all(6.0),
+                    child: VerticalDivider(
+                      width: 130,
+                      thickness: 0.5,
+                      indent: 10,
+                      color: AppColors.white,
+                    ),
                   ),
                   Flexible(
                     child: VisibilityDetector(
@@ -93,7 +96,7 @@ class HomePhilanthropyWidget extends StatelessWidget {
                         label: data["stat"]["stat2"]["title"][lang],
                         step: 1,
                         numberStyle: TextStyle(
-                          fontSize: TextSize.h1,
+                          fontSize: TextSize.xsm,
                           color: AppColors.white,
                           fontFamily: 'Playfair',
                         ),
@@ -104,11 +107,14 @@ class HomePhilanthropyWidget extends StatelessWidget {
                       ),
                     ),
                   ),
-                  const VerticalDivider(
-                    width: 100,
-                    thickness: 1,
-                    indent: 10,
-                    color: AppColors.white,
+                  const Padding(
+                    padding: EdgeInsets.all(6.0),
+                    child: VerticalDivider(
+                      width: 130,
+                      thickness: 0.5,
+                      indent: 10,
+                      color: AppColors.white,
+                    ),
                   ),
                   Flexible(
                     child: VisibilityDetector(
@@ -123,7 +129,7 @@ class HomePhilanthropyWidget extends StatelessWidget {
                         label: data["stat"]["stat3"]["title"][lang],
                         step: 1,
                         numberStyle: TextStyle(
-                          fontSize: TextSize.h1,
+                          fontSize: TextSize.xsm,
                           color: AppColors.white,
                           fontFamily: 'Playfair',
                         ),

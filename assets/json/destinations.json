@@ -34,6 +34,12 @@
         "fr": "Vidéos de destination",
         "id": "Video Tujuan"
       },
+      "Destination Video": {
+        "en": "Destination Video",
+        "de": "Zielvideo",
+        "fr": "Vidéo de destination",
+        "id": "Video Tujuan"
+      },
       "Virtual Experience": {
         "en": "Virtual Experience",
         "de": "Virtuelles Erlebnis",
@@ -2485,7 +2491,8 @@
                     "assets/images/destinations/south_east asia/vietnam/karma_song_hoai-hoi_an/gallery_12.jpg",
                     "assets/images/destinations/south_east asia/vietnam/karma_song_hoai-hoi_an/gallery_13.jpg",
                     "assets/images/destinations/south_east asia/vietnam/karma_song_hoai-hoi_an/gallery_14.jpg",
-                    "assets/images/destinations/south_east asia/vietnam/karma_song_hoai-hoi_an/gallery_15.jpg"
+                    "assets/images/destinations/south_east asia/vietnam/karma_song_hoai-hoi_an/gallery_15.jpg",
+                    "assets/images/destinations/south_east asia/vietnam/karma_song_hoai-hoi_an/gallery_16.jpg"
                   ],
                   "videos": [
                     {
@@ -2707,8 +2714,8 @@
               "id": "Goa"
             },
             "image": "assets/images/destinations/india/goa.png",
-            "thumbGallery": "assets/images/destinations/india/gallery.png",
-            "thumbVideo": "assets/images/destinations/india/destination_videos.png",
+            "thumbGallery": "assets/images/destinations/india/goa/gallery.png",
+            "thumbVideo": "assets/images/destinations/india/goa/destination_videos.png",
             "thumbVe": "assets/images/destinations/virtual_experience.jpg",
             "properties": [
               {
@@ -2727,12 +2734,13 @@
                   "id": "Karma Royal Haathi Mahal, sebuah Hotel Cavelossim di Goa, hanya berjarak tujuh menit dari Pantai Cavelossim. Resor ini menawarkan relaksasi dengan bar kolam renang, Pub Inggris, perawatan spa khas Karma, pusat aktivitas yang menyenangkan, bersantap di Restoran Casa Lisboa, dan masih banyak lagi. Jelajahi salah satu kawasan paling semarak dan ramah di India, tepat di luar resor."
                 },
                 "guestExp": "assets/doc/guest-exp/Karma_Haathi_Mahal_Destinations.pdf",
-                "media": {
+                  "media": {
                   "gallery": [
                     "assets/images/destinations/india/goa/karma_royal_haathi_mahal/gallery_01.jpg",
                     "assets/images/destinations/india/goa/karma_royal_haathi_mahal/gallery_02.jpg",
                     "assets/images/destinations/india/goa/karma_royal_haathi_mahal/gallery_03.jpg",
                     "assets/images/destinations/india/goa/karma_royal_haathi_mahal/gallery_04.jpg",
+                    "assets/images/destinations/india/goa/karma_royal_haathi_mahal/gallery_14.jpg",
                     "assets/images/destinations/india/goa/karma_royal_haathi_mahal/gallery_05.jpg",
                     "assets/images/destinations/india/goa/karma_royal_haathi_mahal/gallery_06.jpg",
                     "assets/images/destinations/india/goa/karma_royal_haathi_mahal/gallery_07.jpg",
@@ -2742,8 +2750,9 @@
                     "assets/images/destinations/india/goa/karma_royal_haathi_mahal/gallery_11.jpg",
                     "assets/images/destinations/india/goa/karma_royal_haathi_mahal/gallery_12.jpg",
                     "assets/images/destinations/india/goa/karma_royal_haathi_mahal/gallery_13.jpg",
-                    "assets/images/destinations/india/goa/karma_royal_haathi_mahal/gallery_14.jpg",
-                    "assets/images/destinations/india/goa/karma_royal_haathi_mahal/gallery_15.jpg"
+                    "assets/images/destinations/india/goa/karma_royal_haathi_mahal/gallery_15.jpg",
+                    "assets/images/destinations/india/goa/karma_royal_haathi_mahal/gallery_16.jpg",
+                    "assets/images/destinations/india/goa/karma_royal_haathi_mahal/gallery_17.jpg"
                   ],
                   "videos": [
                     {
@@ -2760,44 +2769,57 @@
                   "accommodation": [
                     {
                       "category": {
-                        "en": "Hotel Unit Deluxe",
-                        "de": "Hoteleinheit Deluxe",
-                        "fr": "Unité hôtelière de luxe",
-                        "id": "Hotel Unit Deluxe"
+                        "en": "Studio Deluxe Apartment",
+                        "de": "Studio Deluxe Apartment",
+                        "fr": "Studio Deluxe Appartement",
+                        "id": "Apartemen Studio Deluxe"
                       },
                       "images": [
-                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/hotel_unit_deluxe_01.jpg",
-                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/hotel_unit_deluxe_02.jpg",
-                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/hotel_unit_deluxe_03.jpg",
-                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/hotel_unit_deluxe_04.jpg"
+                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/Studio_Deluxe_1.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/Studio_Deluxe_2.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/Studio_Deluxe_3.jpg"
                       ]
                     },
                     {
                       "category": {
-                        "en": "Hotel Unit Standard",
-                        "de": "Hoteleinheit Standard",
-                        "fr": "Unité hôtelière Standard",
-                        "id": "Standar Unit Hotel"
+                        "en": "Studio Deluxe Apartment for Three",
+                        "de": "Studio Deluxe Apartment für drei Personen",
+                        "fr": "Studio de luxe pour trois personnes",
+                        "id": "Apartemen Studio Deluxe untuk Tiga Orang"
                       },
                       "images": [
-                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/hotel_unit_standard_01.jpg",
-                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/hotel_unit_standard_02.jpg",
-                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/hotel_unit_standard_03.jpg",
-                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/hotel_unit_standard_04.jpg"
+                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/StudioforThree01.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/StudioforThree02.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/StudioforThree03.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/StudioforThree04.jpg"
                       ]
                     },
                     {
                       "category": {
-                        "en": "One Bedroom Combination",
-                        "de": "Kombination aus einem Schlafzimmer",
-                        "fr": "Combinaison d’une chambre",
-                        "id": "Kombinasi Satu Kamar Tidur"
+                        "en": "One Bedroom Deluxe Apartment",
+                        "de": "Deluxe-Apartment mit einem Schlafzimmer",
+                        "fr": "Appartement de luxe à une chambre",
+                        "id": "Apartemen Deluxe Satu Kamar Tidur"
                       },
                       "images": [
-                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/one_bedroom_combination_01.jpg",
-                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/one_bedroom_combination_02.jpg",
-                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/one_bedroom_combination_03.jpg",
-                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/one_bedroom_combination_04.jpg"
+                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/One_Bedroom_1.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/One_Bedroom_2.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/One_Bedroom_3.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/One_Bedroom_4.jpg"
+                      ]
+                    },
+                    {
+                      "category": {
+                        "en": "Two Bedroom Deluxe Apartment",
+                        "de": "Deluxe-Apartment mit zwei Schlafzimmern",
+                        "fr": "Appartement de luxe deux chambres",
+                        "id": "Apartemen Deluxe Dua Kamar Tidur"
+                      },
+                      "images": [
+                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/Two_Bedroom_1.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/Two_Bedroom_2.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/Two_Bedroom_3.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/Two_Bedroom_4.jpg"
                       ]
                     }
                   ],
@@ -2902,6 +2924,36 @@
                       "images": [
                         "assets/images/destinations/india/goa/karma_royal_haathi_mahal/three_monkeys_club_01.jpg",
                         "assets/images/destinations/india/goa/karma_royal_haathi_mahal/three_monkeys_club_02.jpg"
+                      ]
+                    },
+                    {
+                      "category": {
+                        "en": "Members’ Lounge",
+                        "de": "Mitgliederlounge",
+                        "fr": "Salon des membres",
+                        "id": "Ruang Anggota"
+                      },
+                      "title": "",
+                      "description": "",
+                      "images": [
+                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/Members_Lounge_1.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/Members_Lounge_2.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/Members_Lounge_3.jpg"
+                      ]
+                    },
+                    {
+                      "category": {
+                        "en": "Lobby Snack Bar",
+                        "de": "Lobby-Snackbar",
+                        "fr": "Snack-bar du hall",
+                        "id": "Bar Makanan Ringan Lobi"
+                      },
+                      "title": "",
+                      "description": "",
+                      "images": [
+                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/Lobby_1.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/Lobby_2.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_haathi_mahal/Lobby_3.jpg"
                       ]
                     },
                     {
@@ -3060,9 +3112,7 @@
                     "assets/images/destinations/india/goa/karma_royal_palms/gallery_07.jpg",
                     "assets/images/destinations/india/goa/karma_royal_palms/gallery_08.jpg",
                     "assets/images/destinations/india/goa/karma_royal_palms/gallery_09.jpg",
-                    "assets/images/destinations/india/goa/karma_royal_palms/gallery_10.jpg",
-                    "assets/images/destinations/india/goa/karma_royal_palms/gallery_11.jpg",
-                    "assets/images/destinations/india/goa/karma_royal_palms/gallery_12.jpg"
+                    "assets/images/destinations/india/goa/karma_royal_palms/gallery_10.jpg"
                   ],
                   "videos": [
                     {
@@ -3079,55 +3129,40 @@
                   "accommodation": [
                     {
                       "category": {
-                        "en": "Standard Apartment - Studio",
-                        "de": "Standard Apartment - Studio",
-                        "fr": "Appartement Standard - Studio ",
-                        "id": "Apartemen Standar - Studio"
+                        "en": "Studio",
+                        "de": "Studio",
+                        "fr": "Studio ",
+                        "id": "Studio"
                       },
                       "images": [
                         "assets/images/destinations/india/goa/karma_royal_palms/standard_apartment_studio_01.jpg",
-                        "assets/images/destinations/india/goa/karma_royal_palms/standard_apartment_studio_02.jpg"
+                        "assets/images/destinations/india/goa/karma_royal_palms/standard_apartment_studio_02.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_palms/studio_03.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_palms/studio_04.jpg"
                       ]
                     },
                     {
                       "category": {
-                        "en": "Standard Apartment - One Bedroom Unit",
-                        "de": "Standard Apartment - Einheit mit einem Schlafzimmer",
-                        "fr": "Appartement Standard - Unité d’une chambre",
-                        "id": "Apartemen Standar - Unit Satu Kamar Tidur"
+                        "en": "One Bedroom Unit",
+                        "de": "Einheit mit einem Schlafzimmer",
+                        "fr": "Unité d’une chambre",
+                        "id": "Unit Satu Kamar Tidur"
                       },
                       "images": [
-                        "assets/images/destinations/india/goa/karma_royal_palms/standard_apartment_one_bedroom_unit_01.jpg",
-                        "assets/images/destinations/india/goa/karma_royal_palms/standard_apartment_one_bedroom_unit_02.jpg",
-                        "assets/images/destinations/india/goa/karma_royal_palms/standard_apartment_one_bedroom_unit_03.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_palms/one_bedroom_unit_01.jpg",
                         "assets/images/destinations/india/goa/karma_royal_palms/standard_apartment_one_bedroom_unit_04.jpg",
-                        "assets/images/destinations/india/goa/karma_royal_palms/standard_apartment_one_bedroom_unit_05.jpg"
+                        "assets/images/destinations/india/goa/karma_royal_palms/standard_apartment_one_bedroom_unit_03.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_palms/standard_apartment_one_bedroom_unit_01.jpg"
                       ]
                     },
                     {
                       "category": {
-                        "en": "Standard Apartment - Two Bedroom Combination",
-                        "de": "Standard Apartment - Kombination mit zwei Schlafzimmern",
-                        "fr": "Appartement Standard - Combinaison de deux chambres",
-                        "id": "Apartemen Standar - Kombinasi Dua Kamar Tidur"
+                        "en": "Imperial Apartment",
+                        "de": "Kaiserliche Wohnung",
+                        "fr": "Appartement impérial",
+                        "id": "Apartemen Kekaisaran"
                       },
                       "images": [
-                        "assets/images/destinations/india/goa/karma_royal_palms/standard_apartment_two_bedroom_combination_01.jpg",
-                        "assets/images/destinations/india/goa/karma_royal_palms/standard_apartment_two_bedroom_combination_02.jpg",
-                        "assets/images/destinations/india/goa/karma_royal_palms/standard_apartment_two_bedroom_combination_03.jpg",
-                        "assets/images/destinations/india/goa/karma_royal_palms/standard_apartment_two_bedroom_combination_04.jpg",
-                        "assets/images/destinations/india/goa/karma_royal_palms/standard_apartment_two_bedroom_combination_05.jpg"
-                      ]
-                    },
-                    {
-                      "category": {
-                        "en": "Two Bedroom Imperial Apartment",
-                        "de": "Imperial Apartment mit zwei Schlafzimmern",
-                        "fr": "Appartement impérial de deux chambres",
-                        "id": "Apartemen Imperial Dua Kamar Tidur"
-                      },
-                      "images": [
-                        "assets/images/destinations/india/goa/karma_royal_palms/two_bedroom_imperial_apartment_01.jpg",
                         "assets/images/destinations/india/goa/karma_royal_palms/two_bedroom_imperial_apartment_02.jpg",
                         "assets/images/destinations/india/goa/karma_royal_palms/two_bedroom_imperial_apartment_03.jpg",
                         "assets/images/destinations/india/goa/karma_royal_palms/two_bedroom_imperial_apartment_04.jpg",
@@ -3406,7 +3441,9 @@
                         "assets/images/destinations/india/goa/karma_royale_montrio/2_bedroom_apartment_02.jpg",
                         "assets/images/destinations/india/goa/karma_royale_montrio/2_bedroom_apartment_03.jpg",
                         "assets/images/destinations/india/goa/karma_royale_montrio/2_bedroom_apartment_04.jpg",
-                        "assets/images/destinations/india/goa/karma_royale_montrio/2_bedroom_apartment_05.jpg"
+                        "assets/images/destinations/india/goa/karma_royale_montrio/2_bedroom_apartment_05.jpg",
+                        "assets/images/destinations/india/goa/karma_royale_montrio/2_bedroom_apartment_06.jpg",
+                        "assets/images/destinations/india/goa/karma_royale_montrio/2_bedroom_apartment_07.jpg"
                       ]
                     }
                   ],
@@ -3460,10 +3497,25 @@
                     },
                     {
                       "category": {
-                        "en": "Games Area",
-                        "de": "Spielbereich",
-                        "fr": "Aire de jeux",
-                        "id": "Area Permainan"
+                        "en": "Members’ Lounge",
+                        "de": "Mitgliederlounge",
+                        "fr": "Salon des membres",
+                        "id": "Ruang Anggota"
+                      },
+                      "title": "",
+                      "description": "",
+                      "images": [
+                        "assets/images/destinations/india/goa/karma_royale_montrio/tour_desk_01.jpg",
+                        "assets/images/destinations/india/goa/karma_royale_montrio/tour_desk_02.jpg",
+                        "assets/images/destinations/india/goa/karma_royale_montrio/tour_desk_03.jpg"
+                      ]
+                    },
+                    {
+                      "category": {
+                        "en": "Activities Area and Three Monkeys Club",
+                        "de": "Aktivitätenbereich und Three Monkeys Club",
+                        "fr": "Espace d'activités et Club des Trois Singes",
+                        "id": "Area Aktivitas dan Klub Tiga Monyet"
                       },
                       "title": "",
                       "description": "",
@@ -3475,17 +3527,17 @@
                     },
                     {
                       "category": {
-                        "en": "Tour Desk",
-                        "de": "Tourenschalter",
-                        "fr": "Bureau d’excursions",
-                        "id": "Meja Tur"
+                        "en": "The Cafe",
+                        "de": "Das Café",
+                        "fr": "Le Café",
+                        "id": "Kafe"
                       },
                       "title": "",
                       "description": "",
                       "images": [
-                        "assets/images/destinations/india/goa/karma_royale_montrio/tour_desk_01.jpg",
-                        "assets/images/destinations/india/goa/karma_royale_montrio/tour_desk_02.jpg",
-                        "assets/images/destinations/india/goa/karma_royale_montrio/tour_desk_03.jpg"
+                        "assets/images/destinations/india/goa/karma_royale_montrio/Cafe_1.jpg",
+                        "assets/images/destinations/india/goa/karma_royale_montrio/Cafe_2.jpg",
+                        "assets/images/destinations/india/goa/karma_royale_montrio/Cafe_3.jpg"
                       ]
                     }
                   ],
@@ -3563,8 +3615,8 @@
               "id": "Bangalore"
             },
             "image": "assets/images/destinations/india/bangalore.png",
-            "thumbGallery": "assets/images/destinations/gallery.jpg",
-            "thumbVideo": "assets/images/destinations/destination_videos.jpg",
+            "thumbGallery": "assets/images/destinations/india/banglore/gallery.png",
+            "thumbVideo": "assets/images/destinations/india/banglore/destination_videos.png",
             "thumbVe": "assets/images/destinations/virtual_experience.jpg",
             "properties": [
               {
@@ -3609,14 +3661,15 @@
                   "accommodation": [
                     {
                       "category": {
-                        "en": "Hotel Unit Double",
-                        "de": "Hoteleinheit Doppelzimmer",
-                        "fr": "Unité hôtelière Double",
-                        "id": "Hotel Unit Double"
+                        "en": "Wooden Cabins",
+                        "de": "Holzhütten",
+                        "fr": "Cabanes en bois",
+                        "id": "Kabin Kayu"
                       },
                       "images": [
-                        "assets/images/destinations/india/banglore/karma_sunshine_vilage/hotel_unit_double_01.jpg",
-                        "assets/images/destinations/india/banglore/karma_sunshine_vilage/hotel_unit_double_02.jpg"
+                        "assets/images/destinations/india/banglore/karma_sunshine_vilage/Wooden_Cabins_1.jpg",
+                        "assets/images/destinations/india/banglore/karma_sunshine_vilage/Wooden_Cabins_2.jpg",
+                        "assets/images/destinations/india/banglore/karma_sunshine_vilage/Wooden_Cabins_3.jpg"
                       ]
                     }
                   ],
@@ -3755,8 +3808,8 @@
               "id": "Dharamshala"
             },
             "image": "assets/images/destinations/india/dharamshala.png",
-            "thumbGallery": "assets/images/destinations/gallery.jpg",
-            "thumbVideo": "assets/images/destinations/destination_videos.jpg",
+            "thumbGallery": "assets/images/destinations/india/dharmshala/gallery.png",
+            "thumbVideo": "assets/images/destinations/india/dharmshala/destination_videos.png",
             "thumbVe": "assets/images/destinations/virtual_experience.jpg",
             "properties": [
               {
@@ -3885,8 +3938,8 @@
               "id": "Jaipur"
             },
             "image": "assets/images/destinations/india/jaipur.png",
-            "thumbGallery": "assets/images/destinations/gallery.jpg",
-            "thumbVideo": "assets/images/destinations/destination_videos.jpg",
+            "thumbGallery": "assets/images/destinations/india/jaipur/gallery.png",
+            "thumbVideo": "assets/images/destinations/india/jaipur/destination_videos.png",
             "thumbVe": "assets/images/destinations/virtual_experience.jpg",
             "properties": [
               {
@@ -3965,8 +4018,7 @@
                         "assets/images/destinations/india/jaipur/karma_haveli/karma_kasuri_01.jpg",
                         "assets/images/destinations/india/jaipur/karma_haveli/karma_kasuri_02.jpg",
                         "assets/images/destinations/india/jaipur/karma_haveli/karma_kasuri_03.jpg",
-                        "assets/images/destinations/india/jaipur/karma_haveli/karma_kasuri_04.jpg",
-                        "assets/images/destinations/india/jaipur/karma_haveli/karma_kasuri_05.jpg"
+                        "assets/images/destinations/india/jaipur/karma_haveli/karma_kasuri_04.jpg"
                       ]
                     },
                     {
@@ -4124,8 +4176,8 @@
               "id": "Jaisalmer"
             },
             "image": "assets/images/destinations/india/jaisalmer.png",
-            "thumbGallery": "assets/images/destinations/gallery.jpg",
-            "thumbVideo": "assets/images/destinations/destination_videos.jpg",
+            "thumbGallery": "assets/images/destinations/india/jaisalmer/gallery.png",
+            "thumbVideo": "assets/images/destinations/india/jaisalmer/destination_videos.png",
             "thumbVe": "assets/images/destinations/virtual_experience.jpg",
             "properties": [
               {
@@ -4222,7 +4274,13 @@
                       "title": "",
                       "description": "",
                       "images": [
-                        "assets/images/destinations/india/jaisalmer/karma_gloden_camp/restaurant_01.jpg"
+                        "assets/images/destinations/india/jaisalmer/karma_gloden_camp/restaurant_01.jpg",
+                        "assets/images/destinations/india/jaisalmer/karma_gloden_camp/restaurant_02.jpg",
+                        "assets/images/destinations/india/jaisalmer/karma_gloden_camp/restaurant_03.jpg",
+                        "assets/images/destinations/india/jaisalmer/karma_gloden_camp/restaurant_04.jpg",
+                        "assets/images/destinations/india/jaisalmer/karma_gloden_camp/restaurant_05.jpg",
+                        "assets/images/destinations/india/jaisalmer/karma_gloden_camp/restaurant_06.jpg",
+                        "assets/images/destinations/india/jaisalmer/karma_gloden_camp/restaurant_07.jpg"
                       ]
                     },
                     {
@@ -4236,8 +4294,7 @@
                       "description": "",
                       "images": [
                         "assets/images/destinations/india/jaisalmer/karma_gloden_camp/terrace_star_gazing_deck_01.jpg",
-                        "assets/images/destinations/india/jaisalmer/karma_gloden_camp/terrace_star_gazing_deck_02.jpg",
-                        "assets/images/destinations/india/jaisalmer/karma_gloden_camp/terrace_star_gazing_deck_03.jpg"
+                        "assets/images/destinations/india/jaisalmer/karma_gloden_camp/terrace_star_gazing_deck_02.jpg"
                       ]
                     },
                     {
@@ -4250,7 +4307,9 @@
                       "title": "",
                       "description": "",
                       "images": [
-                        "assets/images/destinations/india/jaisalmer/karma_gloden_camp/activities_center_01.jpg"
+                        "assets/images/destinations/india/jaisalmer/karma_gloden_camp/activities_center_01.jpg",
+                        "assets/images/destinations/india/jaisalmer/karma_gloden_camp/activities_center_02.jpg",
+                        "assets/images/destinations/india/jaisalmer/karma_gloden_camp/activities_center_03.jpg"
                       ]
                     },
                     {
@@ -4263,7 +4322,10 @@
                       "title": "",
                       "description": "",
                       "images": [
-                        "assets/images/destinations/india/jaisalmer/karma_gloden_camp/private_gazebo_dining_01.jpg"
+                        "assets/images/destinations/india/jaisalmer/karma_gloden_camp/private_gazebo_dining_01.jpg",
+                        "assets/images/destinations/india/jaisalmer/karma_gloden_camp/private_gazebo_dining_02.jpg",
+                        "assets/images/destinations/india/jaisalmer/karma_gloden_camp/private_gazebo_dining_03.jpg",
+                        "assets/images/destinations/india/jaisalmer/karma_gloden_camp/private_gazebo_dining_04.jpg"
                       ]
                     },
                     {
@@ -4289,7 +4351,8 @@
                       "title": "",
                       "description": "",
                       "images": [
-                        "assets/images/destinations/india/jaisalmer/karma_gloden_camp/camel_rides_01.jpg"
+                        "assets/images/destinations/india/jaisalmer/karma_gloden_camp/camel_rides_01.jpg",
+                        "assets/images/destinations/india/jaisalmer/karma_gloden_camp/camel_rides_02.jpg"
                       ]
                     },
                     {
@@ -4315,7 +4378,8 @@
                       "title": "",
                       "description": "",
                       "images": [
-                        "assets/images/destinations/india/jaisalmer/karma_gloden_camp/quad_biking_01.jpg"
+                        "assets/images/destinations/india/jaisalmer/karma_gloden_camp/quad_biking_01.jpg",
+                        "assets/images/destinations/india/jaisalmer/karma_gloden_camp/quad_biking_02.jpg"
                       ]
                     },
                     {
@@ -4345,8 +4409,8 @@
               "id": "Udaipur"
             },
             "image": "assets/images/destinations/india/udaipur.png",
-            "thumbGallery": "assets/images/destinations/gallery.jpg",
-            "thumbVideo": "assets/images/destinations/destination_videos.jpg",
+            "thumbGallery": "assets/images/destinations/india/udaipur/gallery.png",
+            "thumbVideo": "assets/images/destinations/india/udaipur/destination_videos.png",
             "thumbVe": "assets/images/destinations/virtual_experience.jpg",
             "properties": [
               {
@@ -4375,10 +4439,7 @@
                     "assets/images/destinations/india/udaipur/karma_seven_lakes/gallery_06.jpg",
                     "assets/images/destinations/india/udaipur/karma_seven_lakes/gallery_07.jpg",
                     "assets/images/destinations/india/udaipur/karma_seven_lakes/gallery_08.jpg",
-                    "assets/images/destinations/india/udaipur/karma_seven_lakes/gallery_09.jpg",
-                    "assets/images/destinations/india/udaipur/karma_seven_lakes/gallery_10.jpg",
-                    "assets/images/destinations/india/udaipur/karma_seven_lakes/gallery_11.jpg",
-                    "assets/images/destinations/india/udaipur/karma_seven_lakes/gallery_12.jpg"
+                    "assets/images/destinations/india/udaipur/karma_seven_lakes/gallery_09.jpg"
                   ],
                   "videos": [
                     {
@@ -4395,27 +4456,26 @@
                   "accommodation": [
                     {
                       "category": {
-                        "en": "Hotel Unit Double",
-                        "de": "Hoteleinheit Doppelzimmer",
-                        "fr": "Unité hôtelière Double",
-                        "id": "Hotel Unit Double"
+                        "en": "Hotel Unit Sleeps 2",
+                        "de": "Hotelzimmer für 2 Personen",
+                        "fr": "Chambre d'hôtel pour 2 personnes",
+                        "id": "Unit Hotel Kapasitas 2 Orang"
                       },
                       "images": [
-                        "assets/images/destinations/india/udaipur/karma_seven_lakes/luxury_rooms_01.jpg",
-                        "assets/images/destinations/india/udaipur/karma_seven_lakes/luxury_rooms_02.jpg",
-                        "assets/images/destinations/india/udaipur/karma_seven_lakes/luxury_rooms_03.jpg"
+                        "assets/images/destinations/india/udaipur/karma_seven_lakes/Hotel Unit Sleeps 2_1.jpg",
+                        "assets/images/destinations/india/udaipur/karma_seven_lakes/Hotel Unit Sleeps 2_2.jpg",
+                        "assets/images/destinations/india/udaipur/karma_seven_lakes/Hotel Unit Sleeps 2_3.jpg"
                       ]
                     },
                     {
                       "category": {
-                        "en": "Hotel Unit Twin",
-                        "de": "Hoteleinheit mit zwei Einzelbetten",
-                        "fr": "Unité hôtelière Twin",
-                        "id": "Hotel Unit Twin"
+                        "en": "Luxury Rooms",
+                        "de": "Luxuszimmer",
+                        "fr": "Chambres de luxe",
+                        "id": "Kamar Mewah"
                       },
                       "images": [
-                        "assets/images/destinations/india/udaipur/karma_seven_lakes/hotel_unit_twin_01.jpg",
-                        "assets/images/destinations/india/udaipur/karma_seven_lakes/hotel_unit_twin_02.jpg"
+                        "assets/images/destinations/india/udaipur/karma_seven_lakes/Luxury Rooms_1.jpg"
                       ]
                     }
                   ],
@@ -4448,6 +4508,36 @@
                         "assets/images/destinations/india/udaipur/karma_seven_lakes/guest_activities_01.jpg",
                         "assets/images/destinations/india/udaipur/karma_seven_lakes/guest_activities_02.jpg"
                       ]
+                    },
+                    {
+                      "category": {
+                        "en": "The Lobby Cafe",
+                        "de": "Das Lobby-Café",
+                        "fr": "Le café du hall",
+                        "id": "Kafe Lobi"
+                      },
+                      "title": "",
+                      "description": "",
+                      "images": [
+                        "assets/images/destinations/india/udaipur/karma_seven_lakes/Lobby_Cafe_1.jpg",
+                        "assets/images/destinations/india/udaipur/karma_seven_lakes/Lobby_Cafe_2.jpg",
+                        "assets/images/destinations/india/udaipur/karma_seven_lakes/Lobby_Cafe_3.jpg"
+                      ]
+                    },
+                    {
+                      "category": {
+                        "en": "The Sunset Deck",
+                        "de": "Das Sonnenuntergangsdeck",
+                        "fr": "La terrasse du coucher de soleil",
+                        "id": "Dek Matahari Terbenam"
+                      },
+                      "title": "",
+                      "description": "",
+                      "images": [
+                        "assets/images/destinations/india/udaipur/karma_seven_lakes/SunsetDeck_1.jpg",
+                        "assets/images/destinations/india/udaipur/karma_seven_lakes/SunsetDeck_2.jpg",
+                        "assets/images/destinations/india/udaipur/karma_seven_lakes/SunsetDeck_3.jpg"
+                      ]
                     }
                   ],
                   "Guest Experiences": []
@@ -4463,8 +4553,8 @@
               "id": "Gangtok"
             },
             "image": "assets/images/destinations/india/gangtok.png",
-            "thumbGallery": "assets/images/destinations/gallery.jpg",
-            "thumbVideo": "assets/images/destinations/destination_videos.jpg",
+            "thumbGallery": "assets/images/destinations/india/gangtok/gallery.png",
+            "thumbVideo": "assets/images/destinations/india/gangtok/destination_videos.png",
             "thumbVe": "assets/images/destinations/virtual_experience.jpg",
             "properties": [
               {
@@ -4516,7 +4606,10 @@
                       "images": [
                         "assets/images/destinations/india/gangtok/karma_martam_retreat/hotel_units_01.jpg",
                         "assets/images/destinations/india/gangtok/karma_martam_retreat/hotel_units_02.jpg",
-                        "assets/images/destinations/india/gangtok/karma_martam_retreat/hotel_units_03.jpg"
+                        "assets/images/destinations/india/gangtok/karma_martam_retreat/hotel_units_03.jpg",
+                        "assets/images/destinations/india/gangtok/karma_martam_retreat/hotel_units_04.jpg",
+                        "assets/images/destinations/india/gangtok/karma_martam_retreat/hotel_units_05.jpg",
+                        "assets/images/destinations/india/gangtok/karma_martam_retreat/hotel_units_06.jpg"
                       ]
                     },
                     {
@@ -4528,19 +4621,11 @@
                       },
                       "images": [
                         "assets/images/destinations/india/gangtok/karma_martam_retreat/hotel_units_max_1child_01.jpg",
-                        "assets/images/destinations/india/gangtok/karma_martam_retreat/hotel_units_max_1child_02.jpg"
-                      ]
-                    },
-                    {
-                      "category": {
-                        "en": "Hotel Units For Four",
-                        "de": "Hoteleinheiten für vier Personen",
-                        "fr": "Unités hôtelières pour quatre personnes",
-                        "id": "Unit Hotel Untuk Empat Orang"
-                      },
-                      "images": [
-                        "assets/images/destinations/india/gangtok/karma_martam_retreat/hotel_unit_for_four_01.jpg",
-                        "assets/images/destinations/india/gangtok/karma_martam_retreat/hotel_unit_for_four_02.jpg"
+                        "assets/images/destinations/india/gangtok/karma_martam_retreat/hotel_units_max_1child_02.jpg",
+                        "assets/images/destinations/india/gangtok/karma_martam_retreat/hotel_units_max_1child_03.jpg",
+                        "assets/images/destinations/india/gangtok/karma_martam_retreat/hotel_units_max_1child_04.jpg",
+                        "assets/images/destinations/india/gangtok/karma_martam_retreat/hotel_units_max_1child_05.jpg"
+
                       ]
                     }
                   ],
@@ -4637,8 +4722,8 @@
               "id": "Uttarakhand"
             },
             "image": "assets/images/destinations/india/uttarakhand.png",
-            "thumbGallery": "assets/images/destinations/gallery.jpg",
-            "thumbVideo": "assets/images/destinations/destination_videos.jpg",
+            "thumbGallery": "assets/images/destinations/india/uttarakhand/gallery.png",
+            "thumbVideo": "assets/images/destinations/india/uttarakhand/destination_videos.png",
             "thumbVe": "assets/images/destinations/virtual_experience.jpg",
             "properties": [
               {
@@ -4795,8 +4880,8 @@
               "id": "Mahabaleshwar"
             },
             "image": "assets/images/destinations/india/mahabaleshwar.png",
-            "thumbGallery": "assets/images/destinations/gallery.jpg",
-            "thumbVideo": "assets/images/destinations/destination_videos.jpg",
+            "thumbGallery": "assets/images/destinations/india/mahableshwar/gallery.png",
+            "thumbVideo": "assets/images/destinations/india/mahableshwar/destination_videos.png",
             "thumbVe": "assets/images/destinations/virtual_experience.jpg",
             "properties": [
               {
@@ -4844,10 +4929,10 @@
                   "accommodation": [
                     {
                       "category": {
-                        "en": "Hotel Unit Sleeping 2+2 Kids",
-                        "de": "Hoteleinheit für 2+2 Kinder",
-                        "fr": "Unité hôtelière pour 2+2 enfants",
-                        "id": "Unit Hotel Tidur 2+2 Anak"
+                        "en": "Unit Type Sleeps 2+2 Kids",
+                        "de": "Unterkunftstyp: Schlafmöglichkeiten für 2 Personen + 2 Kinder",
+                        "fr": "Type d'unité : 2 couchages + 2 enfants",
+                        "id": "Tipe Unit Tidur 2+2 Anak"
                       },
                       "images": [
                         "assets/images/destinations/india/mahableshwar/karma_lakebood_mahableshwar/hotel_unit_sleeping_2+2_kids_01.jpg",
@@ -4920,8 +5005,8 @@
               "id": "Manali"
             },
             "image": "assets/images/destinations/india/manali.png",
-            "thumbGallery": "assets/images/destinations/gallery.jpg",
-            "thumbVideo": "assets/images/destinations/destination_videos.jpg",
+            "thumbGallery": "assets/images/destinations/india/manali/gallery.png",
+            "thumbVideo": "assets/images/destinations/india/manali/destination_videos.png",
             "thumbVe": "assets/images/destinations/virtual_experience.jpg",
             "properties": [
               {
@@ -5062,8 +5147,8 @@
               "id": "Kerala"
             },
             "image": "assets/images/destinations/india/kerala.png",
-            "thumbGallery": "assets/images/destinations/india/gallery.png",
-            "thumbVideo": "assets/images/destinations/india/destination_videos.png",
+            "thumbGallery": "assets/images/destinations/india/kerala/gallery.png",
+            "thumbVideo": "assets/images/destinations/india/kerala/destination_videos.png",
             "thumbVe": "assets/images/destinations/virtual_experience.jpg",
             "properties": [
               {
@@ -5092,13 +5177,7 @@
                     "assets/images/destinations/india/kerala/karma_munnar/gallery_06.jpg",
                     "assets/images/destinations/india/kerala/karma_munnar/gallery_07.jpg",
                     "assets/images/destinations/india/kerala/karma_munnar/gallery_08.jpg",
-                    "assets/images/destinations/india/kerala/karma_munnar/gallery_09.jpg",
-                    "assets/images/destinations/india/kerala/karma_munnar/gallery_10.jpg",
-                    "assets/images/destinations/india/kerala/karma_munnar/gallery_11.jpg",
-                    "assets/images/destinations/india/kerala/karma_munnar/gallery_12.jpg",
-                    "assets/images/destinations/india/kerala/karma_munnar/gallery_13.jpg",
-                    "assets/images/destinations/india/kerala/karma_munnar/gallery_14.jpg",
-                    "assets/images/destinations/india/kerala/karma_munnar/gallery_15.jpg"
+                    "assets/images/destinations/india/kerala/karma_munnar/gallery_09.jpg"
                   ],
                   "videos": [],
                   "ver_exp": []
@@ -5110,10 +5189,10 @@
                   "accommodation": [
                     {
                       "category": {
-                        "en": "Hotel Unit Double",
-                        "de": "Hoteleinheit Doppelzimmer",
-                        "fr": "Unité hôtelière Double",
-                        "id": "Hotel Unit Double"
+                        "en": "Hotel Unit",
+                        "de": "Hotelzimmer",
+                        "fr": "Unité d'hôtel",
+                        "id": "Unit Hotel"
                       },
                       "images": [
                         "assets/images/destinations/india/kerala/karma_munnar/hotel_unit_01.jpg",
@@ -5167,6 +5246,21 @@
                         "assets/images/destinations/india/kerala/karma_munnar/excursions_02.jpg",
                         "assets/images/destinations/india/kerala/karma_munnar/excursions_03.jpg",
                         "assets/images/destinations/india/kerala/karma_munnar/excursions_04.jpg"
+                      ]
+                    },
+                    {
+                      "category": {
+                        "en": "Restaurant",
+                        "de": "Restaurant",
+                        "fr": "Restaurant",
+                        "id": "Restoran"
+                      },
+                      "title": "",
+                      "description": "",
+                      "images": [
+                        "assets/images/destinations/india/kerala/karma_munnar/Restaurant_1.jpg",
+                        "assets/images/destinations/india/kerala/karma_munnar/Restaurant_2.jpg",
+                        "assets/images/destinations/india/kerala/karma_munnar/Restaurant_3.jpg"
                       ]
                     }
                   ],
@@ -5559,8 +5653,8 @@
               "id": "Lembah Evesham"
             },
             "image": "assets/images/destinations/uk/the_vale of evesham.jpg",
-            "thumbGallery": "assets/images/destinations/uk/gallery.png",
-            "thumbVideo": "assets/images/destinations/uk/destination_videos.png",
+            "thumbGallery": "assets/images/destinations/uk/Karma Salford Hall, The Vale of Evesham, UK/gallery.png",
+            "thumbVideo": "assets/images/destinations/uk/Karma Salford Hall, The Vale of Evesham, UK/destination_videos.png",
             "thumbVe": "assets/images/destinations/uk/virtual_experience.png",
             "properties": [
               {
@@ -5841,8 +5935,8 @@
               "id": "London"
             },
             "image": "assets/images/destinations/uk/london.jpg",
-            "thumbGallery": "assets/images/destinations/gallery.jpg",
-            "thumbVideo": "assets/images/destinations/destination_videos.jpg",
+            "thumbGallery": "assets/images/destinations/uk/Karma Sanctum Soho, London, UK/gallery.png",
+            "thumbVideo": "assets/images/destinations/uk/Karma Sanctum Soho, London, UK/destination_videos.png",
             "thumbVe": "assets/images/destinations/virtual_experience.jpg",
             "properties": [
               {
@@ -6106,8 +6200,8 @@
               "id": "Stirling"
             },
             "image": "assets/images/destinations/uk/stirling.jpg",
-            "thumbGallery": "assets/images/destinations/gallery.jpg",
-            "thumbVideo": "assets/images/destinations/destination_videos.jpg",
+            "thumbGallery": "assets/images/destinations/uk/Karma Lake of Menteith, Scotland/gallery.png",
+            "thumbVideo": "assets/images/destinations/uk/Karma Lake of Menteith, Scotland/destination_videos.png",
             "thumbVe": "assets/images/destinations/virtual_experience.jpg",
             "properties": [
               {
@@ -6169,23 +6263,6 @@
                     },
                     {
                       "category": {
-                        "en": "Heritage Room",
-                        "de": "Heritage-Zimmer",
-                        "fr": "Chambre Héritage",
-                        "id": "Ruang Warisan"
-                      },
-                      "images": [
-                        "assets/images/destinations/uk/Karma Lake of Menteith, Scotland/heritage_room_01.jpg",
-                        "assets/images/destinations/uk/Karma Lake of Menteith, Scotland/heritage_room_02.jpg",
-                        "assets/images/destinations/uk/Karma Lake of Menteith, Scotland/heritage_room_03.jpg",
-                        "assets/images/destinations/uk/Karma Lake of Menteith, Scotland/heritage_room_04.jpg",
-                        "assets/images/destinations/uk/Karma Lake of Menteith, Scotland/heritage_room_05.jpg",
-                        "assets/images/destinations/uk/Karma Lake of Menteith, Scotland/heritage_room_06.jpg",
-                        "assets/images/destinations/uk/Karma Lake of Menteith, Scotland/heritage_room_07.jpg"
-                      ]
-                    },
-                    {
-                      "category": {
                         "en": "Deluxe Room",
                         "de": "Deluxe-Zimmer",
                         "fr": "Chambre Deluxe",
@@ -6205,47 +6282,19 @@
                     },
                     {
                       "category": {
-                        "en": "Heritage Combinatio",
-                        "de": "Heritage Combinatio",
-                        "fr": "Combinatio Héritage",
-                        "id": "Warisan Combinatio"
+                        "en": "Heritage Room",
+                        "de": "Heritage-Zimmer",
+                        "fr": "Chambre Héritage",
+                        "id": "Ruang Warisan"
                       },
                       "images": [
-                        "assets/images/destinations/uk/Karma Lake of Menteith, Scotland/heritage_combination_01.jpg",
-                        "assets/images/destinations/uk/Karma Lake of Menteith, Scotland/heritage_combination_02.jpg",
-                        "assets/images/destinations/uk/Karma Lake of Menteith, Scotland/heritage_combination_03.jpg",
-                        "assets/images/destinations/uk/Karma Lake of Menteith, Scotland/heritage_combination_04.jpg",
-                        "assets/images/destinations/uk/Karma Lake of Menteith, Scotland/heritage_combination_05.jpg",
-                        "assets/images/destinations/uk/Karma Lake of Menteith, Scotland/heritage_combination_06.jpg"
-                      ]
-                    },
-                    {
-                      "category": {
-                        "en": "Superior Combination",
-                        "de": "Überlegene Kombination",
-                        "fr": "Combinaison supérieure",
-                        "id": "Kombinasi Superior"
-                      },
-                      "images": [
-                        "assets/images/destinations/uk/Karma Lake of Menteith, Scotland/superior_combination_01.jpg",
-                        "assets/images/destinations/uk/Karma Lake of Menteith, Scotland/superior_combination_02.jpg",
-                        "assets/images/destinations/uk/Karma Lake of Menteith, Scotland/superior_combination_03.jpg",
-                        "assets/images/destinations/uk/Karma Lake of Menteith, Scotland/superior_combination_04.jpg",
-                        "assets/images/destinations/uk/Karma Lake of Menteith, Scotland/superior_combination_05.jpg"
-                      ]
-                    },
-                    {
-                      "category": {
-                        "en": "2 Bedroom Heritage Combination",
-                        "de": "Heritage-Kombination mit 2 Schlafzimmern",
-                        "fr": "Combinaison Héritage 2 Chambres",
-                        "id": "Kombinasi Warisan 2 Kamar Tidur"
-                      },
-                      "images": [
-                        "assets/images/destinations/uk/Karma Lake of Menteith, Scotland/2_bedroom_heritage_combination_01.jpg",
-                        "assets/images/destinations/uk/Karma Lake of Menteith, Scotland/2_bedroom_heritage_combination_02.jpg",
-                        "assets/images/destinations/uk/Karma Lake of Menteith, Scotland/2_bedroom_heritage_combination_03.jpg",
-                        "assets/images/destinations/uk/Karma Lake of Menteith, Scotland/2_bedroom_heritage_combination_04.jpg"
+                        "assets/images/destinations/uk/Karma Lake of Menteith, Scotland/heritage_room_01.jpg",
+                        "assets/images/destinations/uk/Karma Lake of Menteith, Scotland/heritage_room_02.jpg",
+                        "assets/images/destinations/uk/Karma Lake of Menteith, Scotland/heritage_room_03.jpg",
+                        "assets/images/destinations/uk/Karma Lake of Menteith, Scotland/heritage_room_04.jpg",
+                        "assets/images/destinations/uk/Karma Lake of Menteith, Scotland/heritage_room_05.jpg",
+                        "assets/images/destinations/uk/Karma Lake of Menteith, Scotland/heritage_room_06.jpg",
+                        "assets/images/destinations/uk/Karma Lake of Menteith, Scotland/heritage_room_07.jpg"
                       ]
                     }
                   ],
@@ -6434,8 +6483,8 @@
               "id": "Kepulauan Scilly"
             },
             "image": "assets/images/destinations/uk/isles_of scilly.jpg",
-            "thumbGallery": "assets/images/destinations/uk/gallery.png",
-            "thumbVideo": "assets/images/destinations/uk/destination_videos.png",
+            "thumbGallery": "assets/images/destinations/uk/Karma St. Martin’s, Isles of Scilly, UK/gallery.png",
+            "thumbVideo": "assets/images/destinations/uk/Karma St. Martin’s, Isles of Scilly, UK/destination_videos.png",
             "thumbVe": "assets/images/destinations/uk/virtual_experience.png",
             "properties": [
               {
@@ -6495,7 +6544,8 @@
                       "images": [
                         "assets/images/destinations/uk/Karma St. Martin’s, Isles of Scilly, UK/deluxe_room_01.jpg",
                         "assets/images/destinations/uk/Karma St. Martin’s, Isles of Scilly, UK/deluxe_room_02.jpg",
-                        "assets/images/destinations/uk/Karma St. Martin’s, Isles of Scilly, UK/deluxe_room_03.jpg"
+                        "assets/images/destinations/uk/Karma St. Martin’s, Isles of Scilly, UK/deluxe_room_03.jpg",
+                        "assets/images/destinations/uk/Karma St. Martin’s, Isles of Scilly, UK/deluxe_room_04.jpg"
                       ]
                     },
                     {
@@ -6549,6 +6599,7 @@
                         "id": "Kamar Bulan Madu"
                       },
                       "images": [
+                        "assets/images/destinations/uk/Karma St. Martin’s, Isles of Scilly, UK/honeymoon_suite_06.jpg",
                         "assets/images/destinations/uk/Karma St. Martin’s, Isles of Scilly, UK/honeymoon_suite_01.jpg",
                         "assets/images/destinations/uk/Karma St. Martin’s, Isles of Scilly, UK/honeymoon_suite_02.jpg",
                         "assets/images/destinations/uk/Karma St. Martin’s, Isles of Scilly, UK/honeymoon_suite_03.jpg",
@@ -7089,7 +7140,13 @@
                     "assets/images/destinations/europe/france/le_preverger-st_tropez/gallery_07.jpg",
                     "assets/images/destinations/europe/france/le_preverger-st_tropez/gallery_08.jpg",
                     "assets/images/destinations/europe/france/le_preverger-st_tropez/gallery_09.jpg",
-                    "assets/images/destinations/europe/france/le_preverger-st_tropez/gallery_10.jpg"
+                    "assets/images/destinations/europe/france/le_preverger-st_tropez/gallery_10.jpg",
+                    "assets/images/destinations/europe/france/le_preverger-st_tropez/gallery_11.jpg",
+                    "assets/images/destinations/europe/france/le_preverger-st_tropez/gallery_12.jpg",
+                    "assets/images/destinations/europe/france/le_preverger-st_tropez/gallery_13.jpg",
+                    "assets/images/destinations/europe/france/le_preverger-st_tropez/gallery_14.jpg",
+                    "assets/images/destinations/europe/france/le_preverger-st_tropez/gallery_15.jpg",
+                    "assets/images/destinations/europe/france/le_preverger-st_tropez/gallery_16.jpg"
                   ],
                   "videos": [
                     {

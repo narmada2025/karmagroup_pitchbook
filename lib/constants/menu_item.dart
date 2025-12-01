@@ -10,6 +10,7 @@ class MenuItem extends StatelessWidget {
   final VoidCallback? onTap;
   final bool isShortPath;
   final bool showPath;
+  final bool isChangeColor;
 
   const MenuItem({
     super.key,
@@ -19,6 +20,7 @@ class MenuItem extends StatelessWidget {
     this.onTap,
     this.isShortPath = false,
     this.showPath = true,
+    this.isChangeColor = false,
   });
 
   @override
@@ -34,6 +36,7 @@ class MenuItem extends StatelessWidget {
                   ? AppIcons.menuShortPathIcon
                   : AppIcons.menuLongPathIcon,
               width: isShortPath ? 38 : 38,
+              color: AppColors.strokeColor,
               fit: BoxFit.contain,
               alignment: Alignment.topCenter,
               semanticsLabel: 'path',
@@ -50,6 +53,7 @@ class MenuItem extends StatelessWidget {
           label: label,
           svgPath: svgPath,
           size: btnSize,
+          isChangeColor: isChangeColor,
         ),
       ],
     );

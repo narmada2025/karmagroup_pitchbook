@@ -21,7 +21,7 @@ class HomeAwardsWidget extends StatelessWidget {
 
     return Container(
       width: size.width,
-      padding: const EdgeInsets.all(80),
+      padding: const EdgeInsets.symmetric(vertical: 50),
       color: AppColors.black,
       child: Column(
         children: [
@@ -29,26 +29,26 @@ class HomeAwardsWidget extends StatelessWidget {
             child: CustomText(
               label: data['title'][lang],
               type: 'h2',
-              textStyle: const TextStyle(color: AppColors.primary),
+              textStyle: const TextStyle(color: AppColors.borderColor),
               isSerif: true,
             ),
           ),
-          const SizedBox(height: 25),
+          SizedBox(height: size.height * 0.035),
           FadeInAnimation(
             child: CustomText(
               label: data['subTitle'][lang],
-              type: 'h6',
+              type: 'h7',
               textStyle: const TextStyle(
-                  color: AppColors.secondary, fontWeight: FontWeight.w400),
+                  color: AppColors.secondary, fontWeight: FontWeight.w400,fontStyle: FontStyle.normal),
               textAlign: TextAlign.center,
               isUppercase: true,
             ),
           ),
-          const SizedBox(height: 40),
+          SizedBox(height: size.height * 0.055),
           SizedBox(
-            width: size.width / 1.4,
+            width: size.width / 1.3,
             child: Row(
-              spacing: 30,
+              spacing: size.width * 0.055,
               children: data['awards'].asMap().entries.map<Widget>((entry) {
                 int index = entry.key;
                 // Award award = Award.fromJson(entry.value);
@@ -65,7 +65,8 @@ class HomeAwardsWidget extends StatelessWidget {
                 );
               }).toList(),
             ),
-          )
+          ),
+          SizedBox(height: size.height * 0.03),
         ],
       ),
     );

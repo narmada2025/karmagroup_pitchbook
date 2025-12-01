@@ -23,6 +23,7 @@ import '../src/partnerships/partnerships_screen.dart';
 import '../src/partnerships_reciprocal/partnerships_reciprocal_screen.dart';
 import '../src/philanthropy/philanthropy_screen.dart';
 import '../src/points_table/points_table_screen.dart';
+import 'destinations/DestinationsGalleryIconPage.dart';
 
 class AppRoutes {
   static List<Widget> getPages() {
@@ -49,6 +50,10 @@ class AppRoutes {
             case '/destinations':
               return MaterialPageRoute(
                   builder: (context) => const DestinationsScreen());
+            case '/destination-gallery-Icon':
+              final args = settings.arguments as Map<String, dynamic>;
+              return MaterialPageRoute(
+                  builder: (context) => DestinationsGalleryIconPage(args));
             case '/destination-gallery':
               final args = settings.arguments as Map<String, dynamic>;
               return MaterialPageRoute(

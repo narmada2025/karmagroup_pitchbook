@@ -32,7 +32,7 @@ class MainMediaItem extends StatelessWidget {
             ),
             Container(
               width: double.infinity,
-              padding: const EdgeInsets.all(40),
+              padding: const EdgeInsets.symmetric(vertical: 40,horizontal: 10),
               decoration: BoxDecoration(
                 gradient: LinearGradient(
                   colors: [

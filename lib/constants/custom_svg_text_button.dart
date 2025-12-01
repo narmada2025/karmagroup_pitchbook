@@ -7,6 +7,7 @@ class CustomSvgTextButton extends StatelessWidget {
   final String label;
   final String svgPath;
   final double size;
+  final bool isChangeColor;
 
   const CustomSvgTextButton({
     super.key,
@@ -14,6 +15,7 @@ class CustomSvgTextButton extends StatelessWidget {
     required this.label,
     required this.svgPath,
     required this.size,
+    this.isChangeColor = false,
   });
 
   @override
@@ -23,23 +25,44 @@ class CustomSvgTextButton extends StatelessWidget {
       child: Column(
         mainAxisSize: MainAxisSize.min,
         children: [
-          SizedBox(
-            width: size,
-            height: size,
-            child: SvgPicture.asset(
-              svgPath,
-              fit: BoxFit.cover,
-              semanticsLabel: 'bg',
-              placeholderBuilder: (context) =>
-                  const CircularProgressIndicator(),
-            ),
+        Container(
+        width: size,
+        height: size,
+        decoration: BoxDecoration(
+          color:isChangeColor?AppColors.strokeColor: AppColors.white, //Circular Container color
+          shape: BoxShape.circle,
+        ),
+        child:Padding(
+          padding: const EdgeInsets.all(9.0),
+          child: SvgPicture.asset(
+            svgPath,
+            fit: BoxFit.cover,
+            colorFilter: ColorFilter.mode(isChangeColor?Colors.white: Colors.black,BlendMode.srcIn),
+            semanticsLabel: 'bg',
+            placeholderBuilder: (context) =>
+            const CircularProgressIndicator(),
           ),
+        ),
+      ),
+          // SizedBox(
+          //   width: size,
+          //   height: size,
+          //   child: SvgPicture.asset(
+          //     svgPath,
+          //     fit: BoxFit.cover,
+          //     semanticsLabel: 'bg',
+          //     placeholderBuilder: (context) =>
+          //         const CircularProgressIndicator(),
+          //   ),
+          // ),
           const SizedBox(height: 10.0),
           Text(
             label,
             textAlign: TextAlign.center,
             style: const TextStyle(
-              color: AppColors.white,
+              color:AppColors.white,
+                fontStyle: FontStyle.normal,
+                fontWeight: FontWeight.w400
             ),
           ),
         ],

@@ -360,6 +360,10 @@ class _DestinationsWrapperWidgetState extends State<DestinationsWrapperWidget> {
                             title: widget.data["cardTitles"]['Gallery']
                                 [widget.lang],
                             onTap: () {
+                              List properties = widget.data['countries'][_selectedDestination]['places'][_selectedPlace]['properties'];
+                              // for (var p in properties) {
+                              // }
+
                               allGallery.isNotEmpty
                                   ? Navigator.pushNamed(
                                       context,
@@ -374,6 +378,7 @@ class _DestinationsWrapperWidgetState extends State<DestinationsWrapperWidget> {
                                         'columns': 3,
                                         'gap': 20,
                                         'childRatio': 3 / 1.7,
+                                        'properties':properties
                                       },
                                     )
                                   : CustomSnackBar(
@@ -386,37 +391,38 @@ class _DestinationsWrapperWidgetState extends State<DestinationsWrapperWidget> {
                             },
                           ),
                         ),
+
                         SlideInAnimation(
                           delay: const Duration(milliseconds: 100),
                           child: MainMediaItem(
                             width: size.width / 4,
                             thumb: _selectedThumbVideo,
-                            title: widget.data["cardTitles"]
-                                ['Destination Videos'][widget.lang],
+                            title:  (allVideos.length <= 1)? widget.data["cardTitles"]['Destination Video'][widget.lang]
+                                :widget.data["cardTitles"]['Destination Videos'][widget.lang],
                             onTap: () {
                               allVideos.isNotEmpty
                                   ? Navigator.pushNamed(
-                                      context,
-                                      '/destination-videos',
-                                      arguments: {
-                                        'assets': allVideos,
-                                        'placeName': widget.data['countries']
-                                                [_selectedDestination]['places']
-                                            [_selectedPlace]['name'],
-                                        'title': widget.data["cardTitles"]
-                                            ['Destination Videos'],
-                                        'columns': 3,
-                                        'gap': 10,
-                                        'childRatio': 3 / 1.7,
-                                      },
-                                    )
+                                context,
+                                '/destination-videos',
+                                arguments: {
+                                  'assets': allVideos,
+                                  'placeName': widget.data['countries']
+                                  [_selectedDestination]['places']
+                                  [_selectedPlace]['name'],
+                                  'title':(allVideos.length <= 1)? widget.data["cardTitles"]['Destination Video']
+                                      :widget.data["cardTitles"]['Destination Videos'],
+                                  'columns': 3,
+                                  'gap': 10,
+                                  'childRatio': 3 / 1.7,
+                                },
+                              )
                                   : CustomSnackBar(
-                                      message: tr(
-                                          context,
-                                          'errors.Content not available',
-                                          widget.lang),
-                                      context: context,
-                                    );
+                                message: tr(
+                                    context,
+                                    'errors.Content not available',
+                                    widget.lang),
+                                context: context,
+                              );
                             },
                           ),
                         ),

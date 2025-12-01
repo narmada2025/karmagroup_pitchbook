@@ -52,6 +52,7 @@ class _DestinationsAccommodationWidgetState
         for (var asset in widget.args['assets']) {
           imageUrls.addAll(asset['images'].cast<String>());
         }
+        print('----imageUrls $imageUrls');
         return imageUrls;
       }
     }

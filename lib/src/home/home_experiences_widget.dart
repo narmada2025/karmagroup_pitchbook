@@ -21,38 +21,39 @@ class HomeExperiencesWidget extends StatelessWidget {
 
     return Container(
       width: size.width,
-      padding: const EdgeInsets.fromLTRB(60, 80, 60, 0),
+      padding: EdgeInsets.symmetric(
+        horizontal: size.width * 0.098,
+        vertical: size.height * 0.02,
+      ),
       color: AppColors.black,
       child: Column(
         children: [
-          SlideInAnimation(
-            child: CustomText(
-              label: data['title'][lang],
-              type: 'h2',
-              textStyle: const TextStyle(color: AppColors.primary),
-              isSerif: true,
+          SizedBox(height: size.height * 0.06),
+          Padding(
+            padding: EdgeInsets.symmetric(horizontal: size.width * 0.03,),
+            child: Column(
+              children: [
+                SlideInAnimation(
+                  child: CustomText(
+                    label: data['title'][lang],
+                    type: 'h2',
+                    textStyle: const TextStyle(color: AppColors.primary),
+                    isSerif: true,
+                  ),
+                ),
+                SizedBox(height: size.height * 0.03),
+                SlideInAnimation(
+                  child: CustomText(
+                    label: data['description'][lang],
+                    textStyle: const TextStyle(color: AppColors.white),
+                    textAlign: TextAlign.center,
+                    type: 'sm1',
+                  ),
+                ),
+              ],
             ),
           ),
-          const SizedBox(height: 20),
-          SlideInAnimation(
-            child: CustomText(
-              label: data['description'][lang],
-              textStyle: const TextStyle(color: AppColors.white),
-              textAlign: TextAlign.center,
-            ),
-          ),
-          const SizedBox(height: 20),
-          SlideInAnimation(
-            delay: const Duration(milliseconds: 300),
-            child: CustomText(
-              label: data['question'][lang],
-              textStyle: const TextStyle(
-                color: AppColors.white,
-                fontWeight: FontWeight.bold,
-              ),
-            ),
-          ),
-          const SizedBox(height: 100),
+          SizedBox(height: size.height * 0.1),
           Container(
             constraints: const BoxConstraints(
               maxHeight: double.infinity,
@@ -65,7 +66,7 @@ class HomeExperiencesWidget extends StatelessWidget {
                     Expanded(
                       flex: 4,
                       child: Padding(
-                        padding: const EdgeInsets.only(bottom: 200,right: 160),
+                        padding: EdgeInsets.only(bottom: size.height * 0.25, right: size.height * 0.1),
                         child: Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
@@ -80,39 +81,43 @@ class HomeExperiencesWidget extends StatelessWidget {
                                 isSerif: true
                               ),
                             ),
-                            const SizedBox(height: 40),
+                            SizedBox(height: size.height * 0.06),
                             SlideInAnimation(
                               direction: SlideDirection.left,
                               child: CustomText(
                                 label: data['subTitle'][lang],
-                                textStyle: const TextStyle(
-                                    color: AppColors.primary,
-                                    fontWeight: FontWeight.bold),
+                                textStyle:  const TextStyle(
+                                    color: AppColors.primary, fontWeight: FontWeight.w400),
+                                type: 'lg',
                               ),
                             ),
-                            const SizedBox(height: 20),
+                            SizedBox(height: size.height * 0.021),
                             SlideInAnimation(
                               direction: SlideDirection.left,
                               child: CustomText(
                                 label: data['para1'][lang],
+                                type: 'sm1',
                                 textStyle:
-                                    const TextStyle(color: AppColors.white)
+                                    const TextStyle(color: AppColors.white),
+                                // letterSpacing: -0.52,
                               ),
                             ),
-                            const SizedBox(height: 20),
+                            SizedBox(height: size.height * 0.021),
                             SlideInAnimation(
                               direction: SlideDirection.left,
                               child: CustomText(
                                 label: data['para2'][lang],
+                                type: 'sm1',
                                 textStyle:
                                     const TextStyle(color: AppColors.white)
                               ),
                             ),
-                            const SizedBox(height: 20),
+                            SizedBox(height: size.height * 0.021),
                             SlideInAnimation(
                               direction: SlideDirection.left,
                               child: CustomText(
                                 label: data['para3'][lang],
+                                type: 'sm1',
                                 textStyle:
                                     const TextStyle(color: AppColors.white)
                               ),
@@ -122,54 +127,94 @@ class HomeExperiencesWidget extends StatelessWidget {
                       ),
                     ),
                     Expanded(
-                      flex: 4,
-                      child: Stack(
+                      flex: 5,
+                      child:
+                      Stack(
                         children: [
-                          SlideInAnimation(
-                            visibilityThreshold: 0.1,
-                            direction: SlideDirection.bottom,
-                            child: Image.network('${AppAPI.baseUrlGcp}${data['john_image']}'),
+                          Padding(
+                            padding: EdgeInsets.only(right: size.width * 0.00),
+                            child: SlideInAnimation(
+                              visibilityThreshold: 0.1,
+                              child: Image.network(
+                                '${AppAPI.baseUrlGcp}${data['john_image']}',
+                                fit: BoxFit.cover,
+                                width: size.width,
+                              ),
+                            ),
                           ),
+
+                          Positioned.fill(
+                            child: Align(
+                              alignment: Alignment.bottomCenter,
+                              child: Container(
+                                height: size.height * 0.12, // adjust as needed
+                                decoration: BoxDecoration(
+                                  gradient: LinearGradient(
+                                    begin: Alignment.bottomCenter,
+                                    end: Alignment.topCenter,
+                                    colors: [
+                                      Colors.black.withOpacity(0.98),
+                                      Colors.transparent,
+                                    ],
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+
                           Positioned(
-                            top:90,
-                            right: 10,
+                            top: size.height * 0.08,
+                            right: 0,
                             child: FadeInAnimation(
                               delay: const Duration(milliseconds: 300),
                               initOpacity: 0,
                               child: Column(
                                 children: [
                                   Container(
-                                      padding: const EdgeInsets.all(5),
-                                      decoration: BoxDecoration(
-                                        color: AppColors.white
-                                            .withValues(alpha: 0.05),
-                                        border: Border.all(
-                                            width: 1, color: AppColors.primary),
+                                    padding: EdgeInsets.symmetric(
+                                      horizontal: size.width * 0.004,
+                                      vertical: size.width * 0.005,
+                                    ),
+                                    decoration: BoxDecoration(
+                                      color: AppColors.white.withValues(alpha: 0.05),
+                                      border: Border.all(
+                                        width: 0.1,
+                                        color: AppColors.borderColor,
                                       ),
-                                      child: const CustomText(
-                                        label: 'JOHN SPENCE',
-                                        type: 'h6',
-                                        isSerif: true,
-                                        textStyle:
-                                            TextStyle(color: AppColors.white),
-                                      )),
-                                  const SizedBox(
-                                    height: 8,
+                                    ),
+                                    child: const CustomText(
+                                      label: 'JOHN SPENCE',
+                                      type: 'h7',
+                                      isSerif: true,
+                                      textStyle: TextStyle(
+                                        color: AppColors.white,
+                                        shadows: [
+                                          Shadow(
+                                            color: Colors.black54,
+                                            offset: Offset(0, 2),
+                                            blurRadius: 6,
+                                          )
+                                        ],
+                                      ),
+                                    ),
                                   ),
-                                  Image.network('${AppAPI.baseUrlGcp}${data['logo']}',
-                                    width: 180,
-                                  )
+                                  SizedBox(height: size.height * 0.005),
+                                  Image.network(
+                                    '${AppAPI.baseUrlGcp}${data['logo']}',
+                                    width: size.width * 0.12,
+                                  ),
                                 ],
                               ),
                             ),
-                          )
+                          ),
                         ],
-                      ),
+                      )
+
                     ),
                   ],
                 ),
                 Positioned(
-                  bottom: 120,
+                  bottom: size.height * 0.03,
                   left: 0,
                   right: 0,
                   child: FadeInAnimation(
@@ -184,12 +229,13 @@ class HomeExperiencesWidget extends StatelessWidget {
                         spacing: 10,
                         children: [
                           Container(
-                            width: 60,
+                            width: size.width * 0.06,
                             alignment: Alignment.topRight,
                             padding: const EdgeInsets.only(bottom: 60),
                             child: SvgPicture.asset(
                               AppIcons.quoteIcon,
-                              width: 60,
+                              color: AppColors.strokeColor,
+                              width: size.width * 0.06,
                               fit: BoxFit.contain,
                               semanticsLabel: 'quote',
                               placeholderBuilder: (context) =>
@@ -199,8 +245,9 @@ class HomeExperiencesWidget extends StatelessWidget {
                           Padding(
                             padding: const EdgeInsets.only(left: 15.0,right: 15.0),
                             child: Container(
-                              width: 600,
-                              padding: const EdgeInsets.symmetric(vertical: 20),
+                              width: size.width * 0.5,
+                              // width: 600,
+                              padding: const EdgeInsets.symmetric(vertical: 5),
                               child: CustomText(
                                 type: 'h4',
                                 label: data['quote'][lang],
@@ -212,14 +259,15 @@ class HomeExperiencesWidget extends StatelessWidget {
                             ),
                           ),
                           Container(
-                            width: 60,
+                            width: size.width * 0.06,
                             alignment: Alignment.bottomLeft,
                             padding: const EdgeInsets.only(top: 60),
                             child: Transform.rotate(
                               angle: 3.14 / 1,
                               child: SvgPicture.asset(
                                 AppIcons.quoteIcon,
-                                width: 60,
+                                color: AppColors.strokeColor,
+                                width: size.width * 0.06,
                                 fit: BoxFit.contain,
                                 semanticsLabel: 'quote',
                                 placeholderBuilder: (context) =>
@@ -227,8 +275,8 @@ class HomeExperiencesWidget extends StatelessWidget {
                               ),
                             ),
                           ),
-                          const SizedBox(
-                            width: 70,
+                           SizedBox(
+                            width: size.width * 0.05,
                           ),
                         ],
                       ),

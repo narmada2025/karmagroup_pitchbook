@@ -49,7 +49,7 @@ class _PdfScreenState extends State<PdfScreen> {
   Future<void> _downloadPdf(String url) async {
     try {
       final response = await http.get(Uri.parse(url));
-
+print("=========url $url");
       if (response.statusCode == 200) {
         final dir = await getTemporaryDirectory();
         final file = File("${dir.path}/temp.pdf");
@@ -78,7 +78,7 @@ class _PdfScreenState extends State<PdfScreen> {
   @override
   Widget build(BuildContext context) {
     Size size = MediaQuery.of(context).size;
-
+  print("=====localPdfPath $localPdfPath");
     Locale locale = Localizations.localeOf(context);
     String lang = locale.languageCode;
 

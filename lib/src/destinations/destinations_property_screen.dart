@@ -83,17 +83,23 @@ class _DestinationsPropertyScreenState
 
     void onTapped(String path, Map<String, dynamic> title) async {
       final nav = Navigator.of(context);
+      final lang = Localizations.localeOf(context).languageCode;
+      final failedMsg = tr(context, 'Failed to load PDF', lang);
 
       try {
         String finalPath;
 
         if (path.startsWith('http')) {
-          // ✅ It's a GCP URL — use it directly
           finalPath = path;
+        } else if (path.endsWith('.pdf')) {
+          finalPath = '${AppAPI.baseUrlGcp}$path';
         } else {
-          // ✅ It's a local asset — load from assets
+          // This is the async gap
           finalPath = await loadPdfFromAssets(path);
         }
+
+        // ✅ Guard context after async gap
+        if (!context.mounted) return;
 
         nav.push(
           MaterialPageRoute(
@@ -106,7 +112,7 @@ class _DestinationsPropertyScreenState
       } catch (e) {
         if (!context.mounted) return;
         CustomSnackBar(
-          message: '${tr(context, 'Failed to load PDF', lang)}: $e',
+          message: '$failedMsg: $e',
           context: context,
         );
       }
@@ -150,17 +156,22 @@ class _DestinationsPropertyScreenState
                           children: [
                             InkWell(
                               onTap: () {
+                               // print("===_media name ${_media['gallery']} ");
+                               // print("===property name $property ");
+                               // for (var p in property['name']) {
+                               //   print("property: $p");
+                               // }
                                 _media['gallery'].length > 0
                                     ? Navigator.pushNamed(
                                         context,
-                                        '/destination-gallery',
+                                        '/destination-gallery-Icon',
                                         arguments: {
                                           'assets': _media['gallery'],
                                           'placeName': property['name'],
                                           'title': cardTitles['Gallery'],
                                           'columns': 3,
                                           'gap': 20,
-                                          'childRatio': 3 / 2,
+                                          'childRatio': 3 / 2
                                         },
                                       )
                                     : CustomSnackBar(
@@ -304,6 +315,8 @@ class _DestinationsPropertyScreenState
                     padding: const EdgeInsets.fromLTRB(80, 20, 80, 80),
                     child: Wrap(
                       spacing: 20,
+                      alignment: WrapAlignment.center,
+                      crossAxisAlignment: WrapCrossAlignment.center,
                       children: [
                         SlideInAnimation(
                           distance: 0.3,
@@ -365,6 +378,7 @@ class _DestinationsPropertyScreenState
                             ),
                           ),
                         ),
+                        (property['guestExp'] != "")?
                         SlideInAnimation(
                           delay: const Duration(milliseconds: 200),
                           distance: 0.3,
@@ -394,7 +408,7 @@ class _DestinationsPropertyScreenState
                               width: size.width / 4,
                             ),
                           ),
-                        ),
+                        ):Container(),
                       ],
                     ),
                   )

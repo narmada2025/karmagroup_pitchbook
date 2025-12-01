@@ -147,10 +147,10 @@
                     "id": "Karma Bayon"
                 },
                 {
-                    "en": "Imperial Apartments",
-                    "de": "Imperial Apartments",
-                    "fr": "Imperial Apartments",
-                    "id": "Imperial Apartments"
+                    "en": "Imperial",
+                    "de": "Imperial",
+                    "fr": "Imperial",
+                    "id": "Imperial"
                 },
                 {
                     "en": "Karma Salford Hall",
@@ -188,7 +188,6 @@
                     "fr": "Karma Minoan",
                     "id": "Karma Minoan"
                 }
-
             ],
             "Platinum": [
                 {
@@ -264,10 +263,16 @@
                     "id": "Karma Lakewood"
                 },
                 {
-                    "en": "Karma Tashi",
-                    "de": "Karma Tashi",
-                    "fr": "Karma Tashi",
-                    "id": "Karma Tashi"
+                    "en": "karma Weekly Escapes",
+                    "de": "Karma Weekly Escapes",
+                    "fr": "Karma Weekly Escapes",
+                    "id": "karma Weekly Escapes"
+                },
+                {
+                    "en": "Karma Alliance",
+                    "de": "Karma Alliance",
+                    "fr": "Karma Alliance",
+                    "id": "Karma Alliance"
                 }
             ],
             "Silver": [
@@ -306,15 +311,8 @@
                     "de": "Karma Panalee",
                     "fr": "Karma Panalee",
                     "id": "Karma Panalee"
-                },
-                {
-                    "en": "Affiliates",
-                    "de": "Affiliates",
-                    "fr": "Affiliates",
-                    "id": "Affiliates"
                 }
             ]
-
         },
         "labels": [
             {
@@ -456,16 +454,10 @@
                     "id": "KRR @ Karma Borgo di Colleoli"
                 },
                 {
-                    "en": "Karma Borgo di Colleoli (Suites)",
-                    "de": "Karma Borgo di Colleoli (Suites)",
-                    "fr": "Karma Borgo di Colleoli (Suites)",
-                    "id": "Karma Borgo di Colleoli (Suites)"
-                },
-                {
-                    "en": "Karma Minoan",
-                    "de": "Karma Minoan",
-                    "fr": "Karma Minoan",
-                    "id": "Karma Minoan"
+                    "en": "Karma Chateau de Samary",
+                    "de": "Karma Chateau de Samary",
+                    "fr": "Karma Chateau de Samary",
+                    "id": "Karma Chateau de Samary"
                 },
                 {
                     "en": "Karma Fushi",
@@ -480,28 +472,16 @@
                     "id": "Karma St. Martin’s"
                 },
                 {
-                    "en": "Karma Bavaria",
-                    "de": "Karma Bavaria",
-                    "fr": "Karma Bavaria",
-                    "id": "Karma Bavaria"
-                },
-                {
                     "en": "Karma Bayon",
                     "de": "Karma Bayon",
                     "fr": "Karma Bayon",
                     "id": "Karma Bayon"
                 },
                 {
-                    "en": "Karma Borgo di Colleoli (Apartments)",
-                    "de": "Karma Borgo di Colleoli (Apartments)",
-                    "fr": "Karma Borgo di Colleoli (Apartments)",
-                    "id": "Karma Borgo di Colleoli (Apartments)"
-                },
-                {
-                    "en": "Imperial Apartments",
-                    "de": "Imperial Apartments",
-                    "fr": "Imperial Apartments",
-                    "id": "Imperial Apartments"
+                    "en": "Imperial",
+                    "de": "Kaiserlich",
+                    "fr": "Impériale",
+                    "id": "Imperial"
                 },
                 {
                     "en": "Karma Salford Hall",
@@ -516,12 +496,6 @@
                     "id": "Karma Seven Lakes"
                 },
                 {
-                    "en": "Karma La Herriza",
-                    "de": "Karma La Herriza",
-                    "fr": "Karma La Herriza",
-                    "id": "Karma La Herriza"
-                },
-                {
                     "en": "Karma Lake of Menteith",
                     "de": "Karma Lake of Menteith",
                     "fr": "Karma Lake of Menteith",
@@ -534,10 +508,16 @@
                     "id": "Karma Karnak"
                 },
                 {
-                    "en": "Karma Chateau de Samary",
-                    "de": "Karma Chateau de Samary",
-                    "fr": "Karma Chateau de Samary",
-                    "id": "Karma Chateau de Samary"
+                    "en": "Karma La Herriza",
+                    "de": "Karma La Herriza",
+                    "fr": "Karma La Herriza",
+                    "id": "Karma La Herriza"
+                },
+                {
+                    "en": "Karma Minoan",
+                    "de": "Karma Minoan",
+                    "fr": "Karma Minoan",
+                    "id": "Karma Minoan"
                 },
                 {
                     "en": "Karma Haveli",
@@ -552,12 +532,6 @@
                     "id": "Karma Chakra"
                 },
                 {
-                    "en": "Karma Royal Boat Lagoon",
-                    "de": "Karma Royal Boat Lagoon",
-                    "fr": "Karma Royal Boat Lagoon",
-                    "id": "Karma Royal Boat Lagoon"
-                },
-                {
                     "en": "Karma Royal Palms",
                     "de": "Karma Royal Palms",
                     "fr": "Karma Royal Palms",
@@ -568,12 +542,6 @@
                     "de": "Karma Royal MonteRio",
                     "fr": "Karma Royal MonteRio",
                     "id": "Karma Royal MonteRio"
-                },
-                {
-                    "en": "Karma Royal Haathi Mahal",
-                    "de": "Karma Royal Haathi Mahal",
-                    "fr": "Karma Royal Haathi Mahal",
-                    "id": "Karma Royal Haathi Mahal"
                 },
                 {
                     "en": "Karma Royal Jimbaran",
@@ -630,16 +598,16 @@
                     "id": "Karma Royal Sanur"
                 },
                 {
+                    "en": "Karma Royal Boat Lagoon",
+                    "de": "Karma Royal Boat Lagoon",
+                    "fr": "Karma Royal Boat Lagoon",
+                    "id": "Karma Royal Boat Lagoon"
+                },
+                {
                     "en": "Karma Sunshine Village",
                     "de": "Karma Sunshine Village",
                     "fr": "Karma Sunshine Village",
                     "id": "Karma Sunshine Village"
-                },
-                {
-                    "en": "Karma Concierge Affiliates",
-                    "de": "Karma Concierge Affiliates",
-                    "fr": "Karma Concierge Affiliates",
-                    "id": "Karma Concierge Affiliates"
                 },
                 {
                     "en": "Karma Golden Camp",
@@ -652,6 +620,18 @@
                     "de": "Karma Panalee",
                     "fr": "Karma Panalee",
                     "id": "Karma Panalee"
+                },
+                {
+                    "en": "karma Weekly Escapes",
+                    "de": "Karma Weekly Escapes",
+                    "fr": "Karma Weekly Escapes",
+                    "id": "karma Weekly Escapes"
+                },
+                {
+                    "en": "Karma Alliance",
+                    "de": "Karma Alliance",
+                    "fr": "Karma Alliance",
+                    "id": "Karma Alliance"
                 }
             ]
         },
@@ -860,37 +840,25 @@
                     "id": "KRR @ Karma Borgo di Colleoli"
                 },
                 {
-                    "en": "Karma Borgo di Colleoli (Suites)",
-                    "de": "Karma Borgo di Colleoli (Suites)",
-                    "fr": "Karma Borgo di Colleoli (Suites)",
-                    "id": "Karma Borgo di Colleoli (Suites)"
-                },
-                {
-                    "en": "Karma Minoan",
-                    "de": "Karma Minoan",
-                    "fr": "Karma Minoan",
-                    "id": "Karma Minoan"
+                    "en": "Karma Chateau de Samary",
+                    "de": "Karma Chateau de Samary",
+                    "fr": "Karma Chateau de Samary",
+                    "id": "Karma Chateau de Samary"
                 },
                 {
                     "en": "Karma Fushi",
                     "de": "Karma Fushi",
                     "fr": "Karma Fushi",
                     "id": "Karma Fushi"
-                }
-            ],
-            "Titanium": [
+                },
                 {
                     "en": "Karma St. Martin’s",
                     "de": "Karma St. Martin’s",
                     "fr": "Karma St. Martin’s",
                     "id": "Karma St. Martin’s"
-                },
-                {
-                    "en": "Karma Bavaria",
-                    "de": "Karma Bavaria",
-                    "fr": "Karma Bavaria",
-                    "id": "Karma Bavaria"
-                },
+                }
+            ],
+            "Titanium": [
                 {
                     "en": "Karma Bayon",
                     "de": "Karma Bayon",
@@ -898,16 +866,10 @@
                     "id": "Karma Bayon"
                 },
                 {
-                    "en": "Karma Borgo di Colleoli (Apartments)",
-                    "de": "Karma Borgo di Colleoli (Apartments)",
-                    "fr": "Karma Borgo di Colleoli (Apartments)",
-                    "id": "Karma Borgo di Colleoli (Apartments)"
-                },
-                {
-                    "en": "Imperial Apartments",
-                    "de": "Imperial Apartments",
-                    "fr": "Imperial Apartments",
-                    "id": "Imperial Apartments"
+                    "en": "Imperial",
+                    "de": "Imperial",
+                    "fr": "Imperial",
+                    "id": "Imperial"
                 },
                 {
                     "en": "Karma Salford Hall",
@@ -922,12 +884,6 @@
                     "id": "Karma Seven Lakes"
                 },
                 {
-                    "en": "Karma La Herriza",
-                    "de": "Karma La Herriza",
-                    "fr": "Karma La Herriza",
-                    "id": "Karma La Herriza"
-                },
-                {
                     "en": "Karma Lake of Menteith",
                     "de": "Karma Lake of Menteith",
                     "fr": "Karma Lake of Menteith",
@@ -940,10 +896,16 @@
                     "id": "Karma Karnak (Suites)"
                 },
                 {
-                    "en": "Karma Chateau de Samary",
-                    "de": "Karma Chateau de Samary",
-                    "fr": "Karma Chateau de Samary",
-                    "id": "Karma Chateau de Samary"
+                    "en": "Karma La Herriza",
+                    "de": "Karma La Herriza",
+                    "fr": "Karma La Herriza",
+                    "id": "Karma La Herriza"
+                },
+                {
+                    "en": "Karma Minoan",
+                    "de": "Karma Minoan",
+                    "fr": "Karma Minoan",
+                    "id": "Karma Minoan"
                 }
             ],
             "Platinum": [
@@ -960,12 +922,6 @@
                     "id": "Karma Chakra"
                 },
                 {
-                    "en": "Karma Royal Boat Lagoon",
-                    "de": "Karma Royal Boat Lagoon",
-                    "fr": "Karma Royal Boat Lagoon",
-                    "id": "Karma Royal Boat Lagoon"
-                },
-                {
                     "en": "Karma Royal Palms",
                     "de": "Karma Royal Palms",
                     "fr": "Karma Royal Palms",
@@ -976,12 +932,6 @@
                     "de": "Karma Royal MonteRio",
                     "fr": "Karma Royal MonteRio",
                     "id": "Karma Royal MonteRio"
-                },
-                {
-                    "en": "Karma Royal Haathi Mahal",
-                    "de": "Karma Royal Haathi Mahal",
-                    "fr": "Karma Royal Haathi Mahal",
-                    "id": "Karma Royal Haathi Mahal"
                 },
                 {
                     "en": "Karma Royal Jimbaran",
@@ -1030,6 +980,18 @@
                     "de": "Karma Lakewood",
                     "fr": "Karma Lakewood",
                     "id": "Karma Lakewood"
+                },
+                {
+                    "en": "karma Weekly Escapes",
+                    "de": "Karma Weekly Escapes",
+                    "fr": "Karma Weekly Escapes",
+                    "id": "karma Weekly Escapes"
+                },
+                {
+                    "en": "Karma Alliance",
+                    "de": "Karma Alliance",
+                    "fr": "Karma Alliance",
+                    "id": "Karma Alliance"
                 }
             ],
             "Silver": [
@@ -1046,16 +1008,16 @@
                     "id": "Karma Royal Sanur"
                 },
                 {
+                    "en": "Karma Royal Boat Lagoon",
+                    "de": "Karma Royal Boat Lagoon",
+                    "fr": "Karma Royal Boat Lagoon",
+                    "id": "Karma Royal Boat Lagoon"
+                },
+                {
                     "en": "Karma Sunshine Village",
                     "de": "Karma Sunshine Village",
                     "fr": "Karma Sunshine Village",
                     "id": "Karma Sunshine Village"
-                },
-                {
-                    "en": "Karma Concierge Affiliates",
-                    "de": "Karma Concierge Affiliates",
-                    "fr": "Karma Concierge Affiliates",
-                    "id": "Karma Concierge Affiliates"
                 },
                 {
                     "en": "Karma Golden Camp",

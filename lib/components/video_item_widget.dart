@@ -41,7 +41,7 @@ class _VideoItemWidgetState extends State<VideoItemWidget> {
       alignment: Alignment.center,
       clipBehavior: Clip.antiAlias,
       decoration: BoxDecoration(
-        borderRadius: BorderRadius.circular(10),
+        borderRadius: BorderRadius.circular(0),
       ),
       width: widget.itemWidth,
       child: Stack(

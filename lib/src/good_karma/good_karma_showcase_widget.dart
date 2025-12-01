@@ -161,7 +161,7 @@ class _GoodKarmaShowcaseWidgetState extends State<GoodKarmaShowcaseWidget> {
                 Container(
                   padding: const EdgeInsets.fromLTRB(80, 80, 80, 120),
                   child: VideoGridTitleWidget(
-                    key: ValueKey('youtube$_selectedIndex.length'),
+                    key: ValueKey('youtube$_selectedIndex'),
                     data: _selectedData,
                     columns: 3,
                     gap: 20,
