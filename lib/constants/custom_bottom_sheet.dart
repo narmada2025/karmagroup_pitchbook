@@ -2,8 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:pitchbook/constants/app_data.dart';
 import 'package:pitchbook/constants/menu_item.dart';
-import 'package:pitchbook/helpers/helper.dart';
 import 'package:pitchbook/src/app_locatizations.dart';
+
+import '../helpers/helper.dart';
 
 class CustomBottomSheet extends StatefulWidget {
   final Function(int, String) onSelectIndex;
@@ -257,11 +258,16 @@ class _CustomBottomSheetState extends State<CustomBottomSheet> {
                           shape: BoxShape.circle,
                           color: AppColors.strokeColor,
                         ),
-                        child: Padding(
-                          padding: const EdgeInsets.all(8.0),
-                          child: SvgPicture.asset(
-                            'assets/interface/logo.svg',
-                            colorFilter: const ColorFilter.mode(Colors.white,BlendMode.srcIn),
+                        child: GestureDetector(
+                          onTap: () {
+                            logout(context);
+                          },
+                          child: Padding(
+                            padding: const EdgeInsets.all(8.0),
+                            child: SvgPicture.asset(
+                              'assets/interface/logo.svg',
+                              colorFilter: const ColorFilter.mode(Colors.white,BlendMode.srcIn),
+                            ),
                           ),
                         ),
                       )
