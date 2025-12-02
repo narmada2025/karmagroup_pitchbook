@@ -12,7 +12,7 @@ import 'package:pitchbook/src/destinations/widgets/main_media_item.dart';
 import 'package:pitchbook/src/destinations/widgets/place_item.dart';
 import 'package:pitchbook/src/destinations/widgets/property_item.dart';
 
-import '../../components/webView_3d_vr_screen.dart';
+import '../../components/web_view_3d_vr_screen.dart';
 
 class DestinationsWrapperWidget extends StatefulWidget {
   final Map<String, dynamic> data;

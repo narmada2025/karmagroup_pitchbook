@@ -153,7 +153,7 @@ class HomeExperiencesWidget extends StatelessWidget {
                                     begin: Alignment.bottomCenter,
                                     end: Alignment.topCenter,
                                     colors: [
-                                      Colors.black.withOpacity(0.99),
+                                  Colors.black.withAlpha((0.99 * 255).round()),
                                       Colors.transparent,
                                     ],
                                   ),
@@ -234,7 +234,7 @@ class HomeExperiencesWidget extends StatelessWidget {
                             padding: const EdgeInsets.only(bottom: 60),
                             child: SvgPicture.asset(
                               AppIcons.quoteIcon,
-                              color: AppColors.strokeColor,
+                              colorFilter:  const ColorFilter.mode(AppColors.strokeColor, BlendMode.srcIn),
                               width: size.width * 0.06,
                               fit: BoxFit.contain,
                               semanticsLabel: 'quote',
@@ -266,7 +266,7 @@ class HomeExperiencesWidget extends StatelessWidget {
                               angle: 3.14 / 1,
                               child: SvgPicture.asset(
                                 AppIcons.quoteIcon,
-                                color: AppColors.strokeColor,
+                                colorFilter: const ColorFilter.mode(AppColors.strokeColor, BlendMode.srcIn),
                                 width: size.width * 0.06,
                                 fit: BoxFit.contain,
                                 semanticsLabel: 'quote',

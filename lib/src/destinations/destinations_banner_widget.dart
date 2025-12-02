@@ -26,8 +26,8 @@ class DestinationsBannerWidget extends StatelessWidget {
           image: NetworkImage('${AppAPI.baseUrlGcp}${data['image']}'),
           fit: BoxFit.cover,
           colorFilter: ColorFilter.mode(
-            Colors.black.withOpacity(0.69), // Change opacity here
-            BlendMode.darken, // or overlay, multiply, etc.
+            Colors.black.withAlpha((0.69 * 255).round()),
+            BlendMode.darken
           ),
         ),
       ),

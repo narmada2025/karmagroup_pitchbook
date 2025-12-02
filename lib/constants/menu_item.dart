@@ -36,7 +36,7 @@ class MenuItem extends StatelessWidget {
                   ? AppIcons.menuShortPathIcon
                   : AppIcons.menuLongPathIcon,
               width: isShortPath ? 38 : 38,
-              color: AppColors.strokeColor,
+              colorFilter:  const ColorFilter.mode(AppColors.strokeColor, BlendMode.srcIn),
               fit: BoxFit.contain,
               alignment: Alignment.topCenter,
               semanticsLabel: 'path',

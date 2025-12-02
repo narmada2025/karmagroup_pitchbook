@@ -23,7 +23,7 @@ import '../src/partnerships/partnerships_screen.dart';
 import '../src/partnerships_reciprocal/partnerships_reciprocal_screen.dart';
 import '../src/philanthropy/philanthropy_screen.dart';
 import '../src/points_table/points_table_screen.dart';
-import 'destinations/DestinationsGalleryIconPage.dart';
+import 'destinations/destinations_gallery_icon_page.dart';
 
 class AppRoutes {
   static List<Widget> getPages() {

@@ -10,7 +10,7 @@ import 'package:pitchbook/helpers/helper.dart';
 import 'package:pitchbook/src/app_locatizations.dart';
 import 'package:pitchbook/src/destinations/widgets/feature_item.dart';
 
-import '../../components/webView_3d_vr_screen.dart';
+import '../../components/web_view_3d_vr_screen.dart';
 import '../../constants/custom_snackbar.dart';
 
 class DestinationsPropertyScreen extends StatefulWidget {
