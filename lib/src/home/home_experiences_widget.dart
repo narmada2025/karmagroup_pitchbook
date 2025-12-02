@@ -23,12 +23,12 @@ class HomeExperiencesWidget extends StatelessWidget {
       width: size.width,
       padding: EdgeInsets.symmetric(
         horizontal: size.width * 0.098,
-        vertical: size.height * 0.02,
+        vertical: size.height * 0.001,
       ),
       color: AppColors.black,
       child: Column(
         children: [
-          SizedBox(height: size.height * 0.06),
+          SizedBox(height: size.height * 0.09),
           Padding(
             padding: EdgeInsets.symmetric(horizontal: size.width * 0.03,),
             child: Column(
@@ -153,7 +153,7 @@ class HomeExperiencesWidget extends StatelessWidget {
                                     begin: Alignment.bottomCenter,
                                     end: Alignment.topCenter,
                                     colors: [
-                                      Colors.black.withOpacity(0.98),
+                                      Colors.black.withOpacity(0.99),
                                       Colors.transparent,
                                     ],
                                   ),
@@ -214,7 +214,7 @@ class HomeExperiencesWidget extends StatelessWidget {
                   ],
                 ),
                 Positioned(
-                  bottom: size.height * 0.03,
+                  bottom: size.height * 0.098,
                   left: 0,
                   right: 0,
                   child: FadeInAnimation(

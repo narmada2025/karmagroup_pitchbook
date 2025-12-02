@@ -22,7 +22,6 @@ class ConciergeItem extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final int items = placeCount > 4 ? 3 : placeCount - 1;
-    print("_selectedIndex ${index}");
     return InkWell(
       onTap: () => onTap(
         index,

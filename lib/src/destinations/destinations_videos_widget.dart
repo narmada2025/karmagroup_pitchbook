@@ -25,11 +25,8 @@ class _DestinationsVideoWidgetState extends State<DestinationsVideoWidget> {
   Widget build(BuildContext context) {
     Size size = MediaQuery.of(context).size;
 
-    print('======destinationVideooss}');
-
     Locale locale = Localizations.localeOf(context);
     String lang = locale.languageCode;
-    print('======destinationVideooss \n ----${widget.args}-\n--${widget.args['assets']}');
 
     return Scaffold(
       backgroundColor: AppColors.black,

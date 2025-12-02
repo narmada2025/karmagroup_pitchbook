@@ -29,10 +29,10 @@ class _PdfScreenState extends State<PdfScreen> {
     _preparePdf();
   }
 
-  /// ✅ Check if the pdfPath is a URL or local file
+  ///  Check if the pdfPath is a URL or local file
   Future<void> _preparePdf() async {
     final path = widget.pdfPath.trim();
-    // ✅ If already a valid local file
+    // If already a valid local file
     if (File(path).existsSync()) {
       setState(() {
         localPdfPath = path;
@@ -41,15 +41,14 @@ class _PdfScreenState extends State<PdfScreen> {
       return;
     }
 
-    // ✅ Otherwise assume it's a URL → download
+    //  Otherwise assume it's a URL (download)
     await _downloadPdf(path);
   }
 
-  /// ✅ Downloads PDF from GCP URL and saves locally
+  ///  Downloads PDF from GCP URL and saves locally
   Future<void> _downloadPdf(String url) async {
     try {
       final response = await http.get(Uri.parse(url));
-print("=========url $url");
       if (response.statusCode == 200) {
         final dir = await getTemporaryDirectory();
         final file = File("${dir.path}/temp.pdf");
@@ -78,7 +77,7 @@ print("=========url $url");
   @override
   Widget build(BuildContext context) {
     Size size = MediaQuery.of(context).size;
-  print("=====localPdfPath $localPdfPath");
+
     Locale locale = Localizations.localeOf(context);
     String lang = locale.languageCode;
 

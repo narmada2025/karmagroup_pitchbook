@@ -31,8 +31,6 @@ class _AppLauncherState extends State<AppLauncher> {
 
   @override
   Widget build(BuildContext context) {
-    // print("======AppLauncher=====");
     return const AppWrapper();
-    // return isLoggedIn ? const AppWrapper() : const LoginScreen();
   }
 }

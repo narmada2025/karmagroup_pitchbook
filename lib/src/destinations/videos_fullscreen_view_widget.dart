@@ -33,14 +33,10 @@ class _VideoFullScreenViewState extends State<VideoFullScreenView> {
   bool _isControllerInitialized = false;
   List<String> _videoTitles = [];
   List<String> _videoUrls = [];
-  List<String> _videoCovers = [];
-  int _itemCount = 0;
 
   void extractVideoUrls() {
     setState(() {
       _videoUrls = widget.data.map<String>((video) => video['video'].toString()).toList();
-      _videoCovers =
-          widget.data.map<String>((video) => video['cover'].toString()).toList();
       _videoTitles = widget.data.map<String>((video) {
         if (video['title'] is Map) {
           return video['title'][widget.lang] ?? video['title'].values.first;
@@ -48,7 +44,7 @@ class _VideoFullScreenViewState extends State<VideoFullScreenView> {
           return video['title'].toString();
         }
       }).toList();
-      _itemCount = widget.initialItemCount;
+      // _itemCount = widget.initialItemCount;
     });
   }
 
@@ -89,7 +85,6 @@ class _VideoFullScreenViewState extends State<VideoFullScreenView> {
   }
 
   Future<void> _initializeVideoController(String url) async {
-    print("====GoodKarma url $url");
     if (url.startsWith('http')) {
       // Fix Firebase Storage incorrect domain if needed
       if (url.contains(".firebasestorage.app")) {

@@ -26,7 +26,6 @@ class _DestinationsGalleryWidgetState extends State<DestinationsGalleryWidget> {
   Widget build(BuildContext context) {
     Size size = MediaQuery.of(context).size;
 
-    print("======placename ${widget.args['properties']}");
     Locale locale = Localizations.localeOf(context);
     String lang = locale.languageCode;
 
@@ -51,7 +50,6 @@ class _DestinationsGalleryWidgetState extends State<DestinationsGalleryWidget> {
            imageUrls = asset['media']['gallery'];
          }
        }
-       print("=======imageUrls $imageUrls");
        return imageUrls;
      }
 

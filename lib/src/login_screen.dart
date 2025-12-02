@@ -29,9 +29,10 @@ class _LoginScreenState extends State<LoginScreen> {
     bool isLoggedIn = await checkLoginStatus();
     if (isLoggedIn) {
       if (!mounted) return;
-      Navigator.pushReplacement(
+      Navigator.pushAndRemoveUntil(
         context,
         MaterialPageRoute(builder: (context) => const AppWrapper()),
+        (_) => false
       );
     } else {
       setState(() {

@@ -98,7 +98,6 @@ class _CustomVideoPlayerState extends State<CustomVideoPlayer> {
         isFullScreen = true;
       });
     } else {
-      print("=====isFullScreen else");
       SystemChrome.setEnabledSystemUIMode(SystemUiMode.edgeToEdge);
       SystemChrome.setPreferredOrientations([
         DeviceOrientation.portraitUp,

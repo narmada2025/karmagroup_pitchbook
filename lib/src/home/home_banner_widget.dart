@@ -7,8 +7,6 @@ import 'package:pitchbook/constants/custom_text.dart';
 import 'package:video_player/video_player.dart';
 import 'package:visibility_detector/visibility_detector.dart';
 
-import '../../constants/loading_component.dart';
-
 class HomeBannerWidget extends StatefulWidget {
   final Map<String, dynamic> data;
   final String lang;
@@ -37,7 +35,6 @@ class _HomeBannerWidgetState extends State<HomeBannerWidget>
   void initState() {
     super.initState();
     _initializeVideoController('${widget.data['video']}');
-    print("widget.data['video'] ${widget.data['video']}");
   }
 
   void _onVideoPlayerStateChanged() {
@@ -246,7 +243,7 @@ class _HomeBannerWidgetState extends State<HomeBannerWidget>
           )
               : Container(),
           Positioned(
-            top: 120,
+            top: 210,
             left: 0,
             right: 0,
             child: GestureDetector(
@@ -256,7 +253,7 @@ class _HomeBannerWidgetState extends State<HomeBannerWidget>
                   opacity: _fadeAnimation,
                   child: Container(
                     width: size.width,
-                    color: AppColors.black.withValues(alpha: 0.05),
+                    color: AppColors.black.withValues(alpha: 0.0),
                     child: Column(
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
@@ -269,7 +266,7 @@ class _HomeBannerWidgetState extends State<HomeBannerWidget>
                             color: AppColors.light,
                           ),
                         ),
-                        SizedBox(height: size.height * 0.021),
+                        SizedBox(height: size.height * 0.022),
                         FadeInScaleAnimation(
                           initScale: 2,
                           initOpacity: 0,
