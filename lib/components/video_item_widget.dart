@@ -41,7 +41,7 @@ class _VideoItemWidgetState extends State<VideoItemWidget> {
       alignment: Alignment.center,
       clipBehavior: Clip.antiAlias,
       decoration: BoxDecoration(
-        borderRadius: BorderRadius.circular(10),
+        borderRadius: BorderRadius.circular(0),
       ),
       width: widget.itemWidth,
       child: Stack(
@@ -163,12 +163,9 @@ class _VideoItemWidgetState extends State<VideoItemWidget> {
   // }
 
   Future<Duration> _getVideoLength(String videoUrl) async {
-    log("getVideoLength======= ");
     if (_videoDurations.containsKey(videoUrl)) {
-      log("---if videos ${videoUrl}");
       return _videoDurations[videoUrl]!;
     } else {
-      log("videoUrl======$videoUrl");
       // If URL has .firebasestorage.app, fetch the proper download URL from Firebase
       if (videoUrl.contains(".firebasestorage.app")) {
         try {

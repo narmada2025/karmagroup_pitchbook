@@ -35,7 +35,6 @@ class _CommunityPressFeaturesWidgetState
     if (widget.press != null && widget.press.length > 0) {
       thumbnail = widget.press[0]['thumbnail'];
       title = widget.press[0]['title'];
-      print("======title $title");
     }
 
     return Container(

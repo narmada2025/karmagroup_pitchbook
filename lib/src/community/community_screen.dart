@@ -70,12 +70,13 @@ class _CommunityScreenState extends State<CommunityScreen> {
 
       final imageProvider = NetworkImage(imageUrl);
       final largeImageProvider = NetworkImage(largeImageUrl);
+      if (!mounted) return;
       precacheImage(imageProvider, context);
       precacheImage(largeImageProvider, context);
     }
     setState(() {
       _chairmanSessionFeaturedStories = chairmanSessionFeaturedStories;
-      log("_chairmanSessionFeaturedStories ${_chairmanSessionFeaturedStories}");
+      log("_chairmanSessionFeaturedStories $_chairmanSessionFeaturedStories");
       _events = eventData;
       _eventGallery = galleryData;
       _press = pressData;

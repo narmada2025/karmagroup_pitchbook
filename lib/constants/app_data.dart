@@ -4,10 +4,14 @@ import 'package:flutter/material.dart';
 
 class AppColors {
   static const Color primary = Color(0xFF8D7249);
+  static const Color borderColor = Color(0xFF85714D);
+  static const Color strokeColor = Color(0xFF8D7249);
+  // static const Color strokeColor = Color(0xFF735D3C); //695437
   static const Color secondary = Color(0xFFB19975);
   static const Color variation1 = Color(0xFFC9A46D);
   static const Color light = Color.fromARGB(255, 226, 205, 172);
-  static const Color dark = Color(0xFF483b2a);
+  static const Color dark = Color(0xFF4A3D29);
+  static const Color lightTextColor = Color(0xFFEDE8DC);
   static const Color darker = Color(0xff231C10);
   static const Color white = Color(0xFFFFFFFF);
   static const Color black = Color(0xFF000000);
@@ -16,7 +20,7 @@ class AppColors {
   static const Color lightGray = Color(0xFFcdcdcd);
   static const Color ultraLightGray = Color(0xFFf7f7f7);
   static const Color disabled = Color.fromARGB(255, 173, 173, 173);
-  static const Color tableGoldenLight = Color(0xFFb7a388);
+  static const Color tableGoldenLight = Color(0xFFB7A388);
   static const Color tableGoldenLight2 = Color(0xFFa18f75);
   static const Color tableGreen = Color(0xFFa1c298);
   static const Color tableGreen2 = Color.fromARGB(255, 133, 160, 125);
@@ -37,9 +41,11 @@ class TextSize {
   static double get h4 => 30;
   static double get h5 => 26;
   static double get h6 => 24;
+  static double get h7 => 22;
   static double get lg => 20;
   static double get md => 18;
   static double get sm => 14;
+  static double get sm1 => 16;
   static double get xs => 12;
   static double get def => 16;
 }
@@ -55,9 +61,11 @@ class TextHeight {
   static double get h4 => 1.2;
   static double get h5 => 1.1;
   static double get h6 => 1.3;
+  static double get h7 => 1.4;
   static double get lg => 1.3;
   static double get md => 1.3;
   static double get sm => 1.2;
+  static double get sm1 => 1.4;
   static double get xs => 1.2;
   static double get def => 1.5;
 }

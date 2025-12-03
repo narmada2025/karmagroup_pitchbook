@@ -1,15 +1,17 @@
-# Pitchbook
+# Pitchbook(Karma Group Profile)
 
 Karma Group Sales App
 
 ## Development Environment
 
-- **Flutter Version**: 3.29.1
-- **Android Studio Version**: 2024.3.1 Patch 1
+- **Flutter Version**: 3.32.4
+- **Dart SDK**: 3.8.1
+- **Android Studio Version**: 2024.3 Patch 1
 - **Android SDK Version**: 35
 - **Mac**:
-    - Xcode Version: 16.0
+    - Xcode Version: 16.3
     - CocoaPods Version: 1.16.2
+- **Firebase SDK version**: 12.0.0      
 
 For additional information, refer to the [Flutter documentation](https://docs.flutter.dev/get-started/install).
 
@@ -20,7 +22,7 @@ For additional information, refer to the [Flutter documentation](https://docs.fl
 - `assets/json`: all Page data stored in JSON files with translations
 
 - `lib/src`: All the pages code
-- `lib/config/config.dart`: YouTube API key (Not Working Fix it)
+- `lib/config/config.dart`: YouTube API key
 
 ## Running the App
 
@@ -44,7 +46,7 @@ To release the app, refer to the Flutter documentation:
 
 - Replace/fix the YouTube API key as it does not work. It is used in the "good_karma" page.
 
-## Login Details
+## Login Details(Removed Login for now)
 
 - **Username**: 000qquench
 - **Password**: qquench

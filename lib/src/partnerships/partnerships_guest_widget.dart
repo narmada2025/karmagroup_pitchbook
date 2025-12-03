@@ -20,17 +20,10 @@ class PartnershipsGuestWidget extends StatefulWidget {
 }
 
 class _PartnershipsGuestWidgetState extends State<PartnershipsGuestWidget> {
-  int _currentGuests = 0;
 
-  void _changeLogo(int index) {
-    setState(() {
-      _currentGuests = index;
-    });
-  }
 
   @override
   Widget build(BuildContext context) {
-    // print("partnershipScren============ ${widget.data['location'][_currentGuests]['celebrities']}");
     Size size = MediaQuery.of(context).size;
 
     return SizedBox(
@@ -69,7 +62,7 @@ class _PartnershipsGuestWidgetState extends State<PartnershipsGuestWidget> {
           SizedBox(
             width: size.width - 200,
             child: MasonryImageGrid(
-              imageUrls: widget.data['location'][_currentGuests]['celebrities']
+              imageUrls: widget.data['location'][0]['celebrities']
                   .map<String>((celebrity) => celebrity as String)
                   .toList(),
             ),

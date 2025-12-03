@@ -29,8 +29,6 @@ class _PartnershipReciprocalWidgetState
   int _selectedLogo = 0;
   double _scrollOffset = 0.0;
 
-  List<dynamic> _logos = [];
-
   @override
   void initState() {
     super.initState();
@@ -46,7 +44,7 @@ class _PartnershipReciprocalWidgetState
     setState(() {
       _selectedPlace = key;
       _selectedLogo = 0;
-      _logos = widget.data['slides'][_selectedPlace];
+      // _logos = widget.data['slides'][_selectedPlace];
       _pageController.animateToPage(
         0,
         duration: const Duration(milliseconds: 300),

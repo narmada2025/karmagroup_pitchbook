@@ -39,7 +39,6 @@ class _YoutubePlayerScreenState extends State<YoutubePlayerScreen> {
         : videoId;  //old one where video was not playing Narmada
 
     // final id = YoutubePlayer.convertUrlToId("https://www.youtube.com/watch?v=$videoId");
-    log("=====youtubeId $id --- ${widget.isUrl}");
     if (id.isEmpty) {
       log("[ERROR] Invalid YouTube URL: $videoId");
       return;

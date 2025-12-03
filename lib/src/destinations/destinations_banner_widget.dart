@@ -25,6 +25,10 @@ class DestinationsBannerWidget extends StatelessWidget {
         image: DecorationImage(
           image: NetworkImage('${AppAPI.baseUrlGcp}${data['image']}'),
           fit: BoxFit.cover,
+          colorFilter: ColorFilter.mode(
+            Colors.black.withAlpha((0.69 * 255).round()),
+            BlendMode.darken
+          ),
         ),
       ),
       child: Center(
@@ -41,7 +45,7 @@ class DestinationsBannerWidget extends StatelessWidget {
                     color: AppColors.secondary,
                   ),
                 ),
-                const SizedBox(height: 20),
+                SizedBox(height: size.height * 0.021),
                 FadeInScaleAnimation(
                   initScale: 2,
                   initOpacity: 0,
@@ -65,7 +69,7 @@ class DestinationsBannerWidget extends StatelessWidget {
                     ),
                   ),
                 ),
-                const SizedBox(height: 20),
+                SizedBox(height: size.height * 0.021),
                 FadeInAnimation(
                   delay: const Duration(milliseconds: 300),
                   child: Container(

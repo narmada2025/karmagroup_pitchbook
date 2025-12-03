@@ -14,11 +14,12 @@ class AwardCardWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    Size size = MediaQuery.of(context).size;
     return Column(
       children: [
-        SizedBox(height: 150, child: Image.network('${AppAPI.baseUrlGcp}${award['image']}')),
-        const SizedBox(
-          height: 15,
+        SizedBox(height: size.height * 0.18, child: Image.network('${AppAPI.baseUrlGcp}${award['image']}')),
+        SizedBox(
+          height: size.height * 0.03,
         ),
         CustomText(
           label: award['title'][lang] ?? '',
@@ -28,25 +29,25 @@ class AwardCardWidget extends StatelessWidget {
               color: AppColors.white, fontWeight: FontWeight.w500),
         ),
         Divider(
-          height: 20,
-          thickness: 1,
+          height: 15,
+          thickness: 0,
           indent: 10,
-          color: AppColors.white.withValues(alpha: 0.1),
+          color: AppColors.white.withValues(alpha: 0.0),
         ),
         CustomText(
           label: award['tag'][lang] ?? '',
           type: 'def',
           textAlign: TextAlign.center,
-          textStyle: const TextStyle(color: AppColors.white),
+          textStyle: const TextStyle(color: AppColors.lightTextColor,fontWeight: FontWeight.w300),
         ),
-        const SizedBox(
-          height: 10,
+         SizedBox(
+          height: size.height * 0.012,
         ),
         CustomText(
           label: award['name'][lang] ?? '',
-          type: 'xs',
+          type: 'sm',
           textAlign: TextAlign.center,
-          textStyle: const TextStyle(color: AppColors.secondary),
+          textStyle: const TextStyle(color: AppColors.secondary,fontWeight: FontWeight.w500),
         ),
       ],
     );

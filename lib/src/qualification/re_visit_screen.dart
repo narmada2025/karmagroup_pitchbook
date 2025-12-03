@@ -22,7 +22,7 @@ class ReVisitVietnamTab extends StatelessWidget {
 
           // Dark overlay for readability
           Container(
-            color: Colors.black.withOpacity(0.3),
+            color: Colors.black.withValues(alpha: 0.3),
           ),
 
           // Centered Text and Button

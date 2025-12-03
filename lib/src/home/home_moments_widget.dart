@@ -1,7 +1,4 @@
-import 'dart:developer';
-
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/flutter_svg.dart';
 import 'package:pitchbook/components/fade_in_animation.dart';
 import 'package:pitchbook/components/single_video_widget.dart';
 import 'package:pitchbook/components/slide_in_animation.dart';
@@ -10,6 +7,9 @@ import 'package:pitchbook/constants/app_data.dart';
 import 'package:pitchbook/constants/custom_text.dart';
 import 'package:pitchbook/constants/no_data.dart';
 import 'package:pitchbook/helpers/helper.dart';
+import 'package:youtube_player_flutter/youtube_player_flutter.dart';
+
+import '../../components/youtube_player_screen.dart';
 
 class HomeMomentsWidget extends StatefulWidget {
   final Map<String, dynamic> data;
@@ -32,7 +32,6 @@ class _HomeMomentsWidgetState extends State<HomeMomentsWidget> {
     final data = await loadJsonFromAssets(AppAPI.moments);
     setState(() {
       _goodKarmaData = data['videos'];
-      log("====_goodKarmaData  $_goodKarmaData");
     });
   }
 
@@ -74,8 +73,8 @@ class _HomeMomentsWidgetState extends State<HomeMomentsWidget> {
             decoration: BoxDecoration(
               gradient: LinearGradient(
                 colors: [
-                  AppColors.black.withValues(alpha: 0.9),
-                  AppColors.black.withValues(alpha: 0.4)
+                  AppColors.black.withValues(alpha: 0.0),
+                  AppColors.black.withValues(alpha: 0.3)
                 ],
                 begin: Alignment.centerLeft,
                 end: Alignment.centerRight,
@@ -86,7 +85,7 @@ class _HomeMomentsWidgetState extends State<HomeMomentsWidget> {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Container(
-                padding: const EdgeInsets.fromLTRB(80, 80, 80, 40),
+                padding: const EdgeInsets.fromLTRB(40, 80, 40, 40),
                 child: Column(
                   children: [
                     Row(
@@ -102,14 +101,14 @@ class _HomeMomentsWidgetState extends State<HomeMomentsWidget> {
                                 visibilityThreshold: 1,
                                 child: CustomText(
                                   label: widget.data['subTitle'][widget.lang],
-                                  type: 'h6',
+                                  type: 'h7',
                                   textStyle: const TextStyle(
                                       color: AppColors.secondary,
-                                      fontWeight: FontWeight.w500),
+                                      fontWeight: FontWeight.w400),
                                   isUppercase: true,
                                 ),
                               ),
-                              const SizedBox(height: 20),
+                              SizedBox(height: size.height * 0.022),
                               SlideInAnimation(
                                 direction: SlideDirection.right,
                                 delay: const Duration(milliseconds: 100),
@@ -117,13 +116,12 @@ class _HomeMomentsWidgetState extends State<HomeMomentsWidget> {
                                 visibilityThreshold: 1,
                                 child: CustomText(
                                   label: widget.data['title'][widget.lang],
-                                  type: 'h2',
-                                  textStyle:
-                                      const TextStyle(color: AppColors.white),
+                                  type: 'h3',
+                                  textStyle: const TextStyle(color: AppColors.white,fontWeight: FontWeight.w400),
                                   isSerif: true,
                                 ),
                               ),
-                              const SizedBox(height: 15),
+                              SizedBox(height: size.height * 0.015),
                               SlideInAnimation(
                                 direction: SlideDirection.right,
                                 delay: const Duration(milliseconds: 200),
@@ -134,10 +132,10 @@ class _HomeMomentsWidgetState extends State<HomeMomentsWidget> {
                                   textStyle: const TextStyle(
                                       color: AppColors.white,
                                       fontWeight: FontWeight.w600),
-                                  type: 'h6',
+                                  type: 'h7',
                                 ),
                               ),
-                              const SizedBox(height: 20),
+                              SizedBox(height: size.height * 0.022),
                               SlideInAnimation(
                                 direction: SlideDirection.right,
                                 delay: const Duration(milliseconds: 300),
@@ -146,51 +144,25 @@ class _HomeMomentsWidgetState extends State<HomeMomentsWidget> {
                                 child: CustomText(
                                   label: widget.data['description']
                                       [widget.lang],
-                                  textStyle:
-                                      const TextStyle(color: AppColors.white),
-                                ),
-                              ),
-                              const SizedBox(height: 20),
-                              SlideInAnimation(
-                                direction: SlideDirection.right,
-                                delay: const Duration(milliseconds: 400),
-                                distance: 0.2,
-                                visibilityThreshold: 1,
-                                child: SizedBox(
-                                  width: 200,
-                                  child: Row(
-                                    children: [
-                                      SvgPicture.asset(
-                                        AppIcons.calendarIcon,
-                                        width: 30,
-                                        fit: BoxFit.contain,
-                                        semanticsLabel: 'calendar',
-                                        placeholderBuilder: (context) =>
-                                            const CircularProgressIndicator(),
-                                      ),
-                                      const SizedBox(width: 16),
-                                      CustomText(
-                                        label: widget.data['date'][widget.lang],
-                                        textStyle: const TextStyle(
-                                            color: AppColors.secondary),
-                                      ),
-                                    ],
-                                  ),
+                                  textStyle: const TextStyle(color: AppColors.white,fontWeight: FontWeight.w400),
                                 ),
                               ),
                             ],
                           ),
                         ),
+
+                        //Play Video
                         Flexible(
-                          flex: 3,
+                          flex: 5,
                           child: FadeInAnimation(
                             child: Center(
                               child: IconButton(
                                 onPressed: () {
-                                  SingleVideoWidget(
-                                    videoUrl: videoUrl,
-                                    coverImage: coverImage,
-                                  ).showVideoDialog(context);
+                                  _showDialog(context);
+                                  // SingleVideoWidget(
+                                  //   videoUrl: videoUrl,
+                                  //   coverImage: coverImage,
+                                  // ).showVideoDialog(context);
                                 },
                                 icon: const Icon(
                                   Icons.play_circle_fill_outlined,
@@ -206,6 +178,7 @@ class _HomeMomentsWidgetState extends State<HomeMomentsWidget> {
                   ],
                 ),
               ),
+              SizedBox(height: size.height * 0.04),
               SlideInAnimation(
                 direction: SlideDirection.right,
                 delay: const Duration(milliseconds: 500),
@@ -214,7 +187,7 @@ class _HomeMomentsWidgetState extends State<HomeMomentsWidget> {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     Padding(
-                      padding: const EdgeInsets.only(left: 70),
+                      padding: const EdgeInsets.only(left: 43),
                       child: CustomText(
                         label: widget.data['videosTitle'][widget.lang],
                         type: 'h5',
@@ -223,7 +196,7 @@ class _HomeMomentsWidgetState extends State<HomeMomentsWidget> {
                             fontWeight: FontWeight.w600),
                       ),
                     ),
-                    const SizedBox(height: 20),
+                    SizedBox(height: size.height * 0.021),
                     _goodKarmaData.isNotEmpty
                         ? VideoGridTitleWidget(
                             key: const ValueKey('moments'),
@@ -231,14 +204,14 @@ class _HomeMomentsWidgetState extends State<HomeMomentsWidget> {
                             lang: widget.lang,
                             columns: 3,
                             gap: 20,
-                            scrollGapX: 55,
+                            scrollGapX: 26,
                             useGrid: false,
                             gridRatio: 3 / 2,
                             initialItemCount: 9,
                             loadMoreCount: 9,
                             textAlign: Alignment.bottomCenter,
                             titleBoxPadding:
-                                const EdgeInsets.fromLTRB(20, 15, 20, 15),
+                                const EdgeInsets.fromLTRB(0, 15, 20, 15),
                             titleBoxDecoration: const BoxDecoration(
                               color: Color.fromARGB(71, 0, 0, 0),
                             ),
@@ -253,4 +226,90 @@ class _HomeMomentsWidgetState extends State<HomeMomentsWidget> {
       ),
     );
   }
+
+  void _showDialog(BuildContext context) {
+    Size size = MediaQuery.of(context).size;
+
+    showDialog(
+      barrierColor: AppColors.black.withValues(alpha: .8),
+      context: context,
+      builder: (BuildContext context) {
+        return StatefulBuilder(
+          builder: (BuildContext context, StateSetter setState) {
+            return Center(
+              child: Stack(
+                children: [
+                Container(
+                width: size.width,
+                padding: const EdgeInsets.symmetric(horizontal: 0),
+                child: SingleChildScrollView(
+                  child: SizedBox(
+                    width: size.width * 0.5,
+                    child: Column(
+                      children: [
+                        // Header text
+                        Container(
+                          width: size.width,
+                          alignment: Alignment.center,
+                          child: CustomText(
+                            label: widget.data['title'][widget.lang],
+                            type: 'h5',
+                            isSerif: true,
+                            maxLines: 2,
+                            textAlign: TextAlign.center,
+                            textStyle: const TextStyle(color: AppColors.white),
+                          ),
+                        ),
+
+                        SizedBox(height: size.height * 0.025),
+
+                        // YouTube player
+                        Center(
+                          child: SizedBox(
+                            width: size.width,
+                            child: AspectRatio(
+                              aspectRatio: 16 / 9,
+                              child: ClipRRect(
+                                borderRadius: BorderRadius.circular(10),
+                                child: YoutubePlayerScreen(
+                                  videoId: YoutubePlayer.convertUrlToId(
+                                      widget.data["media"]['videoUrl']) ??
+                                      YoutubePlayer.convertUrlToId("GqsFT52pcTc")!,
+                                ),
+                              ),
+                            ),
+                          ),
+                        ),
+
+                        SizedBox(height: size.height * 0.031),
+                      ],
+                    ),
+                  ),
+                ),
+              ),
+
+
+              Positioned(
+                    top: 10,
+                    right: 30,
+                    child: IconButton(
+                      icon: const Icon(
+                        Icons.close,
+                        color: AppColors.white,
+                        size: 30,
+                      ),
+                      onPressed: () {
+                        Navigator.of(context).pop();
+                      },
+                    ),
+                  ),
+                ],
+              ),
+            );
+          },
+        );
+      },
+    );
+  }
+
 }

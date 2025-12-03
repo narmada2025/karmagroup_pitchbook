@@ -1,7 +1,7 @@
 name: pitchbook
 description: "Karma Group Pitchbook App"
 publish_to: "none" # Remove this line if you wish to publish to pub.dev
-version: 1.0.8+1
+version: 1.0.9+5
 
 environment:
   sdk: ^3.5.4
@@ -12,7 +12,7 @@ dependencies:
   cupertino_icons: ^1.0.8
   dotted_line: ^3.2.2
   firebase_core: ^4.0.0
-  firebase_storage: ^13.0.0
+  firebase_storage: ^13.0.4
   flutter:
     sdk: flutter
   flutter_inappwebview: ^6.1.5
@@ -49,11 +49,9 @@ flutter:
   assets:
     - assets/
     - assets/icons/
+    - assets/icons/community/
     - assets/interface/
     - assets/json/
-    - assets/doc/
-    - assets/doc/guest-exp/
-    - assets/doc/fractional-ownership/
     - assets/images/
 
   fonts:

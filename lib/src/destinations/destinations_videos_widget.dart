@@ -27,7 +27,6 @@ class _DestinationsVideoWidgetState extends State<DestinationsVideoWidget> {
 
     Locale locale = Localizations.localeOf(context);
     String lang = locale.languageCode;
-    // print('======destinationVideooss \n ----${widget.args}-\n--${widget.args['assets']}');
 
     return Scaffold(
       backgroundColor: AppColors.black,
@@ -50,6 +49,7 @@ class _DestinationsVideoWidgetState extends State<DestinationsVideoWidget> {
                           gap: 20,
                           scrollGapX: 0,
                           useGrid: true,
+                          isYoutube: false,
                           initialItemCount: 9,
                           loadMoreCount: 9,
                           textAlign: Alignment.bottomCenter,

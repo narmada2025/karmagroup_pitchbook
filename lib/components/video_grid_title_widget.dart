@@ -8,7 +8,8 @@ import 'package:pitchbook/constants/app_data.dart';
 import 'package:pitchbook/constants/custom_btn.dart';
 import 'package:pitchbook/constants/custom_text.dart';
 import 'package:youtube_player_flutter/youtube_player_flutter.dart';
-import 'dart:developer' as devloper;
+
+import '../src/destinations/videos_fullscreen_view_widget.dart';
 
 
 class VideoGridTitleWidget extends StatefulWidget {
@@ -90,7 +91,6 @@ class _VideoGridTitleWidgetState extends State<VideoGridTitleWidget> {
   void extractVideoUrls() {
     setState(() {
       _videoUrls = widget.data.map<String>((video) => video['video'].toString()).toList();
-      // devloper.log("_videoUrls ==== ${_videoUrls}");
       _videoCovers =
           widget.data.map<String>((video) => video['cover'].toString()).toList();
       _videoTitles = widget.data.map<String>((video) {
@@ -140,7 +140,15 @@ class _VideoGridTitleWidgetState extends State<VideoGridTitleWidget> {
                       };
                       return GestureDetector(
                         onTap: () {
-                          _showDialog(context, entry.key);
+                          widget.isYoutube?
+                          _showDialog(context, entry.key)
+                          :
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                              builder: (context) =>VideoFullScreenView(videoUrl:entry.value, index: videoIndex, data: widget.data, initialItemCount: widget.initialItemCount, isYoutube: widget.isYoutube,isUrl: widget.isUrl),
+                            ),
+                          );
                         },
                         child: VideoItemWidget(
                           videoData: videoData,
@@ -189,7 +197,14 @@ class _VideoGridTitleWidgetState extends State<VideoGridTitleWidget> {
                     };
                     return GestureDetector(
                       onTap: () {
-                        _showDialog(context, entry.key);
+                        widget.isYoutube?
+                        _showDialog(context, entry.key)
+                       : Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (context) =>VideoFullScreenView(videoUrl:entry.value, index: videoIndex, data: widget.data, initialItemCount: widget.initialItemCount, isYoutube: widget.isYoutube,isUrl: widget.isUrl),
+                          ),
+                        );
                       },
                       child: VideoItemWidget(
                         videoData: videoData,
@@ -213,7 +228,6 @@ class _VideoGridTitleWidgetState extends State<VideoGridTitleWidget> {
 
   void _showDialog(BuildContext context, int index) {
     Size size = MediaQuery.of(context).size;
-    devloper.log("======widget.isYoutube ${widget.isYoutube}");
 
     showDialog(
       barrierColor: AppColors.black.withValues(alpha: .8),
@@ -230,25 +244,25 @@ class _VideoGridTitleWidgetState extends State<VideoGridTitleWidget> {
                     padding: const EdgeInsets.symmetric(horizontal: 20),
                     child: Row(
                       children: [
-                        Flexible(
-                          flex: 1,
-                          child: IconButton(
-                            onPressed: () {
-                              if (currentIndex > 0) {
-                                setState(() {
-                                  currentIndex--;
-                                });
-                              }
-                            },
-                            icon: Icon(
-                              Icons.arrow_circle_left_rounded,
-                              color: currentIndex > 0
-                                  ? AppColors.white
-                                  : AppColors.disabled,
-                              size: 40,
+                          Flexible(
+                            flex: 1,
+                            child: IconButton(
+                              onPressed: () {
+                                if (currentIndex > 0) {
+                                  setState(() {
+                                    currentIndex--;
+                                  });
+                                }
+                              },
+                              icon: Icon(
+                                Icons.arrow_circle_left_rounded,
+                                color: currentIndex > 0
+                                    ? AppColors.white
+                                    : AppColors.disabled,
+                                size: 40,
+                              ),
                             ),
                           ),
-                        ),
                         SizedBox(
                           width: size.width * 0.88,
                           child: Column(
@@ -270,10 +284,12 @@ class _VideoGridTitleWidgetState extends State<VideoGridTitleWidget> {
                                       const TextStyle(color: AppColors.white),
                                 ),
                               ),
+
+                              //display Video player
                               Expanded(
                                 child: Container(
-                                  padding:
-                                      const EdgeInsets.fromLTRB(40, 20, 40, 20),
+                                  // padding:
+                                  //     const EdgeInsets.fromLTRB(40, 20, 40, 20),
                                   height: size.height,
                                   alignment: Alignment.center,
                                   child: widget.isYoutube
@@ -289,6 +305,7 @@ class _VideoGridTitleWidgetState extends State<VideoGridTitleWidget> {
                                         ),
                                 ),
                               ),
+
                               CustomText(
                                 label:
                                     '${currentIndex + 1} of ${_videoUrls.length}',
@@ -296,7 +313,7 @@ class _VideoGridTitleWidgetState extends State<VideoGridTitleWidget> {
                                   color: AppColors.white,
                                 ),
                               ),
-                              const SizedBox(height: 20),
+                              SizedBox(height: size.height * 0.021),
                             ],
                           ),
                         ),

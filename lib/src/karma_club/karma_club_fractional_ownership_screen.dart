@@ -47,29 +47,44 @@ class _KarmaClubFractionalOwnershipScreenState
 
     Size size = MediaQuery.of(context).size;
 
-    void onTapped(String? assetPath, Map<String, dynamic> title) async {
-      if (assetPath == null || assetPath.isEmpty) {
+
+    void onTapped(String path, Map<String, dynamic> title) async {
+      final nav = Navigator.of(context);
+      final lang = Localizations.localeOf(context).languageCode;
+      final failedMsg = tr(context, 'Failed to load PDF', lang);
+
+      try {
+        String finalPath;
+
+        if (path.startsWith('http')) {
+          finalPath = path;
+        } else if (path.endsWith('.pdf')) {
+          finalPath = '${AppAPI.baseUrlGcp}$path';
+        } else {
+          // This is the async gap
+          finalPath = await loadPdfFromAssets(path);
+        }
+
+        // ✅ Guard context after async gap
+        if (!context.mounted) return;
+
+        nav.push(
+          MaterialPageRoute(
+            builder: (context) => PdfScreen(
+              pdfPath: finalPath,
+              title: title,
+            ),
+          ),
+        );
+      } catch (e) {
+        if (!context.mounted) return;
         CustomSnackBar(
-          message: tr(context, 'errors.Content not available', lang),
+          message: '$failedMsg: $e',
           context: context,
         );
-        return;
-      } else {
-        try {
-          String pdfPath = await loadPdfFromAssets(assetPath);
-          Navigator.of(context).push(
-            MaterialPageRoute(
-              builder: (context) => PdfScreen(pdfPath: pdfPath, title: title),
-            ),
-          );
-        } catch (e) {
-          CustomSnackBar(
-            message: '${tr(context, 'Failed to load PDF', lang)}: $e',
-            context: context,
-          );
-        }
       }
     }
+
 
     return Scaffold(
       backgroundColor: AppColors.black,

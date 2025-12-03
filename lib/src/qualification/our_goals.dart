@@ -1,8 +1,5 @@
 import 'dart:ui';
-
 import 'package:flutter/material.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-
 import '../../constants/app_data.dart';
 
 class OurGoalsPage extends StatefulWidget {
@@ -76,9 +73,9 @@ class _OurGoalsPageState extends State<OurGoalsPage> {
                     filter: ImageFilter.blur(sigmaX: 2, sigmaY: 2),
                     child: Container(
                         decoration: BoxDecoration(
-                          color: Colors.black.withOpacity(0.4), // semi-transparent overlay
+                          color: Colors.black.withValues(alpha: 0.4), // semi-transparent overlay
                           borderRadius: BorderRadius.circular(50),
-                          border: Border.all(color: Colors.black.withOpacity(0.1), width: 0),
+                          border: Border.all(color: Colors.black.withValues(alpha: 0.1), width: 0),
                         ),
                         child: _buildTabContent()),
                   ),
@@ -218,14 +215,14 @@ class _GoalItem extends StatelessWidget {
           colors: [Color(0xFFB87333), Colors.transparent],
           radius: 0.8,
         ),
-        border: Border.all(color: Colors.orangeAccent.withOpacity(0.7), width: 2),
+        border: Border.all(color: Colors.orangeAccent.withValues(alpha: 0.7), width: 2),
       ),
       child: Container(
         margin: const EdgeInsets.all(3), // thickness of the border
         decoration: BoxDecoration(
           shape: BoxShape.circle,
           // Inner background color (optional)
-          color: Colors.black.withOpacity(0.5),
+          color: Colors.black.withValues(alpha: 0.5),
           // Gradient border using ShaderMask trick
           border: Border.all(
             width: 3,

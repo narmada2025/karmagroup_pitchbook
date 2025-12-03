@@ -28,7 +28,7 @@ class SingleVideoWidget extends StatelessWidget {
           borderRadius: BorderRadius.circular(10),
           image: DecorationImage(
             image: _getCoverImage(),
-            fit: BoxFit.cover,
+            fit: BoxFit.fill,
           ),
         ),
         child: showIcon

@@ -105,8 +105,6 @@ class _AppWrapperState extends State<AppWrapper> with WidgetsBindingObserver {
   Widget build(BuildContext context) {
     Size size = MediaQuery.of(context).size;
 
-    print("Height: ${size.height}, Width: ${size.width}");
-
     return FutureBuilder<void>(
       future: _stateLoaded,
       builder: (BuildContext context, AsyncSnapshot<void> snapshot) {

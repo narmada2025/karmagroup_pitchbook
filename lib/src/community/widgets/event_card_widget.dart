@@ -12,10 +12,10 @@ class EventCardWidget extends StatelessWidget {
   final double width;
   final double height;
   final double radius;
-  final String isSold;
+  final String? isSold;
   final String location;
   final VoidCallback onTap;
-  final String isLastSpot;
+  final String? isLastSpot;
 
   const EventCardWidget({
     super.key,
@@ -148,7 +148,7 @@ class EventCardWidget extends StatelessWidget {
                   crossAxisAlignment: WrapCrossAlignment.center,
                   spacing: 6,
                   children: [
-                    Image.network("${AppAPI.baseUrlGcp}${'assets/images/lastspot.png'}",height: 17),
+                    Image.asset("assets/images/lastspot.png",height: 17),
                     const CustomText(
                       label: 'Last Spots',
                       type: 'xs',

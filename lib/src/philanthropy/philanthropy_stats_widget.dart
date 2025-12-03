@@ -19,13 +19,6 @@ class PhilanthropyStatsWidget extends StatefulWidget {
 }
 
 class _PhilanthropyStatsWidgetState extends State<PhilanthropyStatsWidget> {
-  int _selectedCountry = 0;
-
-  _changeCountry(int index) {
-    setState(() {
-      _selectedCountry = index;
-    });
-  }
 
   @override
   Widget build(BuildContext context) {
@@ -72,7 +65,7 @@ class _PhilanthropyStatsWidgetState extends State<PhilanthropyStatsWidget> {
                 spacing: 20,
                 runSpacing: 20,
                 direction: Axis.horizontal,
-                children: widget.data['stats'][_selectedCountry]['data']
+                children: widget.data['stats'][0]['data']
                     .map<Widget>((entry) {
                   return SlideInAnimation(
                     visibilityThreshold: 0.3,

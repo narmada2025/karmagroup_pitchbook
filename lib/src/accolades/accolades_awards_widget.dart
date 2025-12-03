@@ -56,14 +56,21 @@ class _AccoladesAwardsWidgetState extends State<AccoladesAwardsWidget> {
     }
     return items;
   }
-  
+
   @override
   Widget build(BuildContext context) {
     Size size = MediaQuery.of(context).size;
 
+    final yearAwards = _selectedYear == 'all'
+        ? null
+        : widget.data['awards'][_selectedYear];
+
+    bool isValidYearAwards =
+        yearAwards is Map<String, dynamic> && yearAwards.isNotEmpty;
+
     return Container(
       width: size.width,
-      padding: const EdgeInsets.fromLTRB(60, 80, 60, 0),
+      padding: const EdgeInsets.fromLTRB(60, 80, 60, 60),
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
@@ -80,7 +87,9 @@ class _AccoladesAwardsWidgetState extends State<AccoladesAwardsWidget> {
               ),
             ),
           ),
-          const SizedBox(height: 20),
+
+          SizedBox(height: size.height * 0.02),
+
           FadeInAnimation(
             visibilityThreshold: 1,
             child: SizedBox(
@@ -92,74 +101,81 @@ class _AccoladesAwardsWidgetState extends State<AccoladesAwardsWidget> {
               ),
             ),
           ),
-          const SizedBox(height: 60),
+
+          SizedBox(height: size.height * 0.06),
+
           FadeInAnimation(
             visibilityThreshold: 1,
-            child: Column(
-              children: [
-                Container(
-                  padding: const EdgeInsets.fromLTRB(30, 20, 30, 20),
-                  decoration: BoxDecoration(
-                      border: Border.all(
-                        color: AppColors.primary,
-                        width: 0.5,
+            child: Container(
+              padding: const EdgeInsets.fromLTRB(30, 20, 30, 20),
+              decoration: BoxDecoration(
+                border: Border.all(color: AppColors.primary, width: 0.5),
+                borderRadius: BorderRadius.circular(10),
+              ),
+              child: Wrap(
+                direction: Axis.horizontal,
+                spacing: 20,
+                runSpacing: 5,
+                children: [
+                  InkWell(
+                    onTap: () => _changeYear('all'),
+                    child: Container(
+                      padding: const EdgeInsets.symmetric(vertical: 6),
+                      decoration: BoxDecoration(
+                        border: Border(
+                          bottom: BorderSide(
+                            color: _selectedYear == 'all'
+                                ? AppColors.white
+                                : Colors.transparent,
+                          ),
+                        ),
                       ),
-                      borderRadius: BorderRadius.circular(10)),
-                  child: Wrap(
-                      direction: Axis.horizontal,
-                      spacing: 20,
-                      runSpacing: 5,
-                      children: [
-                        InkWell(
-                          onTap: () => _changeYear('all'),
-                          child: Container(
-                            padding: const EdgeInsets.symmetric(vertical: 6),
-                            decoration: BoxDecoration(
-                                border: Border(
-                                    bottom: BorderSide(
-                                        color: _selectedYear == 'all'
-                                            ? AppColors.white
-                                            : Colors.transparent))),
-                            child: CustomText(
-                              label: widget.data['all'][widget.lang],
-                              type: 'md',
-                              textStyle: _selectedYear == 'all'
-                                  ? const TextStyle(color: AppColors.white)
-                                  : const TextStyle(color: AppColors.primary),
+                      child: CustomText(
+                        label: widget.data['all'][widget.lang],
+                        type: 'md',
+                        textStyle: TextStyle(
+                          color: _selectedYear == 'all'
+                              ? AppColors.white
+                              : AppColors.primary,
+                        ),
+                      ),
+                    ),
+                  ),
+
+                  // Dynamic years
+                  ...widget.data['awards'].keys.map((year) {
+                    return InkWell(
+                      onTap: () => _changeYear(year),
+                      child: Container(
+                        padding: const EdgeInsets.symmetric(vertical: 6),
+                        decoration: BoxDecoration(
+                          border: Border(
+                            bottom: BorderSide(
+                              color: _selectedYear == year
+                                  ? AppColors.white
+                                  : Colors.transparent,
                             ),
                           ),
                         ),
-                        ...widget.data['awards'].keys
-                            .toList()
-                            .asMap()
-                            .entries
-                            .map<Widget>((entry) {
-                          return InkWell(
-                            onTap: () => _changeYear(entry.value),
-                            child: Container(
-                              padding: const EdgeInsets.symmetric(vertical: 6),
-                              decoration: BoxDecoration(
-                                  border: Border(
-                                      bottom: BorderSide(
-                                          color: _selectedYear == entry.value
-                                              ? AppColors.white
-                                              : Colors.transparent))),
-                              child: CustomText(
-                                label: entry.value,
-                                type: 'md',
-                                textStyle: _selectedYear == entry.value
-                                    ? const TextStyle(color: AppColors.white)
-                                    : const TextStyle(color: AppColors.primary),
-                              ),
-                            ),
-                          );
-                        }),
-                      ]),
-                ),
-              ],
+                        child: CustomText(
+                          label: year,
+                          type: 'md',
+                          textStyle: TextStyle(
+                            color: _selectedYear == year
+                                ? AppColors.white
+                                : AppColors.primary,
+                          ),
+                        ),
+                      ),
+                    );
+                  }),
+                ],
+              ),
             ),
           ),
-          const SizedBox(height: 80),
+
+          SizedBox(height: size.height * 0.08),
+
           FadeInAnimation(
             visibilityThreshold: 1,
             child: CustomText(
@@ -170,39 +186,45 @@ class _AccoladesAwardsWidgetState extends State<AccoladesAwardsWidget> {
               isSerif: true,
             ),
           ),
-          const SizedBox(height: 80),
+
+          SizedBox(height: size.height * 0.08),
+
           if (_selectedYear != 'all')
             Wrap(
               direction: Axis.horizontal,
               spacing: 40,
               runSpacing: 80,
-              children: widget.data['awards'][_selectedYear] != null
-                  ? widget.data['awards'][_selectedYear]
-                      .asMap()
-                      .entries
-                      .map<Widget>((entry) {
-                      return FadeInAnimation(
-                        visibilityThreshold: 0.3,
-                        child: SizedBox(
-                          width: (size.width - 200) / 4.5,
-                          child: AwardCardWidget(
-                            award: entry.value,
-                            lang: widget.lang,
-                          ),
-                        ),
-                      );
-                    }).toList()
+              children: isValidYearAwards &&
+                  yearAwards.containsKey('awardsList') &&
+                  yearAwards['awardsList'] is List
+                  ? (yearAwards['awardsList'] as List)
+                  .map<Widget>(
+                    (award) => FadeInAnimation(
+                  visibilityThreshold: 0.3,
+                  child: SizedBox(
+                    width: (size.width - 200) / 4.5,
+                    child: AwardCardWidget(
+                      award: award,
+                      lang: widget.lang,
+                    ),
+                  ),
+                ),
+              )
+                  .toList()
                   : [
-                      NoData(
-                        title: 'No Awards for $_selectedYear ',
-                      )
-                    ],
+                NoData(title: 'No Awards for $_selectedYear'),
+              ],
             ),
+
           if (_selectedYear == 'all')
             Column(
               children: widget.data['awards'].keys.map<Widget>((year) {
+                final yData = widget.data['awards'][year];
+
                 return Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
+                    // Year title
                     FadeInAnimation(
                       visibilityThreshold: 1,
                       child: Row(
@@ -210,8 +232,8 @@ class _AccoladesAwardsWidgetState extends State<AccoladesAwardsWidget> {
                           CustomText(
                             label: year,
                             type: 'h3',
-                            textStyle: const TextStyle(color: AppColors.white),
-                            textAlign: TextAlign.center,
+                            textStyle:
+                            const TextStyle(color: AppColors.white),
                             isSerif: true,
                           ),
                           const SizedBox(width: 20),
@@ -221,63 +243,72 @@ class _AccoladesAwardsWidgetState extends State<AccoladesAwardsWidget> {
                               height: 1,
                               color: AppColors.primary,
                             ),
-                          )
+                          ),
                         ],
                       ),
                     ),
-                    const SizedBox(height: 30),
-                    Wrap(
-                    direction: Axis.horizontal,
-                    spacing: 40,
-                    runSpacing: 80,
-                    children: (widget.data['awards'][year]['awardsList'] as List)
-                        .asMap()
-                        .entries
-                        .map<Widget>((entry) {
-                    final award = entry.value;
-                    return FadeInAnimation(
-                    visibilityThreshold: 0.3,
-                    child: SizedBox(
-                    width: (size.width - 200) / 4.5,
-                    child: AwardCardWidget(
-                    award: award,
-                    lang: widget.lang,
-                    ),
-                    ),
-                    );
-                    })
-                        .toList(),
-                    ),
 
-                    //Tripadvisor
-                    widget.data['awards'][year]['tripImage'] ==""?Container():FadeInAnimation(
-                      visibilityThreshold: 0.3,
-                       child: Column(
-                        crossAxisAlignment: CrossAxisAlignment.center,
-                        children: [
-                          const SizedBox(height: 30),
-                          Image.network('${AppAPI.baseUrlGcp}${widget.data['awards'][year]['tripImage']}'),
-                          const SizedBox(height: 40),
-                          // Resorts list
-                          Wrap(
-                            alignment: WrapAlignment.center,
-                            spacing: 8,
-                            runSpacing: 8,
-                            children: _buildAwardText(widget.data['awards'][year]['tripAdvisorList'])
+                    const SizedBox(height: 30),
+
+                    // AwardsList
+                    if (yData is Map &&
+                        yData['awardsList'] is List &&
+                        yData['awardsList'].isNotEmpty)
+                      Wrap(
+                        spacing: 40,
+                        runSpacing: 80,
+                        children: (yData['awardsList'] as List)
+                            .map<Widget>(
+                              (award) => FadeInAnimation(
+                            visibilityThreshold: 0.3,
+                            child: SizedBox(
+                              width: (size.width - 200) / 4.5,
+                              child: AwardCardWidget(
+                                award: award,
+                                lang: widget.lang,
+                              ),
+                            ),
                           ),
-                        ],
+                        )
+                            .toList(),
+                      ),
+
+                    // Tripadvisor
+                    if (yData is Map &&
+                        yData['tripImage'] != null &&
+                        yData['tripImage'] != "")
+                      FadeInAnimation(
+                        visibilityThreshold: 0.3,
+                        child: Column(
+                          children: [
+                            const SizedBox(height: 30),
+                            Image.network(
+                              '${AppAPI.baseUrlGcp}${yData['tripImage']}',
+                            ),
+                            const SizedBox(height: 40),
+                            Wrap(
+                              alignment: WrapAlignment.center,
+                              spacing: 8,
+                              runSpacing: 8,
+                              children: _buildAwardText(
+                                yData['tripAdvisorList'] ?? [],
+                              ),
+                            ),
+                          ],
                         ),
-                     ),
-                    const SizedBox(height: 80),
+                      ),
                   ],
                 );
               }).toList(),
             ),
-          const SizedBox(height: 80),
+
+          SizedBox(height: size.height * 0.08),
         ],
       ),
     );
   }
+
+
 }
 
 

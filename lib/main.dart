@@ -10,7 +10,6 @@ import 'package:pitchbook/src/app_launcher.dart';
 import 'package:pitchbook/src/app_locatizations.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-import 'Qualification.dart';
 import 'firebase_options.dart';
 
 void main() async {
@@ -89,7 +88,7 @@ class _MyAppState extends State<MyApp> with WidgetsBindingObserver {
   Widget build(BuildContext context) {
     return MaterialApp(
       theme: ThemeData(
-        useMaterial3: true,
+        useMaterial3: true
       ),
       locale: _locale,
       localizationsDelegates: const [

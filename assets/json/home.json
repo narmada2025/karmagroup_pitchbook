@@ -7,10 +7,10 @@
             "id": "Kelompok Karma"
         },
         "title": {
-            "en": "Welcome to Karma",
-            "de": "Willkommen bei Karma",
-            "fr": "Bienvenue chez Karma",
-            "id": "Selamat datang di Karma"
+            "en": "Curated Lifestyle Experiences",
+            "de": "Ausgewählte Lifestyle-Erlebnisse",
+            "fr": "Expériences de style de vie sélectionnées avec soin",
+            "id": "Pengalaman Gaya Hidup yang Dikurasi"
         },
         "video": "assets/images/home/Karma_Group_Brand_Video.mp4"
     },
@@ -22,19 +22,13 @@
             "id": "Kami menciptakan...  Pengalaman"
         },
         "description": {
-            "en": "Karma Group, a global travel and lifestyle brand, creates extraordinary experiences in 41 stunning locations worldwide. From lavish spas to vibrant beach parties, Karma caters to five-star travellers. Dive into hedonistic experiences – swim with dolphins, party at beach clubs, or rejuvenate at award-winning spas. Discover a world of luxury, ski slopes, or underwater adventures with Karma Group.",
-            "de": "Die Karma Group, eine globale Reise- und Lifestyle-Marke, schafft außergewöhnliche Erlebnisse an 41 atemberaubenden Orten weltweit. Von großzügigen Spas bis hin zu lebhaften Strandpartys richtet sich Karma an Fünf-Sterne-Reisende. Tauchen Sie ein in hedonistische Erlebnisse – schwimmen Sie mit Delfinen, feiern Sie in Strandclubs oder erholen Sie sich in preisgekrönten Spas. Entdecken Sie mit der Karma Group eine Welt voller Luxus, Skipisten oder Unterwasserabenteuer.",
-            "fr": "Karma Group, une marque mondiale de voyage et de style de vie, crée des expériences extraordinaires dans 41 endroits époustouflants à travers le monde. Des spas somptueux aux fêtes animées sur la plage, Karma s’adresse aux voyageurs cinq étoiles. Plongez dans des expériences hédonistes : nagez avec les dauphins, faites la fête dans les clubs de plage ou ressourcez-vous dans des spas primés. Découvrez un monde de luxe, de pistes de ski ou d’aventures sous-marines avec Karma Group.",
-            "id": "Karma Group, merek perjalanan dan gaya hidup global, menciptakan pengalaman luar biasa di 41 lokasi menakjubkan di seluruh dunia. Dari spa mewah hingga pesta pantai yang semarak, Karma melayani wisatawan bintang lima. Selami pengalaman hedonistik – berenang bersama lumba-lumba, berpesta di klub pantai, atau meremajakan diri di spa pemenang penghargaan. Temukan dunia kemewahan, lereng ski, atau petualangan bawah laut bersama Karma Group."
-        },
-        "question": {
-            "en": "What will your Karma experience be?",
-            "de": "Wie wird deine Karma-Erfahrung aussehen?",
-            "fr": "Quelle sera votre expérience Karma ?",
-            "id": "Apa pengalaman Karma Anda?"
+            "en": "Karma Group is an award-winning international private members club offering extraordinary travel & lifestyle experiences \nin the world’s most desirable destinations. Now you can discover the world of Karma with Karma Club - \nan exclusive membership that provides privileged access to a global portfolio of 41 luxury resorts, fine-dining venues, \naward-winning spas, invitation-only gatherings, world-class sporting events and unforgettable destination experiences. \nAll mirroring Karma Group’s brand philosophy of high end hedonism, entertainment and laid back barefoot luxury. \n#ExperienceKarma",
+            "de": "Die Karma Group ist ein preisgekrönter, internationaler Privatclub, der außergewöhnliche Reise- und Lifestyle-Erlebnisse an den begehrtesten Reisezielen der Welt bietet. Entdecken Sie jetzt die Welt von Karma mit dem Karma Club – einer exklusiven Mitgliedschaft, die Ihnen privilegierten Zugang zu einem globalen Portfolio von 41 Luxusresorts, Gourmetrestaurants, preisgekrönten Spas, exklusiven Veranstaltungen, Weltklasse-Sportevents und unvergesslichen Erlebnissen bietet. All dies spiegelt die Markenphilosophie der Karma Group wider: gehobener Hedonismus, erstklassige Unterhaltung und entspannter Luxus. #ExperienceKarma",
+            "fr": "Karma Group adalah klub anggota pribadi internasional peraih penghargaan yang menawarkan pengalaman perjalanan & gaya hidup luar biasa\ndi destinasi-destinasi paling diminati di dunia. Kini Anda dapat menjelajahi dunia Karma bersama Karma Club -\nkeanggotaan eksklusif yang memberikan akses istimewa ke portofolio global 41 resor mewah, tempat makan mewah,\nspa peraih penghargaan, pertemuan khusus undangan, acara olahraga kelas dunia, dan pengalaman destinasi tak terlupakan.\nSemuanya mencerminkan filosofi merek Karma Group yang mengutamakan hedonisme kelas atas, hiburan, dan kemewahan yang santai.\n#ExperienceKarma",
+            "id": "Karma Group adalah klub anggota pribadi internasional peraih penghargaan yang menawarkan pengalaman perjalanan & gaya hidup luar biasa\ndi destinasi-destinasi paling diminati di dunia. Kini Anda dapat menjelajahi dunia Karma bersama Karma Club -\nkeanggotaan eksklusif yang memberikan akses istimewa ke portofolio global 41 resor mewah, tempat makan mewah,\nspa peraih penghargaan, pertemuan khusus undangan, acara olahraga kelas dunia, dan pengalaman destinasi tak terlupakan.\nSemuanya mencerminkan filosofi merek Karma Group yang mengutamakan hedonisme kelas atas, hiburan, dan kemewahan yang santai.\n#ExperienceKarma"
         },
         "Title2": {
-            "en": "Chairman’s Story",
+            "en": "Chairman’s\nStory",
             "de": "Die Geschichte des Vorsitzenden",
             "fr": "Histoire du président",
             "id": "Kisah Ketua"
@@ -73,7 +67,7 @@
         }
     },
     "philanthropy": {
-        "stat_image": "assets/images/home/stat_bg.jpg",
+        "stat_image": "assets/images/home/stat_bg.png",
         "title": {
             "en": "Philanthropy",
             "de": "Menschenliebe",
@@ -201,7 +195,7 @@
     "moments": {
         "media": {
             "videoUrl": "assets/images/home/Karma_Group_Brand_Video.mp4",
-            "coverImage": "assets/images/home/karma_moments_bg.jpg"
+            "coverImage": "assets/images/home/karma_moments_bg.png"
         },
         "subTitle": {
             "en": "Karma Moments",

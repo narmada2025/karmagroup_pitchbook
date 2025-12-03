@@ -10,6 +10,8 @@ class CustomText extends StatelessWidget {
   final TextOverflow overflow;
   final TextStyle? textStyle;
   final int maxLines;
+  final double letterSpacing;
+  final FontStyle? fontStyle;
 
   const CustomText({
     super.key,
@@ -21,6 +23,8 @@ class CustomText extends StatelessWidget {
     this.textStyle,
     this.maxLines = 6,
     this.overflow = TextOverflow.ellipsis,
+    this.letterSpacing = 0.0,
+    this.fontStyle=FontStyle.normal
   });
 
   @override
@@ -69,7 +73,11 @@ class CustomText extends StatelessWidget {
         textSize = TextSize.h6;
         textHeight = TextHeight.h6;
         break;
-      case 'lg':
+      case 'h7':
+        textSize = TextSize.h7;
+        textHeight = TextHeight.h7;
+        break;
+      case 'lg': //36px
         textSize = TextSize.lg;
         textHeight = TextHeight.lg;
         break;
@@ -85,6 +93,10 @@ class CustomText extends StatelessWidget {
         textSize = TextSize.xs;
         textHeight = TextHeight.xs;
         break;
+      case 'sm1':
+        textSize = TextSize.sm1;
+        textHeight = TextHeight.sm1;
+        break;
       default:
         textSize = TextSize.def;
         textHeight = TextHeight.def;
@@ -99,6 +111,8 @@ class CustomText extends StatelessWidget {
         fontFamily: isSerif ? 'Playfair' : 'Montserrat',
         fontSize: textSize,
         height: textHeight,
+        letterSpacing: letterSpacing,
+        fontStyle: fontStyle
       ).merge(textStyle),
     );
   }

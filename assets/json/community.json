@@ -35,39 +35,39 @@
         },
         "categories" : [
             {
-                "image": "assets/images/community/curated-events/icons/Filter Category 01.svg",
+                "image": "assets/icons/community/Filter Category 01.svg",
                 "title": "Karma Fit",
                 "id": 211,
                 "mood": "haappy"
             },
             {
-                "image": "assets/images/community/curated-events/icons/Filter Category 02.svg",
+                "image": "assets/icons/community/Filter Category 02.svg",
                 "title": "Social",
                 "id": 212,
                 "mood": "sad"
             },
             {
-                "image": "assets/images/community/curated-events/icons/Filter Category 03.svg",
+                "image": "assets/icons/community/Filter Category 03.svg",
                 "title": "Food & Wine",
                 "id": 209
             },
             {
-                "image": "assets/images/community/curated-events/icons/Filter Category 04.svg",
+                "image": "assets/icons/community/Filter Category 04.svg",
                 "title": "Adventure",
                 "id": 206
             },
             {
-                "image": "assets/images/community/curated-events/icons/Filter Category 05.svg",
+                "image": "assets/icons/community/Filter Category 05.svg",
                 "title": "Unwind",
                 "id": 213
             },
             {
-                "image": "assets/images/community/curated-events/icons/Filter Category 06.svg",
+                "image": "assets/icons/community/Filter Category 06.svg",
                 "title": "Culture",
                 "id": 207
             },
             {
-                "image": "assets/images/community/curated-events/icons/Filter Category 07.svg",
+                "image": "assets/icons/community/Filter Category 07.svg",
                 "title": "House Of Karma",
                 "id": 210
             }
