@@ -39,21 +39,26 @@ android {
     }
 
     signingConfigs {
+//        release {
+//            keyAlias = keystoreProperties['keyAlias']
+//            keyPassword = keystoreProperties['keyPassword']
+//            storeFile = keystoreProperties['storeFile'] ? file(keystoreProperties['storeFile']) : null
+//            storePassword = keystoreProperties['storePassword']
+//        }
         release {
-            keyAlias = keystoreProperties['keyAlias']
-            keyPassword = keystoreProperties['keyPassword']
-            storeFile = keystoreProperties['storeFile'] ? file(keystoreProperties['storeFile']) : null
-            storePassword = keystoreProperties['storePassword']
+            keyAlias = 'upload'
+            keyPassword = 'm4%234yQ7'
+            storeFile = file('karmaclub-keystore.jks')
+            storePassword = 'm4%234yQ7'
         }
     }
 
     buildTypes {
         release {
-            // Signing with the debug keys for now, so `flutter run --release` works.
             signingConfig signingConfigs.release
             minifyEnabled false
             shrinkResources false
-            signingConfig = signingConfigs.getByName("debug")
+            signingConfig = signingConfigs.getByName("release")
         }
     }
 }
