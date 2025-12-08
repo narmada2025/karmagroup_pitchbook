@@ -50,7 +50,6 @@ Future<void> logout(BuildContext context) async {
 
 //Fetch API
 Future<dynamic> fetchAPIData(String url, {bool isMap = false}) async {
-  log("====Apiii Chairmen-Session $url");
   try {
     final response = await http.get(Uri.parse(url));
 
@@ -114,7 +113,7 @@ class PlaylistCache {
 
   Future<List<Map<String, dynamic>>> fetchPlaylistItems(
       String playlistId) async {
-    log("====playlistId $playlistId");
+
     if (_cache.containsKey(playlistId)) {
       return _cache[playlistId]!;
     }

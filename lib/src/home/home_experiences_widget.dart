@@ -22,7 +22,7 @@ class HomeExperiencesWidget extends StatelessWidget {
     return Container(
       width: size.width,
       padding: EdgeInsets.symmetric(
-        horizontal: size.width * 0.098,
+        horizontal: size.width * 0.08,
         vertical: size.height * 0.001,
       ),
       color: AppColors.black,
@@ -30,7 +30,7 @@ class HomeExperiencesWidget extends StatelessWidget {
         children: [
           SizedBox(height: size.height * 0.09),
           Padding(
-            padding: EdgeInsets.symmetric(horizontal: size.width * 0.03,),
+            padding: EdgeInsets.symmetric(horizontal: size.width * 0.01,),
             child: Column(
               children: [
                 SlideInAnimation(
@@ -81,7 +81,7 @@ class HomeExperiencesWidget extends StatelessWidget {
                                 isSerif: true
                               ),
                             ),
-                            SizedBox(height: size.height * 0.06),
+                            SizedBox(height: size.height * 0.05),
                             SlideInAnimation(
                               direction: SlideDirection.left,
                               child: CustomText(
@@ -91,7 +91,7 @@ class HomeExperiencesWidget extends StatelessWidget {
                                 type: 'lg',
                               ),
                             ),
-                            SizedBox(height: size.height * 0.021),
+                            SizedBox(height: size.height * 0.02),
                             SlideInAnimation(
                               direction: SlideDirection.left,
                               child: CustomText(
@@ -102,7 +102,7 @@ class HomeExperiencesWidget extends StatelessWidget {
                                 // letterSpacing: -0.52,
                               ),
                             ),
-                            SizedBox(height: size.height * 0.021),
+                            SizedBox(height: size.height * 0.02),
                             SlideInAnimation(
                               direction: SlideDirection.left,
                               child: CustomText(
@@ -112,7 +112,7 @@ class HomeExperiencesWidget extends StatelessWidget {
                                     const TextStyle(color: AppColors.white)
                               ),
                             ),
-                            SizedBox(height: size.height * 0.021),
+                            SizedBox(height: size.height * 0.02),
                             SlideInAnimation(
                               direction: SlideDirection.left,
                               child: CustomText(
@@ -147,7 +147,7 @@ class HomeExperiencesWidget extends StatelessWidget {
                             child: Align(
                               alignment: Alignment.bottomCenter,
                               child: Container(
-                                height: size.height * 0.12, // adjust as needed
+                                height: size.height * 0.3, // adjust as needed
                                 decoration: BoxDecoration(
                                   gradient: LinearGradient(
                                     begin: Alignment.bottomCenter,
@@ -214,7 +214,7 @@ class HomeExperiencesWidget extends StatelessWidget {
                   ],
                 ),
                 Positioned(
-                  bottom: size.height * 0.098,
+                  bottom: size.height * 0.05,
                   left: 0,
                   right: 0,
                   child: FadeInAnimation(

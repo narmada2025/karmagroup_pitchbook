@@ -76,7 +76,6 @@ class _CommunityScreenState extends State<CommunityScreen> {
     }
     setState(() {
       _chairmanSessionFeaturedStories = chairmanSessionFeaturedStories;
-      log("_chairmanSessionFeaturedStories $_chairmanSessionFeaturedStories");
       _events = eventData;
       _eventGallery = galleryData;
       _press = pressData;

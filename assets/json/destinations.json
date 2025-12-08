@@ -121,7 +121,7 @@
                   "videos": [
                     {
                       "cover": "assets/images/destinations/videos/thumbnails/Karma Bayon.jpg",
-                      "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/videos%2FCambodia%2FKarma_Bayon_Siem_Reap_Cambodia.mp4?alt=media&token=605dd60f-5598-4f4d-9d03-5181c2b693de"
+                      "video": "assets/videos/Karma_Bayon_Siem_Reap_Cambodia.mp4"
                     }
                   ],
                   "ver_exp": []
@@ -340,11 +340,11 @@
                   "videos": [
                     {
                       "cover": "assets/images/destinations/videos/thumbnails/Karma Kandara Resort Overview.jpg",
-                      "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/videos%2FIndonesia%2FKarma_Kandara_Bali_Indonesia_Resort_Overview.mp4?alt=media&token=75c49037-fe1c-496d-888e-a0d13d0bf9d0"
+                      "video": "assets/videos/Karma_Kandara_Bali_Indonesia_Resort_Overview.mp4"
                     },
                     {
                       "cover": "assets/images/destinations/videos/thumbnails/Karma Kandara.jpg",
-                      "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/videos%2FIndonesia%2FKarma_Kandara_Bali_Indonesia.mp4?alt=media&token=324318a2-46b4-444d-8a01-2a2026c16dfa"
+                      "video": "assets/videos/Karma_Kandara_Bali_Indonesia.mp4"
                     }
                   ],
                   "ver_exp": ["https://3d.karmagroup.com/en/tour/karmakandara/?_gl=1%2A1qwmjkf%2A_gcl_au%2AMTI3MzYwMDUzNC4xNzUwOTIwMjI0%2A_ga%2ANTI1MzA1MzA1LjE3NTA5MjAyMjY.%2A_ga_YG4YCPR7LG%2AczE3NTE0NTgyMDEkbzExJGcxJHQxNzUxNDU4ODcyJGo2MCRsMCRoMA..&_ga=2.223496600.2021076944.1751357473-525305305.1750920226%27"]
@@ -837,7 +837,7 @@
                   "videos": [
                     {
                       "cover": "assets/images/destinations/videos/thumbnails/Karma Royal Candidasa.jpg",
-                      "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/videos%2FIndonesia%2FRoyalCandidasa%2FKarma_Royal_Candidasa_Bali_Indonesia.mp4?alt=media&token=a87501eb-818d-43d7-a03c-064786117501"
+                      "video": "assets/videos/Karma_Royal_Candidasa_Bali_Indonesia.mp4"
                     }
                   ],
                   "ver_exp": []
@@ -1166,11 +1166,11 @@
                   "videos": [
                     {
                       "cover": "assets/images/destinations/videos/thumbnails/Karma Jimbaran Resort Overview.jpg",
-                      "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/videos%2FIndonesia%2FJimbaran%2FKarma_Jimbaran_Bali_Indonesia_Resort_Overview.mp4?alt=media&token=d27118ba-df06-425b-9c84-44c55b89aa20"
+                      "video": "assets/videos/Karma_Jimbaran_Bali_Indonesia_Resort_Overview.mp4"
                     },
                     {
                       "cover": "assets/images/destinations/videos/thumbnails/Karma Jimbaran.jpg",
-                      "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/videos%2FIndonesia%2FJimbaran%2FKarma_Jimbaran_Bali_Indonesia.mp4?alt=media&token=4aed0e2e-3e82-4e9e-8788-486a46a6f9e1"
+                      "video": "assets/videos/Karma_Jimbaran_Bali_Indonesia.mp4"
                     }
                   ],
                   "ver_exp": []
@@ -1431,7 +1431,7 @@
                   "videos": [
                     {
                       "cover": "assets/images/destinations/videos/thumbnails/Karma Royal Sanur.jpg",
-                      "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/videos%2FIndonesia%2FRoyalSanur%2FKarma_Royal_Sanur_Bali_Indonesia.mp4?alt=media&token=93a8f4a1-6718-48b6-93a1-47153b7d97e0"
+                      "video": "assets/videos/Karma_Royal_Sanur_Bali_Indonesia.mp4"
                     }
                   ],
                   "ver_exp": []
@@ -1712,7 +1712,7 @@
                   "videos": [
                     {
                       "cover": "assets/images/destinations/videos/thumbnails/Karma Royal Jimbaran.jpg",
-                      "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/videos%2FIndonesia%2FJimbaran%2FKarma_Royal_Jimbaran_Bali_Indonesia.mp4?alt=media&token=5db2ecd6-43f6-4517-8f86-8b1da79f3c16"
+                      "video": "assets/videos/Karma_Royal_Jimbaran_Bali_Indonesia.mp4"
                     }
                   ],
                   "ver_exp": []
@@ -2050,7 +2050,7 @@
                   "videos": [
                     {
                       "cover": "assets/images/destinations/videos/thumbnails/Karma Royal Boat Lagoon.jpg",
-                      "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/videos%2FThailand%2FRoyalBoat%2FKarma_Royal_Boat_Lagoon_Phuket_Thailand.mp4?alt=media&token=c05eb2c2-cf29-431c-ba20-22df0dca6c32"
+                      "video": "assets/videos/Karma_Royal_Boat_Lagoon_Phuket_Thailand.mp4"
                     }
                   ],
                   "ver_exp": []
@@ -2277,7 +2277,7 @@
                   "videos": [
                     {
                       "cover": "assets/images/destinations/videos/thumbnails/Karma Panalee.jpg",
-                      "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/videos%2FThailand%2FPanalee%2FKarma_Panalee_Koh_Samui_Thailand.mp4?alt=media&token=3f40a476-d26e-44f1-adfa-1b71129ebdbf"
+                      "video": "assets/videos/Karma_Panalee_Koh_Samui_Thailand.mp4"
                     }
                   ],
                   "ver_exp": []
@@ -2497,7 +2497,7 @@
                   "videos": [
                     {
                       "cover": "assets/images/destinations/videos/thumbnails/Karma Song Hoai.jpg",
-                      "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/videos%2FVietnam%2FSongHoai%2FKarma_Song_Hoai_Hoi_An_Vietnam.mp4?alt=media&token=5c628e0c-6bdd-4f0c-b221-75a85654df52"
+                      "video": "assets/videos/Karma_Song_Hoai_Hoi_An_Vietnam.mp4"
                     }
                   ],
                   "ver_exp": []
@@ -2757,7 +2757,7 @@
                   "videos": [
                     {
                       "cover": "assets/images/destinations/videos/thumbnails/Karma Royal Haathi Mahal.jpg",
-                      "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/videos%2FIndia%2FGoa%2FKarma_Royal_Haathi_Mahal_Goa_India.mp4?alt=media&token=26ad9199-80ff-4648-872c-756d8d5baef7"
+                      "video": "assets/videos/Karma_Royal_Haathi_Mahal_Goa_India.mp4"
                     }
                   ],
                   "ver_exp": []
@@ -3117,7 +3117,7 @@
                   "videos": [
                     {
                       "cover": "assets/images/destinations/videos/thumbnails/Karma Royal Palms.jpg",
-                      "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/videos%2FIndia%2FGoa%2FKarma_Royal_Palms_Goa_India.mp4?alt=media&token=cbe79f75-8ab0-4bc6-896b-9fb9c8e47a17"
+                      "video": "assets/videos/Karma_Royal_Palms_Goa_India.mp4"
                     }
                   ],
                   "ver_exp": []
@@ -3389,7 +3389,7 @@
                   "videos": [
                     {
                       "cover": "assets/images/destinations/videos/thumbnails/Karma Royal Monte Rio.jpg",
-                      "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/videos%2FIndia%2FGoa%2FKarma_Royal_Monterio_Goa_India.mp4?alt=media&token=f78ddf4f-64ec-417d-9105-4fe989880837"
+                      "video": "assets/videos/Karma_Royal_Monterio_Goa_India.mp4"
                     }
                   ],
                   "ver_exp": []
@@ -3979,7 +3979,7 @@
                   "videos": [
                     {
                       "cover": "assets/images/destinations/videos/thumbnails/Karma Haveli.jpg",
-                      "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/videos%2FIndia%2FJaipur%2FKarma_Haveli_Jaipur_India.mp4?alt=media&token=fb2931a5-0e32-4022-a310-0ead018658c7"
+                      "video": "assets/videos/Karma_Haveli_Jaipur_India.mp4"
                     }
                   ],
                   "ver_exp": []
@@ -4215,7 +4215,7 @@
                   "videos": [
                     {
                       "cover": "assets/images/destinations/videos/thumbnails/Karma Haveli.jpg",
-                      "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/videos%2FIndia%2FJaisalmer%2FKarma_Jaisalmer_Final_Logo_v2.mp4?alt=media&token=7474636e-a615-49ad-959c-3deafc57f741"
+                      "video": "assets/videos/Karma_Jaisalmer_Final_Logo_v2.mp4"
                     }
                   ],
                   "ver_exp": []
@@ -4444,7 +4444,7 @@
                   "videos": [
                     {
                       "cover": "assets/images/destinations/videos/thumbnails/Karma Seven Lakes.jpg",
-                      "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/videos%2FIndia%2FUdaipur%2FSevenLakes%2FKarma_Seven_Lakes_Udaipur_India.mp4?alt=media&token=16ebd80f-f2c5-4c75-bc34-2895b0f004c7"
+                      "video": "assets/videos/Karma_Seven_Lakes_Udaipur_India.mp4"
                     }
                   ],
                   "ver_exp": []
@@ -4757,7 +4757,7 @@
                   "videos": [
                     {
                       "cover": "assets/images/destinations/videos/thumbnails/Karma Sitabani.jpg",
-                      "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/videos%2FIndia%2FUttarakhand%2FKarma_Sitabani_Corbett_National_Park_India.mp4?alt=media&token=b3403fe5-8dcb-464e-aa87-01849f7231bd"
+                      "video": "assets/videos/Karma_Sitabani_Corbett_National_Park_India.mp4"
                     }
                   ],
                   "ver_exp": []
@@ -5365,7 +5365,7 @@
                   "videos": [
                     {
                       "cover": "assets/images/destinations/videos/thumbnails/Karma Chakra.jpg",
-                      "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/videos%2FIndia%2FKerala%2FKarmaChakra%2FKarma_Chakra_Kerala_India.mp4?alt=media&token=37b906dd-3459-42c3-9c0d-7f3ed079c9fb"
+                      "video": "assets/videos/Karma_Chakra_Kerala_India.mp4"
                     }
                   ],
                   "ver_exp": []
@@ -5686,7 +5686,7 @@
                   "videos": [
                     {
                       "cover": "assets/images/destinations/videos/thumbnails/Karma Salford Hall.jpg",
-                      "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/videos%2FUK%2FSalfordHall%2FKarma_Salford_Hall_The_Vale_of_Evesham_UK_Summer_Edition.mp4?alt=media&token=755f8ecf-faf7-4b1c-b140-c0337767f9cb"
+                      "video": "assets/videos/Karma_Salford_Hall_The_Vale_of_Evesham_UK_Summer_Edition.mp4"
                     }
                   ],
                   "ver_exp": []
@@ -5970,7 +5970,7 @@
                   "videos": [
                     {
                       "cover": "assets/images/destinations/videos/thumbnails/Karma Sanctum Soho.jpg",
-                      "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/videos%2FUK%2FLondon%2FKarma_Sanctum_Soho_London_UK.mp4?alt=media&token=c5641681-7b8e-484e-afee-2bfbb96b6a56"
+                      "video": "assets/videos/Karma_Sanctum_Soho_London_UK.mp4"
                     }
                   ],
                   "ver_exp": []
@@ -6524,7 +6524,7 @@
                   "videos": [
                     {
                       "cover": "assets/images/destinations/videos/thumbnails/Karma ST Martins.jpg",
-                      "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/videos%2FUK%2FIslesScilly%2FKarma_St_Martins_Isles_of_Scilly_UK.mp4?alt=media&token=3a2c01c5-10e9-44f5-a0e2-2e76c8570730"
+                      "video": "assets/videos/Karma_St_Martins_Isles_of_Scilly_UK.mp4"
                     }
                   ],
                   "ver_exp": ["https://geckodigital.co/vt/KarmaStMartins/"]
@@ -7151,7 +7151,7 @@
                   "videos": [
                     {
                       "cover": "assets/images/destinations/videos/thumbnails/Le Preverger.jpg",
-                      "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/videos%2FEurope%2FFrance%2FLe_Preverger_St_Tropez_France.mp4?alt=media&token=9dd3935a-8c04-4ff3-a234-214126e62bc4"
+                      "video": "assets/videos/Le_Preverger_St_Tropez_France.mp4"
                     }
                   ],
                   "ver_exp": []
@@ -7424,11 +7424,11 @@
                   "videos": [
                     {
                       "cover": "assets/images/destinations/videos/thumbnails/Karma Bavaria.jpg",
-                      "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/videos%2FEurope%2FGermany%2FKarma_Bavaria_Schliersee_Germany.mp4?alt=media&token=657f0a7d-5d1c-4aa2-a4b1-cbc65132522d"
+                      "video": "assets/videos/Karma_Bavaria_Schliersee_Germany.mp4"
                     },
                     {
                       "cover": "assets/images/destinations/videos/thumbnails/Karma Bavaria.jpg",
-                      "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/videos%2FEurope%2FGermany%2FKarma_Bavaria_Summer_final.mov.mp4?alt=media&token=31c6eff6-8760-4bd9-bab4-ffddbc314441"
+                      "video": "assets/videos/Karma_Bavaria_Summer_final.mov.mp4"
                     }
                   ],
                   "ver_exp": []
@@ -7796,7 +7796,7 @@
                   "videos": [
                     {
                       "cover": "assets/images/destinations/videos/thumbnails/Karma Minoan.jpg",
-                      "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/videos%2FEurope%2FGreece%2FKarma_Minoan_Crete_Greece.mp4?alt=media&token=592898c8-c0b2-497f-a4e1-72b684997281"
+                      "video": "assets/videos/Karma_Minoan_Crete_Greece.mp4"
                     }
                   ],
                   "ver_exp": []
@@ -8058,7 +8058,7 @@
                   "videos": [
                     {
                       "cover": "assets/images/destinations/videos/thumbnails/Karma Pelikanos.jpg",
-                      "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/videos%2FEurope%2FGreece%2FPelikanos_Mykonos_Greece.mp4?alt=media&token=8559db8f-c307-4da9-aa6f-0dc76b384d85"
+                      "video": "assets/videos/Pelikanos_Mykonos_Greece.mp4"
                     }
                   ],
                   "ver_exp": []
@@ -8214,11 +8214,11 @@
                   "videos": [
                     {
                       "cover": "assets/images/destinations/videos/thumbnails/Karma Borgo Di Colleoli.jpg",
-                      "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/videos%2FEurope%2FItaly%2FKarma_Borgo_di_Colleoli_Tuscany_Italy.mp4?alt=media&token=1d6b08cd-85c1-4283-a1e2-255abaa4fc01"
+                      "video": "assets/videos/Karma_Borgo_di_Colleoli_Tuscany_Italy.mp4"
                     },
                     {
                       "cover": "assets/images/destinations/videos/thumbnails/Karma Borgo Di Colleoli.jpg",
-                      "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/videos%2FEurope%2FItaly%2FKarma_Borgo_di_Colleoli_2025.mp4?alt=media&token=620e8457-8885-4fe9-bfba-9094a9b0f111"
+                      "video": "assets/videos/Karma_Borgo_di_Colleoli_2025.mp4"
                     }
                   ],
                   "ver_exp": ["https://my.matterport.com/show/?m=Ht6R3zMp32i"]
@@ -8510,7 +8510,7 @@
                   "videos": [
                     {
                       "cover": "assets/images/destinations/videos/thumbnails/Karma La Herriza.jpg",
-                      "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/videos%2FEurope%2FSpain%2FKarma_La_Herriza_Malaga_Spain.mp4?alt=media&token=986cb602-a795-459c-8e46-4b60d06f10de"
+                      "video": "assets/videos/Karma_La_Herriza_Malaga_Spain.mp4"
                     }
                   ],
                   "ver_exp": []
@@ -8713,7 +8713,7 @@
                   "videos": [
                     {
                       "cover": "assets/images/destinations/videos/thumbnails/Karma Karnak.jpg",
-                      "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/videos%2Fafrica%26others%2FEgypt%2FKarma_Karnak_Luxor_Egypt.mp4?alt=media&token=7eb79b4f-ed22-41ab-9588-fda2c961f4b5"
+                      "video": "assets/videos/Karma_Karnak_Luxor_Egypt.mp4"
                     }
                   ],
                   "ver_exp": []
@@ -8885,7 +8885,7 @@
                   "videos": [
                     {
                       "cover": "assets/images/destinations/videos/thumbnails/Karma Fushi.jpg",
-                      "video": "https://firebasestorage.googleapis.com/v0/b/reflected-disk-450809-k7.firebasestorage.app/o/videos%2Fafrica%26others%2FMaldives%2FKarma_Fushi_Maldives.mp4?alt=media&token=ea7fa207-221f-496a-8a46-e893565944b4"
+                      "video": "assets/videos/Karma_Fushi_Maldives.mp4"
                     }
                   ],
                   "ver_exp": []
