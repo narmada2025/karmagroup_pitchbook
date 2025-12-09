@@ -58,7 +58,6 @@ class _VideoItemWidgetState extends State<VideoItemWidget> {
             fit: BoxFit.cover,
           ),
 
-          //Firebase video
           if (!widget.videoData["cover"]!.startsWith('http'))
             Positioned(
               top: 8,
@@ -164,7 +163,6 @@ class _VideoItemWidgetState extends State<VideoItemWidget> {
     if (_videoDurations.containsKey(videoUrl)) {
       return _videoDurations[videoUrl]!;
     } else {
-      print("===videoUrl $videoUrl");
       final videoPlayerController = VideoPlayerController.networkUrl(Uri.parse(videoUrl));
       await videoPlayerController.initialize();
       final duration = videoPlayerController.value.duration;

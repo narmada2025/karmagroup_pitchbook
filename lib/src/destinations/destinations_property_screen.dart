@@ -46,7 +46,7 @@ class _DestinationsPropertyScreenState
 
     _videos.addAll(
       widget.args['property']['media']['videos'].map((video) => {
-            'video': video['video'], // here need to add firebase video link
+            'video': video['video'],
             'cover': video['cover'],
             'title': '',
           }),

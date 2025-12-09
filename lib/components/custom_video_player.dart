@@ -1,4 +1,3 @@
-import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:pitchbook/constants/app_data.dart';
@@ -36,34 +35,15 @@ class _CustomVideoPlayerState extends State<CustomVideoPlayer> {
     }
   }
 
-  Future<void> _initializeVideoController(String url) async {
-    if (url.startsWith('http')) {
-      // Fix Firebase Storage incorrect domain if needed
-      if (url.contains(".firebasestorage.app")) {
-        final decodedPath = Uri.decodeFull(Uri.parse(url).pathSegments.last);
-        final storagePath = decodedPath.replaceAll('%2F', '/');
-        url = await FirebaseStorage.instance.ref(storagePath).getDownloadURL();
-      }
-
-      _controller = VideoPlayerController.networkUrl(Uri.parse(url))
-        ..initialize().then((_) {
-          setState(() {
-            _isPlaying = true;
-            _controller.play();
-            _isControllerInitialized = true;
-          });
+  void _initializeVideoController(String url) {
+    _controller = VideoPlayerController.networkUrl(Uri.parse('${AppAPI.baseUrlGcp}$url'))
+      ..initialize().then((_) {
+        setState(() {
+          _isPlaying = true;
+          _controller.play();
+          _isControllerInitialized = true;
         });
-    } else {
-      _controller = VideoPlayerController.asset(url)
-        ..initialize().then((_) {
-          setState(() {
-            _isPlaying = true;
-            _controller.play();
-            _isControllerInitialized = true;
-          });
-        });
-    }
-
+      });
     _controller.addListener(_onVideoPlayerStateChanged);
   }
 

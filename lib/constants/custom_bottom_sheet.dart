@@ -155,6 +155,7 @@ class _CustomBottomSheetState extends State<CustomBottomSheet> {
                                   label: tr(context, 'Karma Curated', lang),
                                   svgPath: 'assets/interface/Community.svg',
                                   isShortPath: true,
+                                  btnSize: 43,
                                   onTap: () {
                                     _goToPage(6, '/community');
                                   }),

@@ -1,5 +1,3 @@
-import 'dart:developer';
-
 import 'package:flutter/material.dart';
 import 'package:pitchbook/constants/app_data.dart';
 import 'package:pitchbook/constants/loading_component.dart';

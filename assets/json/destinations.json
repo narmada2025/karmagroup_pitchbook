@@ -7,10 +7,10 @@
       "id": "PENGALAMAN KARMA"
     },
     "title": {
-      "en": "Where Karma Unlocks Your Ultimate Destination",
-      "de": "Wo Karma Ihr ultimatives Ziel freischaltet",
-      "fr": "Où Karma débloque votre destination ultime",
-      "id": "Tempat Karma Membuka Tujuan Akhir Anda"
+      "en": "Discover the World’s \nMost Desirable Destinations",
+      "de": "Entdecken Sie die begehrtesten Reiseziele der Welt",
+      "fr": "Découvrez les\ndestinations les plus prisées au monde",
+      "id": "Temukan Destinasi Paling Diinginkan di Dunia"
     },
     "image": "assets/images/destinations/Banner_Image.png"
   },
@@ -120,7 +120,7 @@
                   ],
                   "videos": [
                     {
-                      "cover": "assets/images/destinations/videos/thumbnails/Karma Bayon.jpg",
+                      "cover": "assets/videos/thumbnails/Karma Bayon.jpg",
                       "video": "assets/videos/Karma_Bayon_Siem_Reap_Cambodia.mp4"
                     }
                   ],
@@ -339,11 +339,11 @@
                   ],
                   "videos": [
                     {
-                      "cover": "assets/images/destinations/videos/thumbnails/Karma Kandara Resort Overview.jpg",
+                      "cover": "assets/videos/thumbnails/Karma Kandara Resort Overview.jpg",
                       "video": "assets/videos/Karma_Kandara_Bali_Indonesia_Resort_Overview.mp4"
                     },
                     {
-                      "cover": "assets/images/destinations/videos/thumbnails/Karma Kandara.jpg",
+                      "cover": "assets/videos/thumbnails/Karma Kandara.jpg",
                       "video": "assets/videos/Karma_Kandara_Bali_Indonesia.mp4"
                     }
                   ],
@@ -836,7 +836,7 @@
                   ],
                   "videos": [
                     {
-                      "cover": "assets/images/destinations/videos/thumbnails/Karma Royal Candidasa.jpg",
+                      "cover": "assets/videos/thumbnails/Karma Royal Candidasa.jpg",
                       "video": "assets/videos/Karma_Royal_Candidasa_Bali_Indonesia.mp4"
                     }
                   ],
@@ -869,10 +869,7 @@
                         "id": "Apartemen Satu Tempat Tidur"
                       },
                       "images": [
-                        "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/one_bed_apartment_01.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/one_bed_apartment_02.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/one_bed_apartment_03.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/one_bed_apartment_04.jpg"
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/one_bed_apartment_01.jpg"
                       ]
                     },
                     {
@@ -888,7 +885,9 @@
                         "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/two_bed_apartment_03.jpg",
                         "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/two_bed_apartment_04.jpg",
                         "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/two_bed_apartment_05.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/two_bed_apartment_06.jpg"
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/two_bed_apartment_06.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/two_bed_apartment_07.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/two_bed_apartment_08.jpg"
                       ]
                     },
                     {
@@ -903,7 +902,8 @@
                         "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/imperial_apartment_02.jpg",
                         "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/imperial_apartment_03.jpg",
                         "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/imperial_apartment_04.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/imperial_apartment_05.jpg"
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/imperial_apartment_05.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/imperial_apartment_06.jpg"
                       ]
                     }
                   ],
@@ -1165,11 +1165,11 @@
                   ],
                   "videos": [
                     {
-                      "cover": "assets/images/destinations/videos/thumbnails/Karma Jimbaran Resort Overview.jpg",
+                      "cover": "assets/videos/thumbnails/Karma Jimbaran Resort Overview.jpg",
                       "video": "assets/videos/Karma_Jimbaran_Bali_Indonesia_Resort_Overview.mp4"
                     },
                     {
-                      "cover": "assets/images/destinations/videos/thumbnails/Karma Jimbaran.jpg",
+                      "cover": "assets/videos/thumbnails/Karma Jimbaran.jpg",
                       "video": "assets/videos/Karma_Jimbaran_Bali_Indonesia.mp4"
                     }
                   ],
@@ -1430,7 +1430,7 @@
                   ],
                   "videos": [
                     {
-                      "cover": "assets/images/destinations/videos/thumbnails/Karma Royal Sanur.jpg",
+                      "cover": "assets/videos/thumbnails/Karma Royal Sanur.jpg",
                       "video": "assets/videos/Karma_Royal_Sanur_Bali_Indonesia.mp4"
                     }
                   ],
@@ -1711,7 +1711,7 @@
                   ],
                   "videos": [
                     {
-                      "cover": "assets/images/destinations/videos/thumbnails/Karma Royal Jimbaran.jpg",
+                      "cover": "assets/videos/thumbnails/Karma Royal Jimbaran.jpg",
                       "video": "assets/videos/Karma_Royal_Jimbaran_Bali_Indonesia.mp4"
                     }
                   ],
@@ -2049,7 +2049,7 @@
                   ],
                   "videos": [
                     {
-                      "cover": "assets/images/destinations/videos/thumbnails/Karma Royal Boat Lagoon.jpg",
+                      "cover": "assets/videos/thumbnails/Karma Royal Boat Lagoon.jpg",
                       "video": "assets/videos/Karma_Royal_Boat_Lagoon_Phuket_Thailand.mp4"
                     }
                   ],
@@ -2276,7 +2276,7 @@
                   ],
                   "videos": [
                     {
-                      "cover": "assets/images/destinations/videos/thumbnails/Karma Panalee.jpg",
+                      "cover": "assets/videos/thumbnails/Karma Panalee.jpg",
                       "video": "assets/videos/Karma_Panalee_Koh_Samui_Thailand.mp4"
                     }
                   ],
@@ -2496,7 +2496,7 @@
                   ],
                   "videos": [
                     {
-                      "cover": "assets/images/destinations/videos/thumbnails/Karma Song Hoai.jpg",
+                      "cover": "assets/videos/thumbnails/Karma Song Hoai.jpg",
                       "video": "assets/videos/Karma_Song_Hoai_Hoi_An_Vietnam.mp4"
                     }
                   ],
@@ -2756,7 +2756,7 @@
                   ],
                   "videos": [
                     {
-                      "cover": "assets/images/destinations/videos/thumbnails/Karma Royal Haathi Mahal.jpg",
+                      "cover": "assets/videos/thumbnails/Karma Royal Haathi Mahal.jpg",
                       "video": "assets/videos/Karma_Royal_Haathi_Mahal_Goa_India.mp4"
                     }
                   ],
@@ -3116,7 +3116,7 @@
                   ],
                   "videos": [
                     {
-                      "cover": "assets/images/destinations/videos/thumbnails/Karma Royal Palms.jpg",
+                      "cover": "assets/videos/thumbnails/Karma Royal Palms.jpg",
                       "video": "assets/videos/Karma_Royal_Palms_Goa_India.mp4"
                     }
                   ],
@@ -3129,45 +3129,43 @@
                   "accommodation": [
                     {
                       "category": {
-                        "en": "Studio",
-                        "de": "Studio",
-                        "fr": "Studio ",
-                        "id": "Studio"
+                        "en": "Standard Apartment - Studio",
+                        "de": "Standard-Apartment – Studio",
+                        "fr": "Appartement standard - Studio",
+                        "id": "Apartemen Standar - Studio"
                       },
                       "images": [
                         "assets/images/destinations/india/goa/karma_royal_palms/standard_apartment_studio_01.jpg",
-                        "assets/images/destinations/india/goa/karma_royal_palms/standard_apartment_studio_02.jpg",
-                        "assets/images/destinations/india/goa/karma_royal_palms/studio_03.jpg",
-                        "assets/images/destinations/india/goa/karma_royal_palms/studio_04.jpg"
+                        "assets/images/destinations/india/goa/karma_royal_palms/standard_apartment_studio_02.jpg"
                       ]
                     },
                     {
                       "category": {
-                        "en": "One Bedroom Unit",
-                        "de": "Einheit mit einem Schlafzimmer",
-                        "fr": "Unité d’une chambre",
-                        "id": "Unit Satu Kamar Tidur"
+                        "en": "Standard Apartment – One Bedroom Unit",
+                        "de": "Standard-Apartment – Ein-Zimmer-Wohnung",
+                        "fr": "Appartement standard – Unité d'une chambre",
+                        "id": "Apartemen Standar – Unit Satu Kamar Tidur"
                       },
                       "images": [
-                        "assets/images/destinations/india/goa/karma_royal_palms/one_bedroom_unit_01.jpg",
-                        "assets/images/destinations/india/goa/karma_royal_palms/standard_apartment_one_bedroom_unit_04.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_palms/standard_apartment_one_bedroom_unit_01.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_palms/standard_apartment_one_bedroom_unit_02.jpg",
                         "assets/images/destinations/india/goa/karma_royal_palms/standard_apartment_one_bedroom_unit_03.jpg",
-                        "assets/images/destinations/india/goa/karma_royal_palms/standard_apartment_one_bedroom_unit_01.jpg"
+                        "assets/images/destinations/india/goa/karma_royal_palms/standard_apartment_one_bedroom_unit_04.jpg"
                       ]
                     },
                     {
                       "category": {
-                        "en": "Imperial Apartment",
-                        "de": "Kaiserliche Wohnung",
-                        "fr": "Appartement impérial",
-                        "id": "Apartemen Kekaisaran"
+                        "en": "Two Bedroom Imperial Apartment",
+                        "de": "Zwei-Zimmer-Imperial-Apartment",
+                        "fr": "Appartement impérial de deux chambres",
+                        "id": "Apartemen Imperial Dua Kamar Tidur"
                       },
                       "images": [
+                        "assets/images/destinations/india/goa/karma_royal_palms/two_bedroom_imperial_apartment_01.jpg",
                         "assets/images/destinations/india/goa/karma_royal_palms/two_bedroom_imperial_apartment_02.jpg",
                         "assets/images/destinations/india/goa/karma_royal_palms/two_bedroom_imperial_apartment_03.jpg",
-                        "assets/images/destinations/india/goa/karma_royal_palms/two_bedroom_imperial_apartment_04.jpg",
-                        "assets/images/destinations/india/goa/karma_royal_palms/two_bedroom_imperial_apartment_05.jpg"
-                      ]
+                        "assets/images/destinations/india/goa/karma_royal_palms/two_bedroom_imperial_apartment_04.jpg"
+                        ]
                     }
                   ],
                   "facilities": [
@@ -3388,7 +3386,7 @@
                   ],
                   "videos": [
                     {
-                      "cover": "assets/images/destinations/videos/thumbnails/Karma Royal Monte Rio.jpg",
+                      "cover": "assets/videos/thumbnails/Karma Royal Monte Rio.jpg",
                       "video": "assets/videos/Karma_Royal_Monterio_Goa_India.mp4"
                     }
                   ],
@@ -3978,7 +3976,7 @@
                   ],
                   "videos": [
                     {
-                      "cover": "assets/images/destinations/videos/thumbnails/Karma Haveli.jpg",
+                      "cover": "assets/videos/thumbnails/Karma Haveli.jpg",
                       "video": "assets/videos/Karma_Haveli_Jaipur_India.mp4"
                     }
                   ],
@@ -4214,7 +4212,7 @@
                   ],
                   "videos": [
                     {
-                      "cover": "assets/images/destinations/videos/thumbnails/Karma Haveli.jpg",
+                      "cover": "assets/videos/thumbnails/Karma Haveli.jpg",
                       "video": "assets/videos/Karma_Jaisalmer_Final_Logo_v2.mp4"
                     }
                   ],
@@ -4443,7 +4441,7 @@
                   ],
                   "videos": [
                     {
-                      "cover": "assets/images/destinations/videos/thumbnails/Karma Seven Lakes.jpg",
+                      "cover": "assets/videos/thumbnails/Karma Seven Lakes.jpg",
                       "video": "assets/videos/Karma_Seven_Lakes_Udaipur_India.mp4"
                     }
                   ],
@@ -4756,7 +4754,7 @@
                   ],
                   "videos": [
                     {
-                      "cover": "assets/images/destinations/videos/thumbnails/Karma Sitabani.jpg",
+                      "cover": "assets/videos/thumbnails/Karma Sitabani.jpg",
                       "video": "assets/videos/Karma_Sitabani_Corbett_National_Park_India.mp4"
                     }
                   ],
@@ -5364,7 +5362,7 @@
                   ],
                   "videos": [
                     {
-                      "cover": "assets/images/destinations/videos/thumbnails/Karma Chakra.jpg",
+                      "cover": "assets/videos/thumbnails/Karma Chakra.jpg",
                       "video": "assets/videos/Karma_Chakra_Kerala_India.mp4"
                     }
                   ],
@@ -5685,7 +5683,7 @@
                   ],
                   "videos": [
                     {
-                      "cover": "assets/images/destinations/videos/thumbnails/Karma Salford Hall.jpg",
+                      "cover": "assets/videos/thumbnails/Karma Salford Hall.jpg",
                       "video": "assets/videos/Karma_Salford_Hall_The_Vale_of_Evesham_UK_Summer_Edition.mp4"
                     }
                   ],
@@ -5969,7 +5967,7 @@
                   ],
                   "videos": [
                     {
-                      "cover": "assets/images/destinations/videos/thumbnails/Karma Sanctum Soho.jpg",
+                      "cover": "assets/videos/thumbnails/Karma Sanctum Soho.jpg",
                       "video": "assets/videos/Karma_Sanctum_Soho_London_UK.mp4"
                     }
                   ],
@@ -6523,7 +6521,7 @@
                   ],
                   "videos": [
                     {
-                      "cover": "assets/images/destinations/videos/thumbnails/Karma ST Martins.jpg",
+                      "cover": "assets/videos/thumbnails/Karma ST Martins.jpg",
                       "video": "assets/videos/Karma_St_Martins_Isles_of_Scilly_UK.mp4"
                     }
                   ],
@@ -7150,7 +7148,7 @@
                   ],
                   "videos": [
                     {
-                      "cover": "assets/images/destinations/videos/thumbnails/Le Preverger.jpg",
+                      "cover": "assets/videos/thumbnails/Le Preverger.jpg",
                       "video": "assets/videos/Le_Preverger_St_Tropez_France.mp4"
                     }
                   ],
@@ -7423,11 +7421,11 @@
                   ],
                   "videos": [
                     {
-                      "cover": "assets/images/destinations/videos/thumbnails/Karma Bavaria.jpg",
+                      "cover": "assets/videos/thumbnails/Karma Bavaria.jpg",
                       "video": "assets/videos/Karma_Bavaria_Schliersee_Germany.mp4"
                     },
                     {
-                      "cover": "assets/images/destinations/videos/thumbnails/Karma Bavaria.jpg",
+                      "cover": "assets/videos/thumbnails/Karma Bavaria.jpg",
                       "video": "assets/videos/Karma_Bavaria_Summer_final.mov.mp4"
                     }
                   ],
@@ -7795,7 +7793,7 @@
                   ],
                   "videos": [
                     {
-                      "cover": "assets/images/destinations/videos/thumbnails/Karma Minoan.jpg",
+                      "cover": "assets/videos/thumbnails/Karma Minoan.jpg",
                       "video": "assets/videos/Karma_Minoan_Crete_Greece.mp4"
                     }
                   ],
@@ -8057,7 +8055,7 @@
                   ],
                   "videos": [
                     {
-                      "cover": "assets/images/destinations/videos/thumbnails/Karma Pelikanos.jpg",
+                      "cover": "assets/videos/thumbnails/Karma Pelikanos.jpg",
                       "video": "assets/videos/Pelikanos_Mykonos_Greece.mp4"
                     }
                   ],
@@ -8213,11 +8211,11 @@
                   ],
                   "videos": [
                     {
-                      "cover": "assets/images/destinations/videos/thumbnails/Karma Borgo Di Colleoli.jpg",
+                      "cover": "assets/videos/thumbnails/Karma Borgo Di Colleoli.jpg",
                       "video": "assets/videos/Karma_Borgo_di_Colleoli_Tuscany_Italy.mp4"
                     },
                     {
-                      "cover": "assets/images/destinations/videos/thumbnails/Karma Borgo Di Colleoli.jpg",
+                      "cover": "assets/videos/thumbnails/Karma Borgo Di Colleoli.jpg",
                       "video": "assets/videos/Karma_Borgo_di_Colleoli_2025.mp4"
                     }
                   ],
@@ -8509,7 +8507,7 @@
                   ],
                   "videos": [
                     {
-                      "cover": "assets/images/destinations/videos/thumbnails/Karma La Herriza.jpg",
+                      "cover": "assets/videos/thumbnails/Karma La Herriza.jpg",
                       "video": "assets/videos/Karma_La_Herriza_Malaga_Spain.mp4"
                     }
                   ],
@@ -8712,7 +8710,7 @@
                   ],
                   "videos": [
                     {
-                      "cover": "assets/images/destinations/videos/thumbnails/Karma Karnak.jpg",
+                      "cover": "assets/videos/thumbnails/Karma Karnak.jpg",
                       "video": "assets/videos/Karma_Karnak_Luxor_Egypt.mp4"
                     }
                   ],
@@ -8884,7 +8882,7 @@
                   ],
                   "videos": [
                     {
-                      "cover": "assets/images/destinations/videos/thumbnails/Karma Fushi.jpg",
+                      "cover": "assets/videos/thumbnails/Karma Fushi.jpg",
                       "video": "assets/videos/Karma_Fushi_Maldives.mp4"
                     }
                   ],
