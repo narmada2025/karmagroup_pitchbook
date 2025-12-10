@@ -23,7 +23,6 @@ class _HomeScreenState extends State<HomeScreen> {
     final jsonData = await loadJsonFromAssets(AppAPI.home);
     setState(() {
       data = jsonData;
-      // log("=======moments ${data['homeAwards']}");
       _isLoading = false;
     });
   }

@@ -149,17 +149,13 @@ class _CustomBottomSheetState extends State<CustomBottomSheet> {
                                 onTap: () {
                                   _goToPage(5, '/partnerships');
                                 }),
-                            SizedBox(
-                              // width: 80,
-                              child: MenuItem(
-                                  label: tr(context, 'Karma Curated', lang),
-                                  svgPath: 'assets/interface/Community.svg',
-                                  isShortPath: true,
-                                  btnSize: 43,
-                                  onTap: () {
-                                    _goToPage(6, '/community');
-                                  }),
-                            ),
+                            MenuItem(
+                                label: tr(context, 'Karma Curated', lang),
+                                svgPath: 'assets/interface/Community.svg',
+                                isShortPath: true,
+                                onTap: () {
+                                  _goToPage(6, '/community');
+                                }),
                             SizedBox(
                               width: 80,
                               child: MenuItem(

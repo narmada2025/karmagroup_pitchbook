@@ -1,7 +1,7 @@
 name: pitchbook
 description: "Karma Group Pitchbook App"
 publish_to: "none" # Remove this line if you wish to publish to pub.dev
-version: 1.0.10+7
+version: 1.0.10+8
 
 environment:
   sdk: ^3.5.4

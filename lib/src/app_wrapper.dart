@@ -1,3 +1,5 @@
+import 'dart:io';
+
 import 'package:flutter/material.dart';
 import 'package:pitchbook/components/error_alert.dart';
 import 'package:pitchbook/constants/app_data.dart';
@@ -43,12 +45,12 @@ class _AppWrapperState extends State<AppWrapper> with WidgetsBindingObserver {
     super.dispose();
   }
 
-  @override
-  void didChangeAppLifecycleState(AppLifecycleState state) {
-    if (state == AppLifecycleState.resumed) {
-      _loadState();
-    }
-  }
+  // @override
+  // void didChangeAppLifecycleState(AppLifecycleState state) {
+  //   if (state == AppLifecycleState.resumed) {
+  //     _loadState();
+  //   }
+  // }
 
   Future<void> _loadState() async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
@@ -172,17 +174,20 @@ class _AppWrapperState extends State<AppWrapper> with WidgetsBindingObserver {
                             ),
                           ),
                         ),
-                        SafeArea(
-                          top: false,
-                          child: Material(
-                            elevation: 8,
-                            color: Colors.transparent,
-                            child: CustomBottomSheet(
-                              onSelectIndex: _navigateBottomBar,
-                              onLangChange: (lang) => _changeLang(context, lang),
+                         Padding(
+                           padding: EdgeInsets.only(
+                             bottom: Platform.isAndroid ? 60 : MediaQuery.of(context).viewInsets.bottom,
+                           ),
+                           child: Material(
+                              elevation: 8,
+                              color: Colors.transparent,
+                              child: CustomBottomSheet(
+                                onSelectIndex: _navigateBottomBar,
+                                onLangChange: (lang) => _changeLang(context, lang),
+                              ),
                             ),
-                          ),
-                        ),
+                         ),
+
                       ],
                     ),
                   ),
