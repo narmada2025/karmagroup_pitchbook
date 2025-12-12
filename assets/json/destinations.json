@@ -1568,17 +1568,17 @@
                     },
                     {
                       "category": {
-                        "en": "Hidden Garden Restaurant",
-                        "de": "Verstecktes Gartenrestaurant",
-                        "fr": "Restaurant Jardin Caché",
-                        "id": "Restoran Taman Tersembunyi"
+                        "en": "Bar",
+                        "de": "Bar",
+                        "fr": "Bar",
+                        "id": "Batang"
                       },
                       "title": "",
                       "description": "",
                       "images": [
-                        "assets/images/destinations/south_east asia/indonesia/karma_royal_sanur_bali/hidden_garden_restaurant_01.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_royal_sanur_bali/hidden_garden_restaurant_02.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_royal_sanur_bali/hidden_garden_restaurant_03.jpg"
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_sanur_bali/Bar_1.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_sanur_bali/Bar_2.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_sanur_bali/Bar_3.jpg"
                       ]
                     },
                     {
