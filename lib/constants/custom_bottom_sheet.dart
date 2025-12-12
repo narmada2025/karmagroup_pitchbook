@@ -151,8 +151,9 @@ class _CustomBottomSheetState extends State<CustomBottomSheet> {
                                 }),
                             MenuItem(
                                 label: tr(context, 'Karma Curated', lang),
-                                svgPath: 'assets/interface/Community.svg',
+                                svgPath: 'assets/interface/Community.png',
                                 isShortPath: true,
+                                isPng: true,
                                 onTap: () {
                                   _goToPage(6, '/community');
                                 }),

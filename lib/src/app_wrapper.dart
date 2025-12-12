@@ -146,7 +146,7 @@ class _AppWrapperState extends State<AppWrapper> with WidgetsBindingObserver {
                           },
                           child: Container(
                             width: size.width,
-                            height: isExapanded ? size.height : 36,
+                            height: isExapanded ? size.height : 40,
                             color: isExapanded
                                 ? AppColors.black.withValues(alpha: .5)
                                 : Colors.transparent,
@@ -176,7 +176,8 @@ class _AppWrapperState extends State<AppWrapper> with WidgetsBindingObserver {
                         ),
                          Padding(
                            padding: EdgeInsets.only(
-                             bottom: Platform.isAndroid ? 60 : MediaQuery.of(context).viewInsets.bottom,
+                             // bottom: Platform.isAndroid ? 60 : MediaQuery.of(context).viewInsets.bottom,
+                             bottom: Platform.isAndroid ? 60 : 20
                            ),
                            child: Material(
                               elevation: 8,

@@ -594,30 +594,33 @@
                         "assets/images/destinations/south_east asia/indonesia/karma_kandara/di_mare_01.jpg",
                         "assets/images/destinations/south_east asia/indonesia/karma_kandara/di_mare_02.jpg",
                         "assets/images/destinations/south_east asia/indonesia/karma_kandara/di_mare_03.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/di_mare_04.jpg"
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/di_mare_04.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/di_mare_05.jpg"
                       ]
                     },
                     {
                       "category": {
-                        "en": "Temple Lounge",
-                        "de": "Tempel-Lounge",
-                        "fr": "Salon du Temple",
-                        "id": "Ruang Kuil"
+                        "en": "Sarang Lounge",
+                        "de": "Sarang Lounge",
+                        "fr": "Salon Sarang",
+                        "id": "Lounge Sarang"
                       },
                       "title": "",
                       "description": "",
                       "images": [
-                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/temple_lounge_01.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/temple_lounge_02.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/temple_lounge_03.jpg"
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/SarangLounge_1.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/SarangLounge_2.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/SarangLounge_3.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/SarangLounge_4.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/SarangLounge_5.jpg"
                       ]
                     },
                     {
                       "category": {
-                        "en": "Veritas Wine Bar",
-                        "de": "Veritas Weinbar",
-                        "fr": "Bar à vin Veritas",
-                        "id": "Bar Anggur Veritas"
+                        "en": "Veritas",
+                        "de": "Veritas",
+                        "fr": "Veritas",
+                        "id": "Veritas"
                       },
                       "title": "",
                       "description": "",
@@ -629,10 +632,10 @@
                     },
                     {
                       "category": {
-                        "en": "Karma Beach",
-                        "de": "Karma Strand",
-                        "fr": "Plage de Karma",
-                        "id": "Pantai Karma"
+                        "en": "Karma Beach Bali",
+                        "de": "Karma Beach Bali",
+                        "fr": "Karma Beach Bali",
+                        "id": "Pantai Karma Bali"
                       },
                       "title": "",
                       "description": "",
@@ -645,55 +648,47 @@
                         "assets/images/destinations/south_east asia/indonesia/karma_kandara/karma_beach_06.jpg",
                         "assets/images/destinations/south_east asia/indonesia/karma_kandara/karma_beach_07.jpg",
                         "assets/images/destinations/south_east asia/indonesia/karma_kandara/karma_beach_08.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/karma_beach_09.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/karma_beach_10.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/karma_beach_11.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/karma_beach_12.jpg"
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/karma_beach_09.jpg"
                       ]
                     },
                     {
                       "category": {
-                        "en": "Schooners",
-                        "de": "Schoner",
-                        "fr": "Goélettes",
-                        "id": "Sekunar"
+                        "en": "Samudra Ganesha Indian Restaurant & Bar",
+                        "de": "Samudra Ganesha Indian Restaurant & Bar",
+                        "fr": "Samudra Ganesha Restaurant et bar indien",
+                        "id": "Restoran & Bar India Samudra Ganesha"
                       },
                       "title": "",
                       "description": "",
                       "images": [
-                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/schooners_01.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/schooners_02.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/schooners_03.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/schooners_04.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/schooners_05.jpg"
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/SamudraGanesha_1.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/SamudraGanesha_2.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/SamudraGanesha_3.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/SamudraGanesha_4.jpg"
                       ]
                     },
                     {
                       "category": {
-                        "en": "Karma Spa",
-                        "de": "Karma Spa",
-                        "fr": "Karma Spa",
-                        "id": "Karma Spa"
+                        "en": "In-Villa Dining",
+                        "de": "Essen in der Villa",
+                        "fr": "Restauration en villa",
+                        "id": "Makan di dalam vila"
                       },
                       "title": "",
                       "description": "",
                       "images": [
-                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/karma_spa_01.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/karma_spa_02.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/karma_spa_03.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/karma_spa_04.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/karma_spa_05.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/karma_spa_06.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/karma_spa_07.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/karma_spa_08.jpg"
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/In-VillaDining_1.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/In-VillaDining_2.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/In-VillaDining_3.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/In-VillaDining_4.jpg"
                       ]
                     },
                     {
                       "category": {
-                        "en": "Three Monkey Kids Club",
-                        "de": "Karma Drei-Affen-Kinderclub",
-                        "fr": "Club pour enfants Three Monkey",
-                        "id": "Klub Anak Tiga Monyet"
+                        "en": "3 Monkeys Kid’s Club",
+                        "de": "3 Monkeys Kinderclub",
+                        "fr": "Club pour enfants 3 Monkeys",
+                        "id": "Klub Anak-anak 3 Monyet"
                       },
                       "title": "",
                       "description": "",
@@ -707,18 +702,36 @@
                     },
                     {
                       "category": {
-                        "en": "Boxing Ring",
-                        "de": "Boxring",
-                        "fr": "Ring de boxe",
-                        "id": "Cincin Tinju"
+                        "en": "Schooners Sports Bar",
+                        "de": "Schooners Sportbar",
+                        "fr": "Bar sportif Schooners",
+                        "id": "Bar Olahraga Schooners"
                       },
                       "title": "",
                       "description": "",
                       "images": [
-                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/boxing_ring_01.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/boxing_ring_02.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/boxing_ring_03.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/boxing_ring_04.jpg"
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/schooners_01.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/schooners_02.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/schooners_03.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/schooners_04.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/schooners_05.jpg"
+                      ]
+                    },
+                    {
+                      "category": {
+                        "en": "Water Sports",
+                        "de": "Wassersport",
+                        "fr": "Sports nautiques",
+                        "id": "Olahraga Air"
+                      },
+                      "title": "",
+                      "description": "",
+                      "images": [
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/WaterSport_1.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/WaterSport_2.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/WaterSport_3.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/WaterSport_4.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/WaterSport_5.jpg"
                       ]
                     },
                     {
@@ -733,6 +746,38 @@
                       "images": [
                         "assets/images/destinations/south_east asia/indonesia/karma_kandara/gym_01.jpg",
                         "assets/images/destinations/south_east asia/indonesia/karma_kandara/gym_02.jpg"
+                      ]
+                    },
+                    {
+                      "category": {
+                        "en": "Muay Thai",
+                        "de": "Muay Thai",
+                        "fr": "Muay Thai",
+                        "id": "Muay Thai"
+                      },
+                      "title": "",
+                      "description": "",
+                      "images": [
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/MuayThai_1.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/MuayThai_2.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/MuayThai_3.jpg"
+                      ]
+                    },
+                    {
+                      "category": {
+                        "en": "Activities",
+                        "de": "Aktivitäten",
+                        "fr": "Activités",
+                        "id": "Kegiatan"
+                      },
+                      "title": "",
+                      "description": "",
+                      "images": [
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/Activities_1.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/Activities_2.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/Activities_3.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/Activities_4.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_kandara/Activities_5.jpg"
                       ]
                     }
                   ],
@@ -3399,25 +3444,24 @@
                   "accommodation": [
                     {
                       "category": {
-                        "en": "Studio",
-                        "de": "Studio",
-                        "fr": "Studio",
-                        "id": "Studio"
+                        "en": "Studio Room",
+                        "de": "Studiozimmer",
+                        "fr": "Chambre studio",
+                        "id": "Kamar Studio"
                       },
                       "images": [
                         "assets/images/destinations/india/goa/karma_royale_montrio/studio_01.jpg",
                         "assets/images/destinations/india/goa/karma_royale_montrio/studio_02.jpg",
                         "assets/images/destinations/india/goa/karma_royale_montrio/studio_03.jpg",
-                        "assets/images/destinations/india/goa/karma_royale_montrio/studio_04.jpg",
-                        "assets/images/destinations/india/goa/karma_royale_montrio/studio_05.jpg"
-                      ]
+                        "assets/images/destinations/india/goa/karma_royale_montrio/studio_04.jpg"
+                        ]
                     },
                     {
                       "category": {
-                        "en": "One Bedroom Apartment",
-                        "de": "Apartment mit einem Schlafzimmer",
-                        "fr": "Appartement d’une chambre",
-                        "id": "Apartemen Satu Kamar Tidur"
+                        "en": "One Bedroom Club Room",
+                        "de": "Clubzimmer mit einem Schlafzimmer",
+                        "fr": "Chambre Club avec une chambre à coucher",
+                        "id": "Kamar Klub Satu Kamar Tidur"
                       },
                       "images": [
                         "assets/images/destinations/india/goa/karma_royale_montrio/1_bedroom_apartment_01.jpg",
@@ -3429,19 +3473,17 @@
                     },
                     {
                       "category": {
-                        "en": "Two Bedroom Apartment",
-                        "de": "Apartment mit zwei Schlafzimmern",
-                        "fr": "Appartement de deux chambres",
-                        "id": "Apartemen Dua Kamar Tidur"
+                        "en": "Two Bedroom Club Room",
+                        "de": "Clubzimmer mit zwei Schlafzimmern",
+                        "fr": "Chambre Club à deux chambres",
+                        "id": "Kamar Klub Dua Kamar Tidur"
                       },
                       "images": [
                         "assets/images/destinations/india/goa/karma_royale_montrio/2_bedroom_apartment_01.jpg",
                         "assets/images/destinations/india/goa/karma_royale_montrio/2_bedroom_apartment_02.jpg",
                         "assets/images/destinations/india/goa/karma_royale_montrio/2_bedroom_apartment_03.jpg",
                         "assets/images/destinations/india/goa/karma_royale_montrio/2_bedroom_apartment_04.jpg",
-                        "assets/images/destinations/india/goa/karma_royale_montrio/2_bedroom_apartment_05.jpg",
-                        "assets/images/destinations/india/goa/karma_royale_montrio/2_bedroom_apartment_06.jpg",
-                        "assets/images/destinations/india/goa/karma_royale_montrio/2_bedroom_apartment_07.jpg"
+                        "assets/images/destinations/india/goa/karma_royale_montrio/2_bedroom_apartment_05.jpg"
                       ]
                     }
                   ],
@@ -8943,7 +8985,10 @@
                       "title": "",
                       "description": "",
                       "images": [
-                        "assets/images/destinations/africa_&_others/maldives/Karma Fushi, Maldives/Snorkelling.jpg"
+                        "assets/images/destinations/africa_&_others/maldives/Karma Fushi, Maldives/Snorkelling_1.jpg",
+                        "assets/images/destinations/africa_&_others/maldives/Karma Fushi, Maldives/Snorkelling_2.jpg",
+                        "assets/images/destinations/africa_&_others/maldives/Karma Fushi, Maldives/Snorkelling_3.jpg",
+                        "assets/images/destinations/africa_&_others/maldives/Karma Fushi, Maldives/Snorkelling_4.jpg"
                       ]
                     },
                     {
@@ -8956,7 +9001,8 @@
                       "title": "",
                       "description": "",
                       "images": [
-                        "assets/images/destinations/africa_&_others/maldives/Karma Fushi, Maldives/karma-fushi-stand-up-paddle-01.jpg"
+                        "assets/images/destinations/africa_&_others/maldives/Karma Fushi, Maldives/karma-fushi-stand-up-paddle-01.jpg",
+                        "assets/images/destinations/africa_&_others/maldives/Karma Fushi, Maldives/karma-fushi-stand-up-paddle-02.jpg"
                       ]
                     },
                     {
@@ -8970,7 +9016,9 @@
                       "description": "",
                       "images": [
                         "assets/images/destinations/africa_&_others/maldives/Karma Fushi, Maldives/karma-fushi-jet-skiing-01.jpg",
-                        "assets/images/destinations/africa_&_others/maldives/Karma Fushi, Maldives/karma-fushi-jet-skiing-02.jpg"
+                        "assets/images/destinations/africa_&_others/maldives/Karma Fushi, Maldives/karma-fushi-jet-skiing-02.jpg",
+                        "assets/images/destinations/africa_&_others/maldives/Karma Fushi, Maldives/karma-fushi-jet-skiing-03.jpg",
+                        "assets/images/destinations/africa_&_others/maldives/Karma Fushi, Maldives/karma-fushi-jet-skiing-04.jpg"
                       ]
                     },
                     {
@@ -8983,21 +9031,11 @@
                       "title": "",
                       "description": "",
                       "images": [
-                        "assets/images/destinations/africa_&_others/maldives/Karma Fushi, Maldives/karma_fushi_scuba_diving_01.jpg"
-                      ]
-                    },
-                    {
-                      "category": {
-                        "en": "Kite Surfing",
-                        "de": "Kitesurfen",
-                        "fr": "Kite Surf",
-                        "id": "Selancar Layang-layang"
-                      },
-                      "title": "",
-                      "description": "",
-                      "images": [
-                        "assets/images/destinations/africa_&_others/maldives/Karma Fushi, Maldives/karma-fushi-kite-surfing-01.jpg",
-                        "assets/images/destinations/africa_&_others/maldives/Karma Fushi, Maldives/karma-fushi-kite-surfing-02.jpg"
+                        "assets/images/destinations/africa_&_others/maldives/Karma Fushi, Maldives/karma_fushi_scuba_diving_01.jpg",
+                        "assets/images/destinations/africa_&_others/maldives/Karma Fushi, Maldives/karma_fushi_scuba_diving_02.jpg",
+                        "assets/images/destinations/africa_&_others/maldives/Karma Fushi, Maldives/karma_fushi_scuba_diving_03.jpg",
+                        "assets/images/destinations/africa_&_others/maldives/Karma Fushi, Maldives/karma_fushi_scuba_diving_04.jpg",
+                        "assets/images/destinations/africa_&_others/maldives/Karma Fushi, Maldives/karma_fushi_scuba_diving_05.jpg"
                       ]
                     },
                     {
@@ -9010,7 +9048,9 @@
                       "title": "",
                       "description": "",
                       "images": [
-                        "assets/images/destinations/africa_&_others/maldives/Karma Fushi, Maldives/karma-fushi-fishing-01.jpg"
+                        "assets/images/destinations/africa_&_others/maldives/Karma Fushi, Maldives/karma-fushi-fishing-01.jpg",
+                        "assets/images/destinations/africa_&_others/maldives/Karma Fushi, Maldives/karma-fushi-fishing-02.jpg",
+                        "assets/images/destinations/africa_&_others/maldives/Karma Fushi, Maldives/karma-fushi-fishing-03.jpg"
                       ]
                     }
                   ],

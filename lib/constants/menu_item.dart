@@ -3,6 +3,8 @@ import 'package:flutter_svg/flutter_svg.dart';
 import 'package:pitchbook/constants/app_data.dart';
 import 'package:pitchbook/constants/custom_svg_text_button.dart';
 
+import 'custom_png_text_button.dart';
+
 class MenuItem extends StatelessWidget {
   final double btnSize;
   final String label;
@@ -11,6 +13,7 @@ class MenuItem extends StatelessWidget {
   final bool isShortPath;
   final bool showPath;
   final bool isChangeColor;
+  final bool isPng;
 
   const MenuItem({
     super.key,
@@ -21,6 +24,7 @@ class MenuItem extends StatelessWidget {
     this.isShortPath = false,
     this.showPath = true,
     this.isChangeColor = false,
+    this.isPng = false
   });
 
   @override
@@ -48,7 +52,14 @@ class MenuItem extends StatelessWidget {
           const SizedBox(
             height: 14,
           ),
-        CustomSvgTextButton(
+        (isPng == false)? CustomSvgTextButton(
+          onTap: onTap!,
+          label: label,
+          svgPath: svgPath,
+          size: btnSize,
+          isChangeColor: isChangeColor,
+        )
+        :CustomPngTextButton(
           onTap: onTap!,
           label: label,
           svgPath: svgPath,

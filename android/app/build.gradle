@@ -39,20 +39,13 @@ android {
     }
 
     signingConfigs {
-//        release {
-//            keyAlias = keystoreProperties['keyAlias']
-//            keyPassword = keystoreProperties['keyPassword']
-//            storeFile = keystoreProperties['storeFile'] ? file(keystoreProperties['storeFile']) : null
-//            storePassword = keystoreProperties['storePassword']
-//        }
         release {
-            keyAlias = 'upload'
-            keyPassword = 'm4%234yQ7'
-            storeFile = file('karmaclub-keystore.jks')
-            storePassword = 'm4%234yQ7'
+            keyAlias = keystoreProperties['keyAlias']
+            keyPassword = keystoreProperties['keyPassword']
+            storeFile = keystoreProperties['storeFile'] ? file(keystoreProperties['storeFile']) : null
+            storePassword = keystoreProperties['storePassword']
         }
     }
-
     buildTypes {
         release {
             signingConfig signingConfigs.release
