@@ -109,7 +109,7 @@ class _DestinationsWrapperWidgetState extends State<DestinationsWrapperWidget> {
         _selectedThumbVideo = widget.data['countries'][_selectedDestination]
             ['places'][selectedPlace]['thumbVideo'];
         _selectedThumbVe = widget.data['countries'][_selectedDestination]
-            ['places'][selectedPlace]['thumbVe'];  // firebase
+            ['places'][selectedPlace]['thumbVe'];
         _selectedPlaceImage = widget.data['countries'][_selectedDestination]
             ['places'][selectedPlace]['image'];
         _selectedPlaceName = widget.data['countries'][_selectedDestination]
@@ -361,8 +361,6 @@ class _DestinationsWrapperWidgetState extends State<DestinationsWrapperWidget> {
                                 [widget.lang],
                             onTap: () {
                               List properties = widget.data['countries'][_selectedDestination]['places'][_selectedPlace]['properties'];
-                              // for (var p in properties) {
-                              // }
 
                               allGallery.isNotEmpty
                                   ? Navigator.pushNamed(
@@ -392,6 +390,7 @@ class _DestinationsWrapperWidgetState extends State<DestinationsWrapperWidget> {
                           ),
                         ),
 
+                        allVideos.isNotEmpty?
                         SlideInAnimation(
                           delay: const Duration(milliseconds: 100),
                           child: MainMediaItem(
@@ -425,9 +424,9 @@ class _DestinationsWrapperWidgetState extends State<DestinationsWrapperWidget> {
                               );
                             },
                           ),
-                        ),
+                        )
+                        :Container(),
 
-                        //update this when ver_exp data added to properties //Latest
                         (isVirtualExperience)?
                         SlideInAnimation(
                           delay: const Duration(milliseconds: 200),

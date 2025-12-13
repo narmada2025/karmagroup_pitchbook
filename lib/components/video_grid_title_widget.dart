@@ -91,6 +91,7 @@ class _VideoGridTitleWidgetState extends State<VideoGridTitleWidget> {
   void extractVideoUrls() {
     setState(() {
       _videoUrls = widget.data.map<String>((video) => video['video'].toString()).toList();
+      // print("===_videoUrls $_videoUrls");
       _videoCovers =
           widget.data.map<String>((video) => video['cover'].toString()).toList();
       _videoTitles = widget.data.map<String>((video) {

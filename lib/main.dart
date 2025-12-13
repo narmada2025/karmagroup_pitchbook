@@ -82,7 +82,9 @@ class _MyAppState extends State<MyApp> with WidgetsBindingObserver {
         _locale = Locale(languageCode, countryCode);
       });
     }
+    await prefs.remove('currentIndex');
   }
+
 
   @override
   Widget build(BuildContext context) {

@@ -1,5 +1,3 @@
-import 'dart:developer';
-
 import 'package:flutter/material.dart';
 import 'package:pitchbook/constants/app_data.dart';
 import 'package:pitchbook/constants/loading_component.dart';
@@ -76,7 +74,6 @@ class _CommunityScreenState extends State<CommunityScreen> {
     }
     setState(() {
       _chairmanSessionFeaturedStories = chairmanSessionFeaturedStories;
-      log("_chairmanSessionFeaturedStories $_chairmanSessionFeaturedStories");
       _events = eventData;
       _eventGallery = galleryData;
       _press = pressData;

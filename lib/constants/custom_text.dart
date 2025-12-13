@@ -21,7 +21,7 @@ class CustomText extends StatelessWidget {
     this.isUppercase = false,
     this.textAlign = TextAlign.left,
     this.textStyle,
-    this.maxLines = 6,
+    this.maxLines = 8,
     this.overflow = TextOverflow.ellipsis,
     this.letterSpacing = 0.0,
     this.fontStyle=FontStyle.normal
@@ -111,6 +111,7 @@ class CustomText extends StatelessWidget {
         fontFamily: isSerif ? 'Playfair' : 'Montserrat',
         fontSize: textSize,
         height: textHeight,
+        overflow: TextOverflow.clip,
         letterSpacing: letterSpacing,
         fontStyle: fontStyle
       ).merge(textStyle),

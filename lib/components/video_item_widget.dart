@@ -1,6 +1,4 @@
-import 'dart:developer';
 
-import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/material.dart';
 import 'package:pitchbook/constants/app_data.dart';
 import 'package:pitchbook/constants/custom_text.dart';
@@ -60,7 +58,6 @@ class _VideoItemWidgetState extends State<VideoItemWidget> {
             fit: BoxFit.cover,
           ),
 
-          //Firebase video
           if (!widget.videoData["cover"]!.startsWith('http'))
             Positioned(
               top: 8,
@@ -166,23 +163,6 @@ class _VideoItemWidgetState extends State<VideoItemWidget> {
     if (_videoDurations.containsKey(videoUrl)) {
       return _videoDurations[videoUrl]!;
     } else {
-      // If URL has .firebasestorage.app, fetch the proper download URL from Firebase
-      if (videoUrl.contains(".firebasestorage.app")) {
-        try {
-          // Extract the file path from the bad URL
-          final decodedPath = Uri.decodeFull(Uri.parse(videoUrl).pathSegments.last);
-          // In your case, file path will be like "videos%2Ffilename.mp4"
-          final storagePath = decodedPath.replaceAll('%2F', '/');
-
-          log("Fixing bad URL. Fetching from Firebase Storage: $storagePath");
-
-          videoUrl = await FirebaseStorage.instance.ref(storagePath).getDownloadURL();
-          log("==== $videoUrl");
-        } catch (e) {
-          log("Failed to fix Firebase URL: $e");
-        }
-      }
-
       final videoPlayerController = VideoPlayerController.networkUrl(Uri.parse(videoUrl));
       await videoPlayerController.initialize();
       final duration = videoPlayerController.value.duration;

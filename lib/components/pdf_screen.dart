@@ -29,7 +29,6 @@ class _PdfScreenState extends State<PdfScreen> {
     _preparePdf();
   }
 
-  ///  Check if the pdfPath is a URL or local file
   Future<void> _preparePdf() async {
     final path = widget.pdfPath.trim();
     // If already a valid local file
@@ -45,7 +44,6 @@ class _PdfScreenState extends State<PdfScreen> {
     await _downloadPdf(path);
   }
 
-  ///  Downloads PDF from GCP URL and saves locally
   Future<void> _downloadPdf(String url) async {
     try {
       final response = await http.get(Uri.parse(url));
@@ -87,7 +85,7 @@ class _PdfScreenState extends State<PdfScreen> {
       color: AppColors.ultraLightGray,
       child: Stack(
         children: [
-          /// ✅ Show loader until PDF is ready
+          // Show loader
           Padding(
             padding: const EdgeInsets.fromLTRB(0, 30, 0, 70),
             child: isLoading || localPdfPath == null
@@ -105,7 +103,6 @@ class _PdfScreenState extends State<PdfScreen> {
             ),
           ),
 
-          /// ✅ Bottom title + page number
           Align(
             alignment: Alignment.bottomCenter,
             child: Container(
@@ -124,7 +121,6 @@ class _PdfScreenState extends State<PdfScreen> {
             ),
           ),
 
-          /// ✅ Back button
           const GoBack(),
         ],
       ),

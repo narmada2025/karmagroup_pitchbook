@@ -36,6 +36,10 @@ For additional information, refer to the [Flutter documentation](https://docs.fl
 2. Make changes
 3. `flutter run`
 
+### Build aap bundle with obfuscate
+1. 'flutter build appbundle --release --obfuscate --split-debug-info=build/debug-info'
+
+
 This app can run on both Android and iOS devices/simulators.
 
 To release the app, refer to the Flutter documentation:
