@@ -108,6 +108,7 @@ class HomeExperiencesWidget extends StatelessWidget {
                               child: CustomText(
                                 label: data['para2'][lang],
                                 type: 'sm1',
+                                maxLines: 10,
                                 textStyle:
                                     const TextStyle(color: AppColors.white)
                               ),
