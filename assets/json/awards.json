@@ -3004,6 +3004,138 @@
                     }
                 ],
                 "tripAdvisorList": []
+            },
+            "2018": {
+                "tripImage": "",
+                "awardsList": [
+                    {
+                        "title": {
+                            "en": "Guest Review Awards 2018\nBooking.com",
+                            "de": "Guest Review Awards 2018\nBooking.com",
+                            "fr": "Guest Review Awards 2018\nBooking.com",
+                            "id": "Guest Review Awards 2018\nBooking.com"
+                        },
+                        "tag": {
+                            "en": "Karma Sanctum Soho Hotel",
+                            "de": "Karma Sanctum Soho Hotel",
+                            "fr": "Karma Sanctum Soho Hotel",
+                            "id": "Karma Sanctum Soho Hotel"
+                        },
+                        "name": {
+                            "en": "London, UK",
+                            "de": "London, UK",
+                            "fr": "London, UK",
+                            "id": "London, UK"
+                        },
+                        "image": "assets/images/awards/2018/Guest_Review_Awards_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Certificate of Exellence\nBridebook.co.uk Wedding",
+                            "de": "Certificate of Exellence\nBridebook.co.uk Wedding",
+                            "fr": "Certificate of Exellence\nBridebook.co.uk Wedding",
+                            "id": "Certificate of Exellence\nBridebook.co.uk Wedding"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin’s",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Isles of Scilly, UK",
+                            "de": "Isles of Scilly, UK",
+                            "fr": "Isles of Scilly, UK",
+                            "id": "Isles of Scilly, UK"
+                        },
+                        "image": "assets/images/awards/2018/Certificate_Exellence_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Rosettes – Cullinary Excellence\nAA Hospitality",
+                            "de": "Rosettes – Cullinary Excellence\nAA Hospitality",
+                            "fr": "Rosettes – Cullinary Excellence\nAA Hospitality",
+                            "id": "Rosettes – Cullinary Excellence\nAA Hospitality"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin’s",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Isles of Scilly, UK",
+                            "de": "Isles of Scilly, UK",
+                            "fr": "Isles of Scilly, UK",
+                            "id": "Isles of Scilly, UK"
+                        },
+                        "image": "assets/images/awards/2018/Rosettes_Cullinary_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Quality Inspected 4 Stars Hotel\nAA Hospitality",
+                            "de": "Quality Inspected 4 Stars Hotel\nAA Hospitality",
+                            "fr": "Quality Inspected 4 Stars Hotel\nAA Hospitality",
+                            "id": "Quality Inspected 4 Stars Hotel\nAA Hospitality"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin’s",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Isles of Scilly, UK",
+                            "de": "Isles of Scilly, UK",
+                            "fr": "Isles of Scilly, UK",
+                            "id": "Isles of Scilly, UK"
+                        },
+                        "image": "assets/images/awards/2018/Quality_Inspected_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Certificate of Exellence\nTrip Advisor",
+                            "de": "Certificate of Exellence\nTrip Advisor",
+                            "fr": "Certificate of Exellence\nTrip Advisor",
+                            "id": "Certificate of Exellence\nTrip Advisor"
+                        },
+                        "tag": {
+                            "en": "Karma Sanctum Soho",
+                            "de": "Karma Sanctum Soho",
+                            "fr": "Karma Sanctum Soho",
+                            "id": "Karma Sanctum Soho"
+                        },
+                        "name": {
+                            "en": "London, UK",
+                            "de": "London, UK",
+                            "fr": "London, UK",
+                            "id": "London, UK"
+                        },
+                        "image": "assets/images/awards/2018/Certificate_Exellence_TripAdvisor_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Entrepreneur Of The Year\nPerspective Magazine Awards",
+                            "de": "Entrepreneur Of The Year\nPerspective Magazine Awards",
+                            "fr": "Entrepreneur Of The Year\nPerspective Magazine Awards",
+                            "id": "Entrepreneur Of The Year\nPerspective Magazine Awards"
+                        },
+                        "tag": {
+                            "en": "John Spence",
+                            "de": "John Spence",
+                            "fr": "John Spence",
+                            "id": "John Spence"
+                        },
+                        "name": {
+                            "en": "Karma Group Chairman",
+                            "de": "Karma Group Chairman",
+                            "fr": "Karma Group Chairman",
+                            "id": "Karma Group Chairman"
+                        },
+                        "image": "assets/images/awards/2018/Entrepreneur_2018.png"
+                    }
+                ],
+                "tripAdvisorList": []
             }
         }
     }
