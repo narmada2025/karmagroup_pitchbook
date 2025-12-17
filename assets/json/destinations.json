@@ -4063,17 +4063,31 @@
                     },
                     {
                       "category": {
-                        "en": "Three Monkeys Kids’ Club",
-                        "de": "Drei Affen Kinderclub",
-                        "fr": "Club enfants Three Monkeys",
-                        "id": "Klub Anak Tiga Monyet"
+                        "en": "Activities Area",
+                        "de": "Aktivitätsbereich",
+                        "fr": "Zone d'activités",
+                        "id": "Area Aktivitas"
                       },
                       "title": "",
                       "description": "",
                       "images": [
-                        "assets/images/destinations/india/jaipur/karma_haveli/three_monkeys_kids_club_1.jpg",
-                        "assets/images/destinations/india/jaipur/karma_haveli/three_monkeys_kids_club_2.jpg",
-                        "assets/images/destinations/india/jaipur/karma_haveli/three_monkeys_kids_club_3.jpg"
+                        "assets/images/destinations/india/jaipur/karma_haveli/Activities_1.jpg",
+                        "assets/images/destinations/india/jaipur/karma_haveli/Activities_2.jpg",
+                        "assets/images/destinations/india/jaipur/karma_haveli/Activities_3.jpg",
+                        "assets/images/destinations/india/jaipur/karma_haveli/Activities_4.jpg"
+                      ]
+                    },
+                    {
+                      "category": {
+                        "en": "Bawdi (Stepped Well)",
+                        "de": "Bawdi (Stufenbrunnen)",
+                        "fr": "Bawdi (puits à degrés)",
+                        "id": "Bawdi (Sumur Bertingkat)"
+                      },
+                      "title": "",
+                      "description": "",
+                      "images": [
+                        "assets/images/destinations/india/jaipur/karma_haveli/Bawdi.jpg"
                       ]
                     },
                     {
@@ -4837,10 +4851,23 @@
                   "facilities": [
                     {
                       "category": {
-                        "en": "Pool",
-                        "de": "Pool",
-                        "fr": "Pool",
-                        "id": "Kolam"
+                        "en": "The Silver Oak",
+                        "de": "Die Silberne Eiche",
+                        "fr": "Le Chêne d'Argent",
+                        "id": "Pohon Ek Perak"
+                      },
+                      "title": "",
+                      "description": "",
+                      "images": [
+                        "assets/images/destinations/india/uttarakhand/karma_sitabani-corbett_national_park/Silver_oak_1.jpg"
+                      ]
+                    },
+                    {
+                      "category": {
+                        "en": "Swimming Pool",
+                        "de": "Schwimmbad",
+                        "fr": "Piscine",
+                        "id": "Kolam renang"
                       },
                       "title": "",
                       "description": "",
@@ -4874,7 +4901,8 @@
                       "images": [
                         "assets/images/destinations/india/uttarakhand/karma_sitabani-corbett_national_park/open_lawns_01.jpg",
                         "assets/images/destinations/india/uttarakhand/karma_sitabani-corbett_national_park/open_lawns_02.jpg",
-                        "assets/images/destinations/india/uttarakhand/karma_sitabani-corbett_national_park/open_lawns_03.jpg"
+                        "assets/images/destinations/india/uttarakhand/karma_sitabani-corbett_national_park/open_lawns_03.jpg",
+                        "assets/images/destinations/india/uttarakhand/karma_sitabani-corbett_national_park/open_lawns_04.jpg"
                       ]
                     },
                     {
@@ -5251,8 +5279,7 @@
                       "images": [
                         "assets/images/destinations/india/kerala/karma_munnar/hotel_unit_sleep_2+1_child_01.jpg",
                         "assets/images/destinations/india/kerala/karma_munnar/hotel_unit_sleep_2+1_child_02.jpg",
-                        "assets/images/destinations/india/kerala/karma_munnar/hotel_unit_sleep_2+1_child_03.jpg",
-                        "assets/images/destinations/india/kerala/karma_munnar/hotel_unit_sleep_2+1_child_04.jpg"
+                        "assets/images/destinations/india/kerala/karma_munnar/hotel_unit_sleep_2+1_child_03.jpg"
                       ]
                     }
                   ],
