@@ -21,6 +21,7 @@ class _DestinationsGalleryWidgetState extends State<DestinationsGalleryWidget> {
   int _selectedAccommodationIndex = -1;
   bool _isGridView = true;
   bool showAllItems = true;
+  List<dynamic> allGallery = [];
 
   @override
   Widget build(BuildContext context) {
@@ -43,12 +44,16 @@ class _DestinationsGalleryWidgetState extends State<DestinationsGalleryWidget> {
        }
      else{
        List<dynamic> imageUrls = [];
-
+       allGallery = [];
        for (var asset in properties) {
          if (asset['media']['gallery'] != null && asset['media']['gallery'].toString().isNotEmpty) {
            // imageUrls.add(asset['media']['gallery'].toString());
            imageUrls = asset['media']['gallery'];
+           print("===allGallery Length ${imageUrls.length}");
+           allGallery.addAll(imageUrls);
          }
+         imageUrls = allGallery;
+         print("===allGallery Length ${imageUrls.length}");
        }
        return imageUrls;
      }

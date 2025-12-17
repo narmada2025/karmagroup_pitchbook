@@ -94,13 +94,10 @@ class _DestinationsPropertyScreenState
         } else if (path.endsWith('.pdf')) {
           finalPath = '${AppAPI.baseUrlGcp}$path';
         } else {
-          // This is the async gap
           finalPath = await loadPdfFromAssets(path);
         }
 
-        // ✅ Guard context after async gap
         if (!context.mounted) return;
-
         nav.push(
           MaterialPageRoute(
             builder: (context) => PdfScreen(

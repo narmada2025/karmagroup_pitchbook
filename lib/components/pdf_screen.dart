@@ -1,13 +1,13 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
-import 'package:flutter_pdfview/flutter_pdfview.dart';
 import 'package:http/http.dart' as http;
 import 'package:path_provider/path_provider.dart';
+import 'package:pdfx/pdfx.dart';
 import 'package:pitchbook/constants/app_data.dart';
 import 'package:pitchbook/constants/go_back.dart';
 
 class PdfScreen extends StatefulWidget {
-  final String pdfPath; // Can be local or URL
+  final String pdfPath;
   final Map<String, dynamic>? title;
 
   const PdfScreen({super.key, required this.pdfPath, this.title});
@@ -20,8 +20,10 @@ class _PdfScreenState extends State<PdfScreen> {
   int currentPage = 0;
   int totalPages = 0;
 
-  String? localPdfPath; // final file passed to PDFView
+  String? localPdfPath;
   bool isLoading = true;
+
+  PdfController? pdfController;
 
   @override
   void initState() {
@@ -31,17 +33,25 @@ class _PdfScreenState extends State<PdfScreen> {
 
   Future<void> _preparePdf() async {
     final path = widget.pdfPath.trim();
-    // If already a valid local file
-    if (File(path).existsSync()) {
-      setState(() {
-        localPdfPath = path;
-        isLoading = false;
-      });
-      return;
-    }
 
-    //  Otherwise assume it's a URL (download)
-    await _downloadPdf(path);
+    if (File(path).existsSync()) {
+      _initPdf(path);
+    } else {
+      await _downloadPdf(path);
+    }
+  }
+
+  void _initPdf(String path) {
+    pdfController?.dispose();
+
+    pdfController = PdfController(
+      document: PdfDocument.openFile(path),
+    );
+
+    setState(() {
+      localPdfPath = path;
+      isLoading = false;
+    });
   }
 
   Future<void> _downloadPdf(String url) async {
@@ -53,10 +63,7 @@ class _PdfScreenState extends State<PdfScreen> {
 
         await file.writeAsBytes(response.bodyBytes);
 
-        setState(() {
-          localPdfPath = file.path;
-          isLoading = false;
-        });
+        _initPdf(file.path);
       } else {
         debugPrint("PDF download failed: ${response.statusCode}");
       }
@@ -65,17 +72,15 @@ class _PdfScreenState extends State<PdfScreen> {
     }
   }
 
-  void onPageChanged(int page, int total) {
-    setState(() {
-      currentPage = page;
-      totalPages = total;
-    });
+  @override
+  void dispose() {
+    pdfController?.dispose();
+    super.dispose();
   }
 
   @override
   Widget build(BuildContext context) {
     Size size = MediaQuery.of(context).size;
-
     Locale locale = Localizations.localeOf(context);
     String lang = locale.languageCode;
 
@@ -85,21 +90,15 @@ class _PdfScreenState extends State<PdfScreen> {
       color: AppColors.ultraLightGray,
       child: Stack(
         children: [
-          // Show loader
           Padding(
             padding: const EdgeInsets.fromLTRB(0, 30, 0, 70),
-            child: isLoading || localPdfPath == null
+            child: isLoading || pdfController == null
                 ? const Center(child: CircularProgressIndicator())
-                : PDFView(
-              backgroundColor: AppColors.ultraLightGray,
-              filePath: localPdfPath!,
-              enableSwipe: true,
-              swipeHorizontal: true,
-              autoSpacing: true,
-              pageSnap: true,
-              onPageChanged: (page, total) =>
-                  onPageChanged(page!, total!),
-              fitPolicy: FitPolicy.BOTH,
+                : PdfView(
+              controller: pdfController!,
+              backgroundDecoration: const BoxDecoration(
+                color: AppColors.ultraLightGray,
+              ),
             ),
           ),
 

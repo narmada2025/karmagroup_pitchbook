@@ -2257,6 +2257,753 @@
                     }
                 ],
                 "tripAdvisorList": []
+            },
+            "2020": {
+                "tripImage": "",
+                "awardsList": [
+                    {
+                        "title": {
+                            "en": "Refurbishment: Unit Karma Apsara ARDA awards",
+                            "de": "Renovierung: Einheit Karma Apsara ARDA-Auszeichnungen",
+                            "fr": "Rénovation: récompenses de l'unité Karma Apsara ARDA",
+                            "id": "Renovasi: Penghargaan Unit Karma Apsara ARDA"
+                        },
+                        "tag": {
+                            "en": "Karma Apsara",
+                            "de": "Karma Apsara",
+                            "fr": "Karma Apsara",
+                            "id": "Karma Apsara"
+                        },
+                        "name": {
+                            "en": "Koh Samui, Thailand",
+                            "de": "Koh Samui, Thailand",
+                            "fr": "Koh Samui, Thailand",
+                            "id": "Koh Samui, Thailand"
+                        },
+                        "image": "assets/images/awards/2020/Apsara_ARDA_awards.png"
+                    },
+                    {
+                        "title": {
+                            "en": "2020 Recognition of Excellence HotelsCombined",
+                            "de": "2020 Auszeichnung für Exzellenz von HotelsCombined",
+                            "fr": "Prix d'excellence 2020 décerné par HotelsCombined",
+                            "id": "Penghargaan Keunggulan HotelsCombined tahun 2020"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin’s",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Isles of Scilly, UK",
+                            "de": "Isles of Scilly, UK",
+                            "fr": "Isles of Scilly, UK",
+                            "id": "Isles of Scilly, UK"
+                        },
+                        "image": "assets/images/awards/2020/2020_Recognition_Excellence.png"
+                    },
+                    {
+                        "title": {
+                            "en": "First Award for Hospitality (Concept) Rethinking The Future Awards",
+                            "de": "Erster Preis für Gastfreundschaft (Konzept) bei den Rethinking The Future Awards",
+                            "fr": "Premier prix de l'hôtellerie (Concept) – Prix Rethinking The Future",
+                            "id": "Penghargaan Pertama untuk Perhotelan (Konsep) Rethinking The Future Awards"
+                        },
+                        "tag": {
+                            "en": "Karma Bequia",
+                            "de": "Karma Bequia",
+                            "fr": "Karma Bequia",
+                            "id": "Karma Bequia"
+                        },
+                        "name": {
+                            "en": "P-A-T-T-E-R-N-S",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2020/First_Award_Hospitality.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Best Luxury Hospitality Brand APAC Business Awards",
+                            "de": "Auszeichnungen für die beste Innenarchitektur des Perspective Magazine",
+                            "fr": "Prix du meilleur magazine Perspective en design d’intérieur",
+                            "id": "Penghargaan Majalah Perspektif Desain Interior Terbaik"
+                        },
+                        "tag": {
+                            "en": "Karma Group",
+                            "de": "Karma Group",
+                            "fr": "Karma Group",
+                            "id": "Karma Group"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Group",
+                            "fr": "Karma Group",
+                            "id": "Karma Group"
+                        },
+                        "image": "assets/images/awards/2020/Best_Luxury_Hospitality_Brand.png"
+                    }
+                ],
+                "tripAdvisorList": []
+            },
+            "2019": {
+                "tripImage": "",
+                "awardsList": [
+                    {
+                        "title": {
+                            "en": "Winner - World Luxury Restaurant Awards",
+                            "de": "Gewinner - World Luxury Restaurant Awards",
+                            "fr": "Lauréat - World Luxury Restaurant Awards",
+                            "id": "Pemenang - Penghargaan Restoran Mewah Dunia"
+                        },
+                        "tag": {
+                            "en": "di Mare Restaurant at Karma Kandara, Ungasan",
+                            "de": "di Mare Restaurant at Karma Kandara, Ungasan",
+                            "fr": "di Mare Restaurant at Karma Kandara, Ungasan",
+                            "id": "di Mare Restaurant at Karma Kandara, Ungasan"
+                        },
+                        "name": {
+                            "en": "Bali, Indonesia",
+                            "de": "Bali, Indonesia",
+                            "fr": "Bali, Indonesia",
+                            "id": "Bali, Indonesia"
+                        },
+                        "image": "assets/images/awards/2019/World_Luxury_2019.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Visit England Silver Award",
+                            "de": "Visit England Silver Award",
+                            "fr": "Visit England Silver Award",
+                            "id": "Visit England Silver Award"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin’s",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Isles of Scilly, UK",
+                            "de": "Isles of Scilly, UK",
+                            "fr": "Isles of Scilly, UK",
+                            "id": "Isles of Scilly, UK"
+                        },
+                        "image": "assets/images/awards/2019/Visit_England_2019.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Quality Inspected 4 Stars Hotel AA Hospitality Awards 2019",
+                            "de": "Quality Inspected 4 Stars Hotel AA Hospitality Awards 2019",
+                            "fr": "Quality Inspected 4 Stars Hotel AA Hospitality Awards 2019",
+                            "id": "Quality Inspected 4 Stars Hotel AA Hospitality Awards 2019"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin’s",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Isles of Scilly, UK",
+                            "de": "Isles of Scilly, UK",
+                            "fr": "Isles of Scilly, UK",
+                            "id": "Isles of Scilly, UK"
+                        },
+                        "image": "assets/images/awards/2019/Quality_Inspected_2019.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Winner of Best Interior Design Award ARDA awards",
+                            "de": "Winner of Best Interior Design Award ARDA awards",
+                            "fr": "Winner of Best Interior Design Award ARDA awards",
+                            "id": "Winner of Best Interior Design Award ARDA awards"
+                        },
+                        "tag": {
+                            "en": "Karma Kandara",
+                            "de": "Karma Kandara",
+                            "fr": "Karma Kandara",
+                            "id": "Karma Kandara"
+                        },
+                        "name": {
+                            "en": "Ungasan, Bali, Indonesia",
+                            "de": "Ungasan, Bali, Indonesia",
+                            "fr": "Ungasan, Bali, Indonesia",
+                            "id": "Ungasan, Bali, Indonesia"
+                        },
+                        "image": "assets/images/awards/2019/ARDA_awards_2019.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Perspective Magazine Awards Best Exterior Design",
+                            "de": "Perspective Magazine Awards Best Exterior Design",
+                            "fr": "Perspective Magazine Awards Best Exterior Design",
+                            "id": "Perspective Magazine Awards Best Exterior Design"
+                        },
+                        "tag": {
+                            "en": "Karma Kandara",
+                            "de": "Karma Kandara",
+                            "fr": "Karma Kandara",
+                            "id": "Karma Kandara"
+                        },
+                        "name": {
+                            "en": "Ungasan, Bali, Indonesia",
+                            "de": "Ungasan, Bali, Indonesia",
+                            "fr": "Ungasan, Bali, Indonesia",
+                            "id": "Ungasan, Bali, Indonesia"
+                        },
+                        "image": "assets/images/awards/2019/Best_Exterior_2019.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Perspective Magazine Awards Best Interior Design",
+                            "de": "Perspective Magazine Awards Best Interior Design",
+                            "fr": "Perspective Magazine Awards Best Interior Design",
+                            "id": "Perspective Magazine Awards Best Interior Design"
+                        },
+                        "tag": {
+                            "en": "Karma Kandara",
+                            "de": "Karma Kandara",
+                            "fr": "Karma Kandara",
+                            "id": "Karma Kandara"
+                        },
+                        "name": {
+                            "en": "Ungasan, Bali, Indonesia",
+                            "de": "Ungasan, Bali, Indonesia",
+                            "fr": "Ungasan, Bali, Indonesia",
+                            "id": "Ungasan, Bali, Indonesia"
+                        },
+                        "image": "assets/images/awards/2019/Best_Interior_2019.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Entrepreneur of The Year Perspective Magazine Awards",
+                            "de": "Entrepreneur of The Year Perspective Magazine Awards",
+                            "fr": "Entrepreneur of The Year Perspective Magazine Awards",
+                            "id": "Entrepreneur of The Year Perspective Magazine Awards"
+                        },
+                        "tag": {
+                            "en": "John Spence",
+                            "de": "John Spence",
+                            "fr": "John Spence",
+                            "id": "John Spence"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Group",
+                            "fr": "Karma Group",
+                            "id": "Karma Group"
+                        },
+                        "image": "assets/images/awards/2019/Entrepreneur_Year_2019.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Best Hotel/Resort Development-Europe Perspective Magazine Awards",
+                            "de": "Best Hotel/Resort Development-Europe Perspective Magazine Awards",
+                            "fr": "Best Hotel/Resort Development-Europe Perspective Magazine Awards",
+                            "id": "Best Hotel/Resort Development-Europe Perspective Magazine Awards"
+                        },
+                        "tag": {
+                            "en": "Karma Minoan",
+                            "de": "Karma Minoan",
+                            "fr": "Karma Minoan",
+                            "id": "Karma Minoan"
+                        },
+                        "name": {
+                            "en": "Crete, Greece",
+                            "de": "Crete, Greece",
+                            "fr": "Crete, Greece",
+                            "id": "Crete, Greece"
+                        },
+                        "image": "assets/images/awards/2019/Best_Hotel_Resort_2019.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Best Sales Professional Perspective Magazine Awards",
+                            "de": "Best Sales Professional Perspective Magazine Awards",
+                            "fr": "Best Sales Professional Perspective Magazine Awards",
+                            "id": "Best Sales Professional Perspective Magazine Awards"
+                        },
+                        "tag": {
+                            "en": "Suleman Ahamad",
+                            "de": "Suleman Ahamad",
+                            "fr": "Suleman Ahamad",
+                            "id": "Suleman Ahamad"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Group",
+                            "fr": "Karma Group",
+                            "id": "Karma Group"
+                        },
+                        "image": "assets/images/awards/2019/Best_Sales_2019.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Best Newcomer Perspective Magazine Awards",
+                            "de": "Best Newcomer Perspective Magazine Awards",
+                            "fr": "Best Newcomer Perspective Magazine Awards",
+                            "id": "Best Newcomer Perspective Magazine Awards"
+                        },
+                        "tag": {
+                            "en": "Nihan Rebello",
+                            "de": "Nihan Rebello",
+                            "fr": "Nihan Rebello",
+                            "id": "Nihan Rebello"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Group",
+                            "fr": "Karma Group",
+                            "id": "Karma Group"
+                        },
+                        "image": "assets/images/awards/2019/Best_Newcomer_2019.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown Resort 2019",
+                            "de": "RCI Gold Crown Resort 2019",
+                            "fr": "RCI Gold Crown Resort 2019",
+                            "id": "RCI Gold Crown Resort 2019"
+                        },
+                        "tag": {
+                            "en": "Karma Kandara",
+                            "de": "Karma Kandara",
+                            "fr": "Karma Kandara",
+                            "id": "Karma Kandara"
+                        },
+                        "name": {
+                            "en": "Ungasan, Bali",
+                            "de": "Ungasan, Bali",
+                            "fr": "Ungasan, Bali",
+                            "id": "Ungasan, Bali"
+                        },
+                        "image": "assets/images/awards/2019/Best_Newcomer_2019.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown Resort 2019",
+                            "de": "RCI Gold Crown Resort 2019",
+                            "fr": "RCI Gold Crown Resort 2019",
+                            "id": "RCI Gold Crown Resort 2019"
+                        },
+                        "tag": {
+                            "en": "Karma Jimbaran",
+                            "de": "Karma Jimbaran",
+                            "fr": "Karma Jimbaran",
+                            "id": "Karma Jimbaran"
+                        },
+                        "name": {
+                            "en": "Jimbaran Bay, Bali",
+                            "de": "Jimbaran Bay, Bali",
+                            "fr": "Jimbaran Bay, Bali",
+                            "id": "Jimbaran Bay, Bali"
+                        },
+                        "image": "assets/images/awards/2019/RCI_Gold_Crown_2019.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown Resort 2019",
+                            "de": "RCI Gold Crown Resort 2019",
+                            "fr": "RCI Gold Crown Resort 2019",
+                            "id": "RCI Gold Crown Resort 2019"
+                        },
+                        "tag": {
+                            "en": "Karma Apsara",
+                            "de": "Karma Apsara",
+                            "fr": "Karma Apsara",
+                            "id": "Karma Apsara"
+                        },
+                        "name": {
+                            "en": "Koh Samui, Thailand",
+                            "de": "Koh Samui, Thailand",
+                            "fr": "Koh Samui, Thailand",
+                            "id": "Koh Samui, Thailand"
+                        },
+                        "image": "assets/images/awards/2019/RCI_Gold_Crown_2019.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown Resort 2019",
+                            "de": "RCI Gold Crown Resort 2019",
+                            "fr": "RCI Gold Crown Resort 2019",
+                            "id": "RCI Gold Crown Resort 2019"
+                        },
+                        "tag": {
+                            "en": "Karma Cây Tre",
+                            "de": "Karma Cây Tre",
+                            "fr": "Karma Cây Tre",
+                            "id": "Karma Cây Tre"
+                        },
+                        "name": {
+                            "en": "Hội An, Vietnam",
+                            "de": "KHội An, Vietnam",
+                            "fr": "Hội An, Vietnam",
+                            "id": "Hội An, Vietnam"
+                        },
+                        "image": "assets/images/awards/2019/RCI_Gold_Crown_2019.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown Resort 2019",
+                            "de": "RCI Gold Crown Resort 2019",
+                            "fr": "RCI Gold Crown Resort 2019",
+                            "id": "RCI Gold Crown Resort 2019"
+                        },
+                        "tag": {
+                            "en": "Karma Chakra",
+                            "de": "Karma Chakra",
+                            "fr": "Karma Chakra",
+                            "id": "Karma Chakra"
+                        },
+                        "name": {
+                            "en": "Kerala, India",
+                            "de": "Kerala, India",
+                            "fr": "Kerala, India",
+                            "id": "Kerala, India"
+                        },
+                        "image": "assets/images/awards/2019/RCI_Gold_Crown_2019.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown Resort 2019",
+                            "de": "RCI Gold Crown Resort 2019",
+                            "fr": "RCI Gold Crown Resort 2019",
+                            "id": "RCI Gold Crown Resort 2019"
+                        },
+                        "tag": {
+                            "en": "Karma Haveli",
+                            "de": "Karma Haveli",
+                            "fr": "Karma Haveli",
+                            "id": "Karma Haveli"
+                        },
+                        "name": {
+                            "en": "Jaipur, India",
+                            "de": "Jaipur, India",
+                            "fr": "Jaipur, India",
+                            "id": "Jaipur, India"
+                        },
+                        "image": "assets/images/awards/2019/RCI_Gold_Crown_2019.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown Resort 2019",
+                            "de": "RCI Gold Crown Resort 2019",
+                            "fr": "RCI Gold Crown Resort 2019",
+                            "id": "RCI Gold Crown Resort 2019"
+                        },
+                        "tag": {
+                            "en": "Karma Mayura",
+                            "de": "Karma Mayura",
+                            "fr": "Karma Mayura",
+                            "id": "Karma Mayura"
+                        },
+                        "name": {
+                            "en": "Ubud, Bali, Indonesia",
+                            "de": "Ubud, Bali, Indonesia",
+                            "fr": "Ubud, Bali, Indonesia",
+                            "id": "Ubud, Bali, Indonesia"
+                        },
+                        "image": "assets/images/awards/2019/RCI_Gold_Crown_2019.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown Resort 2019",
+                            "de": "RCI Gold Crown Resort 2019",
+                            "fr": "RCI Gold Crown Resort 2019",
+                            "id": "RCI Gold Crown Resort 2019"
+                        },
+                        "tag": {
+                            "en": "Karma REEF",
+                            "de": "Karma REEF",
+                            "fr": "Karma REEF",
+                            "id": "Karma REEF"
+                        },
+                        "name": {
+                            "en": "Gili Meno, Indonesia",
+                            "de": "Gili Meno, Indonesia",
+                            "fr": "Gili Meno, Indonesia",
+                            "id": "Gili Meno, Indonesia"
+                        },
+                        "image": "assets/images/awards/2019/RCI_Gold_Crown_2019.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown Resort 2019",
+                            "de": "RCI Gold Crown Resort 2019",
+                            "fr": "RCI Gold Crown Resort 2019",
+                            "id": "RCI Gold Crown Resort 2019"
+                        },
+                        "tag": {
+                            "en": "Karma Exotica",
+                            "de": "Karma Exotica",
+                            "fr": "Karma Exotica",
+                            "id": "Karma Exotica"
+                        },
+                        "name": {
+                            "en": "Dharamshala, India",
+                            "de": "Dharamshala, India",
+                            "fr": "Dharamshala, India",
+                            "id": "Dharamshala, India"
+                        },
+                        "image": "assets/images/awards/2019/RCI_Gold_Crown_2019.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown Resort 2019",
+                            "de": "RCI Gold Crown Resort 2019",
+                            "fr": "RCI Gold Crown Resort 2019",
+                            "id": "RCI Gold Crown Resort 2019"
+                        },
+                        "tag": {
+                            "en": "Karma Royal MonteRio",
+                            "de": "Karma Royal MonteRio",
+                            "fr": "Karma Royal MonteRio",
+                            "id": "Karma Royal MonteRio"
+                        },
+                        "name": {
+                            "en": "North Goa",
+                            "de": "North Goa",
+                            "fr": "North Goa",
+                            "id": "North Goa"
+                        },
+                        "image": "assets/images/awards/2019/RCI_Gold_Crown_2019.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown Resort 2019",
+                            "de": "RCI Gold Crown Resort 2019",
+                            "fr": "RCI Gold Crown Resort 2019",
+                            "id": "RCI Gold Crown Resort 2019"
+                        },
+                        "tag": {
+                            "en": "Karma Royal Bella Vista",
+                            "de": "Karma Royal Bella Vista",
+                            "fr": "Karma Royal Bella Vista",
+                            "id": "Karma Royal Bella Vista"
+                        },
+                        "name": {
+                            "en": "Thailand",
+                            "de": "Thailand",
+                            "fr": "Thailand",
+                            "id": "Thailand"
+                        },
+                        "image": "assets/images/awards/2019/RCI_Gold_Crown_2019.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown Resort 2019",
+                            "de": "RCI Gold Crown Resort 2019",
+                            "fr": "RCI Gold Crown Resort 2019",
+                            "id": "RCI Gold Crown Resort 2019"
+                        },
+                        "tag": {
+                            "en": "Karma Royal Benaulim",
+                            "de": "Karma Royal Benaulim",
+                            "fr": "Karma Royal Benaulim",
+                            "id": "Karma Royal Benaulim"
+                        },
+                        "name": {
+                            "en": "Bali, Indonesia",
+                            "de": "Bali, Indonesia",
+                            "fr": "Bali, Indonesia",
+                            "id": "Bali, Indonesia"
+                        },
+                        "image": "assets/images/awards/2019/RCI_Gold_Crown_2019.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Silver Crown Resort 2019",
+                            "de": "RCI Silver Crown Resort 2019",
+                            "fr": "RCI Silver Crown Resort 2019",
+                            "id": "RCI Silver Crown Resort 2019"
+                        },
+                        "tag": {
+                            "en": "Karma Royal Boat Lagoon",
+                            "de": "Karma Royal Boat Lagoon",
+                            "fr": "Karma Royal Boat Lagoon",
+                            "id": "Karma Royal Boat Lagoon"
+                        },
+                        "name": {
+                            "en": "Phuket, Thailand",
+                            "de": "Phuket, Thailand",
+                            "fr": "Phuket, Thailand",
+                            "id": "Phuket, Thailand"
+                        },
+                        "image": "assets/images/awards/2019/RCI_Silver_2019.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown Resort 2019",
+                            "de": "RCI Gold Crown Resort 2019",
+                            "fr": "RCI Gold Crown Resort 2019",
+                            "id": "RCI Gold Crown Resort 2019"
+                        },
+                        "tag": {
+                            "en": "Karma Royal Candidasa",
+                            "de": "Karma Royal Candidasa",
+                            "fr": "Karma Royal Candidasa",
+                            "id": "Karma Royal Candidasa"
+                        },
+                        "name": {
+                            "en": "Manggis, Bali",
+                            "de": "Manggis, Bali",
+                            "fr": "Manggis, Bali",
+                            "id": "Manggis, Bali"
+                        },
+                        "image": "assets/images/awards/2019/RCI_Gold_Crown_2019.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown Resort 2019",
+                            "de": "RCI Gold Crown Resort 2019",
+                            "fr": "RCI Gold Crown Resort 2019",
+                            "id": "RCI Gold Crown Resort 2019"
+                        },
+                        "tag": {
+                            "en": "Karma Royal Haathi Mahal",
+                            "de": "Karma Royal Haathi Mahal",
+                            "fr": "Karma Royal Haathi Mahal",
+                            "id": "Karma Royal Haathi Mahal"
+                        },
+                        "name": {
+                            "en": "Goa, India",
+                            "de": "Goa, India",
+                            "fr": "Goa, India",
+                            "id": "Goa, India"
+                        },
+                        "image": "assets/images/awards/2019/RCI_Gold_Crown_2019.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown Resort 2019",
+                            "de": "RCI Gold Crown Resort 2019",
+                            "fr": "RCI Gold Crown Resort 2019",
+                            "id": "RCI Gold Crown Resort 2019"
+                        },
+                        "tag": {
+                            "en": "Karma Royal Jimbaran, Jimbaran Bay",
+                            "de": "Karma Royal Jimbaran, Jimbaran Bay",
+                            "fr": "Karma Royal Jimbaran, Jimbaran Bay",
+                            "id": "Karma Royal Jimbaran, Jimbaran Bay"
+                        },
+                        "name": {
+                            "en": "Bali, Indonesia",
+                            "de": "Bali, Indonesia",
+                            "fr": "Bali, Indonesia",
+                            "id": "Bali, Indonesia"
+                        },
+                        "image": "assets/images/awards/2019/RCI_Gold_Crown_2019.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown Resort 2019",
+                            "de": "RCI Gold Crown Resort 2019",
+                            "fr": "RCI Gold Crown Resort 2019",
+                            "id": "RCI Gold Crown Resort 2019"
+                        },
+                        "tag": {
+                            "en": "Karma Royal Palms",
+                            "de": "Karma Royal Palms",
+                            "fr": "Karma Royal Palms",
+                            "id": "Karma Royal Palms"
+                        },
+                        "name": {
+                            "en": "Goa, India",
+                            "de": "Goa, India",
+                            "fr": "Goa, India",
+                            "id": "Goa, India"
+                        },
+                        "image": "assets/images/awards/2019/RCI_Gold_Crown_2019.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown Resort 2019",
+                            "de": "RCI Gold Crown Resort 2019",
+                            "fr": "RCI Gold Crown Resort 2019",
+                            "id": "RCI Gold Crown Resort 2019"
+                        },
+                        "tag": {
+                            "en": "Karma Royal Sanur",
+                            "de": "Karma Royal Sanur",
+                            "fr": "Karma Royal Sanur",
+                            "id": "Karma Royal Sanur"
+                        },
+                        "name": {
+                            "en": "Bali, Indonesia",
+                            "de": "Bali, Indonesia",
+                            "fr": "Bali, Indonesia",
+                            "id": "Bali, Indonesia"
+                        },
+                        "image": "assets/images/awards/2019/RCI_Gold_Crown_2019.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown Resort 2019",
+                            "de": "RCI Gold Crown Resort 2019",
+                            "fr": "RCI Gold Crown Resort 2019",
+                            "id": "RCI Gold Crown Resort 2019"
+                        },
+                        "tag": {
+                            "en": "Karma Grand Residence Nirvana",
+                            "de": "Karma Grand Residence Nirvana",
+                            "fr": "Karma Grand Residence Nirvana",
+                            "id": "Karma Grand Residence Nirvana"
+                        },
+                        "name": {
+                            "en": "Ungasan, Bali",
+                            "de": "Ungasan, Bali",
+                            "fr": "Ungasan, Bali",
+                            "id": "Ungasan, Bali"
+                        },
+                        "image": "assets/images/awards/2019/RCI_Gold_Crown_2019.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown Resort 2019",
+                            "de": "RCI Gold Crown Resort 2019",
+                            "fr": "RCI Gold Crown Resort 2019",
+                            "id": "RCI Gold Crown Resort 2019"
+                        },
+                        "tag": {
+                            "en": "Karma Grand Residence Maria",
+                            "de": "Karma Grand Residence Maria",
+                            "fr": "Karma Grand Residence Maria",
+                            "id": "Karma Grand Residence Maria"
+                        },
+                        "name": {
+                            "en": "Ungasan, Bali",
+                            "de": "Ungasan, Bali",
+                            "fr": "Ungasan, Bali",
+                            "id": "Ungasan, Bali"
+                        },
+                        "image": "assets/images/awards/2019/RCI_Gold_Crown_2019.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown Resort 2019",
+                            "de": "RCI Gold Crown Resort 2019",
+                            "fr": "RCI Gold Crown Resort 2019",
+                            "id": "RCI Gold Crown Resort 2019"
+                        },
+                        "tag": {
+                            "en": "Karma Palacio Elefante",
+                            "de": "Karma Palacio Elefante",
+                            "fr": "Karma Palacio Elefante",
+                            "id": "Karma Palacio Elefante"
+                        },
+                        "name": {
+                            "en": "Goa, India",
+                            "de": "Goa, India",
+                            "fr": "Goa, India",
+                            "id": "Goa, India"
+                        },
+                        "image": "assets/images/awards/2019/RCI_Gold_Crown_2019.png"
+                    }
+                ],
+                "tripAdvisorList": []
             }
         }
     }
