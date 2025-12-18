@@ -3133,6 +3133,216 @@
                             "id": "Karma Group Chairman"
                         },
                         "image": "assets/images/awards/2018/Entrepreneur_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Best Consumer Product\nPerspective Magazine Awards",
+                            "de": "Best Consumer Product\nPerspective Magazine Awards",
+                            "fr": "Best Consumer Product\nPerspective Magazine Awards",
+                            "id": "Best Consumer Product\nPerspective Magazine Awards"
+                        },
+                        "tag": {
+                            "en": "Karma Group",
+                            "de": "Karma Group",
+                            "fr": "Karma Group",
+                            "id": "Karma Group"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Group",
+                            "fr": "Karma Group",
+                            "id": "Karma Group"
+                        },
+                        "image": "assets/images/awards/2018/BestConsumerProduct_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Best Asia Pacific Resort\nPerspective Magazine Awards",
+                            "de": "Best Asia Pacific Resort\nPerspective Magazine Awards",
+                            "fr": "Best Asia Pacific Resort\nPerspective Magazine Awards",
+                            "id": "Best Asia Pacific Resort\nPerspective Magazine Awards"
+                        },
+                        "tag": {
+                            "en": "Karma Group",
+                            "de": "Karma Group",
+                            "fr": "Karma Group",
+                            "id": "Karma Group"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Group",
+                            "fr": "Karma Group",
+                            "id": "Karma Group"
+                        },
+                        "image": "assets/images/awards/2018/BestAsiaPacificResort_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Best Overall Company\nPerspective Magazine Awards",
+                            "de": "Best Overall Company\nPerspective Magazine Awards",
+                            "fr": "Best Overall Company\nPerspective Magazine Awards",
+                            "id": "Best Overall Company\nPerspective Magazine Awards"
+                        },
+                        "tag": {
+                            "en": "Karma Group",
+                            "de": "Karma Group",
+                            "fr": "Karma Group",
+                            "id": "Karma Group"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Group",
+                            "fr": "Karma Group",
+                            "id": "Karma Group"
+                        },
+                        "image": "assets/images/awards/2018/BestOverallCompany_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown\nResort 2018",
+                            "de": "RCI Gold Crown\nResort 2018",
+                            "fr": "RCI Gold Crown\nResort 2018",
+                            "id": "RCI Gold Crown\nResort 2018"
+                        },
+                        "tag": {
+                            "en": "Karma Bavaria",
+                            "de": "Karma Bavaria",
+                            "fr": "Karma Bavaria",
+                            "id": "Karma Bavaria"
+                        },
+                        "name": {
+                            "en": "Schliersee, Germany",
+                            "de": "Schliersee, Germany",
+                            "fr": "Schliersee, Germany",
+                            "id": "Schliersee, Germany"
+                        },
+                        "image": "assets/images/awards/2018/RCIGoldCrown_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown\nResort 2018",
+                            "de": "RCI Gold Crown\nResort 2018",
+                            "fr": "RCI Gold Crown\nResort 2018",
+                            "id": "RCI Gold Crown\nResort 2018"
+                        },
+                        "tag": {
+                            "en": "Karma Chakra",
+                            "de": "Karma Chakra",
+                            "fr": "Karma Chakra",
+                            "id": "Karma Chakra"
+                        },
+                        "name": {
+                            "en": "Kerala, India",
+                            "de": "Kerala, India",
+                            "fr": "Kerala, India",
+                            "id": "Kerala, India"
+                        },
+                        "image": "assets/images/awards/2018/RCIGoldCrown_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown\nResort 2018",
+                            "de": "RCI Gold Crown\nResort 2018",
+                            "fr": "RCI Gold Crown\nResort 2018",
+                            "id": "RCI Gold Crown\nResort 2018"
+                        },
+                        "tag": {
+                            "en": "Karma Cây Tre",
+                            "de": "Karma Cây Tre",
+                            "fr": "Karma Cây Tre",
+                            "id": "Karma Cây Tre"
+                        },
+                        "name": {
+                            "en": "Hoi An, Vietnam",
+                            "de": "Hoi An, Vietnam",
+                            "fr": "Hoi An, Vietnam",
+                            "id": "Hoi An, Vietnam"
+                        },
+                        "image": "assets/images/awards/2018/RCIGoldCrown_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown\nResort 2018",
+                            "de": "RCI Gold Crown\nResort 2018",
+                            "fr": "RCI Gold Crown\nResort 2018",
+                            "id": "RCI Gold Crown\nResort 2018"
+                        },
+                        "tag": {
+                            "en": "Karma Haveli",
+                            "de": "Karma Haveli",
+                            "fr": "Karma Haveli",
+                            "id": "Karma Haveli"
+                        },
+                        "name": {
+                            "en": "Jaypur, India",
+                            "de": "Jaypur, India",
+                            "fr": "Jaypur, India",
+                            "id": "Jaypur, India"
+                        },
+                        "image": "assets/images/awards/2018/RCIGoldCrown_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown\nResort 2018",
+                            "de": "RCI Gold Crown\nResort 2018",
+                            "fr": "RCI Gold Crown\nResort 2018",
+                            "id": "RCI Gold Crown\nResort 2018"
+                        },
+                        "tag": {
+                            "en": "Karma Mayura, Ubud",
+                            "de": "Karma Mayura, Ubud",
+                            "fr": "Karma Mayura, Ubud",
+                            "id": "Karma Mayura, Ubud"
+                        },
+                        "name": {
+                            "en": "Bali, Indonesia",
+                            "de": "Bali, Indonesia",
+                            "fr": "Bali, Indonesia",
+                            "id": "Bali, Indonesia"
+                        },
+                        "image": "assets/images/awards/2018/RCIGoldCrown_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown\nResort 2018",
+                            "de": "RCI Gold Crown\nResort 2018",
+                            "fr": "RCI Gold Crown\nResort 2018",
+                            "id": "RCI Gold Crown\nResort 2018"
+                        },
+                        "tag": {
+                            "en": "Karma Royal Bella Vista",
+                            "de": "Karma Royal Bella Vista",
+                            "fr": "Karma Royal Bella Vista",
+                            "id": "Karma Royal Bella Vista"
+                        },
+                        "name": {
+                            "en": "Chiang Mai, Thailand",
+                            "de": "Chiang Mai, Thailand",
+                            "fr": "Chiang Mai, Thailand",
+                            "id": "Chiang Mai, Thailand"
+                        },
+                        "image": "assets/images/awards/2018/RCIGoldCrown_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown\nResort 2018",
+                            "de": "RCI Gold Crown\nResort 2018",
+                            "fr": "RCI Gold Crown\nResort 2018",
+                            "id": "RCI Gold Crown\nResort 2018"
+                        },
+                        "tag": {
+                            "en": "Karma Royal Benaulim",
+                            "de": "Karma Royal Benaulim",
+                            "fr": "Karma Royal Benaulim",
+                            "id": "Karma Royal Benaulim"
+                        },
+                        "name": {
+                            "en": "Goa, India",
+                            "de": "Goa, India",
+                            "fr": "Goa, India",
+                            "id": "Goa, India"
+                        },
+                        "image": "assets/images/awards/2018/RCIGoldCrown_2018.png"
                     }
                 ],
                 "tripAdvisorList": []
