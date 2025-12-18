@@ -3004,6 +3004,348 @@
                     }
                 ],
                 "tripAdvisorList": []
+            },
+            "2018": {
+                "tripImage": "",
+                "awardsList": [
+                    {
+                        "title": {
+                            "en": "Guest Review Awards 2018\nBooking.com",
+                            "de": "Guest Review Awards 2018\nBooking.com",
+                            "fr": "Guest Review Awards 2018\nBooking.com",
+                            "id": "Guest Review Awards 2018\nBooking.com"
+                        },
+                        "tag": {
+                            "en": "Karma Sanctum Soho Hotel",
+                            "de": "Karma Sanctum Soho Hotel",
+                            "fr": "Karma Sanctum Soho Hotel",
+                            "id": "Karma Sanctum Soho Hotel"
+                        },
+                        "name": {
+                            "en": "London, UK",
+                            "de": "London, UK",
+                            "fr": "London, UK",
+                            "id": "London, UK"
+                        },
+                        "image": "assets/images/awards/2018/Guest_Review_Awards_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Certificate of Exellence\nBridebook.co.uk Wedding",
+                            "de": "Certificate of Exellence\nBridebook.co.uk Wedding",
+                            "fr": "Certificate of Exellence\nBridebook.co.uk Wedding",
+                            "id": "Certificate of Exellence\nBridebook.co.uk Wedding"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin’s",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Isles of Scilly, UK",
+                            "de": "Isles of Scilly, UK",
+                            "fr": "Isles of Scilly, UK",
+                            "id": "Isles of Scilly, UK"
+                        },
+                        "image": "assets/images/awards/2018/Certificate_Exellence_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Rosettes – Cullinary Excellence\nAA Hospitality",
+                            "de": "Rosettes – Cullinary Excellence\nAA Hospitality",
+                            "fr": "Rosettes – Cullinary Excellence\nAA Hospitality",
+                            "id": "Rosettes – Cullinary Excellence\nAA Hospitality"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin’s",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Isles of Scilly, UK",
+                            "de": "Isles of Scilly, UK",
+                            "fr": "Isles of Scilly, UK",
+                            "id": "Isles of Scilly, UK"
+                        },
+                        "image": "assets/images/awards/2018/Rosettes_Cullinary_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Quality Inspected 4 Stars Hotel\nAA Hospitality",
+                            "de": "Quality Inspected 4 Stars Hotel\nAA Hospitality",
+                            "fr": "Quality Inspected 4 Stars Hotel\nAA Hospitality",
+                            "id": "Quality Inspected 4 Stars Hotel\nAA Hospitality"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin’s",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Isles of Scilly, UK",
+                            "de": "Isles of Scilly, UK",
+                            "fr": "Isles of Scilly, UK",
+                            "id": "Isles of Scilly, UK"
+                        },
+                        "image": "assets/images/awards/2018/Quality_Inspected_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Certificate of Exellence\nTrip Advisor",
+                            "de": "Certificate of Exellence\nTrip Advisor",
+                            "fr": "Certificate of Exellence\nTrip Advisor",
+                            "id": "Certificate of Exellence\nTrip Advisor"
+                        },
+                        "tag": {
+                            "en": "Karma Sanctum Soho",
+                            "de": "Karma Sanctum Soho",
+                            "fr": "Karma Sanctum Soho",
+                            "id": "Karma Sanctum Soho"
+                        },
+                        "name": {
+                            "en": "London, UK",
+                            "de": "London, UK",
+                            "fr": "London, UK",
+                            "id": "London, UK"
+                        },
+                        "image": "assets/images/awards/2018/Certificate_Exellence_TripAdvisor_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Entrepreneur Of The Year\nPerspective Magazine Awards",
+                            "de": "Entrepreneur Of The Year\nPerspective Magazine Awards",
+                            "fr": "Entrepreneur Of The Year\nPerspective Magazine Awards",
+                            "id": "Entrepreneur Of The Year\nPerspective Magazine Awards"
+                        },
+                        "tag": {
+                            "en": "John Spence",
+                            "de": "John Spence",
+                            "fr": "John Spence",
+                            "id": "John Spence"
+                        },
+                        "name": {
+                            "en": "Karma Group Chairman",
+                            "de": "Karma Group Chairman",
+                            "fr": "Karma Group Chairman",
+                            "id": "Karma Group Chairman"
+                        },
+                        "image": "assets/images/awards/2018/Entrepreneur_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Best Consumer Product\nPerspective Magazine Awards",
+                            "de": "Best Consumer Product\nPerspective Magazine Awards",
+                            "fr": "Best Consumer Product\nPerspective Magazine Awards",
+                            "id": "Best Consumer Product\nPerspective Magazine Awards"
+                        },
+                        "tag": {
+                            "en": "Karma Group",
+                            "de": "Karma Group",
+                            "fr": "Karma Group",
+                            "id": "Karma Group"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Group",
+                            "fr": "Karma Group",
+                            "id": "Karma Group"
+                        },
+                        "image": "assets/images/awards/2018/BestConsumerProduct_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Best Asia Pacific Resort\nPerspective Magazine Awards",
+                            "de": "Best Asia Pacific Resort\nPerspective Magazine Awards",
+                            "fr": "Best Asia Pacific Resort\nPerspective Magazine Awards",
+                            "id": "Best Asia Pacific Resort\nPerspective Magazine Awards"
+                        },
+                        "tag": {
+                            "en": "Karma Group",
+                            "de": "Karma Group",
+                            "fr": "Karma Group",
+                            "id": "Karma Group"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Group",
+                            "fr": "Karma Group",
+                            "id": "Karma Group"
+                        },
+                        "image": "assets/images/awards/2018/BestAsiaPacificResort_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Best Overall Company\nPerspective Magazine Awards",
+                            "de": "Best Overall Company\nPerspective Magazine Awards",
+                            "fr": "Best Overall Company\nPerspective Magazine Awards",
+                            "id": "Best Overall Company\nPerspective Magazine Awards"
+                        },
+                        "tag": {
+                            "en": "Karma Group",
+                            "de": "Karma Group",
+                            "fr": "Karma Group",
+                            "id": "Karma Group"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Group",
+                            "fr": "Karma Group",
+                            "id": "Karma Group"
+                        },
+                        "image": "assets/images/awards/2018/BestOverallCompany_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown\nResort 2018",
+                            "de": "RCI Gold Crown\nResort 2018",
+                            "fr": "RCI Gold Crown\nResort 2018",
+                            "id": "RCI Gold Crown\nResort 2018"
+                        },
+                        "tag": {
+                            "en": "Karma Bavaria",
+                            "de": "Karma Bavaria",
+                            "fr": "Karma Bavaria",
+                            "id": "Karma Bavaria"
+                        },
+                        "name": {
+                            "en": "Schliersee, Germany",
+                            "de": "Schliersee, Germany",
+                            "fr": "Schliersee, Germany",
+                            "id": "Schliersee, Germany"
+                        },
+                        "image": "assets/images/awards/2018/RCIGoldCrown_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown\nResort 2018",
+                            "de": "RCI Gold Crown\nResort 2018",
+                            "fr": "RCI Gold Crown\nResort 2018",
+                            "id": "RCI Gold Crown\nResort 2018"
+                        },
+                        "tag": {
+                            "en": "Karma Chakra",
+                            "de": "Karma Chakra",
+                            "fr": "Karma Chakra",
+                            "id": "Karma Chakra"
+                        },
+                        "name": {
+                            "en": "Kerala, India",
+                            "de": "Kerala, India",
+                            "fr": "Kerala, India",
+                            "id": "Kerala, India"
+                        },
+                        "image": "assets/images/awards/2018/RCIGoldCrown_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown\nResort 2018",
+                            "de": "RCI Gold Crown\nResort 2018",
+                            "fr": "RCI Gold Crown\nResort 2018",
+                            "id": "RCI Gold Crown\nResort 2018"
+                        },
+                        "tag": {
+                            "en": "Karma Cây Tre",
+                            "de": "Karma Cây Tre",
+                            "fr": "Karma Cây Tre",
+                            "id": "Karma Cây Tre"
+                        },
+                        "name": {
+                            "en": "Hoi An, Vietnam",
+                            "de": "Hoi An, Vietnam",
+                            "fr": "Hoi An, Vietnam",
+                            "id": "Hoi An, Vietnam"
+                        },
+                        "image": "assets/images/awards/2018/RCIGoldCrown_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown\nResort 2018",
+                            "de": "RCI Gold Crown\nResort 2018",
+                            "fr": "RCI Gold Crown\nResort 2018",
+                            "id": "RCI Gold Crown\nResort 2018"
+                        },
+                        "tag": {
+                            "en": "Karma Haveli",
+                            "de": "Karma Haveli",
+                            "fr": "Karma Haveli",
+                            "id": "Karma Haveli"
+                        },
+                        "name": {
+                            "en": "Jaypur, India",
+                            "de": "Jaypur, India",
+                            "fr": "Jaypur, India",
+                            "id": "Jaypur, India"
+                        },
+                        "image": "assets/images/awards/2018/RCIGoldCrown_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown\nResort 2018",
+                            "de": "RCI Gold Crown\nResort 2018",
+                            "fr": "RCI Gold Crown\nResort 2018",
+                            "id": "RCI Gold Crown\nResort 2018"
+                        },
+                        "tag": {
+                            "en": "Karma Mayura, Ubud",
+                            "de": "Karma Mayura, Ubud",
+                            "fr": "Karma Mayura, Ubud",
+                            "id": "Karma Mayura, Ubud"
+                        },
+                        "name": {
+                            "en": "Bali, Indonesia",
+                            "de": "Bali, Indonesia",
+                            "fr": "Bali, Indonesia",
+                            "id": "Bali, Indonesia"
+                        },
+                        "image": "assets/images/awards/2018/RCIGoldCrown_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown\nResort 2018",
+                            "de": "RCI Gold Crown\nResort 2018",
+                            "fr": "RCI Gold Crown\nResort 2018",
+                            "id": "RCI Gold Crown\nResort 2018"
+                        },
+                        "tag": {
+                            "en": "Karma Royal Bella Vista",
+                            "de": "Karma Royal Bella Vista",
+                            "fr": "Karma Royal Bella Vista",
+                            "id": "Karma Royal Bella Vista"
+                        },
+                        "name": {
+                            "en": "Chiang Mai, Thailand",
+                            "de": "Chiang Mai, Thailand",
+                            "fr": "Chiang Mai, Thailand",
+                            "id": "Chiang Mai, Thailand"
+                        },
+                        "image": "assets/images/awards/2018/RCIGoldCrown_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown\nResort 2018",
+                            "de": "RCI Gold Crown\nResort 2018",
+                            "fr": "RCI Gold Crown\nResort 2018",
+                            "id": "RCI Gold Crown\nResort 2018"
+                        },
+                        "tag": {
+                            "en": "Karma Royal Benaulim",
+                            "de": "Karma Royal Benaulim",
+                            "fr": "Karma Royal Benaulim",
+                            "id": "Karma Royal Benaulim"
+                        },
+                        "name": {
+                            "en": "Goa, India",
+                            "de": "Goa, India",
+                            "fr": "Goa, India",
+                            "id": "Goa, India"
+                        },
+                        "image": "assets/images/awards/2018/RCIGoldCrown_2018.png"
+                    }
+                ],
+                "tripAdvisorList": []
             }
         }
     }

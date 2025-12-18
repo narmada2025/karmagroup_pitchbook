@@ -3200,6 +3200,21 @@
                     },
                     {
                       "category": {
+                        "en": "Standard Apartment - Two Bedroom Combination",
+                        "de": "Standard-Apartment – Kombination aus zwei Schlafzimmern",
+                        "fr": "Appartement standard - Combinaison de deux chambres",
+                        "id": "Apartemen Standar - Kombinasi Dua Kamar Tidur"
+                      },
+                      "images": [
+                        "assets/images/destinations/india/goa/karma_royal_palms/standard_apartment_two_bedroom_01.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_palms/standard_apartment_two_bedroom_02.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_palms/standard_apartment_two_bedroom_03.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_palms/standard_apartment_two_bedroom_04.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_palms/standard_apartment_two_bedroom_05.jpg"
+                      ]
+                    },
+                    {
+                      "category": {
                         "en": "Two Bedroom Imperial Apartment",
                         "de": "Zwei-Zimmer-Imperial-Apartment",
                         "fr": "Appartement impérial de deux chambres",
@@ -3216,19 +3231,19 @@
                   "facilities": [
                     {
                       "category": {
-                        "en": "Pool",
-                        "de": "Pool",
-                        "fr": "Pool",
-                        "id": "Kolam"
+                        "en": "Dining At Benaulim Brasserie",
+                        "de": "Essen in der Benaulim Brasserie",
+                        "fr": "Dîner à la brasserie Benaulim",
+                        "id": "Bersantap di Benaulim Brasserie"
                       },
                       "title": "",
                       "description": "",
                       "images": [
-                        "assets/images/destinations/india/goa/karma_royal_palms/pool_01.jpg",
-                        "assets/images/destinations/india/goa/karma_royal_palms/pool_02.jpg",
-                        "assets/images/destinations/india/goa/karma_royal_palms/pool_03.jpg",
-                        "assets/images/destinations/india/goa/karma_royal_palms/pool_04.jpg",
-                        "assets/images/destinations/india/goa/karma_royal_palms/pool_05.jpg"
+                        "assets/images/destinations/india/goa/karma_royal_palms/Dining_Benaulim_1.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_palms/Dining_Benaulim_2.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_palms/Dining_Benaulim_3.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_palms/Dining_Benaulim_4.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_palms/Dining_Benaulim_5.jpg"
                       ]
                     },
                     {
@@ -3250,6 +3265,23 @@
                     },
                     {
                       "category": {
+                        "en": "Pool",
+                        "de": "Pool",
+                        "fr": "Pool",
+                        "id": "Kolam"
+                      },
+                      "title": "",
+                      "description": "",
+                      "images": [
+                        "assets/images/destinations/india/goa/karma_royal_palms/pool_01.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_palms/pool_02.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_palms/pool_03.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_palms/pool_04.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_palms/pool_05.jpg"
+                      ]
+                    },
+                    {
+                      "category": {
                         "en": "Club House",
                         "de": "Clubhaus",
                         "fr": "Club House",
@@ -3267,19 +3299,19 @@
                     },
                     {
                       "category": {
-                        "en": "Sport",
-                        "de": "Sport",
-                        "fr": "Sport",
-                        "id": "Olahraga"
+                        "en": "Convenience Store",
+                        "de": "Supermarkt",
+                        "fr": "SDépanneurport",
+                        "id": "Toko serba ada"
                       },
                       "title": "",
                       "description": "",
                       "images": [
-                        "assets/images/destinations/india/goa/karma_royal_palms/sport_01.jpg",
-                        "assets/images/destinations/india/goa/karma_royal_palms/sport_02.jpg",
-                        "assets/images/destinations/india/goa/karma_royal_palms/sport_03.jpg",
-                        "assets/images/destinations/india/goa/karma_royal_palms/sport_04.jpg",
-                        "assets/images/destinations/india/goa/karma_royal_palms/sport_05.jpg"
+                        "assets/images/destinations/india/goa/karma_royal_palms/Convenience_Store_1.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_palms/Convenience_Store_2.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_palms/Convenience_Store_3.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_palms/Convenience_Store_4.jpg",
+                        "assets/images/destinations/india/goa/karma_royal_palms/Convenience_Store_5.jpg"
                       ]
                     },
                     {
@@ -3484,6 +3516,32 @@
                         "assets/images/destinations/india/goa/karma_royale_montrio/2_bedroom_apartment_03.jpg",
                         "assets/images/destinations/india/goa/karma_royale_montrio/2_bedroom_apartment_04.jpg",
                         "assets/images/destinations/india/goa/karma_royale_montrio/2_bedroom_apartment_05.jpg"
+                      ]
+                    },
+                    {
+                      "category": {
+                        "en": "One Bedroom Imperial",
+                        "de": "Imperial-Zimmer mit einem Schlafzimmer",
+                        "fr": "Chambre impériale avec une chambre à coucher",
+                        "id": "Kamar Tidur Imperial Satu Kamar Tidur"
+                      },
+                      "images": [
+                        "assets/images/destinations/india/goa/karma_royale_montrio/KRM_1_Bedroom_Imperial_01.jpg",
+                        "assets/images/destinations/india/goa/karma_royale_montrio/KRM_1_Bedroom_Imperial_02.jpg",
+                        "assets/images/destinations/india/goa/karma_royale_montrio/KRM_1_Bedroom_Imperial_03.jpg"
+                      ]
+                    },
+                    {
+                      "category": {
+                        "en": "Two Bedroom Imperial",
+                        "de": "Imperial-Zwei-Zimmer-Wohnung",
+                        "fr": "Appartement impérial de deux chambres",
+                        "id": "Kamar Imperial Dua Kamar Tidur"
+                      },
+                      "images": [
+                        "assets/images/destinations/india/goa/karma_royale_montrio/KRM_2_Bedroom_Imperial_01.jpg",
+                        "assets/images/destinations/india/goa/karma_royale_montrio/KRM_2_Bedroom_Imperial_02.jpg",
+                        "assets/images/destinations/india/goa/karma_royale_montrio/KRM_2_Bedroom_Imperial_03.jpg"
                       ]
                     }
                   ],
@@ -5245,7 +5303,12 @@
                     "assets/images/destinations/india/kerala/karma_munnar/gallery_06.jpg",
                     "assets/images/destinations/india/kerala/karma_munnar/gallery_07.jpg",
                     "assets/images/destinations/india/kerala/karma_munnar/gallery_08.jpg",
-                    "assets/images/destinations/india/kerala/karma_munnar/gallery_09.jpg"
+                    "assets/images/destinations/india/kerala/karma_munnar/gallery_09.jpg",
+                    "assets/images/destinations/india/kerala/karma_munnar/gallery_10.jpg",
+                    "assets/images/destinations/india/kerala/karma_munnar/gallery_11.jpg",
+                    "assets/images/destinations/india/kerala/karma_munnar/gallery_12.jpg",
+                    "assets/images/destinations/india/kerala/karma_munnar/gallery_13.jpg",
+                    "assets/images/destinations/india/kerala/karma_munnar/gallery_14.jpg"
                   ],
                   "videos": [],
                   "ver_exp": []
@@ -5286,17 +5349,33 @@
                   "facilities": [
                     {
                       "category": {
-                        "en": "Three Monkeys Club",
-                        "de": "Der Club der drei Affen",
-                        "fr": "Club des Trois Singes",
-                        "id": "Klub Tiga Monyet"
+                        "en": "Restaurant",
+                        "de": "Restaurant",
+                        "fr": "Restaurant",
+                        "id": "Restoran"
                       },
                       "title": "",
                       "description": "",
                       "images": [
-                        "assets/images/destinations/india/kerala/karma_munnar/three_monkey_club_01.jpg",
-                        "assets/images/destinations/india/kerala/karma_munnar/three_monkey_club_02.jpg",
-                        "assets/images/destinations/india/kerala/karma_munnar/three_monkey_club_03.jpg"
+                        "assets/images/destinations/india/kerala/karma_munnar/Restaurant_1.jpg",
+                        "assets/images/destinations/india/kerala/karma_munnar/Restaurant_2.jpg",
+                        "assets/images/destinations/india/kerala/karma_munnar/Restaurant_3.jpg"
+                      ]
+                    },
+                    {
+                      "category": {
+                        "en": "Three Monkeys Club & Activities Room",
+                        "de": "Three Monkeys Club & Aktivitätsraum",
+                        "fr": "Club et salle d'activités des Trois Singes",
+                        "id": "Ruang Klub & Aktivitas Tiga Monyet"
+                      },
+                      "title": "",
+                      "description": "",
+                      "images": [
+                        "assets/images/destinations/india/kerala/karma_munnar/three_monkeys_club_01.jpg",
+                        "assets/images/destinations/india/kerala/karma_munnar/three_monkeys_club_02.jpg",
+                        "assets/images/destinations/india/kerala/karma_munnar/three_monkeys_club_03.jpg",
+                        "assets/images/destinations/india/kerala/karma_munnar/three_monkeys_club_04.jpg"
                       ]
                     },
                     {
@@ -5317,17 +5396,16 @@
                     },
                     {
                       "category": {
-                        "en": "Restaurant",
-                        "de": "Restaurant",
-                        "fr": "Restaurant",
-                        "id": "Restoran"
+                        "en": "Library",
+                        "de": "Bibliothek",
+                        "fr": "Bibliothèque",
+                        "id": "Perpustakaan"
                       },
                       "title": "",
                       "description": "",
                       "images": [
-                        "assets/images/destinations/india/kerala/karma_munnar/Restaurant_1.jpg",
-                        "assets/images/destinations/india/kerala/karma_munnar/Restaurant_2.jpg",
-                        "assets/images/destinations/india/kerala/karma_munnar/Restaurant_3.jpg"
+                        "assets/images/destinations/india/kerala/karma_munnar/library_01.jpg",
+                        "assets/images/destinations/india/kerala/karma_munnar/library_02.jpg"
                       ]
                     }
                   ],
