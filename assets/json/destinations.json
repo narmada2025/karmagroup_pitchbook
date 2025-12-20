@@ -874,10 +874,7 @@
                     "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/gallery_09.jpg",
                     "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/gallery_10.jpg",
                     "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/gallery_11.jpg",
-                    "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/gallery_12.jpg",
-                    "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/gallery_13.jpg",
-                    "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/gallery_14.jpg",
-                    "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/gallery_15.jpg"
+                    "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/gallery_12.jpg"
                   ],
                   "videos": [
                     {
@@ -955,6 +952,29 @@
                   "facilities": [
                     {
                       "category": {
+                        "en": "Seaside Restaurant",
+                        "de": "Restaurant am Meer",
+                        "fr": "Restaurant en bord de mer",
+                        "id": "Restoran Tepi Laut"
+                      },
+                      "title": "",
+                      "description": "",
+                      "images": [
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/SeasideRestaurant_1.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/SeasideRestaurant_2.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/SeasideRestaurant_3.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/SeasideRestaurant_4.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/SeasideRestaurant_5.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/SeasideRestaurant_6.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/SeasideRestaurant_7.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/SeasideRestaurant_8.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/SeasideRestaurant_9.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/SeasideRestaurant_10.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/SeasideRestaurant_11.jpg"
+                      ]
+                    },
+                    {
+                      "category": {
                         "en": "Karma Spa",
                         "de": "Karma Spa",
                         "fr": "Karma Spa",
@@ -989,9 +1009,9 @@
                     },
                     {
                       "category": {
-                        "en": "Babysitting",
-                        "de": "Babysitting",
-                        "fr": "Babysitting",
+                        "en": "Baby Sitting",
+                        "de": "Baby Sitting",
+                        "fr": "Baby Sitting",
                         "id": "Penjagaan"
                       },
                       "title": "",
@@ -1018,10 +1038,7 @@
                         "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/cooking_class_04.jpg",
                         "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/cooking_class_05.jpg",
                         "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/cooking_class_06.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/cooking_class_07.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/cooking_class_08.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/cooking_class_09.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/cooking_class_10.jpg"
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_candidasa/cooking_class_07.jpg"
                       ]
                     },
                     {
@@ -1200,13 +1217,7 @@
                     "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/gallery_06.jpg",
                     "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/gallery_07.jpg",
                     "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/gallery_08.jpg",
-                    "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/gallery_09.jpg",
-                    "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/gallery_10.jpg",
-                    "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/gallery_11.jpg",
-                    "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/gallery_12.jpg",
-                    "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/gallery_13.jpg",
-                    "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/gallery_14.jpg",
-                    "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/gallery_15.jpg"
+                    "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/gallery_09.jpg"
                   ],
                   "videos": [
                     {
@@ -1283,80 +1294,67 @@
                   "facilities": [
                     {
                       "category": {
-                        "en": "Karma Wellness Club",
-                        "de": "Karma Wellness Club",
-                        "fr": "Club de bien-être Karma",
-                        "id": "Klub Kesehatan Karma"
+                        "en": "The Bay Restaurant",
+                        "de": "Das Bay Restaurant",
+                        "fr": "Le restaurant de la baie",
+                        "id": "Restoran Bay"
                       },
                       "title": "",
                       "description": "",
                       "images": [
-                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/karma_wellness_club_01.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/karma_wellness_club_02.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/karma_wellness_club_03.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/karma_wellness_club_04.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/karma_wellness_club_05.jpg"
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/BayRestaurant_1.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/BayRestaurant_2.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/BayRestaurant_3.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/BayRestaurant_4.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/BayRestaurant_5.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/BayRestaurant_6.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/BayRestaurant_7.jpg"
                       ]
                     },
                     {
                       "category": {
-                        "en": "The Bay Bar & Grill",
-                        "de": "Die Bay Bar & Grill",
-                        "fr": "Le Bay Bar & Grill",
-                        "id": "Bar & Grill Teluk"
+                        "en": "Gym",
+                        "de": "Fitnessstudio",
+                        "fr": "Salle de sport",
+                        "id": "Pusat kebugaran"
                       },
                       "title": "",
                       "description": "",
                       "images": [
-                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/the_bay_01.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/the_bay_02.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/the_bay_03.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/the_bay_04.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/the_bay_05.jpg"
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/Gym_1.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/Gym_2.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/Gym_3.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/Gym_4.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/Gym_5.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/Gym_6.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/Gym_7.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/Gym_8.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/Gym_9.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/Gym_10.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/Gym_11.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/Gym_12.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/Gym_13.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/Gym_14.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/Gym_15.jpg"
                       ]
                     },
                     {
                       "category": {
-                        "en": "Sport Lounge",
-                        "de": "Sport Lounge",
-                        "fr": "Salon Sport",
-                        "id": "Lounge Olahraga"
+                        "en": "Activities",
+                        "de": "Aktivitäten",
+                        "fr": "Kegiatan",
+                        "id": "Kegiatan"
                       },
                       "title": "",
                       "description": "",
                       "images": [
-                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/sport_lounge_01.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/sport_lounge_02.jpg"
-                      ]
-                    },
-                    {
-                      "category": {
-                        "en": "Pool",
-                        "de": "Pool",
-                        "fr": "Pool",
-                        "id": "Kolam"
-                      },
-                      "title": "",
-                      "description": "",
-                      "images": [
-                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/pool_01.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/pool_02.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/pool_03.jpg"
-                      ]
-                    },
-                    {
-                      "category": {
-                        "en": "In Villa BBQ",
-                        "de": "In Villa BBQ",
-                        "fr": "Dans la Villa BBQ",
-                        "id": "Di Villa BBQ"
-                      },
-                      "title": "",
-                      "description": "",
-                      "images": [
-                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/in_villa_bbq_01.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/in_villa_bbq_02.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/in_villa_bbq_03.jpg"
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/Activities_1.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/Activities_2.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/Activities_3.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/Activities_4.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/Activities_5.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/Activities_6.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/Activities_7.jpg"
                       ]
                     }
                   ],

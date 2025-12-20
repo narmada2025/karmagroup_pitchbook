@@ -45,6 +45,90 @@
                 "awardsList": [
                     {
                         "title": {
+                            "en": "Architecture Project Development Hospitality 2025,Silver IDA Design Award",
+                            "de": "Architecture Project Development Hospitality 2025,Silver IDA Design Award",
+                            "fr": "Architecture Project Development Hospitality 2025,Silver IDA Design Award",
+                            "id": "Architecture Project Development Hospitality 2025,Silver IDA Design Award"
+                        },
+                        "tag": {
+                            "en": "Karma Candidasa",
+                            "de": "Karma Candidasa",
+                            "fr": "Karma Candidasa",
+                            "id": "Karma Candidasa"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2025/ida_design_award.png"
+                    },
+                    {
+                        "title": {
+                            "en": "The Food Awards England 2025 Winner An Oceanic Award",
+                            "de": "The Food Awards England 2025 Winner An Oceanic Award",
+                            "fr": "The Food Awards England 2025 Winner An Oceanic Award",
+                            "id": "The Food Awards England 2025 Winner An Oceanic Award"
+                        },
+                        "tag": {
+                            "en": "Karma Salford Hall",
+                            "de": "Karma Salford Hall",
+                            "fr": "Karma Salford Hall",
+                            "id": "Karma Salford Hall"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2025/Food_Awards.png"
+                    },
+                    {
+                        "title": {
+                            "en": "Recognition Of Service Excellence 2025 VisitEngland",
+                            "de": "Recognition Of Service Excellence 2025 VisitEngland",
+                            "fr": "Recognition Of Service Excellence 2025 VisitEngland",
+                            "id": "Recognition Of Service Excellence 2025 VisitEngland"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin’s",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2025/Recognition_awards.png"
+                    },
+                    {
+                        "title": {
+                            "en": "2024/25 Winner Luxury Coastal Resort of the Year South West England Prestige Awards",
+                            "de": "2024/25 Winner Luxury Coastal Resort of the Year South West England Prestige Awards",
+                            "fr": "2024/25 Winner Luxury Coastal Resort of the Year South West England Prestige Awards",
+                            "id": "2024/25 Winner Luxury Coastal Resort of the Year South West England Prestige Awards"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin’s",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Karma Group",
+                            "de": "Karma Gruppe",
+                            "fr": "Groupe Karma",
+                            "id": "Kelompok Karma"
+                        },
+                        "image": "assets/images/awards/2025/South_West.png"
+                    },
+                    {
+                        "title": {
                             "en": "Platinum Winner The International Architecture & Design Awards",
                             "de": "Platin-Gewinner der International Architecture & Design Awards",
                             "fr": "Lauréat Platine des International Architecture & Design Awards",
@@ -3341,6 +3425,174 @@
                             "de": "Goa, India",
                             "fr": "Goa, India",
                             "id": "Goa, India"
+                        },
+                        "image": "assets/images/awards/2018/RCIGoldCrown_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown\nResort 2018",
+                            "de": "RCI Gold Crown\nResort 2018",
+                            "fr": "RCI Gold Crown\nResort 2018",
+                            "id": "RCI Gold Crown\nResort 2018"
+                        },
+                        "tag": {
+                            "en": "Karma Royal Candidasa",
+                            "de": "Karma Royal Candidasa",
+                            "fr": "Karma Royal Candidasa",
+                            "id": "Karma Royal Candidasa"
+                        },
+                        "name": {
+                            "en": "Bali, Indonesia",
+                            "de": "Bali, Indonesia",
+                            "fr": "Bali, Indonesia",
+                            "id": "Bali, Indonesia"
+                        },
+                        "image": "assets/images/awards/2018/RCIGoldCrown_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown\nResort 2018",
+                            "de": "RCI Gold Crown\nResort 2018",
+                            "fr": "RCI Gold Crown\nResort 2018",
+                            "id": "RCI Gold Crown\nResort 2018"
+                        },
+                        "tag": {
+                            "en": "Karma Royal Haathi Mahal",
+                            "de": "Karma Royal Haathi Mahal",
+                            "fr": "Karma Royal Haathi Mahal",
+                            "id": "Karma Royal Haathi Mahal"
+                        },
+                        "name": {
+                            "en": "Goa, India",
+                            "de": "Goa, India",
+                            "fr": "Goa, India",
+                            "id": "Goa, India"
+                        },
+                        "image": "assets/images/awards/2018/RCIGoldCrown_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown\nResort 2018",
+                            "de": "RCI Gold Crown\nResort 2018",
+                            "fr": "RCI Gold Crown\nResort 2018",
+                            "id": "RCI Gold Crown\nResort 2018"
+                        },
+                        "tag": {
+                            "en": "Karma Royal Boat Lagoon",
+                            "de": "Karma Royal Boat Lagoon",
+                            "fr": "Karma Royal Boat Lagoon",
+                            "id": "Karma Royal Boat Lagoon"
+                        },
+                        "name": {
+                            "en": "Phuket, Thailand",
+                            "de": "Phuket, Thailand",
+                            "fr": "Phuket, Thailand",
+                            "id": "Phuket, Thailand"
+                        },
+                        "image": "assets/images/awards/2018/RCIGoldCrown_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown\nResort 2018",
+                            "de": "RCI Gold Crown\nResort 2018",
+                            "fr": "RCI Gold Crown\nResort 2018",
+                            "id": "RCI Gold Crown\nResort 2018"
+                        },
+                        "tag": {
+                            "en": "Karma Royal Jimbaran",
+                            "de": "Karma Royal Jimbaran",
+                            "fr": "Karma Royal Jimbaran",
+                            "id": "Karma Royal Jimbaran"
+                        },
+                        "name": {
+                            "en": "Bali, Indonesia",
+                            "de": "Bali, Indonesia",
+                            "fr": "Bali, Indonesia",
+                            "id": "Bali, Indonesia"
+                        },
+                        "image": "assets/images/awards/2018/RCIGoldCrown_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown\nResort 2018",
+                            "de": "RCI Gold Crown\nResort 2018",
+                            "fr": "RCI Gold Crown\nResort 2018",
+                            "id": "RCI Gold Crown\nResort 2018"
+                        },
+                        "tag": {
+                            "en": "Karma Royal MonteRio",
+                            "de": "Karma Royal MonteRio",
+                            "fr": "Karma Royal MonteRio",
+                            "id": "Karma Royal MonteRio"
+                        },
+                        "name": {
+                            "en": "Goa, India",
+                            "de": "Goa, India",
+                            "fr": "Goa, India",
+                            "id": "Goa, India"
+                        },
+                        "image": "assets/images/awards/2018/RCIGoldCrown_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown\nResort 2018",
+                            "de": "RCI Gold Crown\nResort 2018",
+                            "fr": "RCI Gold Crown\nResort 2018",
+                            "id": "RCI Gold Crown\nResort 2018"
+                        },
+                        "tag": {
+                            "en": "Karma Royal Palms",
+                            "de": "Karma Royal Palms",
+                            "fr": "Karma Royal Palms",
+                            "id": "Karma Royal Palms"
+                        },
+                        "name": {
+                            "en": "Goa, India",
+                            "de": "Goa, India",
+                            "fr": "Goa, India",
+                            "id": "Goa, India"
+                        },
+                        "image": "assets/images/awards/2018/RCIGoldCrown_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown\nResort 2018",
+                            "de": "RCI Gold Crown\nResort 2018",
+                            "fr": "RCI Gold Crown\nResort 2018",
+                            "id": "RCI Gold Crown\nResort 2018"
+                        },
+                        "tag": {
+                            "en": "Karma Royal Sanur",
+                            "de": "Karma Royal Sanur",
+                            "fr": "Karma Royal Sanur",
+                            "id": "Karma Royal Sanur"
+                        },
+                        "name": {
+                            "en": "Bali, Indonesia",
+                            "de": "Bali, Indonesia",
+                            "fr": "Bali, Indonesia",
+                            "id": "Bali, Indonesia"
+                        },
+                        "image": "assets/images/awards/2018/RCIGoldCrown_2018.png"
+                    },
+                    {
+                        "title": {
+                            "en": "RCI Gold Crown\nResort 2018",
+                            "de": "RCI Gold Crown\nResort 2018",
+                            "fr": "RCI Gold Crown\nResort 2018",
+                            "id": "RCI Gold Crown\nResort 2018"
+                        },
+                        "tag": {
+                            "en": "Karma St. Martin’s",
+                            "de": "Karma St. Martin’s",
+                            "fr": "Karma St. Martin’s",
+                            "id": "Karma St. Martin’s"
+                        },
+                        "name": {
+                            "en": "Isles of Scilly, UK",
+                            "de": "Isles of Scilly, UK",
+                            "fr": "Isles of Scilly, UK",
+                            "id": "Isles of Scilly, UK"
                         },
                         "image": "assets/images/awards/2018/RCIGoldCrown_2018.png"
                     }
