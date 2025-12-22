@@ -49,11 +49,9 @@ class _DestinationsGalleryWidgetState extends State<DestinationsGalleryWidget> {
          if (asset['media']['gallery'] != null && asset['media']['gallery'].toString().isNotEmpty) {
            // imageUrls.add(asset['media']['gallery'].toString());
            imageUrls = asset['media']['gallery'];
-           print("===allGallery Length ${imageUrls.length}");
            allGallery.addAll(imageUrls);
          }
          imageUrls = allGallery;
-         print("===allGallery Length ${imageUrls.length}");
        }
        return imageUrls;
      }
@@ -131,7 +129,7 @@ class _DestinationsGalleryWidgetState extends State<DestinationsGalleryWidget> {
             isSerif: true,
           ),
           Positioned(
-            top: 75,
+            top: 80,
             right: 80,
             child: Container(
               alignment: Alignment.centerRight,

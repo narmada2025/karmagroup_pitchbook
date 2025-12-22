@@ -31,12 +31,6 @@
 		<key>NSAllowsArbitraryLoads</key>
 		<true/>
 	</dict>
-	<key>NSCameraUsageDescription</key>
-	<string>We need access to your camera to take photos.</string>
-	<key>NSMicrophoneUsageDescription</key>
-	<string>We need access to your microphone to provide voice recording features.</string>
-	<key>NSPhotoLibraryUsageDescription</key>
-	<string>We need access to your photo library to save and display images.</string>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
 	<key>UILaunchStoryboardName</key>

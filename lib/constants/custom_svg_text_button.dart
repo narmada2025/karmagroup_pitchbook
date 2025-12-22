@@ -36,7 +36,7 @@ class CustomSvgTextButton extends StatelessWidget {
           padding: const EdgeInsets.all(9.0),
           child: SvgPicture.asset(
             svgPath,
-            fit: BoxFit.cover,
+            fit: BoxFit.contain,
             colorFilter: ColorFilter.mode(isChangeColor?Colors.white: Colors.black,BlendMode.srcIn),
             semanticsLabel: 'bg',
             placeholderBuilder: (context) =>

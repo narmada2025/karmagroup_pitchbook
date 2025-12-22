@@ -127,7 +127,7 @@ class _AppWrapperState extends State<AppWrapper> with WidgetsBindingObserver {
                   AnimatedPositioned(
                     curve: Curves.decelerate,
                     duration: const Duration(milliseconds: 400),
-                    bottom: isExapanded ? 0 : -290,
+                    bottom: isExapanded ? -10 : -290, //this is issue for andoid
                     left: 0,
                     right: 0,
                     child: Column(
@@ -177,7 +177,7 @@ class _AppWrapperState extends State<AppWrapper> with WidgetsBindingObserver {
                          Padding(
                            padding: EdgeInsets.only(
                              // bottom: Platform.isAndroid ? 60 : MediaQuery.of(context).viewInsets.bottom,
-                             bottom: Platform.isAndroid ? 60 : 20
+                             bottom: Platform.isAndroid ? 60 : MediaQuery.of(context).size.height * 0.01
                            ),
                            child: Material(
                               elevation: 8,
