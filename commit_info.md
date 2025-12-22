@@ -14,3 +14,8 @@
 **Commit Message**: resolved 16k memory page issue & Added Proguard file
 **Commit Version**: Version 1.0.10+12
 **Commit Date**: Dec 16 2025
+
+**Commit ID**: `f42d4ccc0f0ad74cc11de546338795d66f3e30fc`
+**Commit Message**: Updated App name
+**Commit Version**: Version 1.0.10+18
+**Commit Date**: Dec 22 2025
