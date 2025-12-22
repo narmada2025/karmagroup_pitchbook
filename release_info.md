@@ -16,3 +16,8 @@
 ## Version 1.0.10+18 - December 22, 2025
 ### What's New
 - Updated App name Pitchbook to Karma Group Profile
+- Added Award images for 2018 & updated 2025 new award images
+- Updated Destination images for Indonesia
+- Resolved bottom menu padding ui issue on Android
+- Fixed Bottom Sheet menu icon ui issue
+- Removed camera & microphone & NSPhotoLibraryUsageDescription permissions in Info.plist
