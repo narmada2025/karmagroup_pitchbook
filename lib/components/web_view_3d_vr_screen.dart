@@ -65,7 +65,7 @@ class _WebView3dvrScreenState extends State<WebView3dvrScreen> with AutomaticKee
         //   android: AndroidInAppWebViewOptions(
         //     useHybridComposition: true,
         //   ),
-        //   ios: IOSInAppWebViewOptions(
+        //   iosCopy: IOSInAppWebViewOptions(
         //     allowsInlineMediaPlayback: true,
         //   ),
         // ),

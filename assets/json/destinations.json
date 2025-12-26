@@ -1284,10 +1284,28 @@
                       "images": [
                         "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/1_bedroom_pool_villa_01.jpg",
                         "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/1_bedroom_pool_villa_02.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/1_bedroom_pool_villa_03.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/1_bedroom_pool_villa_04.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/1_bedroom_pool_villa_05.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/1_bedroom_pool_villa_06.jpg"
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/1_bedroom_pool_villa_03.jpg"
+                      ]
+                    },
+                    {
+                      "category": {
+                        "en": "4 Bedroom Garden View Pool Villa",
+                        "de": "Villa mit 4 Schlafzimmern, Gartenblick und Pool",
+                        "fr": "Villa avec piscine et vue sur le jardin, comprenant 4 chambres.",
+                        "id": "Villa dengan 4 Kamar Tidur dan Pemandangan Taman serta Kolam Renang"
+                      },
+                      "images": [
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/4_BEDROOM_POOL_1.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/4_BEDROOM_POOL_2.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/4_BEDROOM_POOL_3.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/4_BEDROOM_POOL_4.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/4_BEDROOM_POOL_5.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/4_BEDROOM_POOL_6.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/4_BEDROOM_POOL_7.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/4_BEDROOM_POOL_8.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/4_BEDROOM_POOL_9.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/4_BEDROOM_POOL_10.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_jimbaran_jimbaran_bay_bali/4_BEDROOM_POOL_11.jpg"
                       ]
                     }
                   ],
@@ -1576,7 +1594,9 @@
                       "images": [
                         "assets/images/destinations/south_east asia/indonesia/karma_royal_sanur_bali/Bar_1.jpg",
                         "assets/images/destinations/south_east asia/indonesia/karma_royal_sanur_bali/Bar_2.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_royal_sanur_bali/Bar_3.jpg"
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_sanur_bali/Bar_3.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_sanur_bali/Bar_4.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_sanur_bali/Bar_5.jpg"
                       ]
                     },
                     {
@@ -1779,17 +1799,15 @@
                         "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/one_bedroom_apartment_04.jpg",
                         "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/one_bedroom_apartment_05.jpg",
                         "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/one_bedroom_apartment_06.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/one_bedroom_apartment_07.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/one_bedroom_apartment_08.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/one_bedroom_apartment_09.jpg"
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/one_bedroom_apartment_07.jpg"
                       ]
                     },
                     {
                       "category": {
-                        "en": "1 Bedroom Imperial",
-                        "de": "1 Schlafzimmer Imperial",
-                        "fr": "1 chambre Impériale",
-                        "id": "1 Kamar Tidur Imperial"
+                        "en": "One Bedroom Imperial",
+                        "de": "Imperial-Zimmer mit einem Schlafzimmer",
+                        "fr": "Chambre impériale avec une chambre à coucher",
+                        "id": "Kamar Tidur Imperial Satu Kamar Tidur"
                       },
                       "images": [
                         "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/1_bedroom_imperial_01.jpg",
@@ -1801,10 +1819,10 @@
                     },
                     {
                       "category": {
-                        "en": "2 Bedroom Combination",
-                        "de": "Kombination mit 2 Schlafzimmern",
-                        "fr": "Combinaison de 2 chambres",
-                        "id": "Kombinasi 2 Kamar Tidur"
+                        "en": "Two Bedroom Combination",
+                        "de": "Kombination aus zwei Schlafzimmern",
+                        "fr": "Combinaison de deux chambres",
+                        "id": "Kombinasi Dua Kamar Tidur"
                       },
                       "images": [
                         "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/2_bedroom_combination_01.jpg",
@@ -1820,20 +1838,22 @@
                   "facilities": [
                     {
                       "category": {
-                        "en": "Pool",
-                        "de": "Pool",
-                        "fr": "Pool",
-                        "id": "Kolam"
+                        "en": "Karma Royal Jimbaran Restaurant",
+                        "de": "Karma Royal Jimbaran Restaurant",
+                        "fr": "Karma Royal Jimbaran Restaurant",
+                        "id": "Restoran Karma Royal Jimbaran"
                       },
                       "title": "",
                       "description": "",
                       "images": [
-                        "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/pool_01.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/pool_02.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/pool_03.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/pool_04.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/pool_05.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/pool_06.jpg"
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/Jimbaran_Restaurant_1.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/Jimbaran_Restaurant_2.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/Jimbaran_Restaurant_3.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/Jimbaran_Restaurant_4.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/Jimbaran_Restaurant_5.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/Jimbaran_Restaurant_6.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/Jimbaran_Restaurant_7.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/Jimbaran_Restaurant_8.jpg"
                       ]
                     },
                     {
@@ -1918,22 +1938,6 @@
                     },
                     {
                       "category": {
-                        "en": "Drinking Water",
-                        "de": "Trinkwasser",
-                        "fr": "Eau potable",
-                        "id": "Air minum"
-                      },
-                      "title": "",
-                      "description": "",
-                      "images": [
-                        "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/drinking_water_01.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/drinking_water_02.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/drinking_water_03.jpg",
-                        "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/drinking_water_04.jpg"
-                      ]
-                    },
-                    {
-                      "category": {
                         "en": "Excursions",
                         "de": "Ausflüge",
                         "fr": "Excursions",
@@ -1947,6 +1951,22 @@
                         "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/excursions_03.jpg",
                         "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/excursions_04.jpg",
                         "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/excursions_05.jpg"
+                      ]
+                    },
+                    {
+                      "category": {
+                        "en": "Drinking Water",
+                        "de": "Trinkwasser",
+                        "fr": "Eau potable",
+                        "id": "Air minum"
+                      },
+                      "title": "",
+                      "description": "",
+                      "images": [
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/drinking_water_01.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/drinking_water_02.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/drinking_water_03.jpg",
+                        "assets/images/destinations/south_east asia/indonesia/karma_royal_jimbaran_jimbaran_bay/drinking_water_04.jpg"
                       ]
                     },
                     {
@@ -3449,14 +3469,12 @@
                     "assets/images/destinations/india/goa/karma_royale_montrio/gallery_01.jpg",
                     "assets/images/destinations/india/goa/karma_royale_montrio/gallery_02.jpg",
                     "assets/images/destinations/india/goa/karma_royale_montrio/gallery_03.jpg",
-                    "assets/images/destinations/india/goa/karma_royale_montrio/gallery_04.jpg",
                     "assets/images/destinations/india/goa/karma_royale_montrio/gallery_05.jpg",
                     "assets/images/destinations/india/goa/karma_royale_montrio/gallery_06.jpg",
                     "assets/images/destinations/india/goa/karma_royale_montrio/gallery_07.jpg",
                     "assets/images/destinations/india/goa/karma_royale_montrio/gallery_08.jpg",
                     "assets/images/destinations/india/goa/karma_royale_montrio/gallery_09.jpg",
                     "assets/images/destinations/india/goa/karma_royale_montrio/gallery_10.jpg",
-                    "assets/images/destinations/india/goa/karma_royale_montrio/gallery_11.jpg",
                     "assets/images/destinations/india/goa/karma_royale_montrio/gallery_12.jpg"
                   ],
                   "videos": [
@@ -3488,10 +3506,10 @@
                     },
                     {
                       "category": {
-                        "en": "One Bedroom Club Room",
-                        "de": "Clubzimmer mit einem Schlafzimmer",
-                        "fr": "Chambre Club avec une chambre à coucher",
-                        "id": "Kamar Klub Satu Kamar Tidur"
+                        "en": "One Bedroom Apartment",
+                        "de": "Ein-Zimmer-Wohnung",
+                        "fr": "Appartement d'une chambre",
+                        "id": "Apartemen Satu Kamar Tidur"
                       },
                       "images": [
                         "assets/images/destinations/india/goa/karma_royale_montrio/1_bedroom_apartment_01.jpg",
@@ -3503,10 +3521,10 @@
                     },
                     {
                       "category": {
-                        "en": "Two Bedroom Club Room",
-                        "de": "Clubzimmer mit zwei Schlafzimmern",
-                        "fr": "Chambre Club à deux chambres",
-                        "id": "Kamar Klub Dua Kamar Tidur"
+                        "en": "Two Bedroom Apartment",
+                        "de": "Zwei-Zimmer-Wohnung",
+                        "fr": "Appartement de deux chambres",
+                        "id": "Apartemen Dua Kamar Tidur"
                       },
                       "images": [
                         "assets/images/destinations/india/goa/karma_royale_montrio/2_bedroom_apartment_01.jpg",
@@ -3546,17 +3564,34 @@
                   "facilities": [
                     {
                       "category": {
-                        "en": "Pools",
-                        "de": "Pools",
-                        "fr": "Pools",
-                        "id": "Kolams"
+                        "en": "The Baga Brasserie Restaurant",
+                        "de": "Das Restaurant Baga Brasserie",
+                        "fr": "Le restaurant Baga Brasserie",
+                        "id": "Restoran Baga Brasserie"
                       },
                       "title": "",
                       "description": "",
                       "images": [
-                        "assets/images/destinations/india/goa/karma_royale_montrio/pools_01.jpg",
-                        "assets/images/destinations/india/goa/karma_royale_montrio/pools_02.jpg",
-                        "assets/images/destinations/india/goa/karma_royale_montrio/pools_03.jpg"
+                        "assets/images/destinations/india/goa/karma_royale_montrio/Baga_Restaurant_1.jpg",
+                        "assets/images/destinations/india/goa/karma_royale_montrio/Baga_Restaurant_2.jpg",
+                        "assets/images/destinations/india/goa/karma_royale_montrio/Baga_Restaurant_3.jpg",
+                        "assets/images/destinations/india/goa/karma_royale_montrio/Baga_Restaurant_4.jpg",
+                        "assets/images/destinations/india/goa/karma_royale_montrio/Baga_Restaurant_5.jpg"
+                      ]
+                    },
+                    {
+                      "category": {
+                        "en": "Activities Area and Three Monkeys Club",
+                        "de": "Aktivitätsbereich und Three Monkeys Club",
+                        "fr": "Espace d'activités et club des Trois Singes",
+                        "id": "Area Aktivitas dan Klub Tiga Monyet"
+                      },
+                      "title": "",
+                      "description": "",
+                      "images": [
+                        "assets/images/destinations/india/goa/karma_royale_montrio/Activities_Area_1.jpg",
+                        "assets/images/destinations/india/goa/karma_royale_montrio/Activities_Area_2.jpg",
+                        "assets/images/destinations/india/goa/karma_royale_montrio/Activities_Area_3.jpg"
                       ]
                     },
                     {
@@ -3577,18 +3612,16 @@
                     },
                     {
                       "category": {
-                        "en": "Whirlpool",
-                        "de": "Strudel",
-                        "fr": "Tourbillon",
-                        "id": "Pusaran air"
+                        "en": "Pools",
+                        "de": "Pools",
+                        "fr": "Pools",
+                        "id": "Kolams"
                       },
                       "title": "",
                       "description": "",
                       "images": [
-                        "assets/images/destinations/india/goa/karma_royale_montrio/whirlpool_01.jpg",
-                        "assets/images/destinations/india/goa/karma_royale_montrio/whirlpool_02.jpg",
-                        "assets/images/destinations/india/goa/karma_royale_montrio/whirlpool_03.jpg",
-                        "assets/images/destinations/india/goa/karma_royale_montrio/whirlpool_04.jpg"
+                        "assets/images/destinations/india/goa/karma_royale_montrio/pools_01.jpg",
+                        "assets/images/destinations/india/goa/karma_royale_montrio/pools_02.jpg"
                       ]
                     },
                     {
@@ -3608,17 +3641,18 @@
                     },
                     {
                       "category": {
-                        "en": "Activities Area and Three Monkeys Club",
-                        "de": "Aktivitätenbereich und Three Monkeys Club",
-                        "fr": "Espace d'activités et Club des Trois Singes",
-                        "id": "Area Aktivitas dan Klub Tiga Monyet"
+                        "en": "Whirlpool",
+                        "de": "Strudel",
+                        "fr": "Tourbillon",
+                        "id": "Pusaran air"
                       },
                       "title": "",
                       "description": "",
                       "images": [
-                        "assets/images/destinations/india/goa/karma_royale_montrio/games_area_01.jpg",
-                        "assets/images/destinations/india/goa/karma_royale_montrio/games_area_02.jpg",
-                        "assets/images/destinations/india/goa/karma_royale_montrio/games_area_03.jpg"
+                        "assets/images/destinations/india/goa/karma_royale_montrio/whirlpool_01.jpg",
+                        "assets/images/destinations/india/goa/karma_royale_montrio/whirlpool_02.jpg",
+                        "assets/images/destinations/india/goa/karma_royale_montrio/whirlpool_03.jpg",
+                        "assets/images/destinations/india/goa/karma_royale_montrio/whirlpool_04.jpg"
                       ]
                     },
                     {
@@ -4432,10 +4466,7 @@
                       "title": "",
                       "description": "",
                       "images": [
-                        "assets/images/destinations/india/jaisalmer/karma_gloden_camp/private_gazebo_dining_01.jpg",
-                        "assets/images/destinations/india/jaisalmer/karma_gloden_camp/private_gazebo_dining_02.jpg",
-                        "assets/images/destinations/india/jaisalmer/karma_gloden_camp/private_gazebo_dining_03.jpg",
-                        "assets/images/destinations/india/jaisalmer/karma_gloden_camp/private_gazebo_dining_04.jpg"
+                        "assets/images/destinations/india/jaisalmer/karma_gloden_camp/private_gazebo_dining_01.jpg"
                       ]
                     },
                     {

@@ -21,3 +21,12 @@
 - Resolved bottom menu padding ui issue on Android
 - Fixed Bottom Sheet menu icon ui issue
 - Removed camera & microphone & NSPhotoLibraryUsageDescription permissions in Info.plist
+
+## Version 1.0.11+21 - December 26, 2025
+### What's New
+- Uploaded build to AppStore
+- Updated Bundle name & Display Name Pitchbook to Karma Group Profile
+- Updated Destination images for Karma Jimbaran Bay bali,Indonesia
+- Added MinimumOSVersion 15 in Info.plist & AppFrameworkInfo.plist
+- Added NSMicrophoneUsageDescription permissions in Info.plist
+- Removed platform :ios, '15.0' from Pod file
