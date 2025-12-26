@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyCmzA8UL1TRxFlDXSSM62V5roPa44P5mjs',
-    appId: '1:844952522382:ios:afacf9f68fd096e27a43df',
+    appId: '1:844952522382:iosCopy:afacf9f68fd096e27a43df',
     messagingSenderId: '844952522382',
     projectId: 'reflected-disk-450809-k7',
     storageBucket: 'reflected-disk-450809-k7.firebasestorage.app',
